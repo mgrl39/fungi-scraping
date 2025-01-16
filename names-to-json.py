@@ -1,31 +1,44 @@
-""" Librerias """
+# NO BORRAR
+# NO BORRAR
+# NO BORRAR
+# NO BORRAR
+# NO BORRAR
+# NO BORRAR
+# NO BORRAR
+# NO BORRAR
+# NO BORRAR
+# NO BORRAR
+# NO BORRAR
+# Librerias 
 import requests
 from bs4 import BeautifulSoup
 import json
 import re
 import os
+
 # Colors
 from defs import *
 
 def print_text(name, text):
-    print(f"{bcolors.OKCYAN}" + name + ":", end="");
+    print(f"{bcolors.OKCYAN}{bcolors.BOLD}" + name + ":", end="");
     if text is None:
         print(f"{bcolors.FAIL}{bcolors.BOLD} NULL{bcolors.ENDC}")
+        return ;
     print(f"{bcolors.ENDC}", end=" ");
     print(text);
 
-"""Convierte el nombre en URL-friendly."""
+# Convierte el nombre en URL-friendly.
 def format_name(name):
-    print_text("FORMAT_NAME", print(name.strip().lower().replace(' ', '-')));
+    print_text("FORMAT_NAME", name.strip().lower().replace(' ', '-'));
     return name.strip().lower().replace(' ', '-')
 
-"""Devuelve el texto del elemento si existe."""
-""" Si no existe devuelve None"""
+# Devuelve el texto del elemento si existe.
+# Si no existe devuelve None
 def get_text_or_none(soup_element):
     return soup_element.text.strip() if soup_element else None
 
+# Scrapea la página de detalles de una seta.
 def scrape_fungi_details(url):
-    """Scrapea la página de detalles de una seta."""
     try:
         response = requests.get(url)
         if response.status_code != 200:
@@ -35,20 +48,20 @@ def scrape_fungi_details(url):
         soup = BeautifulSoup(response.text, 'html.parser')
 
         # Título y Autor
-        titulo = get_text_or_none(soup.select_one('h1.itemTitle'))
-        autor = get_text_or_none(soup.select_one('span.itemAuthor'))
-        print_text("TITULO", titulo);
-        print_text("AUTOR", autor);
+        title = get_text_or_none(soup.select_one('h1.itemTitle'))
+        author = get_text_or_none(soup.select_one('span.itemAuthor'))
+            # print_text("TITULO", title);
+            # print_text("AUTOR", author);
 
         # Imagen principal
         imagen_principal = soup.select_one('img.sigProImg')
         imagen_principal_url = imagen_principal['src'] if imagen_principal else None
-        print_text("IMAGEN PRINCIPAL", imagen_principal);
-        print_text("URL IMAGEN PRINCIPAL", imagen_principal_url);
+            # print_text("IMAGEN PRINCIPAL", imagen_principal);
+            # print_text("URL IMAGEN PRINCIPAL", imagen_principal_url);
 
         # Imágenes adicionales
         imagenes_adicionales = [img['href'] for img in soup.select('a.fancybox-image')]
-        print_text("IMAGENES ADICIONALES", imagenes_adicionales);
+            # print_text("IMAGENES ADICIONALES", imagenes_adicionales);
 
         # Información adicional (Nombre común y Sinónimo)
         info_adicional = {}
@@ -59,10 +72,21 @@ def scrape_fungi_details(url):
             if label and value:
                 info_adicional[label.text.strip()] = value.text.strip()
         
+        print("BUENOS DIAS")
+        print(info_adicional);
+        # TODO AQUI EL GET ESTE LO HACE MAL 
+        # print(info_adicional[label.text.strip]);
+        print(type(info_adicional));
+        for info in info_adicional:
+            print("HOLA MUNDO " + info);
+        print(info_adicional.keys);
+        print(label.text.strip());
+        print(info_adicional[label.text.strip()])
         nombre_comun = info_adicional.get("Nombre común")
         sinonimo = info_adicional.get("Sinónimo")
         print_text("NOMBRE COMUN", nombre_comun);
-        print_text("SINONIMO: ", sinonimo);
+        # return ;
+        print_text("SINONIMO", sinonimo);
 
         # Taxonomía
         taxonomia = {
@@ -73,7 +97,8 @@ def scrape_fungi_details(url):
             "orden": info_adicional.get("Orden"),
             "familia": info_adicional.get("Familia")
         }
-        print(taxonomia);
+        print_text("TAXONOMIA", taxonomia);
+        # print(taxonomia);
 
         # Comestibilidad
         comestibilidad = None
@@ -82,8 +107,9 @@ def scrape_fungi_details(url):
             match = re.search(r'/images/comestibilidad/(.*?).png', comest_img['src'])
             if match:
                 comestibilidad = match.group(1)
-        print(comestibilidad);
-        print(comest_img);
+        print_text("COMESTABILIDAD", comestibilidad);
+        #print(comestibilidad);
+        #print(comest_img);
 
         # Características, Hábitat y Observaciones
         caracteristicas = {}
@@ -109,8 +135,8 @@ def scrape_fungi_details(url):
         # Estructurar los datos extraídos
         data = {
             "nombre": url.split('/')[-1].replace('.html', ''),
-            "titulo": titulo,
-            "autor": autor,
+            "title": title,
+            "author": author,
             "imagen_principal": imagen_principal_url,
             "imagenes_adicionales": imagenes_adicionales,
             "nombre_comun": nombre_comun,
@@ -127,8 +153,8 @@ def scrape_fungi_details(url):
         print(f"Error al procesar {url}: {e}")
         return None
 
+# Leer los nombres desde el archivo 'names.txt'
 def main():
-    # Leer los nombres desde el archivo 'names.txt'
     with open('names.txt', 'r', encoding='utf-8') as file:
         names = [line.strip() for line in file.readlines()]
 
@@ -141,7 +167,8 @@ def main():
         print(f"{bcolors.OKBLUE}<===================================================>{bcolors.ENDC}")
         formatted_name = format_name(name)
         url = f"{base_url}{formatted_name}.html"
-        print(f"Scrapeando: {url}")
+        print_text("URL", url)
+        # print(f"Scrapeando: {url}")
         
         fungi_details = scrape_fungi_details(url)
         if fungi_details:
