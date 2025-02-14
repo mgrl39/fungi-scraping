@@ -1,0 +1,35 @@
+{
+    "name": "tuber-fulgens",
+    "title": null,
+    "author": "Quel.",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Tuber excavatum var fulgens (Quél.) Fischer"
+    },
+    "taxonomy": {
+        "División": "Ascomycota",
+        "Subdivisión": "Ascomycotina",
+        "Clase": "Himenoascomycetes",
+        "Subclase": "Pezizomycetidae",
+        "Orden": "Pezizales",
+        "Familia": "Tuberaceae"
+    },
+    "edibility": "no-comestible",
+    "characteristics": {
+        "cap": "Carpóforo con aspecto de pequeña patata o tubérculo como la mayor parte de los hongos hipogeos, tiene un tamaño medio para el género, la mayor parte de los especímenes recolectados tenían entre  2 y 4 cm de diámetro, pudiendo ocasionalmente alcanzar tamaños mayores. Su forma puede ser globosa o subglobosa pero a la par bastante irregular, pudiendo tener protuberancias o también surcos longitudinales, incluso puede llegar a ser lobulado. Los ejemplares frescos tienen un color pardo rojizo que con el tiempo deviene a tonos más netamente pardos u ocres si se seca. En la base posee una característica cavidad que puede resultar profunda y adentrarse en la gleba, con tonos naranjas o azafranados provenientes del micelio en la misma.",
+        "hymenium": "Peridio externo de color pardo rojizo y cubierto de una especie de papilas, pseudoparenquimático, glabro, no tiene pelos y es suave al tacto, peridio interno plectenquimático, formado por hifas aglutinadas y de mayor grosor que el externo.",
+        "stipe": "Gleba compacta y extremadamente dura, de color ocre anaranjado en ejemplares jóvenes, más netamente ocre o incluso parda de vieja, con venas de color blanquecino que permanece inalterado con la maduración y que no necesariamente tienen una disposición radial, solo a veces.",
+        "flesh": "Carne de una dureza extrema, muy difícil de seccionar o cortarla a cuchillo, con un olor que en los ejemplares jóvenes es agradable, suave trufado, pero que se vuelve desagradable con la maduración, y con un sabor poco significativo."
+    },
+    "habitat": "Estamos ante una especie de crecimiento hipogeo que fructifica en bosques calizos, generalmente ligada a diversos planifolios, en nuestro caso está recolectada concretamente en un bosque mixto de haya (Fagus sylvatica) y avellano (Corylus avellana), en la provincia de Álava. Es una especie escasamente citada en la península y a la que se considera rara, que para nada sale con la abundancia que lo hace Tuber excavatum, especie muy similar. No creemos que tenga predilección por una época del año concreta, dado que las pocas citas que hay se dispersan a lo largo del año, nuestra recolecta es del mes de octubre.",
+    "observations": "A pesar de no tener mal olor de joven, la dureza extrema de la carne de esta especie la hace totalmente incomestible. Esta caracterizada, además de por su dureza, por el peridio papiloso de color pardo rojizo, y su profunda cavidad basal en la que se aprecian hifas miceliares de color anaranjado. Guarda muchísimas similitudes con la especie Tuber excavatum, de hecho durante mucho tiempo fue considerada erroneamente como una variedad de la misma, sin embargo estudios filogenéticos han demostrado que se trata de dos especies diferentes. Tuber excavatum tiene micelio amarillento muy claro, no tiene ese tono naranja que se aprecia en los ejemplares de Tuber fulgens junto a su cavidad basal. A nivel microscópico también existen diferencias, dado que en las esporas de Tuber fulgens se aprecia una mayoría de formas esféricas o subesféricas, dando un Q menor, asi mismo las crestas de las mismas son más grandes.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/tuber_fulgens/tuber_fulgens1.jpg",
+        "https://www.fungipedia.org/images/galerias/tuber_fulgens/tuber_fulgens2.jpg",
+        "https://www.fungipedia.org/images/galerias/tuber_fulgens/tuber_fulgens3.jpg",
+        "https://www.fungipedia.org/images/galerias/tuber_fulgens/tuber_fulgens4.jpg",
+        "https://www.fungipedia.org/images/galerias/tuber_fulgens/tuber_fulgens5.jpg",
+        "https://www.fungipedia.org/images/galerias/tuber_fulgens/tuber_fulgens6.jpg",
+        "https://www.fungipedia.org/images/galerias/tuber_fulgens/tuber_fulgens7.jpg"
+    ]
+}

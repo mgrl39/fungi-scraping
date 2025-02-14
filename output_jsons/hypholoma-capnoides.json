@@ -1,0 +1,31 @@
+{
+    "name": "hypholoma-capnoides",
+    "title": null,
+    "author": "(Fr.) P. Kumm.",
+    "additional_info": {
+        "common_name": "Hifoloma de láminas grises, suge-ziza gozo, psilocibe doce da madeira.",
+        "synonym": "Naematoloma capnoides (Fr.) P. Karst."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Cortinariales",
+        "Familia": "Strophariaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero que puede llegar a superar en los ejemplares adultos los 5 cm de diámetro, en la primera etapa de su desarrollo tiene forma globosa, pasando luego a hemisférica y finalmente plano-convexa. Su cutícula tiene un color ocre amarillento con matices naranjas bastante uniforme, solo la zona central es más oscura que el resto, y es lisa y glabra, brillante con lluvia pero para nada viscosa. Margen regular apenas ondulado, en los ejemplares jóvenes puede presentar restos de velo, pero estos desaparecen rápidamente.",
+        "hymenium": "Láminas adnatas y bastante apretadas entre sí, de color gris claro de jóvenes, luego gris más acentuado, color del que pasan directamente al pardo púrpura cuando se produce la maduración y las esporas se depositan sobre ellas tiñéndolas, nunca son verdosas.",
+        "stipe": "Pie desproporcionadamente alargado con respecto al diámetro del sombrero, central y cilíndrico, generalmente curvado debido al crecimiento fasciculado de la especie. Es fistuloso y fibriloso, de color claro hacia el ápice y algo más ocráceo en la base, que suele ser un poco radicante.",
+        "flesh": "Carne no demasiado espesa de color blanquecino y consistencia un tanto elástica. Apenas tiene un olor perceptible y su sabor es dulce."
+    },
+    "habitat": "Se trata de una especie saprófita de crecimiento fasciculado que fructifica sobre madera degradada o tocones de diversos árboles, con cierta predilección por la madera de coníferas, aunque no es exclusiva de ellas. Si las condiciones ambientales son adecuadas puede aparecer prácticamente en cualquier época del año, es frecuente pero no tanto como otros hifolomas fasciculados.",
+    "observations": "Dentro de los hifolomas de crecimiento fasciculado, es el único que tiene carne dulce y no es tóxico, sin embargo, dada su tenacidad y su notable parecido con especies tóxicas su consumo no es recomendable. Hypholoma fasciculare es muy similar, pero tiene las láminas verdosas, su carne es muy amarga y tiene mal olor. Hypholoma lateritium, más carnoso, tiene el centro del sombrero de color rojo ladrillo y láminas de color arcilla.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/hypholoma_capnoides/hypholoma_capnoides1.jpg",
+        "https://www.fungipedia.org/images/galerias/hypholoma_capnoides/hypholoma_capnoides2.jpg",
+        "https://www.fungipedia.org/images/galerias/hypholoma_capnoides/hypholoma_capnoides3.jpg"
+    ]
+}

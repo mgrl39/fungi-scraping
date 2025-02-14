@@ -1,0 +1,30 @@
+{
+    "name": "entoloma-cetratum",
+    "title": null,
+    "author": "(Fr.) Moser",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Nolanea cetrata (Fr.) P. Kumm."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Pluteales",
+        "Familia": "Entolomataceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero más bien pequeño, en la plenitud de su desarrollo puede llegar a aproximarse a los 5 cm de diámetro, pero no los suele rebasar. Cuando brota tiene forma cónica, abriéndose paulatinamente hasta adoptar forma plano convexa, manteniendo un umbo en su zona central, no demasiado agudo. Es de color ocre, pero al ser una seta higrófana, según el grado de humedad tiene matices rojizos o más mates, incluso amarillentos, sobre todo hacia el margen. Es radialmente estriada por transparencia, y el margen es regular, apenas ondulado.",
+        "hymenium": "Láminas adnatas de color blanquecino cuando son jóvenes, antes de esporular se vuelven ocráceas, para finalmente adoptar el color rosado de las esporas. Son de trayectoria irregular y no demasiado apretadas.",
+        "stipe": "Pie alargado de color ocre miel, recubierto de pruina que le da un aspecto a veces grisáceo. Es cilíndrico, pero también puede estar lateralmente comprimido en ocasiones, fistuloso, y con tomento blanquecino en la base.",
+        "flesh": "Carne poco consistente de color ocráceo, con olor fúngico agradable con débil matiz harinoso y sabor suave."
+    },
+    "habitat": "Especie propia de bosques húmedos de coníferas, en turberas, en el caso de nuestros ejemplares bajo Pinus sylvestris. Las fotografías han sido realizadas en el mes de Mayo, pero también sale durante el otoño, no es exclusivo de la primavera como sucede con otros Entolomas. Especie no demasiado habitual, aunque localmente pueda llegar a ser frecuente.",
+    "observations": "La consideramos sin valor por ser un aspecto poco estudiado, si bien existen ciertas sospechas de que pueda ser algo tóxica. Puede confundirse macroscópicamente con muchos otros Entolomas, como por ejemplo el Entoloma conferendum, por lo general más cónico, o el Entoloma formosum, menos umbonado, pero para asegurarse de que se trata de la especie descrita es preciso un análisis microscópico, en el que observaremos sus basidios bispóricos o monospóricos.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/entoloma_cetratum/entoloma_cetratum1.jpg",
+        "https://www.fungipedia.org/images/galerias/entoloma_cetratum/entoloma_cetratum2.jpg"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "ceratiomyxa-fruticulosa",
+    "title": null,
+    "author": "(Müll.) Macbr.",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Ceratiomyxa mucida (Pers.) J. Schröt"
+    },
+    "taxonomy": {
+        "División": "Myxomycota",
+        "Subdivisión": "Myxomycotina",
+        "Clase": "Myxomycetes",
+        "Subclase": "Ceratiomyxomycetidae",
+        "Orden": "Ceratiomyxales",
+        "Familia": "Ceratiomyxaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Plasmodiocarpo con una cierta variabilidad de forma y color, en la especie tipo que nos ocupa, está formado por la unión de múltiples cuernecillos de apenas 5 mm de altura. Tienen color blanquecino y son traslúcidos, casi trasparentes, creciendo muchas veces erizados individualmente, y otras veces ramificados. Se adhieren al sustrato formando masas que pueden resultar bastante extensas. La variabilidad de esta especie ha dado lugar a algunas variedades.",
+        "hymenium": "Esporas lisas e hialinas, de forma más o menos ovoidal, que se forman directamente sobre los cuernecillos blancos, es por tanto una especie exospórea. Cuando la espora germina se forma una estructura que contiene 4 núcleos, produciéndose una doble escisión, se forman 8 células mononucleadas que desarrollan una especie de piececitos llamados flagelos. Estas se unen de dos en dos formando los cigotos que darán lugar a un nuevo plasmodio.",
+        "stipe": "Pie Inexistente, es una especie sésil.",
+        "flesh": "Carne insignificante, de consistencia gelatinosa, sobre todo en época lluviosa."
+    },
+    "habitat": "Aparece prácticamente en cualquier época del año si las condiciones son favorables, siempre adherida a la madera de diversos planifolios, sobre todo sobre madera que se está pudriendo. La localizamos principalmente bajo hayas. Por su pequeño tamaño pasa muchas veces desapercibida, pero es una especie frecuente.",
+    "observations": "Les presentamos la especie tipo del único género de los Myxomycetes cuyas esporas se forman de manera exospórea, sin la existencia de un peridio. Entendemos que se trata de una especie inconfundible dadas sus peculiares características, tanto microscópicas como macroscópicas. La var. porioides, actualmente constituida como especie independiente, forma estructuras que asemejan poros, mientras que la var. caesia es azulada.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/ceratiomyxa_fruticulosa/ceratiomyxa_fruticulosa1.jpg",
+        "https://www.fungipedia.org/images/galerias/ceratiomyxa_fruticulosa/ceratiomyxa_fruticulosa2.jpg",
+        "https://www.fungipedia.org/images/galerias/ceratiomyxa_fruticulosa/ceratiomyxa_fruticulosa3.jpg"
+    ]
+}

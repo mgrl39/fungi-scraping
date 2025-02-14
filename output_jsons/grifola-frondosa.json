@@ -1,0 +1,34 @@
+{
+    "name": "grifola-frondosa",
+    "title": null,
+    "author": "(Dicks.) Gray",
+    "additional_info": {
+        "common_name": "Poliporo frondoso,  Maitake, Hen of the Woods, ardagai erraldoi, gírgola de castanyer.",
+        "synonym": "Polyporus frondosus (Dicks.) Fr."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Polyporales",
+        "Familia": "Polyporaceae"
+    },
+    "edibility": "comestible",
+    "characteristics": {
+        "cap": "Carpóforo formado por una base generalmente maciza de color blanquecino, no siempre visible dado que a veces está dentro del sustrato, de la que parten numerosos sombreros que se van abriendo y extendiendo de forma imbricada pero individual, soldados entre sí pero aislados. Cada uno de estos sombreros se va desarrollando en forma de lengua al principio y con posterioridad se abren más como un abanico, en su primera etapa con el borde redondeado y después extendido, con un tamaño de hasta 6 cm de largo. La superficie de los sombreros es fibrilosa, estas fibrillas le confieren un tono grisáceo sobre un fondo más claro, aunque hay especímenes que desarrollan un tono más marrón. Todo el conjunto forma una masa que puede alcanzar notables dimensiones, desarrollándose más a lo ancho que a lo largo o viceversa como en nuestra recolecta, pudiendo alcanzar 50 cm.",
+        "hymenium": "Himenio formado por tubos de color blanco, cortos, no más de 2 o 3 mm, y por poros también blaquecinos de entre 2 a 4 por mm, al principio redondeados y volviéndose más angulosos con el tiempo, que se prolongan de forma decurrente y que son totalmente inmutables al roce.",
+        "stipe": "Pie inexistente como tal, los sombreros si tienen una prolongación que sirve de unión con otros sombreros, pero que no es un verdadero pie, y tampoco debemos considerar como tal la base que une el conjunto al sustrato. Si existe una forma, Grifola frondosa f. intybacea, que tiene menos sombreros y algo más parecido a un pie.",
+        "flesh": "Carne de espesor medio, al principio blanda pero volviéndose tenaz y elástica en los ejemplares adultos, de color blanquecino e inmutable al corte, olor fúngico suave de joven, algo más fuerte de vieja, y sabor suave, poco destacado."
+    },
+    "habitat": "Especie poco común de forma silvestre, pero que se cultiva en muchas zonas con fines, gastronómicos en menor medida, y más bien medicinales. Suele fructificar en la base de árboles vivos, comúnmente de hoja ancha como castaños o robles, aunque no exclusivamente, provocando pudrición blanca, es una especie parásita que parece ser que también podría comportarse de forma saprófita. Nuestra recolecta se efectuó en el monte Ganguren en Galdakao (Bizkaia), en la base de un arbol vivo de roble americano (Quercus rubra). Es una especie cuya fructificación es bastante aleatoria, dado que no suele hacerlo todos los años sino cada 3 o 4 años, generalmente durante el otoño como en nuestro caso.",
+    "observations": "Existe mucha tradición en paises orientales con la utilización de esta especie para uso medicinal, se la atribuyen numerosas propiedades, algunas de ellas comprobadas y otras más propias de la superchería popular, por lo que debemos fitrar la información antes de consumir estos preparados, no deja de ser una medicina aunque su origen sea natural. Estudios serios si demuestran sus beneficios como complemento de los tratamientos habituales de determinados cánceres, reduciendo los efectos secundarios de la quimioterapia, o como inhibidor para reducir las posibilidades de metástasis, aunque no cura la enfermedad. Solo los ejemplares muy jóvenes pueden comerse, dado que la carne se vuelve tenaz. Guarda mucho parecido con la Meripilus giganteus, de sombreros mucho más grandes y cuya carne ennegrece de forma notable, también con Polyporus umbellatus, que si forma individuos completos con sombrero y pie bien diferenciados.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/grifola_frondosa/grifola_frondosa1.jpg",
+        "https://www.fungipedia.org/images/galerias/grifola_frondosa/grifola_frondosa2.jpg",
+        "https://www.fungipedia.org/images/galerias/grifola_frondosa/grifola_frondosa3.jpg",
+        "https://www.fungipedia.org/images/galerias/grifola_frondosa/grifola_frondosa4.jpg",
+        "https://www.fungipedia.org/images/galerias/grifola_frondosa/grifola_frondosa5.jpg",
+        "https://www.fungipedia.org/images/galerias/grifola_frondosa/grifola_frondosa6.jpg"
+    ]
+}

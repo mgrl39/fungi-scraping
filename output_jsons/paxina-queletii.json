@@ -1,0 +1,33 @@
+{
+    "name": "paxina-queletii",
+    "title": null,
+    "author": "(Bres.) Stangl",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Helvella queletii (Bresadola)"
+    },
+    "taxonomy": {
+        "División": "Ascomycota",
+        "Subdivisión": "Ascomycotina",
+        "Clase": "Himenoascomycetes",
+        "Subclase": "Pezizomycetidae",
+        "Orden": "Pezizales",
+        "Familia": "Helvellaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero que desde el nacimiento del espécimen se muestra cupuliniforme y comprimido lateralmente, pudiendo con la edad aplanarse algo pero siempre con los bordes levantados hacia arriba. Su tamaño puede rondar en su plenitud los 5 cm de diámetro. Cara externa de color marrón, más pálido en las cercanías del pie, está recubierta de un vello muy sutil a modo de fieltro sobre todo hacia el borde.",
+        "hymenium": "Himenio liso de color marrón oscuro, constituido por la cara interna del sombrero.",
+        "stipe": "Pie bastante cilíndrico y largo, hasta 5 cm de altura en los individuos desarrollados. Está profundamente surcado de manera longitudinal, aunque no suele tener demasiados surcos, hueco. Es de color blancuzco u ocre pálido.",
+        "flesh": "Carne que se casca con facilidad, frágil, algo más elástica en el pie, de olor aromático notable y sabor suave."
+    },
+    "habitat": "Es una especie primaveral muy rara y difícil de localizar, suele aparecer en las orillas de los ríos, en lugares arenosos, bajo planifolios o árboles de ribera. Los espécimenes fotografiados fueron encontrados en una zona inundable y arenosa junto al rio Ibaizabal en la localidad de Galdakao (España) en abril del 2009.",
+    "observations": "Comestibilidad dudosa, probablemente sea tóxica en crudo como sus congéneres. Puede parecerse a la Helvella acetabulum, que tiene el pie mucho más corto y costillares que se prolongan notablemente en el sombrero, así como a otras Helvellas.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/paxina_queletii/paxina_queletii1.jpg",
+        "https://www.fungipedia.org/images/galerias/paxina_queletii/paxina_queletii2.jpg",
+        "https://www.fungipedia.org/images/galerias/paxina_queletii/paxina_queletii3.jpg",
+        "https://www.fungipedia.org/images/galerias/paxina_queletii/paxina_queletii4.jpg",
+        "https://www.fungipedia.org/images/galerias/paxina_queletii/paxina_queletii5.jpg"
+    ]
+}

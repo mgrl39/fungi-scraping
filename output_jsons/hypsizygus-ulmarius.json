@@ -1,0 +1,31 @@
+{
+    "name": "hypsizygus-ulmarius",
+    "title": null,
+    "author": "(Bull.) Redhead",
+    "additional_info": {
+        "common_name": "Seta de olmo.",
+        "synonym": "Pleurotus ulmarius (Bull.) P. Kumm."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Tricholomatales",
+        "Familia": "Pleurotaceae"
+    },
+    "edibility": "comestible",
+    "characteristics": {
+        "cap": "Sombrero que puede alcanzar notables dimensiones, habitualmente con un diámetro de entre 5 y 10 cm, pero pueden hallarse ejemplares que se aproximan a los 20 cm. Su forma es convexa durante buena parte de su desarrollo, tendiendo a extenderse en la madurez, rara vez se deprime. Su superficie es glabra, de color variable que va de tonos claros iniciales, a veces casi blanquecinos, hasta un color ocráceo claro o avellana en la madurez, no posee generalmente un color uniforme sino zonas con diferentes tonos. La cutícula es separable y tiende a agrietarse formando zonas areoladas sobre todo en situaciones de escasa humedad. Margen totalmente involuto de forma acusada en ejemplares jóvenes, curvado en los adultos y rara vez extendido.",
+        "hymenium": "Láminas adnatas y medianamente apretadas de color blanco o algo cremas, suelen ser ventrudas y no demasiada anchas.",
+        "stipe": "Pie que puede ser centrado o excéntrico, los ejemplares que nacen solitarios suelen tenerlo centrado y los que salen en grupos arracimados excéntrico. Generalmente es corto y macizo, cilíndrico o atenuado hacia la base, de color blanco inicialmente con tendencia a adquirir tonos similares a los del sombrero en la vejez.",
+        "flesh": "Carne densa y compacta de color blanco, de consistencia un tanto elástica, tiene un olor harinoso en los ejemplares jóvenes que se torna rancio en la vejez y un sabor suave y también harinoso."
+    },
+    "habitat": "Estamos ante una especie ligada casi de manera exclusiva a los olmos, ha sido citada ocasionalmente también sobre chopos. Tiene un crecimiento lignícola, sale sobre troncos, tocones o madera muerta de olmos, pero también sobre árboles aún vivos. Puede crecer de forma solitaria o en grupos arracimados, siendo el otoño su época predilecta de aparición. Esta especie debe ser considerada como rara dado su hábitat exclusivo y la franca decadencia de esa especie arbórea en toda la península ibérica.",
+    "observations": "Los ejemplares jóvenes constituyen un comestible aceptable apreciado en las zonas donde sale, de viejos se vuelven algo duros y su sabor es más fuerte. Es una especie que dadas sus características morfológicas descritas y su hábitat exclusivo resulta casi inconfundible. Durante bastante tiempo se ha creído que la especie Hypsyzigus tessulatus, ampliamente cultivada en lugares como china, donde se conoce con el nombre común de Shimeji, era la misma especie, pero estudios realizados por Redhead en 1986 revelaron que se trata de especie diferentes. Por la textura elástica de la carne guardan mucho parecido con las especies del género Lyophyllum, estas sin embargo no crecen sobre madera.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/hypsizygus_ulmarius/hypsizygus_ulmarius1.jpg",
+        "https://www.fungipedia.org/images/galerias/hypsizygus_ulmarius/hypsizygus_ulmarius2.jpg",
+        "https://www.fungipedia.org/images/galerias/hypsizygus_ulmarius/hypsizygus_ulmarius3.jpg"
+    ]
+}

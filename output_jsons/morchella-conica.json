@@ -1,0 +1,31 @@
+{
+    "name": "morchella-conica",
+    "title": null,
+    "author": "(Persoon)",
+    "additional_info": {
+        "common_name": "Colmenilla cónica, karraspina konico, arigany.",
+        "synonym": "Ninguno."
+    },
+    "taxonomy": {
+        "División": "Ascomycota",
+        "Subdivisión": "Ascomycotina",
+        "Clase": "Himenoascomycetes",
+        "Subclase": "Pezizomycetidae",
+        "Orden": "Pezizales",
+        "Familia": "Morchellaceae"
+    },
+    "edibility": "excelente-comestible-precaucion",
+    "characteristics": {
+        "cap": "Sombrero como su propio nombre indica cónico, pudiendo tener de 2 a 4 cm de diámetro en la base y superar los 5 cm de altura, de color marrón grisáceo, a veces con tonos púrpuras u oliváceos. Es totalmente hueco y la parte superior o ápice no es puntiaguda sino obtusa. Está recorrido de arriba a abajo por nervaduras que son cruzadas por costillas negruzcas de manera un tanto irregular formando amplios alvéolos.",
+        "hymenium": "Himenio situado en la zona interior de los alvéolos, que están a su vez divididos en otros más pequeños, de color marrón.",
+        "stipe": "Pie blanquecino, algo más oscuro con la edad, hueco y cilíndrico, liso o débilmente surcado.",
+        "flesh": "Carne frágil en el sombrero, quebradiza la del pie, con un olor agradable algo afrutado y sabor suave."
+    },
+    "habitat": "Es una especie eminentemente primaveral, que aparece en bosques de coníferas y de ribera, así como en parques, poco frecuente.",
+    "observations": "Esta especie, al igual que sus congéneres, es un excelente comestible, siempre y cuando se tenga la precaución de cocinarla muy bien o desecarla previamente, ya que en crudo resulta tóxica. Se confunde con facilidad con la Morchella elata, que tiene el ápice puntiagudo, no obtuso, así como con otras especies de su género como Morchella costata o Morchella tridentina, con quienes puede incluso compartir hábitat, género controvertido en su clasificación.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/morchella_conica/morchella_conica1.jpg",
+        "https://www.fungipedia.org/images/galerias/morchella_conica/morchella_conica2.jpg",
+        "https://www.fungipedia.org/images/galerias/morchella_conica/morchella_conica3.jpg"
+    ]
+}

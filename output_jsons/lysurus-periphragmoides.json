@@ -1,0 +1,34 @@
+{
+    "name": "lysurus-periphragmoides",
+    "title": null,
+    "author": "(Klotzsch) Dring",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Simblum periphragmoides Klotzsch"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Gasteromycetidae",
+        "Orden": "Phallales",
+        "Familia": "Phallaceae"
+    },
+    "edibility": "no-comestible",
+    "characteristics": {
+        "cap": "Carpóforo que se presenta en una primera fase en forma de un huevo de color blanco sucio, con un tamaño que oscila entre 3 y 5 cm, con una capa interior de consistencia gelatinosa. Con el tiempo el huevo se va abriendo dando paso a un pie de color rojo escarlata pálido, este pie puede alcanzar una altura notable, superando en muchas ocasiones los 10 cm. En la zona superior encontramos una especie de reja diferenciable, de color rojo más oscuro o anaranjado vivo, con el ápice un tanto plano. Esta especie de cabezuela enrejada suele tener un diámetro que no excede de los 3 cm por regla general. Los restos del huevo inicial quedan adheridos a la base asemejando la presencia de una volva.",
+        "hymenium": "Gleba de color verdioliva inmersa en la superficie interna de la zona enrejada, aunque con relativa frecuencia sobrepasa la propia reja y se hace más visible. Desprende un desagradable olor fétido que atrae a las moscas favoreciendo de esta manera la dispersión de las esporas. Sus esporas no amiloides son de color marrón en masa y tamaño muy pequeño.",
+        "stipe": "Pie alargado de consistencia porosa, hueco. Existe la posibilidad de que sea de color amarillo en vez de rojo, estas formas amarillas han sido clasificadas en múltiples ocasiones coma Simblum texense.",
+        "flesh": "Carne inconsistente y frágil de color rojizo, su olor nauseabundo es fácilmente perceptible una vez que el huevo se abre."
+    },
+    "habitat": "Fructifica de forma solitaria o rara vez gregaria, en claros boscosos, zonas nitrogenadas, en el suelo. Se trata de una especie de distribución americana, ha sido localizada por buena parte del continente, desde Argentina hasta algunos estados de Norteamérica, no teniendo constancia de ninguna cita europea para ella. La presentamos gracias a la colaboración de Nico Rocca.",
+    "observations": "Se trata de un hongo de forma llamativa y color igualmente llamativo, que desprende un olor un tanto desagradable. Su distribución inicial panamericana, se ha visto ampliada a la práctica totalidad del continente, siendo en los últimos años cada vez más abundante. Es difícil que pueda confundirse con otra especie dadas sus peculiares características, en Europa tan solo existe un Phallus con ese colorido, el Phallus rubicundus, pero termina en una gleba simple no enrejada.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/lysurus_periphragmoides/lysurus_periphragmoides1.jpg",
+        "https://www.fungipedia.org/images/galerias/lysurus_periphragmoides/lysurus_periphragmoides2.jpg",
+        "https://www.fungipedia.org/images/galerias/lysurus_periphragmoides/lysurus_periphragmoides3.jpg",
+        "https://www.fungipedia.org/images/galerias/lysurus_periphragmoides/lysurus_periphragmoides4.jpg",
+        "https://www.fungipedia.org/images/galerias/lysurus_periphragmoides/lysurus_periphragmoides5.jpg",
+        "https://www.fungipedia.org/images/galerias/lysurus_periphragmoides/lysurus_periphragmoides6.jpg"
+    ]
+}

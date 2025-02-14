@@ -1,0 +1,34 @@
+{
+    "name": "marasmius-collinus",
+    "title": null,
+    "author": "(Scop.) Singer",
+    "additional_info": {
+        "common_name": "Falsa senderuela, marasmio faltsu.",
+        "synonym": "Gymnopus collinus (Scop.) Gray"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Tricholomatales",
+        "Familia": "Marasmiaceae"
+    },
+    "edibility": "toxica",
+    "characteristics": {
+        "cap": "Sombrero con forma acampanada en la primera parte de su desarrollo, después se vuelve convexo y acaba por aplanarse prácticamente del todo, sin llegar a embudar en ningún momento, manteniendo en esta etapa un mamelón en su zona central. El diámetro del mismo suele oscilar entre los 2 y 4 cm, de forma ocasional hasta 6 cm. Superficie lisa y glabra, sin pelos ni vellosidad, de un color que varía de forma notable en función del grado de hidratación del ejemplar en cuestión, desde un tono carneo con agua, deviniendo a tonos ocres claro o cremas según se va secando. Margen algo excedente en los especímenes adultos.",
+        "hymenium": "Láminas libres o sublibres con respecto al pie, en los ejemplares hidratados de color más claro que el sombrero, similar a el con la deshidratación, crema más o menos claro, son medianamente separadas entre sí, más separadas que Collybia dryophila y menos que Marasmius oreades, más bien gruesas y con laminillas.",
+        "stipe": "Pie central y cilíndrico, alargado, puede sobrepasar los 10 cm, llegando a triplicar en longitud el diámetro del sombrero, fibriloso, pero no demasiado elástico, se desgaja y parte con la torsión. Es de color prácticamente blanco de forma uniforme, sin diferencia entre ápice y base.",
+        "flesh": "Carne escasa, muy delgada, de color blanquecino o crema, frágil, carece del olor ciánico de la senderuela, siendo este más fuerte, no agradable, su sabor en crudo tampoco es agradable."
+    },
+    "habitat": "Ejemplares localizados por Hector Santesteban en el trascurso de una salida realizada por la plana mayor de Fungipedia junto al mencionado y Jon Joseba Arnedo por la Sierra de Cameros, (La Rioja), en campa de montaña a una altura aproximada de 1200 m.s.n.m., en grupo más o menos numeroso de ejemplares, brotando en algún caso de forma cespitosa. Nuestra recolecta es del mes de junio, por tanto primaveral, pero es una especie que también fructifica durante el otoño. Especie no muy referenciada, pero probablemente por su parecido a otras especies con las que se confunde habitualmente.",
+    "observations": "Estamos ante una especie ligeramente tóxica que tiene un asombroso parecido con la especie comestible Marasmius oreades, la conocida senderuela o carrerilla, son dos los caracteres a tener en cuenta para diferenciar ambas especies, el pie que parte al ser torsionado, mientras que en la senderuela vuelve a su ser, y el olor algo desagradable que tiene esta especie en contraposición con el agradable olor ciánico de la oreades. También es parecida a la rara Marasmiellus maas-geesteranii, cuyo pie oscurece a partir de la base. Muy similar también a la difícil de localizar Gymnopus oreadoides y a la abundante Gymnopus dryophilus, más propia de los bosques, que tiene buen olor y mayor densidad laminar.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/marasmius_collinus/marasmius_collinus1.jpg",
+        "https://www.fungipedia.org/images/galerias/marasmius_collinus/marasmius_collinus2.jpg",
+        "https://www.fungipedia.org/images/galerias/marasmius_collinus/marasmius_collinus3.jpg",
+        "https://www.fungipedia.org/images/galerias/marasmius_collinus/marasmius_collinus4.jpg",
+        "https://www.fungipedia.org/images/galerias/marasmius_collinus/marasmius_collinus5.jpg",
+        "https://www.fungipedia.org/images/galerias/marasmius_collinus/marasmius_collinus6.jpg"
+    ]
+}

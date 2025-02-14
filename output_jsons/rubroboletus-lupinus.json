@@ -1,0 +1,32 @@
+{
+    "name": "rubroboletus-lupinus",
+    "title": null,
+    "author": "(Fr.) Costanzo, Gelardi, Simonini & Vizzini",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Boletus lupinus (Fries)"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Boletales",
+        "Familia": "Boletaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero en estado adulto de alrededor de 10 cm de diámetro, de forma hemisférica de joven, después convexo, sin llegar a aplanarse salvo en la parte central del mismo. Es de color variable, aunque generalmente predomina el rosa claro con algún matiz de otro color. Su cutícula es lisa, solo débilmente pubescente de joven. El margen es irregular y en los ejemplares viejos suele ser amarillento.",
+        "hymenium": "Tubos adnatos, de color amarillento cuando la seta es joven, algo más oliváceos de viejos, cortos.",
+        "stipe": "Poros redondos y pequeños, de color que va del anaranjado al rojo, más claros hacia el borde, azulean al ser presionados con el dedo.",
+        "flesh": "Pie habitualmente cilíndrico, aunque a veces es más grueso en la zona intermedia y algo radicante. Es de color amarillo en su totalidad, solo ocasionalmente difuminado de rosa, y carece de toda retícula o similar."
+    },
+    "habitat": "Carne gruesa, maciza, de color amarillento y consistencia blanda en el sombrero, más compacta y amarilla en el pie, salvo en la base donde adquiere tonos rosas. Azulea al corte. Olor un poco fuerte y sabor ácido.",
+    "observations": "Se la puede encontrar desde finales de primavera hasta el otoño, casi siempre ligada a bosques de caducifolios. Especie poco frecuente.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/rubroboletus_lupinus/rubroboletus_lupinus1.jpg",
+        "https://www.fungipedia.org/images/galerias/rubroboletus_lupinus/rubroboletus_lupinus2.jpg",
+        "https://www.fungipedia.org/images/galerias/rubroboletus_lupinus/rubroboletus_lupinus3.jpg",
+        "https://www.fungipedia.org/images/galerias/rubroboletus_lupinus/rubroboletus_lupinus4.jpg"
+    ]
+}

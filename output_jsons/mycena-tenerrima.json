@@ -1,0 +1,31 @@
+{
+    "name": "mycena-tenerrima",
+    "title": null,
+    "author": "(Berk.) Quél.",
+    "additional_info": {
+        "common_name": "Mycena ascendente.",
+        "synonym": "Mycena adscendens Maas Geest."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Agaricales",
+        "Familia": "Mycenaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero de ínfimo tamaño, su diámetro oscila entre los 3 y los 5 mm, de forma totalmente hemisférica al principio, después subglobosa, estado en el que permanece durante buena parte de su desarrollo, tardíamente convexa y nunca aplanada. Es de color blanco a crema grisáceo, y su superficie está estriada o casi acanalada en su totalidad, salvo quizás el centro, siendo además marcadamente furfurácea. Margen un poco crenulado y bastante regular.",
+        "hymenium": "Láminas adnato-ascendentes de color blanco, muy separadas entre sí, a veces se quedan un poco cortas y forman una especie de collar, pero es un carácter variable, y por tanto no definitorio.",
+        "stipe": "Pie cilíndrico y desproporcionadamente alargado con respecto al sombrero, de color blanco, aunque puede considerarse como translúcido. Su superficie puede ser finamente fibrilosa, y siempre es furfurácea como la del sombrero. Es frágil y se troncha enseguida a la menor manipulación, con un engrosamiento en la zona de unión con el sustrato, por otra parte típico de este tipo de Mycenas.",
+        "flesh": "Carne totalmente insignificante, sin que podamos destacar nada en el apartado de olor y sabor."
+    },
+    "habitat": "Se trata de una especie que puede llegar a aparecer en cualquier época de año, generalmente ligada a residuos leñosos de todo tipo, pero sobre todo de árboles planifolios. Se trata de una seta difícil de localizar por su pequeño tamaño, y que debemos de considerar poco común por no estar excesivamente referenciada.",
+    "observations": "Pertenece a un grupo un tanto homogéneo de Mycenas blancas, y por lo tanto su correcta clasificación es complicada y precisa de un análisis microscópico detallado. Si se puede diferenciar de las Hemimycenas como la Hemimycena lactea o Hemimycena cucullata, especies blancas, pero su pie es más rígido y no se troncha con tanta facilidad. Sin embargo, es muy parecida a otras especie como la Mycena corynephora, macroscópicamente solo diferenciable por el pie velloso, o la Mycena alphitophora, de procedencia subtropical, muy similar a esta.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/mycena_tenerrima/mycena_tenerrima1.jpg",
+        "https://www.fungipedia.org/images/galerias/mycena_tenerrima/mycena_tenerrima2.jpg",
+        "https://www.fungipedia.org/images/galerias/mycena_tenerrima/mycena_tenerrima3.jpg"
+    ]
+}

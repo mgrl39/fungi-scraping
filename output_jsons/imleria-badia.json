@@ -1,0 +1,31 @@
+{
+    "name": "imleria-badia",
+    "title": null,
+    "author": "(Fr.) Vizzini",
+    "additional_info": {
+        "common_name": "Boleto bayo, onddo arre, Sigró (bai).",
+        "synonym": "Boletus badius Fr."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Boletales",
+        "Familia": "Boletaceae"
+    },
+    "edibility": "buen-comestible",
+    "characteristics": {
+        "cap": "Sombrero de apariencia carnosa y notable tamaño, los ejemplares plenamente desarrollados pueden llegar a los 15 cm de diámetro, siendo de forma hemisférica al principio, pero pronto convexos, y al final algo aplanados, pero sin llegar a aplanarse totalmente. Su color es oscuro dentro de los marrones, castaños o pardos, y su superficie es seca salvo con lluvia, en esa circunstancia adquiere una notable viscosidad, rasgo excepcional dentro de Xerocomus. Margen por lo general excedente.",
+        "hymenium": "Tubos más bien largos, adnatos o un poco decurrentes, de color amarillo pálido de jóvenes, después se vuelven verdes. Son separables de la carne del sombrero y azulean tanto al roce como al corte.",
+        "stipe": "Poros pequeños y angulosos de color amarillo muy pálido al principio, luego amarillo más vivo y al final verdosos. Azulean de forma notoria al menor rozamiento.",
+        "flesh": "Pie cilíndrico y alargado, de color marrón debido a las fibrillas longitudinales de este color que lo recubren sobre un fondo más amarillento apenas perceptible. Por lo general robusto y fibroso."
+    },
+    "habitat": "Carne firme y espesa de color blanco cuando el espécimen es joven, con el tiempo se vuelve más esponjosa y amarillenta. En el pie, sin embargo, es fibrosa. Azulea al corte, siendo su olor agradable y afrutado y su sabor dulce e igualmente agradable.",
+    "observations": "Es una especie muy frecuente y extendida que aparece durante el transcurso del otoño, y lo hace adaptada a diferentes hábitats y terrenos, abundando sobremanera bajo coníferas, pero también sale bajo árboles de hoja caduca.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/imleria_badia/imleria_badia1.jpg",
+        "https://www.fungipedia.org/images/galerias/imleria_badia/imleria_badia2.jpg",
+        "https://www.fungipedia.org/images/galerias/imleria_badia/imleria_badia3.jpg"
+    ]
+}

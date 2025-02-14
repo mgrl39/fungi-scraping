@@ -1,0 +1,31 @@
+{
+    "name": "caloboletus-radicans",
+    "title": null,
+    "author": "(Pers.) Vizzini",
+    "additional_info": {
+        "common_name": "Boleto blancuzco.",
+        "synonym": "Boletus albidus (ROQUES)"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Boletales",
+        "Familia": "Boletaceae"
+    },
+    "edibility": "no-comestible",
+    "characteristics": {
+        "cap": "Sombrero de grandes dimensiones, puede alcanzar los 20 cm, de hemisférico a convexo y muy carnoso. La cutícula es lisa, tomentosa y muy seca, de color claro, casi blanco de joven, tiende a volverse ocrácea con la edad, el margen suele ser excedente.",
+        "hymenium": "Tubos largos y finos, de color amarillo claro de jóvenes, después verdes.",
+        "stipe": "Poros pequeños y redondos, libres con respecto al pie, que se tiñen de azul al ser presionados, de color amarillo vivo, verdosos con la edad.",
+        "flesh": "Pie cilíndrico, grueso y macizo, engrosado en la parte central y radicante hacia la base. El color es claro, blancuzco o amarillo, con un fino retículo poco perceptible en la parte superior."
+    },
+    "habitat": "Carne blanco amarillenta, firme, gruesa y compacta, que se torna azul al contacto con el aire de manera poco intensa, marrón rojiza en la base del pie, de olor fúngico suave y sabor muy amargo.",
+    "observations": "Especie termófila que aparece en los meses veraniegos y que desaparece con la llegada del frío. Siempre la hemos localizado en zonas muy abiertas de los bosques de planifolios, en ocasiones encontramos varios individuos unidos por la base del pie.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/caloboletus_radicans/caloboletus_radicans1.jpg",
+        "https://www.fungipedia.org/images/galerias/caloboletus_radicans/caloboletus_radicans2.jpg",
+        "https://www.fungipedia.org/images/galerias/caloboletus_radicans/caloboletus_radicans3.jpg"
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "name": "conocybe-arrhenii",
+    "title": null,
+    "author": "(Fr.) Kits van Wav.",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Pholiotina arrhenii (Fr.) Sing."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Cortinariales",
+        "Familia": "Bolbitiaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero pequeño, los ejemplares plenamente desarrollados apenas llegan a alcanzar los 2 o 3 cm de diámetro, con forma hemisférica en sus comienzos, volviéndose convexo y al final plano-convexo, manteniendo por regla general un umbo obtuso en la zona central. Es higrófano, esto provoca una variabilidad de color en función de su grado de hidratación, puede ser ocre rojizo si está hidratado, incluso con algún matiz naranja pálido, que se va convirtiendo en tonos más ocres y palidescentes a medida que se seca, cosa que puede hacer por zonas, no siempre de manera uniforme. Es bastante fibriloso y su higrofaneidad provoca también que su margen sea estriado por transparencia.",
+        "hymenium": "Láminas adnatas y no demasiado apretadas, algo ventrudas, de color marrón pálido de jóvenes y después ocre ferruginosas, sin llegar a alcanzar la viveza de color de otras especies de su género.",
+        "stipe": "Pie alargado y más o menos cilíndrico salvo en la base, que es bulbosa. Tiene un color marrón de fondo, pero está recubierto en su totalidad por fibras de color blanquecino que le confieren un aspecto más claro. Posee un anillo membranoso patente con aspecto de faldón y estriado en la parte superior.",
+        "flesh": "Carne insignificante de color similar a la superficie externa, es prácticamente inodoro e insípido."
+    },
+    "habitat": "Ha sido localizada en primavera, en zona herbosa cercana a una aliseda. Esta especie también está referenciada durante el otoño, siendo generalmente heliófila y apareciendo en pequeños grupos. Es una seta rara bajo planifolios y más rara aún bajo coníferas.",
+    "observations": "Especie sospechosa de toxicidad, máxime dada su afinidad con especies peligrosas como la mortal Conocybe filaris, también descrita en Fungipedia. Es imposible separarla de otras especies similares sin la ayuda del microscopio, Conocybe blattaria es muy parecido pero sus queilocistidios no son cilíndricos, también es muy similar Conocybe hadrocystis, de marcado olor floral. Algunas Galerinas también son fácilmente confundibles con esta especie.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/conocybe_arrhenii/conocybe_arrhenii1.jpg",
+        "https://www.fungipedia.org/images/galerias/conocybe_arrhenii/conocybe_arrhenii2.jpg",
+        "https://www.fungipedia.org/images/galerias/conocybe_arrhenii/conocybe_arrhenii3.jpg",
+        "https://www.fungipedia.org/images/galerias/conocybe_arrhenii/conocybe_arrhenii4.jpg",
+        "https://www.fungipedia.org/images/galerias/conocybe_arrhenii/conocybe_arrhenii5.jpg",
+        "https://www.fungipedia.org/images/galerias/conocybe_arrhenii/conocybe_arrhenii6.jpg"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "conocybe-tenera",
+    "title": null,
+    "author": "(Schaeff.) Fayod",
+    "additional_info": {
+        "common_name": "Conocibe delicado, konozibe samur.",
+        "synonym": "Galera tenera (Schaeff.) P. Kumm."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Cortinariales",
+        "Familia": "Bolbitiaceae"
+    },
+    "edibility": "toxica",
+    "characteristics": {
+        "cap": "Sombrero muy pequeño, un espécimen de 3 cm se consideraría grande para esta especie. De forma cónica en su primera etapa, pasa a ser campanulado, no evolucionando hacia ninguna otra forma. Su color fundamental es el ocre, más pálido o más oscuro en función de la hidratación del ejemplar. Es higrófano y además estriado por transparencia.",
+        "hymenium": "Láminas adnatas y relativamente prietas, de color crema cuando nacen pasando rápido a tonos canela, oscureciéndose hacia tonos marrón rojizos en la vejez.",
+        "stipe": "Pie muy largo con respecto al diámetro del sombrero, pruinoso y concoloro o algo más pálido, puede presentar una especie de bulbo no muy evidente en su base, y está longitudinalmente estriado, aunque a veces no se aprecia a simple vista.",
+        "flesh": "Carne frágil y muy escasa, de color ocráceo, sin nada destacable en cuanto a olor o sabor."
+    },
+    "habitat": "Fructifica tanto en primavera como en el otoño, entre la hierba de parques y jardines, normalmente en lugares abonados, pero no directamente sobre el estiércol, sino terrestre. Es el Conocybe que más aparece en los libros, no siendo por ello el más frecuente.",
+    "observations": "Es un grupo relativamente amplio de taxones similares difícilmente diferenciables el que nos ocupa, siendo la especie aquí descrita la más conocida. Existe una especie, Conocybe semiglobata, de esporas algo más grandes y por nuestra experiencia más común. Muy parecido es también el Conocybe rickenii, que suele fructificar sobre el estiércol directamente, así como otros muchos Conocybes. Se hace indispensable el estudio microscópico para la determinación de estas especies.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/conocybe_tenera/conocybe_tenera1.jpg",
+        "https://www.fungipedia.org/images/galerias/conocybe_tenera/conocybe_tenera2.jpg",
+        "https://www.fungipedia.org/images/galerias/conocybe_tenera/conocybe_tenera3.jpg"
+    ]
+}

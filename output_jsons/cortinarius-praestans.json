@@ -1,0 +1,30 @@
+{
+    "name": "cortinarius-praestans",
+    "title": null,
+    "author": "(Cordier) Gillet",
+    "additional_info": {
+        "common_name": "Cortinario grande, sare bikain.",
+        "synonym": "Cortinarius berkeleyi cooke"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Cortinariales",
+        "Familia": "Cortinariaceae"
+    },
+    "edibility": "comestible",
+    "characteristics": {
+        "cap": "Sombrero de notables dimensiones, puede alcanzar los 20 cm de diámetro, de forma globosa cuando es joven, luego convexa, sin llegar nunca a aplanarse del todo. Es fundamentalmente pardo, aunque con matices vinosos o violáceos, y suele estar adornado con copos blanquecinos, que muchas veces desaparecen por causa de la lluvia. Algo viscoso y brillante en mojado, con el borde involuto durante bastante tiempo.",
+        "hymenium": "Láminas apretadas y estrechas, de color lila pálido en su nacimiento, pronto marrones. Con respecto al pie son adherentes, y la arista es concolora.",
+        "stipe": "Pie central, cilíndrico, grueso y lleno, bulboso en la base y más estrecho en la unión con el sombrero, posee restos manifiestos de cortina en la zona superior, cortina que es de color blanquecino con matices lilas. El color del propio pie es también blanquecino con la parte superior algo lila.",
+        "flesh": "Carne espesa y consistente, de color pálido en el sombrero y lila en el pie. Su sabor en crudo es ligeramente amargo, y su olor es suave y agradable."
+    },
+    "habitat": "Este cortinario crece sobre todo durante el otoño, lo hace en bosques de planifolios, sobre todo hayas, con especial predilección por los suelos calcáreos. Es una especie poco frecuente.",
+    "observations": "Está considerado como el mejor de su género desde el punto de vista culinario, su sabor algo amargo desaparece al cocinarlo. La consistencia de la seta, grande y carnosa, hace que tenga buen rendimiento, sin embargo su sabor es discreto, aun así se puede degustar. Puede parecerse a otros Cortinarius de su grupo como el Cortinarius variicolor, que posee un olor acusado.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/cortinarius_praestans/cortinarius_praestans1.jpg",
+        "https://www.fungipedia.org/images/galerias/cortinarius_praestans/cortinarius_praestans2.jpg"
+    ]
+}

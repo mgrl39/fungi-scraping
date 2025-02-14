@@ -1,0 +1,31 @@
+{
+    "name": "protostropharia-semiglobata",
+    "title": null,
+    "author": "(Batsch.) Redhead, Moncalvo & Vilgalys",
+    "additional_info": {
+        "common_name": "Estrofaria semiglobosa, gorotz-sorgin txiki, bolet de fermer.",
+        "synonym": "Stropharia semiglobata (Batsch.) Quél."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Cortinariales",
+        "Familia": "Strophariaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero pequeño, en la mayoría de los casos no supera los 3 cm de diámetro, de forma homogénea semiesférica, sobre todo de joven, solo es convexa en los individuos viejos o plenamente desarrollados. Cuando el espécimen está hidratado su superficie es viscosa y de color amarillento, pero sino resulta solamente brillante y de tonos más pálidos. Otro aspecto destacado es su margen liso, no estriado, ya que no es una seta higrófana.",
+        "hymenium": "Láminas adnatas y más bien ventrudas, no demasiado densas, de color grisáceo de jóvenes, luego se tornan pardo olivas, y al final púrpura negruzcas.",
+        "stipe": "Pie largo en proporción al sombrero, cilíndrico, viscoso en los dos tercios inferiores. Queda hueco muy pronto, desde joven, y posee un anillo muy fugaz, que tiende a volverse oscuro y adpreso cuando no desaparece.",
+        "flesh": "Carne de poco espesor y consistencia, de color blancuzco o amarillo pálido. Su olor es prácticamente nulo y su sabor suave y dulce."
+    },
+    "habitat": "Se trata de una especie muy común que fructifica sobre exc¬rementos de vaca. Se la puede encontrar en cualquier época del año.",
+    "observations": "Es sospechosa de contener sustancias tóxicas e incluso alucinógenas, la clasificamos sin valor por ser este un aspecto todavía poco estudiado. Puede confundirse con la Stropharia coronilla, de pie corto y crecimiento sobre tierra, con algunos Psilocybes que salen sobre excrementos, como el Psilocybe merdaria, y con la Stropharia umbonatescens, con mamelón agudo en el centro del sombrero.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/protostropharia_semiglobata/protostropharia_semiglobata1.jpg",
+        "https://www.fungipedia.org/images/galerias/protostropharia_semiglobata/protostropharia_semiglobata2.jpg",
+        "https://www.fungipedia.org/images/galerias/protostropharia_semiglobata/protostropharia_semiglobata3.jpg"
+    ]
+}

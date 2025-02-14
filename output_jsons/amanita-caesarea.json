@@ -1,0 +1,33 @@
+{
+    "name": "amanita-caesarea",
+    "title": null,
+    "author": "(Scop.) Pers.",
+    "additional_info": {
+        "common_name": "Oronja, kuleto, yema de huevo, ou de reig.",
+        "synonym": "Amanita aurantiaca Pers."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Agaricales",
+        "Familia": "Amanitaceae"
+    },
+    "edibility": "excelente-comestible",
+    "characteristics": {
+        "cap": "Sombrero carnoso que puede llegar a sobrepasar los 15 cm, de un color anaranjado vivo que llama la atención. Cutícula lisa y separable, rara vez contiene restos del velo. Su forma pasa de hemisférico a convexo y finalmente aplanado cuando alcanza su madurez.",
+        "hymenium": "Láminas de un bello amarillo dorado, generalmente con el borde floconoso y bastante prietas.",
+        "stipe": "Pie de color amarillo dorado, de 2 o 3 cm de grueso y más de 10 de largo, suele estar recubierto de una sustancia de textura algodonosa. Contiene un anillo persistente y estriado del mismo color que el pie, además de una volva envolvente y membranosa de un color blanco que contraste de manera notable con el resto de la seta.",
+        "flesh": "Carne de sabor dulce y agradable olor. Color fundamentalmente amarillento, más acentuado en la cocción. Es más bien tierna y delicada."
+    },
+    "habitat": "Esta especie es muy termófila, por lo que aparece sobre todo en verano y principio del otoño. Brota principalmente bajo alcornoques, robles, encinas, castaños y, ocasionalmente, coníferas. Es abundante en regiones de clima mediterráneo, sin embargo en el norte de la península ibérica es más difícil su localización.",
+    "observations": "Excelente comestible, es para muchos la reina de las setas. Solo plantea confusión su parecido con la Amanita muscaria var. aureola, que sin embargo tiene el pie y las láminas de color blanco. En Polonia se la considera como especie extinguida, sin embargo en el sur de Europa es frecuente.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/amanita_caesarea/amanita_caesarea1.jpg",
+        "https://www.fungipedia.org/images/galerias/amanita_caesarea/amanita_caesarea2.jpg",
+        "https://www.fungipedia.org/images/galerias/amanita_caesarea/amanita_caesarea3.jpg",
+        "https://www.fungipedia.org/images/galerias/amanita_caesarea/amanita_caesarea4.jpg",
+        "https://www.fungipedia.org/images/galerias/amanita_caesarea/amanita_caesarea5.jpg"
+    ]
+}

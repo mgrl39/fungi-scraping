@@ -1,0 +1,34 @@
+{
+    "name": "ascotremella-faginea",
+    "title": null,
+    "author": "(Peck) Seaver",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Haematomyces fagineus Peck"
+    },
+    "taxonomy": {
+        "División": "Ascomycota",
+        "Subdivisión": "Ascomycotina",
+        "Clase": "Himenoascomycetes",
+        "Subclase": "Pezizomycetidae",
+        "Orden": "Leotiales",
+        "Familia": "Helotiaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Ascocarpo con forma lobulada o cerebriforme, de jóvenes parecen tener una tendencia a formarse casi individualmente, pero en realidad con el tiempo forman una única cosa, una masa compacta gelatinosa. Suele tener tamaño variable pudiendo en múltiples ocasiones superar a lo largo los 5 cm, a lo ancho 2 o 3 y alcanzar una altura también de 2 o 3 cm. Cuando es fresca tiene un color pardo rojizo característico, pero con la edad va perdiendo el componente rojizo y se vuelve netamente parda.",
+        "hymenium": "Himenio constituido en toda la superficie externa del ascocarpo, de color idéntico al resto del mismo, liso y glabro. Produce ascosporas más bien elipsoidales terminadas en punta con alguna estría poco aparente.",
+        "stipe": "Pie inexistente, se trata de una especie sésil que se adhiere directamente al sustrato.",
+        "flesh": "Carne concolor de consistencia muy gelatinosa, de vieja hasta mocosa y desagradable, contexto amplio sin huecos interiores, compacta por lo tanto. Apenas tiene olor de joven y su sabor es inapreciable aunque cuesta probarla por su desagradable aspecto."
+    },
+    "habitat": "Ascotremella faginea es una especie que fructifica reventando la corteza de la madera, en árboles caídos o tocones, en general en madera muerta de planifolios, aunque constatamos una clara predilección por la madera de haya (Fagus sylvatica). Forma masas a veces amplias, pudiendo salir desde el verano, pero sobre todo lo hace durante el otoño. No es una especie demasiado frecuente.",
+    "observations": "Cuando nos topamos con esta especie tenemos la impresión de estar ante una Tremella por sus caracteres macroscópicos, sin embargo se trata de un Ascomycete. Otro Ascomycete con el que se pudiera confundir es la Neobulgaria pura, que en su variedad foliacea adopta formas semejantes, pero si nos fijamos veremos que se trata de individuos arracimados y no de una masa homogénea. Tremella foliacea tiene un color similar, es más lobulada y contiene basidios, no ascas.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/ascotremella_faginea/ascotremella_faginea1.jpg",
+        "https://www.fungipedia.org/images/galerias/ascotremella_faginea/ascotremella_faginea2.jpg",
+        "https://www.fungipedia.org/images/galerias/ascotremella_faginea/ascotremella_faginea3.jpg",
+        "https://www.fungipedia.org/images/galerias/ascotremella_faginea/ascotremella_faginea4.jpg",
+        "https://www.fungipedia.org/images/galerias/ascotremella_faginea/ascotremella_faginea5.jpg",
+        "https://www.fungipedia.org/images/galerias/ascotremella_faginea/ascotremella_faginea6.jpg"
+    ]
+}

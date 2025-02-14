@@ -1,0 +1,31 @@
+{
+    "name": "polyporus-umbellatus",
+    "title": null,
+    "author": "(Pers.) Fr.",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Dendropolyporus umbellatus (Pers.) Jülich"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Aphyllophoromycetidae",
+        "Orden": "Poriales",
+        "Familia": "Polyporaceae"
+    },
+    "edibility": "comestible",
+    "characteristics": {
+        "cap": "Carpóforo que en su conjunto puede alcanzar muy notables dimensiones, incluso medio metro en algunas ocasiones. Está formado por un tronco central de color blanco sucio o beige del que, de manera similar a como lo hacen las ramarias, parten en diversas direcciones unas ramificaciones de las que se erigen un montón de setas completas, con sombrero, pie e himenio.",
+        "hymenium": "Sombrero de unos 4 o 5 cm de diámetro, de color beige, liso o ligeramente fibriloso, plano y circular, o si acaso débilmente deprimido, con el margen muy fino.",
+        "stipe": "Pie más largo que el diámetro del sombrero, de color similar o incluso blanco, delgado y frágil.",
+        "flesh": "Himenio formado por una serie de poros sin tubos, su tamaño aproximado es de 1 a 3 poros por mm, son de color blanco."
+    },
+    "habitat": "Carne escasa y delicada, muy frágil y de color blanco, tiene olor fúngico suave y sabor un poco amargo tras un rato de masticación.",
+    "observations": "Especie localizada sobre tocones o troncos de árboles planifolios, en este caso sobre robles. Desde el verano al otoño, especie rarísima y digna de ver.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/polyporus_umbellatus/polyporus_umbellatus1.jpg",
+        "https://www.fungipedia.org/images/galerias/polyporus_umbellatus/polyporus_umbellatus2.jpg",
+        "https://www.fungipedia.org/images/galerias/polyporus_umbellatus/polyporus_umbellatus3.jpg"
+    ]
+}

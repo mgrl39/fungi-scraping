@@ -1,0 +1,37 @@
+{
+    "name": "vibrissea-truncorum",
+    "title": null,
+    "author": "(Alb. & Schwein.) Fr.",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Leotia truncorum Alb. & Schwein."
+    },
+    "taxonomy": {
+        "División": "Ascomycota",
+        "Subdivisión": "Pezizomycotina",
+        "Clase": "Himenoascomycetes",
+        "Subclase": "Leotiomycetidae",
+        "Orden": "Helotiales",
+        "Familia": "Vibrisseaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Carpóforo de muy pequeñas dimensiones, en el mejor de los casos puede alcanzar los 15 mm de altura, y en su parte más ancha, que coincide con la zona superior del mismo, los 5 mm de anchura. Está estructurado en dos partes perfectamente diferenciadas, una zona en la parte alta compuesta por una cabezuela fértil, y un pie notorio. El aspecto general del ascocarpo es como una pequeña cerilla de textura algo viscosa o gelatinosa. Existe una clara diferencia de color entre las dos partes, destaca el tono amarillento o anaranjado de la cabezuela, que con la deshidratación del ejemplar se vuelve más rojizo, su forma pulvinada o hemisférica, cerrándose a veces sobre el pie y abierta en otros ejemplares, dejando entrever una zona inferior de un amarillo más pálido.",
+        "hymenium": "Himenio inmerso en la cabezuela superior, siendo el pie estéril, de color amarillento, produce unos ascos octospóricos de gran tamaño (pueden superar las 300 micras), donde las esporas se disponen paralelamente, y unas esporas filiformes que pueden superar las 200 micras x 1´5 de ancho, multiseptadas y que se fragmentan con inusitada facilidad a la altura de los septos, por lo que es muy difícil medirlas (ver características microscópicas).",
+        "stipe": "Pie de longitud ciertamente variable, incluso entre ejemplares de una misma recolecta, en ocasiones de apenas 3 o 4 mm longitud y otras aproximándose a los 15 mm, con un diámetro de apenas 1´5 mm, es cilíndrico y de color inicialmente blanquecino o grisáceo de fondo, aunque suele presentar granulaciones de color más oscuro, suele tender a oscurecerse o ennegrecer a partir de la base.",
+        "flesh": "Carne tenaz de textura gelatinosa, blanquecina, es totalmente insípida y carece de un olor destacado digno de mención."
+    },
+    "habitat": "Estamos ante una especie propia de los cauces fluviales, donde acostumbra a crecer sobre ramas descortezadas y degradadas de planifolios diversos y árboles de ribera, con la peculiaridad de que siempre aparece en ramas sumergidas o semisumergidas, necesita de una humedad del 100% para su fructificación. No es una especie demasiado común, pero donde fructifica suele hacerlo siempre en grupos de numerosos ejemplares o en colonias, es muy raro encontrar un ejemplar aislado. Su época del año predilecta para su aparición es la primavera, sobre todo si esta es lluviosa, o con el deshielo de los montes a partir de marzo, es factible su aparición en otras estaciones, pero con los veranos tan secos que padecemos es altamente improbable.",
+    "observations": "Estamos ante una pequeña especie de aspecto gelatinoso caracterizada macroscópicamente por su pie cilíndrico blanco grisáceo con ganulaciones oscuras tendente a oscurecerse y su cabezuela amarilla o naranja, así como por su hábitat acuático o semiacuático. En este mismo hábitat crece en primavera también la Mitrula paludosa, especie de mayor tamaño de pie blanco puro con esporas elisoidales de un solo septo, Vibrissea flavovirens tiene la cabezuela de color amarillo verdoso y sus esporas son más cortas, sobre 180 micras como mucho, Vibrissea decolorans, más ligada a Rosaceae, tiene esporas aún más largas, hasta 280 micras. También puede confundirse por su aspecto con especies de otros géneros como Cudonia, pero su microscopía es muy diferente.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/vibrissea_truncorum/vibrissea_truncorum1.jpg",
+        "https://www.fungipedia.org/images/galerias/vibrissea_truncorum/vibrissea_truncorum2.jpg",
+        "https://www.fungipedia.org/images/galerias/vibrissea_truncorum/vibrissea_truncorum3.jpg",
+        "https://www.fungipedia.org/images/galerias/vibrissea_truncorum/vibrissea_truncorum4.jpg",
+        "https://www.fungipedia.org/images/galerias/vibrissea_truncorum/vibrissea_truncorum5.jpg",
+        "https://www.fungipedia.org/images/galerias/vibrissea_truncorum/vibrissea_truncorum6.jpg",
+        "https://www.fungipedia.org/images/galerias/vibrissea_truncorum/vibrissea_truncorum7.jpg",
+        "https://www.fungipedia.org/images/galerias/vibrissea_truncorum/vibrissea_truncorum8.jpg",
+        "https://www.fungipedia.org/images/galerias/vibrissea_truncorum/vibrissea_truncorum9.jpg"
+    ]
+}

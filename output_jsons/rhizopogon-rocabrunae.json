@@ -1,0 +1,37 @@
+{
+    "name": "rhizopogon-rocabrunae",
+    "title": null,
+    "author": "M.P. Martín",
+    "additional_info": {
+        "common_name": "rizopogon escamoso",
+        "synonym": "Ninguno."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Boletales",
+        "Familia": "Rhizopogonaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Carpóforo con un tamaño que en nuestra recolecta oscilaba entre los 2 y los 5 cm de largo por 2-3 de altura, lo que ya denota que algunos de los ejemplares tenían una forma prácticamente globosa, mientras que otros, por contra, eran mucho más oblongos, bastante más largos que anchos, siempre con el aspecto de pequeña patata que tienen este tipo de especies. Destaca sobremanera por su bello color ocre anaranjado bastante intenso de los ejemplares jóvenes, que tiende a palidecer con la edad, su aspecto verrucoso poco habitual en el género Rhizopogon, y el hecho de que al rascar con la uña o incluso al corte se tiñe de un color anaranjado rojizo muy llamativo. La base presenta cordones miceliales, pero en esta especie no se prolongan alrededor del carpóforo, como sucede en otras especies afines.",
+        "hymenium": "Peridio bastante delgado, con apenas 1 o 2 mm de grueso, en el que diferenciamos dos partes, una externa o exoperidio de color ocre anaranjado formado por hifas pigmentadas que emergen perpendicularmente, confiriendo un aspecto escamoso o verrucoso, y un endoperidio blanquecino con hifas paralelas. Al corte la parte externa se vuelve claramente de color anaranjado, permaneciendo la interna blanquecina, también vira de color en las heridas a naranja intenso de forma casi inmediata, y posteriormente a rojo intenso.",
+        "stipe": "Gleba en la primera etapa de desarrollo de color blanquecino, pero pasando con celeridad a tener un color más grisáceo, luego verde grisáceo. Esta gleba ocupa todo el interior de forma más o menos compacta, y es esponjosa al tacto, loculada, está formada por pequeñas cavidades, al principio muy pequeñas y apenas perceptible a simple vista, pero que con el desarrollo se van ampliando un tanto, son laberínticas. A destacar que permanece con la necrosis del ejemplar, sin convertirse en polvo como sucede con otros géneros.",
+        "flesh": "Carne inexistente como tal, tan solo está la gleba, sin olor ni sabor dignos de mención."
+    },
+    "habitat": "Estamos ante una especie eminentemente primaveral, todas las referencias que hemos encontrado de ella son localizaciones en los meses de abril y mayo, y además prácticamente todas en bosque de coníferas. Es una especie que debemos considerar bastante rara o poco frecuente, que sin embargo donde fructifica lo hace en grupo de unos pocos ejemplares, es raro ver un ejemplar aislado. Su crecimiento es semihipogeo, de joven apenas asoma un poco a la superficie, pero al desarrollarse es más visible superficialmente. Nuestra recolecta se efectuó en el mes de mayo, en zona herbosa al borde de una pista, en bosque de Pinus sylvestris, en el parque natural de Valderejo, Alava (País vasco).",
+    "observations": "Hay mucha tendencia entre personas inexpertas a relacionar este tipo de especies con las trufas, nada que ver pues estamos ante un Basidiomycete de crecimiento semihipogeo, no es un Ascomycete. Se diferencia de otros congéneres por el aspecto exterior provisto de escamas o verrugas bien diferenciadas, y por sus esporas truncadas. Muy parecido a Rhizopogon roseolus, con el que comparte algunas estructuras microscópicas, y que también, al igual que la especie que nos ocupa, vira de color al roce o al corte, las diferencias son que Rhizopogon roseolus tiene el peridio liso, y sus esporas no son truncadas. Rhizopogon luteolus, de peridio liso también, es más amarillento e inmutable al corte.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/rhizopogon_rocabrunae/rhizopogon_rocabrunae1.jpg",
+        "https://www.fungipedia.org/images/galerias/rhizopogon_rocabrunae/rhizopogon_rocabrunae2.jpg",
+        "https://www.fungipedia.org/images/galerias/rhizopogon_rocabrunae/rhizopogon_rocabrunae3.jpg",
+        "https://www.fungipedia.org/images/galerias/rhizopogon_rocabrunae/rhizopogon_rocabrunae4.jpg",
+        "https://www.fungipedia.org/images/galerias/rhizopogon_rocabrunae/rhizopogon_rocabrunae5.jpg",
+        "https://www.fungipedia.org/images/galerias/rhizopogon_rocabrunae/rhizopogon_rocabrunae6.jpg",
+        "https://www.fungipedia.org/images/galerias/rhizopogon_rocabrunae/rhizopogon_rocabrunae7.jpg",
+        "https://www.fungipedia.org/images/galerias/rhizopogon_rocabrunae/rhizopogon_rocabrunae8.jpg",
+        "https://www.fungipedia.org/images/galerias/rhizopogon_rocabrunae/rhizopogon_rocabrunae9.jpg"
+    ]
+}

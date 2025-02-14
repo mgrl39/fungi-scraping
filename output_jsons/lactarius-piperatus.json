@@ -1,0 +1,33 @@
+{
+    "name": "lactarius-piperatus",
+    "title": null,
+    "author": "(L.) Pers.",
+    "additional_info": {
+        "common_name": "Lactario pimentero, pebraza, pebrás illeter, esne-min, esneki zuri-orribildu, pementeiro.",
+        "synonym": "Agaricus piperatus (L.)"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Russulales",
+        "Familia": "Russulaceae"
+    },
+    "edibility": "no-comestible",
+    "characteristics": {
+        "cap": "Sombrero que supera muchas veces los 10 cm de diámetro, de forma convexa y con un ombligo bien definido en su zona central, posteriormente se embuda creando en ese estado una depresión en el centro. Es de color blanco puro, sobre todo de joven, adquiriendo alguna mancha ocre con la edad, siendo su superficie glabra y lisa. El margen es enrollado en los ejemplares jóvenes, después fino y un poco ondulado.",
+        "hymenium": "Láminas decurrentes y tremendamente apretadas, al punto que en los primeros estados de su desarrollo apenas se aprecian con la vista. Son delgadas y estrechas, de color blanco salvo de viejas, cuando se ensucian con tonos cremas.",
+        "stipe": "Pie generalmente corto, si bien se localizan ejemplares con el pie más largo en determinadas condiciones del sustrato, lleno y macizo, por lo general atenuado hacia la base. Es liso o algo pruinoso, de color similar al del sombrero, pero a veces manchado de ocráceo en la base.",
+        "flesh": "Carne espesa y consistente, dura, de color blanco. Al corte se vuelve un tanto amarillenta, y exuda un látex poco abundante igualmente de color blanco. Su olor es entre fúngico y afrutado, no desagradable, y su sabor es extremadamente picante."
+    },
+    "habitat": "Es una especie relativamente frecuente que empieza a hacer acto de aparición durante la primavera, prolongándose su comparecencia hasta principio del otoño. Puede por tanto ser considerada como una especie termófila que sale bajo árboles planifolios.",
+    "observations": "No es comestible debido a su sabor muy picante en crudo, después de elaborada, a pesar de perder el picante en gran medida, sigue sabiendo muy mal. Es muy parecida, casi idéntica, la especie Lactarius pergamenus=Lactarius glaucescens, que empieza a fructificar un poco más tarde, cuyo látex se torna verde oliva al secarse sobre las láminas, este látex además reacciona con la potasa vivamente, cosa que no hace la especie aquí descrita. Otros Lactarius blancos como por ejemplo Lactarius vellereus o Lactarius controversus tienen las láminas mucho más separadas.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/lactarius_piperatus/lactarius_piperatus1.jpg",
+        "https://www.fungipedia.org/images/galerias/lactarius_piperatus/lactarius_piperatus2.jpg",
+        "https://www.fungipedia.org/images/galerias/lactarius_piperatus/lactarius_piperatus3.jpg",
+        "https://www.fungipedia.org/images/galerias/lactarius_piperatus/lactarius_piperatus4.jpg",
+        "https://www.fungipedia.org/images/galerias/lactarius_piperatus/lactarius_piperatus5.jpg"
+    ]
+}

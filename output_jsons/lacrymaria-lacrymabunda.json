@@ -1,0 +1,34 @@
+{
+    "name": "lacrymaria-lacrymabunda",
+    "title": null,
+    "author": "(Bull.) Pat.",
+    "additional_info": {
+        "common_name": "Lacrimaria aterciopelada, drosofila malkodun.",
+        "synonym": "Psathyrella velutina (Pers.) Singer"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Agaricales",
+        "Familia": "Psathyrellaceae"
+    },
+    "edibility": "comestible",
+    "characteristics": {
+        "cap": "Sombrero que en su primera etapa permanece unido al pie con forma esférica, paulatinamente se va abriendo hasta adoptar forma convexa, aplanándose por último, pero manteniendo a veces una especie de mamelón no muy pronunciado. Su tamaño de adulto oscila entre los 5 y los 8 cm de diámetro, pero cuando está cerrado no excede de los 3. Normalmente es de color ocráceo, más oscuro en el centro y palideciendo hacia el margen, aunque puede tener matices pardos o más típicamente rojizos o leonados. Su superficie está recubierta de fibras muy visibles y lanosas que le confieren aspecto aterciopelado. Margen regular, incurvado cuando el espécimen es joven.",
+        "hymenium": "Láminas adnatas de color parduzco cuando son jóvenes, volviéndose negruzcas con la maduración. Exudan unas gotitas a modo de lágrimas que se vuelven negras con la esporulación. Son más bien separadas entre sí.",
+        "stipe": "Pie alargado y cilíndrico de color similar al sombrero, más pálido cuando es joven. Aplicando una sección veremos que es hueco. Su superficie es muy fibrilosa como ocurre con el sombrero, y además posee un anillo formado por los restos de cortina que se depositan en el pie, algunos de los cuales se quedan también en el borde del sombrero. Este anillo fibriloso tiende a ennegrecer al depositarse sobre él esporas procedentes del himenio.",
+        "flesh": "Carne no demasiado espesa y frágil, de color ocre o pardo, fibrosa en el pie. Su olor es fúngico suave y su sabor es dulce."
+    },
+    "habitat": "Es una seta muy prolífica que fructifica casi en cualquier sitio, la hemos visto en robledales, pinares, en el borde de los caminos, en campas, en jardines públicos etc.... Suele salir ya en verano y de forma más notable en la primera etapa del otoño. Se encuentra en grupos numerosos, siendo además frecuente y abundante.",
+    "observations": "Es una seta que no tiene mal sabor a pesar de que al verla nadie aventuraría que es comestible debido a su mal aspecto, sin embargo es poco carnosa, con lo que pierde mucho. Su sombrero y pie lanosos la identifican, así como las lágrimas que dan pie a su nombre. Existe una especie similar cuya separación de la presente es cuando menos dudosa, la Lacrymaria pyrotricha, según algunos autores son sinónimos, pero otros diferencian la forma de las esporas de forma un tanto sutil, diciendo que en la que les presentamos son amigdaliformes y en la pyrotricha elipsoidales.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/lacrymaria_lacrymabunda/lacrymaria_lacrymabunda1.jpg",
+        "https://www.fungipedia.org/images/galerias/lacrymaria_lacrymabunda/lacrymaria_lacrymabunda2.jpg",
+        "https://www.fungipedia.org/images/galerias/lacrymaria_lacrymabunda/lacrymaria_lacrymabunda3.jpg",
+        "https://www.fungipedia.org/images/galerias/lacrymaria_lacrymabunda/lacrymaria_lacrymabunda4.jpg",
+        "https://www.fungipedia.org/images/galerias/lacrymaria_lacrymabunda/lacrymaria_lacrymabunda5.jpg",
+        "https://www.fungipedia.org/images/galerias/lacrymaria_lacrymabunda/lacrymaria_lacrymabunda6.jpg"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "name": "auriscalpium-vulgare",
+    "title": null,
+    "author": "(Gray)",
+    "additional_info": {
+        "common_name": "Hidno de las piñas, pinotxa-tripaki.",
+        "synonym": "Hydnum auriscalpium L."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Aphyllophoromycetidae",
+        "Orden": "Hericiales",
+        "Familia": "Auriscalpiaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero muy pequeño, apenas un par de centímetros de diámetro como mucho, de forma un tanto variable, a veces semicircular y otras con forma de riñón. El color va del ocre amarillento cuando es joven hasta el pardo negruzco de viejo. La superficie está recubierta de pilosidades a veces erizadas, que le dan al sombrero un tacto aterciopelado. El margen frecuentemente es ondulado.",
+        "hymenium": "Himenio compuesto por aguijones cónicos de 2 a 3 mm de largo, muy tenaces, difícilmente separables de la carne. Están dispuestos de manera un tanto uniforme y no decurren sobre el pie. Son de color gris, aunque al final también se vuelven pardo negruzcos.",
+        "stipe": "Pie largo, de hasta 8 cm de altura, indefectiblemente lateral, cilíndrico, bastante delgado aunque fuerte. Es de color pardo y está recubierto de pequeñas pilosidades de color marrón negruzco.",
+        "flesh": "Carne tenaz y coriácea tanto en el sombrero como en el pie, de color más claro que el exterior de la seta, sin olor destacable y con un sabor ligeramente amargo."
+    },
+    "habitat": "Aparece durante todo el año unida a las piñas de diversos pinos, tanto sobre piñas en superficie como enterradas. Es una especie muy frecuente y abundante.",
+    "observations": "Tiene la carne muy dura, con mal sabor y es además una seta muy pequeña, por todo ello no es comestible. Es una seta que se reconoce con suma facilidad, no existe ninguna seta que se le parezca mínimamente, de las que salen sobre las piñas es la única con aguijones.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/auriscalpium_vulgare/auriscalpium_vulgare1.jpg",
+        "https://www.fungipedia.org/images/galerias/auriscalpium_vulgare/auriscalpium_vulgare2.jpg",
+        "https://www.fungipedia.org/images/galerias/auriscalpium_vulgare/auriscalpium_vulgare3.jpg",
+        "https://www.fungipedia.org/images/galerias/auriscalpium_vulgare/auriscalpium_vulgare4.jpg"
+    ]
+}

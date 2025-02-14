@@ -1,0 +1,31 @@
+{
+    "name": "peroneutypa-scoparia",
+    "title": null,
+    "author": "(Schwein.) Carmaran & Romero",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Peroneutypa heteracantha (Sacc.) Berl."
+    },
+    "taxonomy": {
+        "División": "Ascomycota",
+        "Subdivisión": "Ascomycotina",
+        "Clase": "Himenoascomycetes",
+        "Subclase": "Pyrenomycetidae",
+        "Orden": "Sphaeriales",
+        "Familia": "Diatrypaceae"
+    },
+    "edibility": "no-comestible",
+    "characteristics": {
+        "cap": "Carpóforo de pequeñísimo tamaño, apenas llega en los individuos más desarrollados a 1 mm de diámetro. Brota rompiendo la corteza de la rama sobre la que fructifica, de un estroma de color negro solo apreciable con la lupa. Tiene forma de embudo con la boca hacia el suelo o de botella de largo cuello.",
+        "hymenium": "Peritecios de color marcadamente negro, compuestos por unos largos cuellos en proporción a lo pequeña que es la seta. De estos cuellos, dispuestos en grupos de hasta 8, emergen una serie de vellosidades de color marrón oscuro casi negro, cuyo número varía notablemente de un estroma a otro.",
+        "stipe": "Pie inexistente, brota directamente sobre la madera.",
+        "flesh": "Carne inapreciable."
+    },
+    "habitat": "Fructifica tanto en invierno como en primavera, parasitando ramas caídas de árboles de hoja ancha. Los ejemplares fotografiados fueron hallados el día 1 de mayo del 2008 sobre ramas cortadas de tilo (Tilia platyphyllos), aunque también puede encontrarse esta especie sobre olmos o alisos.",
+    "observations": "Localizamos esta seta gracias a los pelos que emergen de la corteza visiblemente. Cuando se halla en letargo y no tiene estos pelos se parece a la Diatrype disciformis, aunque una vista con la lupa para observar los cuellos nos sacará de dudas. No es una especie inhabitual, lo que ocurre es que la mayor parte de las veces pasa inadvertida.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/peroneutypa_scoparia/peroneutypa_scoparia1.jpg",
+        "https://www.fungipedia.org/images/galerias/peroneutypa_scoparia/peroneutypa_scoparia2.jpg",
+        "https://www.fungipedia.org/images/galerias/peroneutypa_scoparia/peroneutypa_scoparia3.jpg"
+    ]
+}

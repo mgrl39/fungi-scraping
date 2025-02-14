@@ -1,0 +1,30 @@
+{
+    "name": "russula-amoena",
+    "title": null,
+    "author": "(Quélet)",
+    "additional_info": {
+        "common_name": "Gibelubel polit.",
+        "synonym": "Russula duportii Mas."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Russulales",
+        "Familia": "Russulaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero pequeño, no suele superar los 5 cm de diámetro, inicialmente convexo, luego aplanado y un poco deprimido. Su cutícula es lisa y seca, no separable, de un color muy variable dentro de los tonos violetas o lilas, incluso con varios tonos diferentes en un mismo ejemplar, de joven es aterciopelada, pero esta característica desaparece con el tiempo. Borde fino y algo sinuoso.",
+        "hymenium": "Láminas netamente blancas de joven, pasando a un color crema, aristas ocasionalmente tiznadas de lila, adnatas.",
+        "stipe": "Pie que suele ser muy corto en los ejemplares jóvenes, cilíndrico y atenuado en la base, de color blanco pero manchado de forma notable de lila o violeta.",
+        "flesh": "Carne violácea bajo la cutícula, el resto blanca, de sabor dulce, no picante, bastante espesa para lo pequeña que es la seta. Su olor es la característica diferenciadora de la especie, penetrante y propio, algunos autores lo califican como de crustáceos, pero pensamos que no es parecido a nada."
+    },
+    "habitat": "Se localiza desde finales del verano, en bosques de coníferas, pero sobre todo bajo caducifolios. Habitual y frecuente.",
+    "observations": "Al ser una Russula dulce, muchos la califican como comestible, sin embargo no tiene mucho valor culinario esta especie. Su olor la define perfectamente, aunque es muy parecida la Russula amoenicolor, de sombrero más colorido y mayor porte, también huele así la Russula amoenolens, aunque morfológicamente es muy diferente.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/russula_amoena/russula_amoena1.jpg",
+        "https://www.fungipedia.org/images/galerias/russula_amoena/russula_amoena2.jpg"
+    ]
+}

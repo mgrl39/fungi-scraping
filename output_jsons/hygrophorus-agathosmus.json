@@ -1,0 +1,31 @@
+{
+    "name": "hygrophorus-agathosmus",
+    "title": null,
+    "author": "(Fr.) Fr",
+    "additional_info": {
+        "common_name": "Higróforo de olor a almendras, ezko almendrausain.",
+        "synonym": "Ninguno."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Tricholomatales",
+        "Familia": "Hygrophoraceae"
+    },
+    "edibility": "comestible",
+    "characteristics": {
+        "cap": "Sombrero de 4 a 8 cm, de color gris plateado, recubierto con unas finas granulaciones concoloras, apreciables a la lupa. Poco viscoso, subseco salvo en tiempo lluvioso, de forma más bien convexa.",
+        "hymenium": "Láminas muy blancas, bastante separadas, claramente decurrentes sobre el pie, con algunas laminillas intercaladas.",
+        "stipe": "Pie central y cilíndrico, de color más bien blancuzco, ligeramente viscoso, tiene en su parte alta unas pequeñas granulaciones de tipo harinoso. Es alargado, pudiendo alcanzar los 10 cm.",
+        "flesh": "Carne blanca y espesa, tiene un fuerte y característico olor a almendras amargas."
+    },
+    "habitat": "Solo la hemos encontrado bajo coníferas, donde suele fructificar en grupos. En los meses otoñales es bastante abundante, sobre todo bajo Pinus sylvestris. Es una especie común.",
+    "observations": "Es comestible, aunque no de muy buena calidad, nada que ver con el Hygrophorus latitabundus, excelente comestible que aparece en la misma época y lugares. El olor intenso a almendras amargas lo hace inconfundible, sin embargo por su aspecto pudiera parecerse a otros Hygrophorus como el persoonii, diferenciado por su hábitat bajo caducifolios, el olivaceoalbus, mas viscoso y con el centro del sombrero más oscuro, el pustulatus, de pie punteado de negro, todos ellos inocuos o incluso comestibles de mejor calidad que el propio agathosmus, por lo que la confusión no resulta peligrosa.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/hygrophorus_agathosmus/hygrophorus_agathosmus1.jpg",
+        "https://www.fungipedia.org/images/galerias/hygrophorus_agathosmus/hygrophorus_agathosmus2.jpg",
+        "https://www.fungipedia.org/images/galerias/hygrophorus_agathosmus/hygrophorus_agathosmus3.jpg"
+    ]
+}

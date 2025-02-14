@@ -1,0 +1,31 @@
+{
+    "name": "imperator-torosus",
+    "title": null,
+    "author": "(Fr.) Assyov, Bellanger, Bertéa, Courtec., G. Koller, Loizides, G. Marques, J.A. Muñoz, N. Oppicelli, D. Puddu, F. Rich. & P.-A. Moreau",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Boletus torosus (Fries)"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Boletales",
+        "Familia": "Boletaceae"
+    },
+    "edibility": "toxica",
+    "characteristics": {
+        "cap": "Sombrero grande y de apariencia carnosa, puede acercarse a los 20 cm de diámetro en su plenitud, de forma hemisférica a convexa, sin llegar nunca a aplanarse. La variabilidad del color es muy grande, nace amarillo pero deriva a tonos ocres, rosados, e incluso púrpura. Cutícula un poco pubescente de joven, luego lisa y glabra, seca o débilmente viscosa en tiempo de lluvias, al menor roce adopta un color azul negruzco.",
+        "hymenium": "Tubos más bien cortos y delgados, amarillos en su primera etapa, verdosos de viejos, azulean ostensiblemente tanto al corte como al roce.",
+        "stipe": "Poros amarillos al principio, después rojos, redondos y pequeños, que azulean intensamente al menor rozamiento.",
+        "flesh": "Pie corto y macizo, rechoncho y muy robusto, de color amarillo, aunque con el tiempo va enrojeciendo a partir de la base. La retícula es poco evidente, no resaltando a simple vista. Al igual que el resto del carpóforo se tiñe de azul al rozamiento."
+    },
+    "habitat": "Carne gruesa, espesa y maciza, de color amarillo, al corte se vuelve azul negruzco con suma celeridad. Su olor es afrutado y su sabor agradable.",
+    "observations": "Es una seta que aparece en los bosques de planifolios desde finales de verano hasta entrado el otoño. Más bien rara, poco abundante.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/imperator_torosus/imperator_torosus1.jpg",
+        "https://www.fungipedia.org/images/galerias/imperator_torosus/imperator_torosus2.jpg",
+        "https://www.fungipedia.org/images/galerias/imperator_torosus/imperator_torosus3.jpg"
+    ]
+}

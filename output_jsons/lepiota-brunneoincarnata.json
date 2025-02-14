@@ -1,0 +1,34 @@
+{
+    "name": "lepiota-brunneoincarnata",
+    "title": null,
+    "author": "Chodat & C. Martín",
+    "additional_info": {
+        "common_name": "Lepiota marrón rojiza.",
+        "synonym": "Lepiota barlae Pat."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Agaricales",
+        "Familia": "Agaricaceae"
+    },
+    "edibility": "mortal",
+    "characteristics": {
+        "cap": "Sombrero de tamaño pequeño o medio, su diámetro puede oscilar entre los 2 y los 5 (7) cm, con forma hemisférica al nacer, pronto convexo, y finalmente extendido. Cutícula con un color de fondo que va del crema al carneo, pero recubierta de escamas abundantes de color rojizo o púrpura, estas son más cerradas en el centro y disgregadas hacia el margen, el color del escamado es el predominante siempre al encontrar un ejemplar. Margen generalmente excedente y en los individuos jóvenes floconoso.",
+        "hymenium": "Láminas libres con respecto al pie, en los ejemplares jóvenes poco distantes y claramente separadas en los viejos, de color blanquecino a crema. La arista laminar es netamente crenulada.",
+        "stipe": "Pie de tamaño proporcionado al diámetro del sombrero, al igual que este tiene un color crema o carneo que prevalece en este caso en el tercio superior, el resto está decorado con escamas de color similar al sombrero, más patentes en los ejemplares jóvenes y perdiendo consistencia con la edad. Posee un anillo fugaz que más bien resulta ser zona cortiniforme, y que delimita claramente la zona lisa de la escamada.",
+        "flesh": "Carne más bien escasa de color blanco en el sombrero y rosada en el pie, con tonos vinosos en la base del mismo, tiene olor débil y sabor dulce."
+    },
+    "habitat": "Hemos constatado una proliferación estos últimos años de esta especie en jardines públicos y zonas ruderales en general, lo que ha dado lugar a casos conocidos de graves intoxicaciones. Habitualmente suele ser bastante heliófila, aunque entendemos que es un tanto cosmopolita, se referencia para ella un hábitat al borde de senderos con planifolios, sin embargo nuestra recolecta incluye un hábitat bajo coníferas, Picea abies y Pseudotsuga menziesii.",
+    "observations": "Especie perteneciente a la sección ovisporae,formada por una serie de especies de difícil catalogación macroscópica, por lo que se hace indispensable el estudio microscópico. Tienen todas ellas, sin embargo, un denominador común, su alta toxicidad que puede llegar a causar la muerte en el ser humano en caso de ingesta. Se caracteriza por su anillo fugaz o zona cortiniforme, su escamado purpura o rojizo, su olor débil y arista laminar crenulada. Hay muchas especies parecidas también tóxicas o mortales como Lepiota helveola o Lepiota subincarnata, no confundir con las Macrolepiotas comestibles como Macrolepiota procera, gracilenta, mastoidea etc..., siempre de mayor tamaño, con anillo bien patente y sin escamado púrpura.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/lepiota_brunneoincarnata/lepiota_brunneoincarnata1.jpg",
+        "https://www.fungipedia.org/images/galerias/lepiota_brunneoincarnata/lepiota_brunneoincarnata2.jpg",
+        "https://www.fungipedia.org/images/galerias/lepiota_brunneoincarnata/lepiota_brunneoincarnata3.jpg",
+        "https://www.fungipedia.org/images/galerias/lepiota_brunneoincarnata/lepiota_brunneoincarnata4.jpg",
+        "https://www.fungipedia.org/images/galerias/lepiota_brunneoincarnata/lepiota_brunneoincarnata5.jpg",
+        "https://www.fungipedia.org/images/galerias/lepiota_brunneoincarnata/lepiota_brunneoincarnata6.jpg"
+    ]
+}

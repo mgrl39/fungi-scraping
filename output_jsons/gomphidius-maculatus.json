@@ -1,0 +1,31 @@
+{
+    "name": "gomphidius-maculatus",
+    "title": null,
+    "author": "(Scop.) Fr.",
+    "additional_info": {
+        "common_name": "Gonfidio manchado, alertze-lerdeki.",
+        "synonym": "Gomphidius gracilis Berk."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Boletales",
+        "Familia": "Gomphidiaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero cuyo diámetro medio es de unos 5 cm, de forma ocasional algunos ejemplares pueden aproximarse a los 10 mientras que otros apenas llegan a los 3 cm. Inicialmente de forma convexa con el centro algo giboso pero no mamelonado, se aplana con el tiempo, llegando la zona central incluso a deprimirse un tanto. Su superficie es viscosa en tiempo lluvioso pero no glutinosa, siendo un poco satinada y seca sin lluvia. Tiene un color blanquecino con matiz grisáceo en los individuos jóvenes, manchándose de negro o de rosa pardo con la manipulación, al final del ciclo vital el color negruzco prevalece despareciendo el blanco inicial. Margen involuto en los ejemplares jóvenes.",
+        "hymenium": "Láminas decurrentes, gruesas y relativamente espaciadas, en un principio de color blanquecino, manchándose en las zonas dañadas de un color entre rosa y rojizo. Presentan una marcada tendencia al ennegrecimiento, volviéndose prácticamente negras en los ejemplares más maduros.",
+        "stipe": "Pie de tamaño proporcionado al sombrero, delgado y algo atenuado en la base, lleno. Tiene color blanco, patente sobre todo en el tercio superior, ya que el resto está recubierto de escamas pardas que ennegrecen, volviéndose con el tiempo de un color pardo sucio. No es viscoso, y la base se tiñe claramente de color amarillo.",
+        "flesh": "Carne más bien espesa, consistente, de color blanquecino, algo teñida de rosado bajo la cutícula en los ejemplares maduros y en la base del pie se torna de amarilla a color vinoso. No tiene un olor perceptible y su sabor es suave, dulce."
+    },
+    "habitat": "Es esta una seta que forma micorriza de manera exclusiva con los alerces (Larix sp). Fructifica generalmente en pequeños grupos, a finales de verano y sobre todo durante el otoño. Solemos verla cada año en plantaciones de Larix kaempferi (alerce del Japón) a una altura de 600 a 800 metros sobre el nivel del mar, en este hábitat exclusivo es una seta bastante frecuente.",
+    "observations": "La especie que les presentamos se caracteriza por su tamaño medio, su hábitat exclusivo bajo alerces, y la marcada tendencia a rojear y ennegrecer que tiene. Gomphidius glutinosus es más grande, no tiene tendencia a ennegrecer, su pie es mucilaginoso, y la base de este es más claramente amarilla que en la especie que les describimos en esta ficha. Gomphidius gracilis es tratado por algunos autores como especie independiente por sus láminas inmutables, creemos que se trata de una variedad de la misma especie.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/gomphidius_maculatus/gomphidius_maculatus1.jpg",
+        "https://www.fungipedia.org/images/galerias/gomphidius_maculatus/gomphidius_maculatus2.jpg",
+        "https://www.fungipedia.org/images/galerias/gomphidius_maculatus/gomphidius_maculatus3.jpg"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "name": "amanita-verna",
+    "title": null,
+    "author": "(Bull.) Lam.",
+    "additional_info": {
+        "common_name": "Cicuta blanca, hiltzaile goiztiar, cogomasa.",
+        "synonym": "Amanita bulbosa Persoon"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Agaricales",
+        "Familia": "Amanitaceae"
+    },
+    "edibility": "mortal",
+    "characteristics": {
+        "cap": "Sombrero de tamaño intermedio, su diámetro oscila entre los 5 y los 10 cm, de globoso o semiesférico hacia formas convexas, terminando finalmente por aplanarse, aunque lo hace solo en su etapa de desarrollo más avanzada, manteniendo largo tiempo su forma semiesférica. Es de color blanco, aunque puede ser crema pálido, sobre todo en estado adulto. Su cutícula es separable y fina, seca o brillante con lluvia, pero no viscosa. El borde es bastante regular y no está estriado.",
+        "hymenium": "Láminas libres con respecto al pie, de color blanco, bastante densas y apretadas, con laminillas intercaladas.",
+        "stipe": "Pie central y cilíndrico, de color blanco y proporcionado con respecto al sombrero, si bien hay veces que está muy enterrado y se presenta más alargado. Es liso o ligeramente adornado con escamitas concoloras. Presenta en el tercio superior un anillo membranoso de color blanco, y en la base una volva membranosa en forma de saco del mismo color. Es lleno de joven y después fistuloso.",
+        "flesh": "Carne blanca, poco espesa, con olor débil y sabor suave y dulce."
+    },
+    "habitat": "Crece durante la primavera en pinares o bosques de caducifolios, con predilección por los suelos ácidos. Es una especie poco frecuente en el norte de la península ibérica.",
+    "observations": "Perteneciente a la trilogía de las Amanitas mortales, un solo ejemplar puede matar a una persona sana. El aficionado poco avezado puede confundirla con algún champiñón, pero estos tienen las láminas rosadas y no tienen volva. Se están produciendo muchos casos de intoxicaciones confundiéndola con la Amanita ponderosa o gurumelo, especie de olor más pronunciado y típico cuya carne oxida. Como quiera que a veces las setas salen fuera de época, mencionaremos su notable parecido con la comestible Leucoagaricus leucothites, que posee un engrosamiento en la base, pero no una volva, y las láminas se tornan rosas por efecto de las esporas con la maduración. Muy parecida es la especie otoñal, también mortal, Amanita virosa.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/amanita_verna/amanita_verna1.jpg",
+        "https://www.fungipedia.org/images/galerias/amanita_verna/amanita_verna2.jpg"
+    ]
+}

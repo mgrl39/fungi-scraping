@@ -1,0 +1,31 @@
+{
+    "name": "calvatia-gigantea",
+    "title": null,
+    "author": "(Batsch) Lloyd.",
+    "additional_info": {
+        "common_name": "Bejín gigante, pedo de lobo gigante, artaputz erraldoi, bufa del diable.",
+        "synonym": "Bovista gigantea (Batsch) Gray"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Gasteromycetidae",
+        "Orden": "Lycoperdales",
+        "Familia": "Lycoperdaceae"
+    },
+    "edibility": "comestible",
+    "characteristics": {
+        "cap": "Carpóforo sésil no estipitado de tamaño ciertamente espectacular, se han encontrado ejemplares cuyo diámetro se aproximaba a los 100 cm, siendo relativamente frecuente encontrarlo de más de 50 cm, y su peso puede llegar a superar los 20 kilos. Su forma más habitual es subglobosa, hendido lateralmente, aunque también puede hallarse de forma netamente esférica, como si de un gran balón se tratase. La base está unida al sustrato por una especie de raicillas llamadas rizomorfos que tienden a endurecerse con el tiempo.",
+        "hymenium": "Exoperidio por lo general liso y de color blanco, pudiendo llegar a cuartearse algo con el tiempo, y a volverse algo más crema.",
+        "stipe": "Endoperidio poco grueso y bastante frágil, que se fragmenta con cierta facilidad, blanco, pero de color sucio una vez fragmentado.",
+        "flesh": "Gleba blanca y compacta cuando el espécimen es joven, se va ablandando de forma paulatina a la par que va adoptando tonos primero amarillentos, luego verdosos, y con la maduración se vuelve de color pardo amarillento y de consistencia pulverulenta."
+    },
+    "habitat": "Es una especie que fructifica sobre la hierba en praderas y zonas de pastos, de forma solitaria o en pequeños grupos. Puede aparecer a finales del verano o también durante la estación otoñal, no es demasiado abundante, si bien es cierto que aparece con cierta frecuencia.",
+    "observations": "Esta especie aparece frecuentemente en los medios de comunicación debido a la espectacularidad de su tamaño. Es comestible, siempre y cuando la gleba sea aún blanca y compacta, después se vuelve incomestible. Dadas sus peculiares características, forma, hábitat, y sobre todo su tamaño, entendemos que es una especie prácticamente inconfundible, todos sus congéneres son mucho más pequeños, incluyendo la especie Lycoperdon utriforme, de notable tamaño, pero sin alcanzar en modo alguno estas dimensiones.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/calvatia_gigantea/calvatia_gigantea1.jpg",
+        "https://www.fungipedia.org/images/galerias/calvatia_gigantea/calvatia_gigantea2.jpg",
+        "https://www.fungipedia.org/images/galerias/calvatia_gigantea/calvatia_gigantea3.jpg"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "name": "clavulinopsis-helvola",
+    "title": null,
+    "author": "(Pers.) Corner",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Clavaria helvola Pers"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Aphyllophoromycetidae",
+        "Orden": "Cantharellales",
+        "Familia": "Clavariaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Carpóforo formado por una estructura simple no ramificada en forma de hilo erecto, o con forma de clava aplastada en los ejemplares adultos. No se aprecia diferenciación visual entre la zona basal estéril y la parte fértil del mismo. Su color es de amarillo a naranja pálido o color yema de huevo, hemos observado que los especímenes más expuestos a la incidencia de la luz solar son más anaranjados que los que se ocultan entre la hierba, de color netamente amarillo. El ápice es concoloro y redondeado.",
+        "hymenium": "Himenio enclavado en la pileipellis del carpóforo, ocupando los dos tercios superiores del mismo, solo la base es estéril.",
+        "stipe": "Pie inexistente como tal.",
+        "flesh": "Carne más consistente que otras especies afines, incluso fibrosa, el carpóforo es lleno. Carece de un olor apreciable y su sabor es dulce y suave."
+    },
+    "habitat": "Es una seta que aparece a lo largo del otoño, fructificando en praderas de pastos y zonas herbosas. Es una seta rara, de difícil localización, que además se camufla muy bien entre la hierba.",
+    "observations": "Es esta una especie que precisa del correspondiente análisis microscópico para su correcta clasificación. Sus esporas provistas de gruesas verrugas la identifican perfectamente. Guarda mucho parecido con la Clavulinopsis laeticolor, de esporas sin verrugas y con apículo lateral. También se parece a la Clavulinopsis luteoalba, de esporas lisas y elípticas. Existe una variedad de esta especie, la var. geoglossoides, menos estilizada y surcada longitudinalmente.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/clavulinopsis_helvola/clavulinopsis_helvola1.jpg",
+        "https://www.fungipedia.org/images/galerias/clavulinopsis_helvola/clavulinopsis_helvola2.jpg"
+    ]
+}

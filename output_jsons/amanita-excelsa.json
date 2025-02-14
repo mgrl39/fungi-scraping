@@ -1,0 +1,31 @@
+{
+    "name": "amanita-excelsa",
+    "title": null,
+    "author": "(Fr.) Bertill.",
+    "additional_info": {
+        "common_name": "Oronja de pie grueso, lanperna ilun, cua de cavall grossa.",
+        "synonym": "Amanita excelsa var. spissa (Fr.) Neville & Poumarat"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Agaricales",
+        "Familia": "Amanitaceae"
+    },
+    "edibility": "comestible",
+    "characteristics": {
+        "cap": "Sombrero de hasta 15 cm de diámetro, emerge de la volva, hemisférico, después es convexo y finalmente aplanado. Cuando la encontramos bajo planifolios es netamente gris, más ocre cuando se encuentra bajo coníferas, recubierta su cutícula con todos los restos de la volva, ya que en el pie apenas se queda nada, estos restos son de color blanco grisáceo. Su cutícula es separable y no está estriada.",
+        "hymenium": "Láminas de color blanco, libres con respecto al pie, anchas y redondeadas junto al borde del sombrero.",
+        "stipe": "Pie central y cilíndrico, proporcional al tamaño del sombrero, recubierto por escamas pardo grisáceas, engrosado en la base en una especie de bulbo. Su volva apenas es perceptible sobre el bulbo napiforme. Está adornado con un anillo amplio y persistente, de color blanco y estriado.",
+        "flesh": "Carne gruesa y compacta, firme sobre todo en el sombrero, de sabor suave y olor a patata o rábano."
+    },
+    "habitat": "La encontramos habitualmente tanto en bosques de coníferas como de caducifolios. Su época de aparición es el verano y el otoño. Es una especie común que suele brotar en grupos.",
+    "observations": "Es una especie comestible aunque de muy baja entidad culinaria. La confusión más peligrosa de esta especie es con la Amanita pantherina, especie muy tóxica que no tiene bulbo napiforme ni huele a patata, tiene además el margen del sombrero estriado. Amanita rubescens es también muy parecida, aunque se diferencian por la marcada tendencia al enrojecimiento que tiene esta última.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/amanita_excelsa/amanita_excelsa1.jpg",
+        "https://www.fungipedia.org/images/galerias/amanita_excelsa/amanita_excelsa2.jpg",
+        "https://www.fungipedia.org/images/galerias/amanita_excelsa/amanita_excelsa3.jpg"
+    ]
+}

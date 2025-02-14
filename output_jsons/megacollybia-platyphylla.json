@@ -1,0 +1,31 @@
+{
+    "name": "megacollybia-platyphylla",
+    "title": null,
+    "author": "(Pers.) Kotl. & Pouzar",
+    "additional_info": {
+        "common_name": "Collibia de sombrero estriado, kolibia sustraitsu.",
+        "synonym": "Collybia platyphylla (Pers.) P. Kumm."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Tricholomatales",
+        "Familia": "Marasmiaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero grande para su género, sobrepasa con frecuencia los 10 cm de diámetro, de hemisférico a convexo, y finalmente aplanado. Suele tener color marrón con claro matiz oliváceo, pero es muy variable en función del grado de hidratación del ejemplar. Lo que no varía es el hecho de estar fibrilado radialmente de forma clara, siendo estas fibras más oscuras que el fondo. Además es habitual encontrar especímenes con la cutícula resquebrajada radialmente.",
+        "hymenium": "Láminas adnatas de color blancuzco, muy separadas entre sí, ventrudas y anchas. De viejas se ensucian con tonos cremas u ocres.",
+        "stipe": "Pie alargado y liso de color similar al del sombrero o algo más claro, igualmente fibriloso, cilíndrico o un poco ensanchado en la base. Es bastante robusto y posee en su terminación unos cordones miceliares característicos.",
+        "flesh": "Carne muy poco consistente que se embebe con facilidad, sin ningún olor digno de mención y con sabor suave."
+    },
+    "habitat": "Es una especie muy frecuente y abundante en bosques de planifolios, más rara bajo pinos. Se la puede encontrar desde la primavera hasta casi el comienzo del invierno, y se comporta de forma saprófita sobre restos leñosos en descomposición.",
+    "observations": "Es una de esas setas que te aburres de ver cuando vas al monte, y encima no vale para la cocina por la escasa consistencia de su carne. Consideramos difícil su confusión con cualquier otra Collybia, no así con algún Pluteus, pero no debemos olvidar que estos tienen la esporada rosa, color del que se tiñen las láminas con la maduración.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/megacollybia_platyphylla/megacollybia_platyphylla1.jpg",
+        "https://www.fungipedia.org/images/galerias/megacollybia_platyphylla/megacollybia_platyphylla2.jpg",
+        "https://www.fungipedia.org/images/galerias/megacollybia_platyphylla/megacollybia_platyphylla3.jpg"
+    ]
+}

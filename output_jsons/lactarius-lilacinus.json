@@ -1,0 +1,31 @@
+{
+    "name": "lactarius-lilacinus",
+    "title": null,
+    "author": "(Lasch.) Fr.",
+    "additional_info": {
+        "common_name": "Lactario lila.",
+        "synonym": "Lactarius mitificus Britzelm."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Russulales",
+        "Familia": "Russulaceae"
+    },
+    "edibility": "no-comestible",
+    "characteristics": {
+        "cap": "Sombrero de tamaño medio, puede superar los 5 cm de diámetro. En un principio es convexo, luego aplanado y finalmente deprimido por su zona central, con el margen ondulado irregularmente. No suele poseer mamelón, y su cutícula es seca, sin brillo, de un bello color rosa-lila cuando el espécimen está hidratado, deviniéndose en un ocre rosado en época de sequía.",
+        "hymenium": "Láminas adnatas o ligeramente decurrentes, muy poco apretadas y con laminillas, de color crema anaranjado de joven, se vuelven con el tiempo del mismo color que el sombrero.",
+        "stipe": "Pie central, cilíndrico, se vuelve hueco bastante rápido, de color ocre rosado a lila, muchas veces está curvado.",
+        "flesh": "Carne de color blanquecino, consistente y quebradiza, algo lila en la primera capa bajo la cutícula. Exuda un látex tardíamente acrescente y acuoso, que al secarse adopta un color gris con matices verdosos. Olor fuerte de achicoria y sabor primero dulce, y al de un rato picante."
+    },
+    "habitat": "Esta seta mora bajo abedules, alisos, y ocasionalmente bajo hayas, en zonas muy húmedas y cubiertas de musgo. Es una seta otoñal y poco frecuente.",
+    "observations": "Existe también bajo abedules, sobre todo en la zona de montaña, una especie similar a esta, el Lactarius spinosulus, que no tiene el olor de esta especie, y cuyo sombrero es pequeño y mamelonado, además de escamado. El Lactarius glyciosmus tiene cierto parecido, pero su olor a coco lo delata al instante.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/lactarius_lilacinus/lactarius_lilacinus1.jpg",
+        "https://www.fungipedia.org/images/galerias/lactarius_lilacinus/lactarius_lilacinus2.jpg",
+        "https://www.fungipedia.org/images/galerias/lactarius_lilacinus/lactarius_lilacinus3.jpg"
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "name": "lactarius-volemus",
+    "title": null,
+    "author": "(Fr.) Fr.",
+    "additional_info": {
+        "common_name": "Lactario anaranjado, rebollón anaranjado, esnato, lleterola roja.",
+        "synonym": "Agaricus volemus Fr."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Russulales",
+        "Familia": "Russulaceae"
+    },
+    "edibility": "comestible",
+    "characteristics": {
+        "cap": "Sombrero que si bien existen formas ecológicas más pequeñas, lo habitual es que tenga un diámetro que oscila entre los 5 y los 10 cm en los ejemplares adultos. Tiene una forma predominante convexa, pero los especímenes viejos se deprimen por la zona central. Su superficie es muy seca y apenas rugulosa, de color que va del naranja rojizo o pardo rojizo de joven al naranja pálido con matiz ocráceo de adulto, finamente pubescente o aterciopelada en los individuos jóvenes, con el paso del tiempo tiende a perder esta pubescencia, e incluso llega a resquebrajarse en época de sequía. Margen algo involuto de joven, después liso y uniforme, del mismo color que el resto.",
+        "hymenium": "Láminas adnatas o ligeramente decurrentes y relativamente apretadas entre sí, de color crema con un ligero matiz amarillento. El látex que pueden exudar, al secarse sobre ellas provoca la presencia de manchas de color pardo.",
+        "stipe": "Pie macizo y lleno, pruinoso, de color similar al sombrero o algo más pálido, blanquecino en la zona próxima a las láminas.",
+        "flesh": "Carne espesa, compacta y maciza, de textura quebradiza, tiene un color pálido, crema. Exuda un abundante látex de color blanco y muy fluido que al secarse sobre diversas partes se torna pardo. El sabor tanto de la carne como del látex es dulce, y el olor es propio y muy destacado, no demasiado agradable."
+    },
+    "habitat": "Se trata de una especie rara bajo coníferas, habitual sin embargo bajo planifolios diversos en el norte de la península ibérica, nosotros solemos hallarla sobre todo en robledales, aunque también puede salir en hayedos o castañares. Esencialmente es una seta de verano, bastante termófila, si bien puede salir también en la primera parte del otoño. Suele salir aislada o en grupos no muy numerosos.",
+    "observations": "A pesar del olor es una seta comestible, uno de los pocos Lactarius de látex blanco que se pueden consumir. En la otra mitad de la península ibérica, en el centro y sur, aparece una especie de similares características macroscópicas, el Lactarius rugatus, superior como comestible a la presente, y que se diferencia por su color más vivo, la superficie del sombrero rugosa, su olor débil, y microscópicamente por sus esporas elipsoidales algo verrucosas, siendo en la especie que aquí les presentamos globosas y reticuladas. Otra posible confusión más peligrosa es el Lactarius torminosus, una especie tóxica de sombrero zonado e hirsuto.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/lactarius_volemus/lactarius_volemus1.jpg",
+        "https://www.fungipedia.org/images/galerias/lactarius_volemus/lactarius_volemus2.jpg",
+        "https://www.fungipedia.org/images/galerias/lactarius_volemus/lactarius_volemus3.jpg",
+        "https://www.fungipedia.org/images/galerias/lactarius_volemus/lactarius_volemus4.jpg",
+        "https://www.fungipedia.org/images/galerias/lactarius_volemus/lactarius_volemus5.jpg",
+        "https://www.fungipedia.org/images/galerias/lactarius_volemus/lactarius_volemus6.jpg"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "gomphidius-roseus",
+    "title": null,
+    "author": "(Fr.) Fr.",
+    "additional_info": {
+        "common_name": "Gonfidio rosa, lerdeki arrosa.",
+        "synonym": "Gomphus glutinosus var roseus (Fr.) P. Kumm."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Boletales",
+        "Familia": "Gomphidiaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero de pequeño tamaño para su género, normalmente los ejemplares adultos tienen un diámetro que oscila entre los 2 y los 4 cm, ocasionalmente hasta 5 cm. Desde su nacimiento tiene una forma convexa, aplanándose posteriormente e incluso deprimiéndose un tanto los ejemplares más maduros. El color de su superficie es ciertamente llamativo, rojo intenso con cierto matiz rosado, bastante uniforme, contrastando de manera notable con el resto del carpóforo que es blanco. Cutícula brillante y algo viscosa con lluvia, lisa y glabra, y margen involuto en los individuos más jóvenes evolucionando hasta quedar en los ejemplares maduros realzado.",
+        "hymenium": "Láminas decurrentes, notablemente separadas entre sí, muy gruesas y de aspecto ceroso, de jóvenes de color blanco casi inmaculado, deviniendo con la maduración esporal a un color gris oscuro con matiz lilacino u oliváceo.",
+        "stipe": "Pie corto, muchas veces apenas supera los 2 cm de largo, lleno y atenuado hacia la base. Es de color blanco, pudiendo presentar matiz rosado en alguna de sus partes y una zona micelial amarillenta. Posee un velo concolor muy patente en lo individuos jóvenes, casi a modo de anillo, que con el tiempo tiende a quedar como una zona cortiniforme adpresa.",
+        "flesh": "Carne espesa y consistente para lo pequeña que es la seta, de color blanco, rosada bajo la cutícula. Tiene un sabor suave y dulce, siendo su olor apenas perceptible."
+    },
+    "habitat": "Es una especie que hemos observado siempre en las mismas circunstancias sin excepción, en bosques de pinos y directamente relacionada con los micelios de Suillus bovinus, está por dilucidar si la relación que mantienen ambas especies es de tipo simbiótica o parasítica, aunque en principio hemos observado que los micelios de los Suillus siguen fructificando en años posteriores, no parece por tanto afectarles la aparición de los Gomphidius roseus. Es una especie muy rara que hemos visto siempre durante el otoño.",
+    "observations": "Especie de los Boletales con láminas caracterizada por su llamativo color rojo intenso y brillante, su pequeño tamaño, y por crecer siempre en relación con los micelios de Suillus bovinus. Su confusión con otras especies es improbable, tan solo el Chroogomphus fulmineus tiene un color rojizo llamativo, pero se trata de una especie cuyo tamaño puede triplicar a la presente y sus láminas y pie no son de color blanco.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/gomphidius_roseus/gomphidius_roseus1.jpg",
+        "https://www.fungipedia.org/images/galerias/gomphidius_roseus/gomphidius_roseus2.jpg",
+        "https://www.fungipedia.org/images/galerias/gomphidius_roseus/gomphidius_roseus3.jpg"
+    ]
+}

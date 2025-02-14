@@ -1,0 +1,34 @@
+{
+    "name": "tubaria-cistophila",
+    "title": null,
+    "author": "Cheype",
+    "additional_info": {
+        "common_name": "Tubaria de las jaras",
+        "synonym": "Ninguno."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Cortinariales",
+        "Familia": "Tubariaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero de pequeñas dimensiones, el diámetro de los ejemplares recolectados oscila entre los 5 y los 12 mm, rara vez se pueden encontrar ejemplares algo más grandes. Claramente convexo en los especímenes jóvenes, aplanándose con el desarrollo, pudiendo tener una ligera depresión central en los más viejos. Cutícula bastante pruinosa pero escasamente floconosa, subvelutina, con el tiempo tiende a perder el velo, de color variable según hidratación, dentro de los tonos ocres o marrones, con matiz miel de joven y marrón ocráceo al secarse, generalmente más claro hacia el margen. Margen bastante regular que puede ser algo crenulado.",
+        "hymenium": "Láminas subdecurrentes en los especímenes jóvenes y después claramente decurrentes, bastante separadas entre sí y con numerosas lamélulas, de color pálido al principio, luego ocre miel y al final marrón ocráceo, desarrollo de color similar a otras Tubarias, de rectas a arqueadas, con la arista entera y concolora.",
+        "stipe": "Pie cilíndrico, de largo suele oscilar entre los 2 y 3 cm por apenas un par de mm de grosor, fistuloso como otros congéneres, de color marrón algo más oscuro que el sombrero, a veces con zona cortiniforme y las más sin ella, bastante pruinoso, sobre todo en el ápice, aunque tiende a perder la pruina con el tiempo hasta quedar liso.",
+        "flesh": "Carne escasa, frágil y poco consistente de color ocre, más fibrosa en el pie, tiene un olor fúngico suave y sabor análogo."
+    },
+    "habitat": "Estamos ante una especie saprófita ligada de manera exclusiva con las jaras (Cistus sp.), por lo que es más fácil su localización en clima mediterráneo donde abundan estas, se trata sin embargo de la primera cita para el País Vasco. Localizada bajo Cistus albidus en Fontecha (Alava), en un encinar calcáreo pero en zona despoblada de arbolado, con la sola presencia de las jaras y numerosos briofitos. Especie rara y a proteger al igual que su ecosistema, sobre todo en zonas del norte, como es el caso, donde es muy escaso. Salía en grupo reducido de unos pocos ejemplares y fue localizada en el mes de diciembre.",
+    "observations": "Especie rara y que precisa de protección, caracterizada por su pequeño tamaño, sus láminas más o menos decurrentes y separadas, y dentro del género por su hábitat exclusivo. Ese mismo día localizamos otras especies de Tubaria con las que puede ser confundida, Tubaria hiemalis, mucho más grande y con restos floconosos en el borde del sombrero, Tubaria conspersa que es también más velutina y algo más grande, con tonos mates en el sombrero, también se puede confundir con otras especies que se encontraban en las proximidades como diversos Conocybes, Galerinas, o con Flammulaster sp..",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/tubaria_cistophila/tubaria_cistophila1.jpg",
+        "https://www.fungipedia.org/images/galerias/tubaria_cistophila/tubaria_cistophila2.jpg",
+        "https://www.fungipedia.org/images/galerias/tubaria_cistophila/tubaria_cistophila3.jpg",
+        "https://www.fungipedia.org/images/galerias/tubaria_cistophila/tubaria_cistophila4.jpg",
+        "https://www.fungipedia.org/images/galerias/tubaria_cistophila/tubaria_cistophila5.jpg",
+        "https://www.fungipedia.org/images/galerias/tubaria_cistophila/tubaria_cistophila6.jpg"
+    ]
+}

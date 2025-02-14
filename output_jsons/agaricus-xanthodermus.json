@@ -1,0 +1,31 @@
+{
+    "name": "agaricus-xanthodermus",
+    "title": null,
+    "author": "(Genevier)",
+    "additional_info": {
+        "common_name": "Champiñón amarilleante.",
+        "synonym": "Psalliota xanthoderma (Gen.) Rich. y Roze."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Agaricales",
+        "Familia": "Agaricaceae"
+    },
+    "edibility": "toxica",
+    "characteristics": {
+        "cap": "Sombrero que puede superar los 10 cm, de color predominantemente blanco, aunque existen variedades con tonos más grises. La parte superior es típicamente aplanada confiriéndole al sombrero una forma de trapecio o \"casco alemán\". El margen es un poco lobulado y a veces resquebrajado. Se mancha vivamente de amarillo con solo frotarlo.",
+        "hymenium": "Láminas apretadas, de color gris, color que además se mantiene durante mucho tiempo, solo al final rosa-pardas y marrón -negruzcas como todos los Agaricus. Libres con respecto al pie.",
+        "stipe": "Pie central y cilíndrico, bastante alargado y terminado en forma bulbosa en la base, de color blanco y con un anillo persistente del mismo color. Si lo cortamos por la base se tiñe rápidamente de un amarillo muy vivo.",
+        "flesh": "Carne blanca y espesa, amarilleante y con un olor nada agradable, que sin embargo a veces es débil si el espécimen es muy joven y fresco. Sabor también desagradable."
+    },
+    "habitat": "Acostumbra a salir desde finales del verano hasta avanzado el otoño, normalmente en \"corros de bruja\". Suele aparecer en prados, jardines, zonas ruderales, y también la hemos visto salir con profusión en escombreras.",
+    "observations": "Es una especie ligeramente tóxica, aunque nos consta que en muchos sitios se la han comido durante décadas confundiéndola con el Agaricus campestris. Produce trastornos gástricos leves. Se puede confundir con cualquier agárico que amarillee, pero normalmente suelen oler a anís.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/agaricus_xanthodermus/agaricus_xanthodermus1.jpg",
+        "https://www.fungipedia.org/images/galerias/agaricus_xanthodermus/agaricus_xanthodermus2.jpg",
+        "https://www.fungipedia.org/images/galerias/agaricus_xanthodermus/agaricus_xanthodermus3.jpg"
+    ]
+}

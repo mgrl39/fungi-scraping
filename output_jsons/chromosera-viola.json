@@ -1,0 +1,33 @@
+{
+    "name": "chromosera-viola",
+    "title": null,
+    "author": "(J. Geesink & Bas) Vizzini & Ercole",
+    "additional_info": {
+        "common_name": "Hygroforo violeta",
+        "synonym": "Hygrocybe viola J. Geesink & Bas"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Agaricales",
+        "Familia": "Hygrophoraceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero de pequeñas dimensiones, el diámetro de los ejemplares oscila entre 0´5 y 2´5 (3)cm, de color bastante uniforme, solo el centro puede adquirir un tono algo más oscuro, aunque variable en función del grado de humedad, desde rosa o salmón hasta lila o violeta, muy vistoso, palideciendo al secarse. Los ejemplares más jóvenes tienen forma algo convexa o plano-convexa, después se muestra aplanado, para al final deprimirse un tanto. Superficie lisa y glabra, de aspecto brillante y ligeramente viscosa con lluvia, sino seca. Margen algo crenulado y muy estriado, prácticamente en la totalidad de la superficie, salvo una pequeña parte en la zona central.",
+        "hymenium": "Láminas que se muestran muy decurrentes sobre el pie, con el aspecto cereo habitual de las especies de su género, muy separadas entre sí y con algunas laminillas intercaladas. Son del mismo color del sombrero, uniformes y con la arista entera y concolora, pueden ser algo intervenadas, pero este es un carácter aleatorio.",
+        "stipe": "Pie cilíndrico y alargado, pudiendo duplicar de largo el diámetro del sombrero, de disposición central con respecto al mismo, a veces tiende a estrecharse en la zona basal. Tiene un color análogo al resto del carpóforo, liso o ligeramente fibriloso. Puede ser algo viscoso con lluvia como el sombrero.",
+        "flesh": "Carne escasa e inmutable tanto al corte como al roce, frágil, prácticamente inexistente en el sombrero, fibrosa en el pie, de color similar a la zona externa de los basidiomas. Su olor es suave, poco significativo, y su sabor es neutro."
+    },
+    "habitat": "Esta especie constituye una \"rara avis\" dentro de su género, dado que las demás especies de Chromosera suelen fructificar sobre restos leñosos o directamente sobre la madera, y esta es extrictamente terrestre. Recolecta efectuada por Juan Andrés Román en un talud musgoso dentro de un hayedo acidófilo en Altube (Araba). Suele aparecer en grupos más o menos numerosos durante el otoño o principio del invierno, se trata de una especie muy poco común y por lo tanto a proteger.",
+    "observations": "Especie que taxonomicamente ha pasado por varios géneros diferentes, de Omphalina a Hygrocybe, siendo reconvertida merced a estudios filogenéticos a Chromosera, género constituido en la actualidad por tan solo 5 especies. Por el color uniforme, a la par que bello, de todo el basidioma, y el conjunto de sus características macroscópicas es una especie difícilmente confundible con otra, si bien hay algún Hygrocybe, como Hygrocybe calyptriformis, que si posee tonos rosados.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/chromosera_viola/chromosera_viola1.jpg",
+        "https://www.fungipedia.org/images/galerias/chromosera_viola/chromosera_viola2.jpg",
+        "https://www.fungipedia.org/images/galerias/chromosera_viola/chromosera_viola3.jpg",
+        "https://www.fungipedia.org/images/galerias/chromosera_viola/chromosera_viola4.jpg",
+        "https://www.fungipedia.org/images/galerias/chromosera_viola/chromosera_viola5.jpg"
+    ]
+}

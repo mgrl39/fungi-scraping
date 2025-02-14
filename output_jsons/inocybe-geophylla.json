@@ -1,0 +1,31 @@
+{
+    "name": "inocybe-geophylla",
+    "title": null,
+    "author": "(Fr.) P. Kumm.",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Inocybe clarkii (Berk. & Broome) Sacc."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Cortinariales",
+        "Familia": "Cortinariaceae"
+    },
+    "edibility": "toxica",
+    "characteristics": {
+        "cap": "Sombrero de pequeño tamaño, en raras ocasiones alcanza los 5 cm de diámetro, de forma cónica en su primera etapa, después convexo y al final aplanado, pero manteniendo en el centro un mamelón agudo muy apreciable. En la especie tipo es de color blanco puro, aunque existe una variedad con tonos lilas. Su superficie es fibrilosa sedosa, sobre todo de joven, y de apariencia muy seca. No es infrecuente encontrar restos de cortina en el margen.",
+        "hymenium": "Láminas adnatas o algo escotadas, sinuosas y con laminillas, de color blanco sucio o grisáceo antes de la maduración de las esporas, después ocráceas o parduzcas.",
+        "stipe": "Pie cilíndrico y alargado de color blanco, finamente sedoso, con un engrosamiento bulboso en la base. Puede amarillear en la unión micelial y es hueco desde joven. Restos de cortina en el tercio superior que son fugaces, tienden a desaparecer rápidamente.",
+        "flesh": "Carne inconsistente, de poco espesor y color blanco, con olor espermático y sabor dulce."
+    },
+    "habitat": "Es con toda probabilidad uno de los Inocybes más frecuente y abundante. La hemos observado en prácticamente todo tipo de hábitat, desde el alerce, donde forma alfombras, hasta los planifolios, fructificando preferentemente durante el otoño.",
+    "observations": "Esta seta es notablemente tóxica debido a la alta concentración de muscarina que posee, similar a la de algunos Clitocybes blancos. Los síntomas de esta intoxicación son la sudoración y cuadros gastrointestinales severos, pudiendo en casos extremos provocar convulsiones. Es una seta que se reconoce con cierta facilidad, algo insólito en su género.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/inocybe_geophylla/inocybe_geophylla1.jpg",
+        "https://www.fungipedia.org/images/galerias/inocybe_geophylla/inocybe_geophylla2.jpg",
+        "https://www.fungipedia.org/images/galerias/inocybe_geophylla/inocybe_geophylla3.jpg"
+    ]
+}

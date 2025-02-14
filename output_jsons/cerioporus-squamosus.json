@@ -1,0 +1,34 @@
+{
+    "name": "cerioporus-squamosus",
+    "title": null,
+    "author": "(Huds.) Quél.",
+    "additional_info": {
+        "common_name": "Poliporo escamoso, ardagai ezkatatsu-handi, bolet de noger.",
+        "synonym": "Polyporus squamosus (Huds.) Fr."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Aphyllophoromycetidae",
+        "Orden": "Poriales",
+        "Familia": "Polyporaceae"
+    },
+    "edibility": "comestible",
+    "characteristics": {
+        "cap": "Sombrero muy grande, se han recolectado ejemplares cuyo tamaño era próximo a los 50 cm de diámetro, si bien lo habitual es que en pleno desarrollo alcancen entre 25 y 35 cm. Tiene forma dimidiada o de riñón, adherida lateralmente al sustrato a través de un pequeño pie, y su color de fondo es ocre amarillento, pero está recubierto en su totalidad por escamas más o menos gruesas de color ocre más oscuro y distribución bastante regular. El margen permanece involuto por algún tiempo, después es extendido y fino. Todo el sombrero es de apariencia muy carnosa.",
+        "hymenium": "Himenio formado por tubos cortos de paredes laciniadas que decurren de forma notable sobre el pie, tienen un color ocráceo. Los poros son del mismo color o algo más claros, teniendo un tamaño de 1 o 2 por mm y una forma más bien angulosa.",
+        "stipe": "Pie de disposición variable, excéntrico o lateral, incluso central a veces, corto, lleno y macizo, al principio es de color blanquecino pero se va volviendo negro a partir de la base, llegando a ser totalmente negro en los especímenes viejos.",
+        "flesh": "Carne espesa en la zona próxima al sustrato, de hasta 5 cm de espesor en algunos casos, fina hacia el margen, de color ocre claro. En los ejemplares jóvenes es blanda y esponjosa, luego se va volviendo coriácea y de textura suberosa. Su sabor es dulce y agradable, sin embargo su olor es algo fuerte, como a rancio."
+    },
+    "habitat": "Es una especie que fructifica indefectiblemente sobre madera muerta de diversos árboles, o sobre árboles vivos en decadencia manifiesta, sobre todo si son de hoja caduca. Puede aparecer ya desde la primavera hasta avanzado el otoño, siendo una especie rara en nuestra zona pero frecuente en otras.",
+    "observations": "Los ejemplares muy jóvenes pueden llegar a ser consumidos con cierto agrado, pero en seguida se vuelven coriáceos, por lo que no es una seta demasiado apta para la cocina. Es una especie caracterizada por su gran tamaño y su sombrero escamoso, lo que entendemos que la distingue perfectamente de otras especies de su género, aun así destacaremos al Polyporus tuberaster, por ser una especie también de sombrero escamado, solo que es mucho más pequeña.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/cerioporus_squamosus/cerioporus_squamosus1.jpg",
+        "https://www.fungipedia.org/images/galerias/cerioporus_squamosus/cerioporus_squamosus2.jpg",
+        "https://www.fungipedia.org/images/galerias/cerioporus_squamosus/cerioporus_squamosus3.jpg",
+        "https://www.fungipedia.org/images/galerias/cerioporus_squamosus/cerioporus_squamosus4.jpg",
+        "https://www.fungipedia.org/images/galerias/cerioporus_squamosus/cerioporus_squamosus5.jpg",
+        "https://www.fungipedia.org/images/galerias/cerioporus_squamosus/cerioporus_squamosus6.jpg"
+    ]
+}

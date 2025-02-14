@@ -1,0 +1,31 @@
+{
+    "name": "inonotus-hispidus",
+    "title": null,
+    "author": "(Bull.) P. Karst.",
+    "additional_info": {
+        "common_name": "Yesquero erizado, bolet de soca vellutat, lizar ardagai iletsu, isca peluda.",
+        "synonym": "Polyporus hispidus (Bull.) Fr."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Aphyllophoromycetidae",
+        "Orden": "Hymenochaetales",
+        "Familia": "Hymenochaetaceae"
+    },
+    "edibility": "no-comestible",
+    "characteristics": {
+        "cap": "Carpóforo sésil, de crecimiento anual, con un tamaño que puede superar con creces los 20 cm de ancho y sobresalir del sustrato unos 10cm, con un espesor de unos 4 o 5 cm en la zona de unión con el sustrato. Tiene forma semicircular cuando se ha desarrollado, en su nacimiento tiene la apariencia de un nódulo del propio árbol. Es de color pardo rojizo, aunque este color varía de tonos más anaranjados de joven, hasta más marcadamente parduzcos de viejo. Su superficie está recubierta de pelos erizados apreciables a simple vista que perduran sobre el ejemplar sin llegar a desaparecer del todo ni cuando el espécimen es viejo.",
+        "hymenium": "Himenio formado por tubos y poros, los primeros relativamente largos de color ocre, los poros pequeños y más bien angulosos, de color ocráceo amarillento cuando son jóvenes, ocres de viejos. El tamaño de estos poros para hacernos una idea aproximada es de 2 o 3 por mm. En unas determinadas condiciones ambientales la superficie himenial exuda unas pequeñas gotas acuosas.",
+        "stipe": "Pie inexistente, se trata de una especie sésil.",
+        "flesh": "Carne espesa, de joven embebida y esponjosa, de color amarillento, con el tiempo se va secando y adoptando tonos ocres, a la par que se va endureciendo, aunque da apariencia de ser más dura de lo que en realidad es. Apenas tiene olor y no sabemos de nadie que la haya probado para ver a que sabe."
+    },
+    "habitat": "Este hongo fructifica sobre los troncos de árboles vivos de hoja caduca, robles, hayas, y también sobre frutales. Por el norte de la península ibérica suele salir en el mes de Agosto, si bien en otros lugares lo hace algo más tarde. Es una especie bastante frecuente.",
+    "observations": "Se caracteriza esta especie por los pelos erizados que tiene en la parte superior, lo que hace que pueda identificarse con relativa facilidad. Sobre troncos vivos de diversos planifolios fructifican también otras especies afines, como el Pseudoinonotus dryadeus, que exuda por su parte superior una gotas gruesas de color ámbar, mientras que la seta aquí descrita solo exuda pequeñas gotitas acuosas, y por el himenio, no por arriba. Existen también otros géneros que comparten hábitat, como Ganoderma o Phellinus.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/inonotus_hispidus/inonotus_hispidus1.jpg",
+        "https://www.fungipedia.org/images/galerias/inonotus_hispidus/inonotus_hispidus2.jpg",
+        "https://www.fungipedia.org/images/galerias/inonotus_hispidus/inonotus_hispidus3.jpg"
+    ]
+}

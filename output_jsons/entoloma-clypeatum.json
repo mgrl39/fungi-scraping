@@ -1,0 +1,30 @@
+{
+    "name": "entoloma-clypeatum",
+    "title": null,
+    "author": "(L.) P. Kumm.",
+    "additional_info": {
+        "common_name": "Rodofilo en forma de escudo.",
+        "synonym": "Entoloma fertile Sacc."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Pluteales",
+        "Familia": "Entolomataceae"
+    },
+    "edibility": "buen-comestible",
+    "characteristics": {
+        "cap": "Sombrero de hasta 10 cm de diámetro, de color pardo oscuro, a veces algo más claro y con matices oliváceos o grises. Su forma es aplanada y posee un mamelón central característico que le confiere forma de escudo, con el margen flexuoso u ondulado, es además higrófano.",
+        "hymenium": "Láminas adnatas y apretadas, de color crema o gris blanquecino que se vuelven rosas debido al color de las esporas. Redondeadas justo antes de llegar al pie y con la arista marcadamente irregular.",
+        "stipe": "Pie en principio blanquecino aunque tiende a agrisarse, e incluso puede mancharse de amarillo al ser manoseado, bastante robusto, algo curvado y fibroso. En ocasiones se presenta unido por la base a otros ejemplares, aunque consideramos que no debe considerarse como cespitoso.",
+        "flesh": "Carne blanquecina y tierna, que tiene buen sabor en crudo y un olor agradable harinoso no excesivamente fuerte."
+    },
+    "habitat": "Especie eminentemente primaveral, que suele aparecer ligada a plantas de la familia rosaceae, como son los rosales silvestres, el espino albar o los endrinos.",
+    "observations": "Esta especie es un buen comestible, recolectable exclusivamente por los expertos, pues su posible confusión con otros Entolomas la hace peligrosa. Se parece mucho al Entoloma rhodopolium, especie otoñal, aunque esto siempre es relativo, también se parece al Entoloma aprile, primaveral, cuyo rango mas diferenciado son las láminas, de borde regular y no redondeadas. Entoloma sinuatum es una especie otoñal que no tiene forma de escudo y de diferente hábitat.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/entoloma_clypeatum/entoloma_clypeatum1.jpg",
+        "https://www.fungipedia.org/images/galerias/entoloma_clypeatum/entoloma_clypeatum2.jpg"
+    ]
+}

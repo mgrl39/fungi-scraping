@@ -1,0 +1,31 @@
+{
+    "name": "hygrocybe-conicoides",
+    "title": null,
+    "author": "(P.D. Orton) P.D. Orton & Watling",
+    "additional_info": {
+        "common_name": "Hygróforo cónico de las dunas, ezko gorri-koniko.",
+        "synonym": "Hygrophorus conicoides P. D. Orton"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Tricholomatales",
+        "Familia": "Hygrophoraceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero más bien pequeño, no es habitual que su  diámetro exceda de los 4 cm, con forma completamente cónica en sus inicios, cónico-convexo con posterioridad, y al final prácticamente extendido y con mamelón agudo pronunciado. Aunque a veces puede adoptar matices más amarillos, lo más habitual es encontrar ejemplares de color rojo brillante, con el tiempo tendente a ennegrecer, sobre todo a partir de la zona central, su cutícula puede ser algo viscosa con lluvia. Margen que suele presentarse algo excedente, regular en ejemplares jóvenes y ondulándose irregularmente en los viejos.",
+        "hymenium": "Láminas generalmente libres, más bien separadas, como por otra parte es habitual en el género, anchas y ventrudas, rojizas o anaranjadas, aunque la arista suele tener un color amarillo que muchas veces se extiende más allá de la misma.",
+        "stipe": "Pie habitualmente más largo que el diámetro del sombrero, fibroso y hueco desde joven, cilíndrico, su color puede variar, es factible encontrar ejemplares con el pie amarillo y otros al lado de color rojo, e incluso tonos naranjas intermedios, hasta los dos colores en un mismo pie, la zona enterrada en la arena suele carecer de estos tonos. Tiene una marcada tendencia a ennegrecer a partir de la base, y también al ser manipulado.",
+        "flesh": "Carne escasa y frágil, fibrosa, de color rojizo o rosado en el sombrero, amarillenta en el pie y grisácea muchas veces en la base, con tendencia a ennegrecer. No tiene un olor apreciable y es totalmente insípida."
+    },
+    "habitat": "Se trata de una especie cuya ecología está indubitablemente ligada a las dunas litorales fijadas. Dado este particular hábitat, y la decadencia del mismo en nuestro entorno, hemos de considerarla como especie rara y a proteger, si bien en donde sale suele hacerlo en grupos numerosos. Suele aparecer en el otoño tardío o durante el invierno con más profusión.",
+    "observations": "El ecosistema de las dunas litorales ha sido seriamente vilipendiado en las últimas décadas con la proliferación turística y la plantación de especies alóctonas que van comiendo terreno paulatinamente a las zonas de dunas, es por ello que hemos de proteger este ecosistema y su micoflora. Puede confundirse con una especie mucho más extendida ecológicamente como es Hygrocybe conica, que es prácticamente idéntica salvo por el propio hábitat y su más clara y rápida tendencia a ennegrecer.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/hygrocybe_conicoides/hygrocybe_conicoides1.jpg",
+        "https://www.fungipedia.org/images/galerias/hygrocybe_conicoides/hygrocybe_conicoides2.jpg",
+        "https://www.fungipedia.org/images/galerias/hygrocybe_conicoides/hygrocybe_conicoides3.jpg"
+    ]
+}

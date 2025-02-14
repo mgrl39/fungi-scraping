@@ -1,0 +1,30 @@
+{
+    "name": "cystodermella-granulosa",
+    "title": null,
+    "author": "(Batsch) Harmaja",
+    "additional_info": {
+        "common_name": "Cistoderma granuloso.",
+        "synonym": "Cystoderma granulosum (Batsch) Fayod"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Tricholomatales",
+        "Familia": "Marasmiaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero de parecido tamaño que el resto de Cystodermas, unos 5 cm de diámetro en estado adulto, de forma convexa en un principio, después aplanada y con un mamelón más o menos marcado. Es de color un tanto variable, ocre parduzco a veces, otras de color rojizo mate con matices ocráceos. En todos los casos su superficie está decorada con gránulos bien marcados y definidos a modo de verrugas. El borde está festoneado generalmente, siendo estos festones de color más claro que el resto del sombrero.",
+        "hymenium": "Láminas adnatas y bastante apretadas de color blanco, tiznadas de rojizo pálido en ocasiones, un tanto ventrudas y con laminillas intercaladas.",
+        "stipe": "Pie generalmente un poco más largo que el diámetro del sombrero, provisto de un anillo de tacto algodonoso y fugaz. Por encima de este anillo es de color más claro, por debajo está recubierto de escamas de color pardo rojizo.",
+        "flesh": "Carne no demasiado consistente de color blanco, con sabor y olor poco destacables."
+    },
+    "habitat": "Fructifica en bosques de resinosos y también bajo planifolios diversos. Es una seta otoñal que debe considerarse como rara y poco frecuente.",
+    "observations": "Cuando tienes la ocasión de tener en la mano a la vez todos los Cystoderma, cosa que sucede en contadísimas ocasiones, se pueden diferenciar a simple vista, pero cuando coges solo uno suelto no es tan fácil. Este en concreto, se puede confundir con el Cystoderma cinnabarinum=Cystoderma terrei, de color rojo cinabrio y pie menos escamado, así como con el Cystoderma fallax, de anillo membranoso y persistente.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/cystodermella_granulosa/cystodermella_granulosa1.jpg",
+        "https://www.fungipedia.org/images/galerias/cystodermella_granulosa/cystodermella_granulosa2.jpg"
+    ]
+}

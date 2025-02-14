@@ -1,0 +1,34 @@
+{
+    "name": "rickenella-swartzii",
+    "title": null,
+    "author": "(Fr.) Kuyper",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Rickenella setipes (Fr.) Raith."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Tricholomatales",
+        "Familia": "Tricholomataceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero de pequeñísimo tamaño, rara vez llega a alcanzar 1 cm de diámetro, de forma convexa en sus primeros momentos, manteniendo el centro umbilicado, se va abriendo rápidamente hasta adoptar forma más aplanada. La zona central es de color pardo, aclarándose de forma notable hacia el margen, que es ocre claro. El margen se presenta estriado, pero esto es así porque es transparente, además es delgado y regular.",
+        "hymenium": "Láminas que decurren sobre el pie de manera notable, bastante separadas entre sí, de color claro, blanco sucio o algo amarillentas de viejas, con alguna laminilla intercalada.",
+        "stipe": "Pie desproporcionadamente alargado con respecto al sombrero, de sección longitudinal fistuloso, finamente velloso. Es de color oscuro en su parte superior, pardo, incluso con matices liláceos, mucho más claro hacia la base.",
+        "flesh": "Carne escasa, apenas apreciable, de color pardo u ocre claro, sin que podamos constatar un olor destacable, y su sabor es suave."
+    },
+    "habitat": "Es una especie que siempre hemos localizado sobre el musgo, con independencia de que tipo de árbol se trate, dato que juzgamos irrelevante en este caso, también en jardines, e incluso la hemos visto sobre el musgo que se generó en un muro de hormigón. Los ejemplares estudiados han sido localizados en el mes de mayo, pero es más frecuente su aparición durante el otoño. Especie mucho menos frecuente que la Rickenella fibula.",
+    "observations": "Se trata de una pequeña especie que en la mayoría de los casos pasa totalmente desapercibida entre el musgo, máxime cuando sus colores son mates, cosa que no sucede con la Rickenella fibula, que se localiza mejor debido a lo llamativo de su color. Es una especie difícilmente confundible, si acaso, macroscópicamente se puede parecer a algún Hygrocybe, pero estos en ningún caso son tan pequeños.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/rickenella_swartzii/rickenella_swartzii1.jpg",
+        "https://www.fungipedia.org/images/galerias/rickenella_swartzii/rickenella_swartzii2.jpg",
+        "https://www.fungipedia.org/images/galerias/rickenella_swartzii/rickenella_swartzii3.jpg",
+        "https://www.fungipedia.org/images/galerias/rickenella_swartzii/rickenella_swartzii4.jpg",
+        "https://www.fungipedia.org/images/galerias/rickenella_swartzii/rickenella_swartzii5.jpg",
+        "https://www.fungipedia.org/images/galerias/rickenella_swartzii/rickenella_swartzii6.jpg"
+    ]
+}

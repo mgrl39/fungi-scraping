@@ -1,0 +1,32 @@
+{
+    "name": "russula-caerulea",
+    "title": null,
+    "author": "Fr.",
+    "additional_info": {
+        "common_name": "Rusula amarga, gibelubel puntaduna.",
+        "synonym": "Russula amara Kucêra"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Russulales",
+        "Familia": "Russulaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero cuyo diámetro en estado adulto oscila entre los 5 y los 10 cm, al principio con forma cónica, adquiriendo forma de campana, luego convexo y finalmente plano, manteniendo a lo largo de todas las etapas de su crecimiento un mamelón muy resaltado en el centro. El color típico de esta especie es el púrpura, pero es un carácter absolutamente variable, encontrándose formas de colores que van desde el marrón hasta el rosa, e incluso formas blanquecinas. Cutícula lisa y separable, apenas fibrilosa, brillante en tiempo húmedo pero no viscosa, con el margen que puede estar estriado, pero no siempre lo está.",
+        "hymenium": "Láminas adnatas o sublibres, bastante apretadas entre sí, de color blanco en sus comienzos, después amarillentas y al final de color ocre amarillento.",
+        "stipe": "Pie proporcionado al sombrero, de color blanco y cilíndrico la mayoría de las veces. Es lleno, cavernoso de viejo, y algo pruinoso.",
+        "flesh": "Carne relativamente espesa y quebradiza de color blanco, dura, volviéndose esponjosa en el pie con el tiempo. Su olor es fúngico suave y su sabor dulce en el sombrero, aunque suele amargar de forma notable en la cutícula e incluso a veces en el pie, siendo este carácter un tanto aleatorio."
+    },
+    "habitat": "Se trata de una especie exclusiva de bosques de coníferas, sobre todo fructifica bajo pinos. Puede aparecer en el verano, pero es más frecuente durante el otoño. Es una seta muy frecuente y abundante, llegando en ocasiones a formar verdaderas \"alfombras\" en nuestros pinares.",
+    "observations": "A pesar de ser una Russula de carne dulce, no es comestible debido al amargor que desprende sobre todo la cutícula. Son muchas las setas que están provistas de un marcado mamelón en el centro del sombrero, sin embargo esta característica constituye una excepción dentro del género Russula, lo cual lleva a que sea una especie fácilmente reconocible por el aficionado. Tampoco es habitual que una Russula amargue, normalmente suelen picar o simplemente ser dulces, este es otro carácter diferenciador que la hace casi inconfundible.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/russula_caerulea/russula_caerulea1.jpg",
+        "https://www.fungipedia.org/images/galerias/russula_caerulea/russula_caerulea2.jpg",
+        "https://www.fungipedia.org/images/galerias/russula_caerulea/russula_caerulea3.jpg",
+        "https://www.fungipedia.org/images/galerias/russula_caerulea/russula_caerulea4.jpg"
+    ]
+}

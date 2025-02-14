@@ -1,0 +1,31 @@
+{
+    "name": "lachnellula-subtilissima",
+    "title": null,
+    "author": "(Cooke) Dennis",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Dasyscyphus subtilissimus (Cooke) Sacc."
+    },
+    "taxonomy": {
+        "División": "Ascomycota",
+        "Subdivisión": "Ascomycotina",
+        "Clase": "Himenoascomycetes",
+        "Subclase": "Pezizomycetidae",
+        "Orden": "Leotiales",
+        "Familia": "Hyaloscyphaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Ascocarpo pseudoestipitado de ínfimo tamaño, los ejemplares más desarrollados apenas llegan a alcanzar los 3 o 4 mm de diámetro, siendo muy habitual encontrarlos aun más pequeños, con forma esférica en sus orígenes, pero prontamente caliciforme. La cara externa está recubierta en su totalidad de pelos de color blanco que le confieren este color, y que se prolongan llegando a cubrir también el margen. Este margen es frecuente que esté un tanto involuto, sobre todo cuando los especímenes son jóvenes.",
+        "hymenium": "Himenio inmerso en la superficie interna, que es totalmente lisa y carente, por tanto, de la vellosidad exterior. Llama la atención el bello color amarillo, a veces con matiz anaranjado, de toda esta superficie interna.",
+        "stipe": "Pie evidente si la miras con detalle, por ejemplo con una lupa, sino puede llegar a pasar desapercibido, es concoloro y muy pequeño.",
+        "flesh": "Carne insignificante dada lo pequeño y poco carnoso que es este Ascomycete, sin olor evidente ni sabor destacable."
+    },
+    "habitat": "Es una especie bastante frecuente, pero que en la mayoría de los casos pasa inadvertida por su pequeño tamaño. Puede aparecer en cualquier época del año, pero es más abundante durante la primavera. Fructifica siempre ligada a la madera muerta de diversas coníferas, pinos o también píceas.",
+    "observations": "El género Lachnellula es muy afín al género Lachnum, del que apenas tiene unas pequeñas diferencias microscópicas, ligadas fundamentalmente a las paráfisis. Sobre los alerces fructifica la especie similar Lachnellula willkommii, al micro se distinguen muy bien, dado que sus esporas son enormes comparadas con las de la especie aquí descrita. La especie Arachnopeziza aurelia, de tamaño similar, tiene sin embargo los pelos exteriores de color amarillo dorado.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/lachnellula_subtilissima/lachnellula_subtilissima1.jpg",
+        "https://www.fungipedia.org/images/galerias/lachnellula_subtilissima/lachnellula_subtilissima2.jpg",
+        "https://www.fungipedia.org/images/galerias/lachnellula_subtilissima/lachnellula_subtilissima3.jpg"
+    ]
+}

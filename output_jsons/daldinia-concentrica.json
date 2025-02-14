@@ -1,0 +1,37 @@
+{
+    "name": "daldinia-concentrica",
+    "title": null,
+    "author": "(Bolton) Ces. & De Not.",
+    "additional_info": {
+        "common_name": "Bola de carbón, kimo mamizebratu.",
+        "synonym": "Sphaeria concentrica Bolton"
+    },
+    "taxonomy": {
+        "División": "Ascomycota",
+        "Subdivisión": "Ascomycotina",
+        "Clase": "Himenoascomycetes",
+        "Subclase": "Pyrenomycetidae",
+        "Orden": "Sphaeriales",
+        "Familia": "Sphaeriaceae"
+    },
+    "edibility": "no-comestible",
+    "characteristics": {
+        "cap": "Carpóforo sésil formado por estromas con una forma irregularmente globosa o hemisférica, con un diámetro que oscila de manera notable, algunos ejemplares apenas alcanzan 1,5 o 2 cm mientras que otros pueden aproximarse a los 5. La superficie es al principio rugosa y de color pardo herrumbroso, punteada por unos ostiolos visibles solo con lupa, después se vuelve completamente lisa y de un color negro brillante.",
+        "hymenium": "Himenio liso pero punteado por los ostiolos, parte visible que culmina los peritecios formando una capa de 1 mm aproximadamente en la zona periférica del carpóforo con una cobertura de aspecto similar al carbón. Es en estos peritecios donde se albergan las ascas que al madurar liberan las esporas a través de los ostiolos.",
+        "stipe": "Carne que en realidad es una trama de consistencia similar al carbón vegetal, sin apenas peso, formada por una serie de estratos bien diferenciados al corte transversal. En ejemplares jóvenes se aprecian perfectamente estratos de color grisáceo claro o plata alternando con otros de color muy negro dispuestos concéntricamente, sin embargo en los ejemplares viejos el color es más uniforme negruzco a pesar de apreciarse igualmente los distintos estratos.",
+        "flesh": "Especie que fructifica sobre madera muerta de diversos árboles planifolios, desde árboles de ribera como el chopo o el fresno hasta los robles. Acostumbra a aparecer en grupos más o menos numerosos sobre ramas o tocones, a veces en árboles enfermos erectos. No es un hongo demasiado frecuente ni abundante, aunque en el norte de la península ibérica se da con bastante regularidad. No tiene una época concreta de aparición, lo hace casi todo el año si las condiciones son óptimas."
+    },
+    "habitat": "Es una especie que se identifica con relativa facilidad una vez realizado un corte transversal a la misma observando su trama estratificada y concéntrica. Algunas especies del género Hypoxylon tienen formas similares y color, pero son mucho más pequeñas y no tienen esa trama. Daldinia vernicosa es una especie prácticamente idéntica, posee un pequeño pie y esporas de mayor tamaño, por lo demás es igual que la que describimos en esta ficha.",
+    "observations": null,
+    "images": [
+        "https://www.fungipedia.org/images/galerias/daldinia_concentrica/daldinia_concentrica1.jpg",
+        "https://www.fungipedia.org/images/galerias/daldinia_concentrica/daldinia_concentrica2.jpg",
+        "https://www.fungipedia.org/images/galerias/daldinia_concentrica/daldinia_concentrica3.jpg",
+        "https://www.fungipedia.org/images/galerias/daldinia_concentrica/daldinia_concentrica4.jpg",
+        "https://www.fungipedia.org/images/galerias/daldinia_concentrica/daldinia_concentrica5.jpg",
+        "https://www.fungipedia.org/images/galerias/daldinia_concentrica/daldinia_concentrica6.jpg",
+        "https://www.fungipedia.org/images/galerias/daldinia_concentrica/daldinia_concentrica7.jpg",
+        "https://www.fungipedia.org/images/galerias/daldinia_concentrica/daldinia_concentrica8.jpg",
+        "https://www.fungipedia.org/images/galerias/daldinia_concentrica/daldinia_concentrica9.jpg"
+    ]
+}

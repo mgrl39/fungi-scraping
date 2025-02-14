@@ -1,0 +1,32 @@
+{
+    "name": "tricholoma-equestre",
+    "title": null,
+    "author": "(L.) P. Kumm.",
+    "additional_info": {
+        "common_name": "Seta de los caballeros, zaldun-ziza orrihori, verderol.",
+        "synonym": "Tricholoma flavovirens S. Lundell"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Tricholomatales",
+        "Familia": "Tricholomataceae"
+    },
+    "edibility": "toxica",
+    "characteristics": {
+        "cap": "Sombrero que puede superar los 10 cm de diámetro, de forma convexa y posteriormente aplanada, algo deprimido de viejo. Es de color amarillo en el fondo, pero está recubierto de fibrillas con tonos marrones u oliváceos distribuidas irregularmente, aunque más densas en el centro y casi ausentes en el margen. Su cutícula es separable y seca.",
+        "hymenium": "Láminas escotadas y apretadas de color amarillo vivo, con la arista algo aserrada pero también amarilla.",
+        "stipe": "Pie también de color amarillo con algún tono pardo en forma de fibrilla o fleco, pero predominando el amarillo. Cilíndrico y de grosor muy variable según hábitat.",
+        "flesh": "Carne de un amarillo mas pálido que el exterior de la seta, compacta, de olor fúngico suave y sabor agradable."
+    },
+    "habitat": "Especie exclusiva de coníferas, sobre todo de pinares, hace su aparición a lo largo del otoño.",
+    "observations": "Agria polémica la existente en torno a su posible toxicidad, es nuestro deber no recomendar su consumo dado que parece ser que provoca por acumulación rabdomiolisis, una grave patología que afecta a los músculos y puede llegar a ser fatal. Actualmente está sinonimizado con Tricholoma auratum, que sin embargo es mamelonado. También guarda similitud con muchos Tricholomas de tonos amarillos, como por ejemplo el fucatum, viridifucatum, viridilutescens etc…, todos ellos de láminas blanquecinas. Sale en grandes cantidades en los pinares arenosos de Pinus pinaster y Pinus pinea.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/tricholoma_equestre/tricholoma_equestre1.jpg",
+        "https://www.fungipedia.org/images/galerias/tricholoma_equestre/tricholoma_equestre2.jpg",
+        "https://www.fungipedia.org/images/galerias/tricholoma_equestre/tricholoma_equestre3.jpg",
+        "https://www.fungipedia.org/images/galerias/tricholoma_equestre/tricholoma_equestre4.jpg"
+    ]
+}

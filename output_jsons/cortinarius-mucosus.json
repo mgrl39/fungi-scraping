@@ -1,0 +1,30 @@
+{
+    "name": "cortinarius-mucosus",
+    "title": null,
+    "author": "Bull.) J. Kickx f.",
+    "additional_info": {
+        "common_name": "Cortinario viscoso.",
+        "synonym": "Cortinarius collinitus var mucosus (Bull) Fr."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Cortinariales",
+        "Familia": "Cortinariaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero que puede llegar a superar los 10 cm de diámetro, siendo lo más habitual encontrarlo entre 5 y 10 cm, con forma de campana en su primera fase de desarrollo, después convexo y finalmente aplanado. Tiene color oscuro en la zona central, pardo rojizo, aclarándose paulatinamente hacia el borde, con tonos caobas hasta naranjas o amarillentos junto al borde. Superficie muy viscosa, mucilaginosa en tiempo lluvioso, e incluso en sequía si lo tocas con el dedo mojado se te queda pegado. Margen muy enrollado durante buena parte de su desarrollo.",
+        "hymenium": "Láminas adnatas y relativamente apretadas, de color blanquecino o crema de jóvenes, se van volviendo ocráceas, e incluso pardo canela tras la maduración esporal.",
+        "stipe": "Pie más bien alargado, liso en la parte superior hasta una cortina mucilaginosa con forma anular, a partir de allí es muy viscoso y floconoso. Es lleno, de color blanco, y de forma cilíndrica, si bien es frecuente que se halle atenuado en la base.",
+        "flesh": "Carne relativamente espesa de color blanco, sabor dulce pero no muy agradable y olor poco significativo."
+    },
+    "habitat": "Es una especie frecuente que fructifica en el transcurso de los meses otoñales, siempre ligada a las coníferas y con especial predilección por los suelos ácidos.",
+    "observations": "Es este grupo de Cortinarius viscosos muy peculiar, pertenecientes al subgénero Myxacium, compuesto por especie con sombrero y pie viscosos y láminas no lilas. Esta especie se caracteriza por su pie blanco atenuado y su sombrero pardo anaranjado, siendo parecido a Cortinarius collinitus, algo más pequeño y con diferente ecología. También es parecido el Cortinarius mucifluus, más robusto y con mucha menos cortina.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/cortinarius_mucosus/cortinarius_mucosus1.jpg",
+        "https://www.fungipedia.org/images/galerias/cortinarius_mucosus/cortinarius_mucosus2.jpg"
+    ]
+}

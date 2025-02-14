@@ -1,0 +1,36 @@
+{
+    "name": "tuber-excavatum",
+    "title": null,
+    "author": "Vittadini",
+    "additional_info": {
+        "common_name": "trufa excavada",
+        "synonym": "Tuber lapideum Mattir."
+    },
+    "taxonomy": {
+        "División": "Ascomycota",
+        "Subdivisión": "Ascomycotina",
+        "Clase": "Himenoascomycetes",
+        "Subclase": "Pezizomycetidae",
+        "Orden": "Pezizales",
+        "Familia": "Tuberaceae"
+    },
+    "edibility": "no-comestible",
+    "characteristics": {
+        "cap": "Carpóforo con la forma de pequeño tubérculo que tienen habitualmente las especies del género Tuber, muy irregular, suele poseer protuberancias, a veces es surcado desde la base, e incluso puede presentarse formando lóbulos. Es significativa en esta especie la presencia de una amplia cavidad basal que puede llegar a ser profunda, al punto de adentrarse en la gleba incluso. Su color es bastante variable, predominando los ejemplares de color ocre amarillento, oscureciéndose bastante de viejos. En cuanto al tamaño, predominan los ejemplares de entre 2 y 4 cm de diámetro, si bien alguno supera de forma excepcional los 7 cm.",
+        "hymenium": "Peridio externo pseudoparenquimático de color ocre amarillento, muy adherido a la gleba, de tacto suave pero liso, sin presencia de pelos, peridio interno más grueso que el externo, formando por una serie de hifas entrelazadas aglutinadas entre sí (plectenquimático).",
+        "stipe": "Gleba que evoluciona según el grado de madurez del ejemplar, y va desde un color ocre amarillento hasta tonos pardos oscuros en la madurez, con la presencia de venosidades de color blanco o crema amarillento, que pueden tener una disposición radial desde la base, aunque es este un caracter un tanto variable o aleatorio.",
+        "flesh": "Carne de cosistencia extremadamente dura, muy difícil de seccionar para hacer el estudio microscópico, con un olor en general bastante agradable, suave trufado con matiz a frutos secos, salvo en ejemplares muy maduros donde se hace desagradable, y con un sabor poco significativo."
+    },
+    "habitat": "Estamos en presencia de una especie hipogea muy común en nuestros bosques, que fructifica en terrenos calizos, y para la que están referenciados numerosos hábitats, sobre todo bajo planifolios diversos. Nosotros la tenemos tanto de haya (Fagus sylvatica), como de encina (Quercus ilex) y también bajo avellanos (Corylus avellana), con una amplia distribución, tanto en Bizkaia como en las provincias limitrofes, Alava, La Rioja o Burgos. Puede aparecer prácticamente en cualquier época del año si las condiciones son buenas y en bastante abundancia.",
+    "observations": "No todas las especies de trufas, enclavadas en el género Tuber, son comestibles, este es un caso claro de una trufa que resulta totalmente incomestible debido a la dureza extrema de su carne. Se caracteriza, además de por su dureza, por su amplia cavidad basal y su color ocre amarillento. Puede confundirse con la especie Tuber fulgens, mucho menos común que esta, que tiene un color más rojizo, con hifas del micelio de color naranja que frecuentemente aparecen junto a la cavidad basal, y con las esporas más esféricas. Se han creado varias variedades de esta especie en base a diferencias en el color que solo son formas ecológicas de la misma.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/tuber_excavatum/tuber_excavatum1.jpg",
+        "https://www.fungipedia.org/images/galerias/tuber_excavatum/tuber_excavatum2.jpg",
+        "https://www.fungipedia.org/images/galerias/tuber_excavatum/tuber_excavatum3.jpg",
+        "https://www.fungipedia.org/images/galerias/tuber_excavatum/tuber_excavatum4.jpg",
+        "https://www.fungipedia.org/images/galerias/tuber_excavatum/tuber_excavatum5.jpg",
+        "https://www.fungipedia.org/images/galerias/tuber_excavatum/tuber_excavatum6.jpg",
+        "https://www.fungipedia.org/images/galerias/tuber_excavatum/tuber_excavatum7.jpg",
+        "https://www.fungipedia.org/images/galerias/tuber_excavatum/tuber_excavatum8.jpg"
+    ]
+}

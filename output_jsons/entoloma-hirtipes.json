@@ -1,0 +1,37 @@
+{
+    "name": "entoloma-hirtipes",
+    "title": null,
+    "author": "(Schumach.) M. M. Moser",
+    "additional_info": {
+        "common_name": "Entoloma de pie velloso, chivata del Marzuelo.",
+        "synonym": "Nolanea hirtipes (Schumach.) P. Kumm."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Pluteales",
+        "Familia": "Entolomataceae"
+    },
+    "edibility": "toxica",
+    "characteristics": {
+        "cap": "Sombrero con un diámetro que oscila entre los 3 y los 6 (8) cm en los especímenes adultos, con una forma cónico campanulada en los primeros estadios, abriéndose paulatinamente hasta quedar primero convexo y umbonado y al final casi plano, pero manteniendo un umbón bien definido en su zona central. Se trata de una seta higrófana, lo que da lugar a una cierta variabilidad de color en función de su grado de hidratación, desde el pardo oscuro de algunos ejemplares muy hidratados palidece hacia tonos grises al secarse, pudiendo tener matices oliváceos. Su cutícula suele presentarse radialmente fibrilosa y brillante con lluvia, siendo el margen bastante regular y estriado por transparencia.",
+        "hymenium": "Láminas adnatas o sublibres de color claro, grisáceo, con laminillas numerosas, las esporas se depositan sobre ellas con la esporulación tiñéndolas de un color rosado sucio.",
+        "stipe": "Pie cilíndrico y alargado de color ocre o algo grisáceo en ocasiones, fistuloso y longitudinalmente acanalado de forma perceptible, pruinoso por zonas, sobre todo en la zona superior. Suele presentar rizomorfos blancos en la unión micelial y la base recubierta de un tomento blanquecino que con la edad tiende a extenderse a todo el tercio inferior del propio pie.",
+        "flesh": "Carne escasa y delgada de color ocre, su olor tiene un componente harinoso pero no agradable sino rancio, y podemos decir que su sabor resulta análogo al olor."
+    },
+    "habitat": "Esta especie ha sido localizada durante la primavera bajo coníferas de montaña, en altitudes superiores a los 1000 m.s.n.m., hallándose en la zona una ingente cantidad de ejemplares, por lo que entendemos que se trata de una especie abundante en su hábitat concreto. En otoño puede encontrarse de forma más aislada también bajo planifolios.",
+    "observations": "En algunas zonas de nuestra geografía se conoce a esta especie tóxica como la chivata del Hygrophorus marzuolus, dado que suelen coincidir en hábitat y época. Los Entolomas de la sección Nolanea son muy similares entre sí, esta especie se caracteriza por su hábitat bajo coníferas de montaña, la base del pie blanquecina y las láminas rosa sucio en la madurez. Entoloma hebes es una especie más otoñal, más heliófila, de zonas no montañosas y con las esporas más pequeñas. Entoloma vernum, especie primaveral también, esta citada bajo Juniperus sp. y bajo ciprés de Lawson (Chamaecyparis lawsoniana), su olor es herbáceo y carece de queilocistidios mientras que la especie aquí descrita posee un olor harinoso rancio y si tiene queilocistidios.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/entoloma_hirtipes/entoloma_hirtipes1.jpg",
+        "https://www.fungipedia.org/images/galerias/entoloma_hirtipes/entoloma_hirtipes2.jpg",
+        "https://www.fungipedia.org/images/galerias/entoloma_hirtipes/entoloma_hirtipes3.jpg",
+        "https://www.fungipedia.org/images/galerias/entoloma_hirtipes/entoloma_hirtipes4.jpg",
+        "https://www.fungipedia.org/images/galerias/entoloma_hirtipes/entoloma_hirtipes5.jpg",
+        "https://www.fungipedia.org/images/galerias/entoloma_hirtipes/entoloma_hirtipes6.jpg",
+        "https://www.fungipedia.org/images/galerias/entoloma_hirtipes/entoloma_hirtipes7.jpg",
+        "https://www.fungipedia.org/images/galerias/entoloma_hirtipes/entoloma_hirtipes8.jpg",
+        "https://www.fungipedia.org/images/galerias/entoloma_hirtipes/entoloma_hirtipes9.jpg"
+    ]
+}

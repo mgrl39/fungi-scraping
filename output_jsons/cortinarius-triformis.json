@@ -1,0 +1,34 @@
+{
+    "name": "cortinarius-triformis",
+    "title": null,
+    "author": "Fr.",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Cortinarius triformis var. triformis Fr."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Cortinariales",
+        "Familia": "Cortinariaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero de tamaño medio, en su máximo apogeo puede tener un diámetro que oscila entre los 4 y los 8 cm, con forma hemisférica durante buena parte de su desarrollo, tardíamente convexo a plano-convexo, algunos ejemplares con la zona alrededor del centro resaltada y hundido justo en el propio centro. Su superficie es de color bastante uniforme, pero se trata de una especie higrófana, por lo que dependiendo de la humedad puede tener un color más oscuro o más claro, siempre dentro de los tonos ocres o pardos. Presenta una pruina blanquecina patente que con la lluvia parece irse y reaparece al secarse. Margen irregular y ligeramente estriado.",
+        "hymenium": "Láminas escotadas de color gris ocráceo de jóvenes y después marrones, bastante irregulares en disposición y con laminillas, la arista es aserrada de forma también un tanto irregular.",
+        "stipe": "Pie de aspecto brillante con lluvia pero no viscoso, tiene un color blanquecino de fondo y está manchado con tonos ocres al depositarse esporas en los restos de velo que presenta, longitudinalmente fibriloso, cilíndrico o ensanchado en la base en algunos especímenes pero no bulboso.",
+        "flesh": "Carne poco consistente al absorber mucha agua, de color blanquecino o algo grisácea. Tiene un olor ligeramente rafanoide y sabor dulce."
+    },
+    "habitat": "Esta especie está referenciada en hábitats muy diversos, nuestra recolecta ha sido efectuada en bosques de pino, con presencia de Pinus pinaster, Pinus sylvestris y sotobosque de estepa (Cistus albidus). Puede aparecer tanto en primavera como durante el otoño, la hemos visto en ambas estaciones. Es una especie relativamente frecuente que crece en pequeños grupos.",
+    "observations": "Cortinarius perteneciente al subgénero Telamonia que engloba especies de sombrero seco, nunca viscoso, y aspecto de Tricholoma o Collybia. La especie aquí descrita ha englobado varios taxones actualmente separados de ella, todos ellos con evidente paralelismo morfológico, el estudio de estos Cortinarius es siempre arduo y engorroso, por lo que bibliográficamente están poco referenciados. Algunos ejemplos de especies similares son Cortinarius assiduus, Cortinarius poecilopus, Cortinarius bivelus o Cortinarius laniger.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/cortinarius_triformis/cortinarius_triformis1.jpg",
+        "https://www.fungipedia.org/images/galerias/cortinarius_triformis/cortinarius_triformis2.jpg",
+        "https://www.fungipedia.org/images/galerias/cortinarius_triformis/cortinarius_triformis3.jpg",
+        "https://www.fungipedia.org/images/galerias/cortinarius_triformis/cortinarius_triformis4.jpg",
+        "https://www.fungipedia.org/images/galerias/cortinarius_triformis/cortinarius_triformis5.jpg",
+        "https://www.fungipedia.org/images/galerias/cortinarius_triformis/cortinarius_triformis6.jpg"
+    ]
+}

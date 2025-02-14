@@ -1,0 +1,31 @@
+{
+    "name": "hortiboletus-rubellus",
+    "title": null,
+    "author": "(Krombh.) Simonini, Vizzini & Gelardi",
+    "additional_info": {
+        "common_name": "Boleto multicolor, onddo gorri.",
+        "synonym": "Xerocomellus rubellus (Krombh.) Šutara"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Boletales",
+        "Familia": "Boletaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero de tamaño medio, puede superar los 5 cm de diámetro, pero rara vez alcanza los 10, de forma hemisférica de joven, para adoptar posteriormente forma convexa, y acabar prácticamente por extenderse. Es de color rojo intenso y llamativo de joven, decolorándose hacia tonos entre el rosa y el rojo mate. Su superficie no es separable de la carne del sombrero, y es además seca, aterciopelada o tomentosa. Necesita un estado de mucha sequía para cuartearse.",
+        "hymenium": "Tubos adnatos de color amarillo, que se vuelven sucios con la edad. Al roce azulean apreciablemente.",
+        "stipe": "Poros angulosos, no demasiado grandes, de color amarillo que se vuelven verdiolivas con el tiempo. También azulean al ser presionados con el dedo.",
+        "flesh": "Pie central y cilíndrico de color amarillo, en la mayoría de los casos recubierto por un finísimo punteado de color rojo, e incluso rosa, acostumbra a aparecer atenuado en la base, pero no es norma. Es lleno."
+    },
+    "habitat": "Carne De color rojizo bajo la cutícula, el resto es de color amarillo pálido. A pesar de no ser muy espesa si es compacta, siendo su olor afrutado y su sabor compaginable con el olor.",
+    "observations": "Aparece desde la primavera hasta entrado el otoño. Nosotros la vemos de forma habitual bajo roble americano y otros tipos de planifolios, aunque también aparece en coníferas. Según la bibliografía no es muy frecuente, aunque para nosotros verla cada año no supone ningún problema.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/hortiboletus_rubellus/hortiboletus_rubellus1.jpg",
+        "https://www.fungipedia.org/images/galerias/hortiboletus_rubellus/hortiboletus_rubellus2.jpg",
+        "https://www.fungipedia.org/images/galerias/hortiboletus_rubellus/hortiboletus_rubellus3.jpg"
+    ]
+}

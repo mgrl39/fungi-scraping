@@ -1,0 +1,30 @@
+{
+    "name": "hygrocybe-coccinea",
+    "title": null,
+    "author": "(Schaeff.) P. Kumm.",
+    "additional_info": {
+        "common_name": "Ezko gorri txiki.",
+        "synonym": "Hygrophorus coccineus (Schaeff.) Fr."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Tricholomatales",
+        "Familia": "Hygrophoraceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero más bien pequeño, rara vez supera los 5 cm de diámetro, lo normal es encontrarlos de 2 a 4 cm, de forma esférica en la primera etapa de su desarrollo, luego se abre adoptando forma obtusamente convexa, no llegando a aplanarse del todo. Es de un llamativo color rojo, muy vivo, que llama la atención, aunque al secarse se decolora hacia tonos amarillentos o rosados. Su superficie es viscosa cuando se encuentra mojada por la lluvia, sino es glabra, aun así brillante y lisa. Borde estriado por transparencia dada su higrofaneidad.",
+        "hymenium": "Láminas bastante separadas entre sí, adnatas o ligeramente escotadas, de color llamativo, aunque no tanto como el sombrero, adoptan matices más anaranjados e incluso amarillentos dentro de un fondo rojo. Hacia el borde poseen además laminillas intercaladas.",
+        "stipe": "Pie cilíndrico y central de color rojo similar al del sombrero, aunque palideciendo a partir de la base a tonos naranjas o amarillos. Suele ser más largo que el diámetro del sombrero.",
+        "flesh": "Carne poco consistente, escasa y frágil, anaranjada y sin olor ni sabor destacados."
+    },
+    "habitat": "Aparece durante el otoño en las campas de pastos de las zonas bajas, e incluso en los claros herbosos de los bosques, siempre entre la hierba. Es frecuente en nuestro radio de acción, sin embargo rara en otras zonas de nuestra geografía.",
+    "observations": "Dada la escasez de su carne no se la considera recolectable, aunque es una seta inocua que no sabe mal. Puede confundirse con varios Hygrocybes entre los que destacaremos el Hygrocybe punicea, de mayor tamaño y carnosidad, el Hygrocybe intermedia, de sombrero fibriloso, no liso, lo mismo que sucede con el Hygrocybe turunda. Hay especies más pequeñas de color igualmente rojizo como el Hygrocybe marchii o el Hygrocybe miniata.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/hygrocybe_coccinea/hygrocybe_coccinea1.jpg",
+        "https://www.fungipedia.org/images/galerias/hygrocybe_coccinea/hygrocybe_coccinea2.jpg"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "name": "loweomyces-fractipes",
+    "title": null,
+    "author": "(Berk. & M.A. Curtis) Jülich",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Abortiporus fractipes (Berk. & M.A. Curtis) Bondartsev"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Aphyllophoromycetidae",
+        "Orden": "Poriales",
+        "Familia": "Polyporaceae"
+    },
+    "edibility": "no-comestible",
+    "characteristics": {
+        "cap": "Sombrero de pequeño tamaño aunque variable, su diámetro puede oscilar entre 1 y 4 cm, con un espesor en su zona más ancha que puede aproximarse a los 5 mm, dimidiado, con forma de abanico o reniforme, aunque muchas veces adopta formas imperfectas e irregulares. Superficie de color blanco que con el tiempo tiende a tomar tonos ocráceos por zonas hasta ser en la vejez más claramente ocrácea, en las primeras etapas de desarrollo finamente tomentoso para acabar siendo glabro, poco o nada zonado. Margen redondeado en ejemplares jóvenes y fino al final, un tanto irregular en la vejez.",
+        "hymenium": "Himenio formado por tubos muy cortos, de no más de 3 mm de longitud, y unos poros angulosos pequeños, entre 3 y 5 por milímetro dependiendo de la edad del ejemplar, se amplían algo en la vejez. Tanto unos como otros son de color blanco durante buena pare del desarrollo, después se vuelven de un color crema sucio, además son decurrentes sobre el pie.",
+        "stipe": "Pie muy evidente, dato diferenciador con respecto a especies similares, en ocasiones puede ser largo, llegando a aproximarse a los 5 cm, mientras en otros especímenes apenas alcanza 1 o 2 cm, al igual que el resto tiene color blanco y tiende a ensuciarse con la edad a partir de la base a tonos ocráceos claros, suele estar engrosado en el ápice y atenuado hacia la base.",
+        "flesh": "Carne de color blanco, solo ocrácea en la vejez, con una ligera elasticidad de joven y después rígida, con dos capas diferenciadas, una interna mucho más coriácea y la externa más blanda, no se le aprecian sabor u olor mencionables."
+    },
+    "habitat": "Estamos ante una especie que debe considerarse rara o poco común en Europa y que solo prolifera en la parte norte del continente americano. Se referencia para ella un hábitat específico sobre maderas muertas de árboles de ribera, es claramente lignícola y de comportamiento saprófito, causando pudrición blanca en la madera. Nuestra recolecta se efectuó sobre madera de aliso (Alnus glutinosa), a pesar de su rareza en la aliseda que frecuentamos es una especie abundante, sobre todo en otoño, pero también puede aparecer en otras épocas del año.",
+    "observations": "Esta especie que les presentamos se caracteriza por el color blanco común a todo el basidioma, por ser una especie lignícola con un pie muy evidente e incluso largo en ocasiones, y por su hábitat bajo árboles de ribera. Guarda muchas similitudes con el Abortiporus biennis, especie lignícola con pie, pero su himenio está formado por poros laberínticos dentados mientras que la especie aquí descrita posee poros angulosos normales. De no ser por el pie se parece mucho también a las especies de los géneros Spongipellis, Postia o Tyromyces, de hecho llegó a pertenecer a alguno de ellos.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/loweomyces_fractipes/loweomyces_fractipes1.jpg",
+        "https://www.fungipedia.org/images/galerias/loweomyces_fractipes/loweomyces_fractipes2.jpg",
+        "https://www.fungipedia.org/images/galerias/loweomyces_fractipes/loweomyces_fractipes3.jpg",
+        "https://www.fungipedia.org/images/galerias/loweomyces_fractipes/loweomyces_fractipes4.jpg",
+        "https://www.fungipedia.org/images/galerias/loweomyces_fractipes/loweomyces_fractipes5.jpg"
+    ]
+}

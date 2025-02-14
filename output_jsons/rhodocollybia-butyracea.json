@@ -1,0 +1,30 @@
+{
+    "name": "rhodocollybia-butyracea",
+    "title": null,
+    "author": "(Bull.) Lennox",
+    "additional_info": {
+        "common_name": "Collibia butirácea, Kolibia gurinkara.",
+        "synonym": "Collybia butyracea (Bull.) P.Kumm."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Tricholomatales",
+        "Familia": "Marasmiaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero que puede rebasar con cierta facilidad los 5 cm de diámetro, de forma convexa cuando es joven, luego aplanado, pero conservando en el centro un mamelón obtuso. Es de color pardo grisáceo, con el centro más oscuro y palideciendo hacia el margen, en situación de falta de agua palidece por completo dado que es higrófano. Superficie de aspecto brillante y grasiento pero no viscosa, lisa.",
+        "hymenium": "Láminas adnatas o sublibres de color blanco, algo cremas en la madurez, bastante apretadas.",
+        "stipe": "Pie de tamaño proporcionado al sombrero y de color similar, fibriloso, con la base ensanchada en ocasiones. Su forma es variable, a veces es recto y otras sinuoso o curvado, fistuloso de joven, luego hueco. En algunos ejemplares longitudinalmente surcado.",
+        "flesh": "Carne escasa para el tamaño de la seta, de color blanco, embebe mucha agua quedando fofa e inconsistente. Su olor es fúngico suave, y su sabor acorde al olor que desprende."
+    },
+    "habitat": "Es, sin duda, una de las especies más comunes que se dan en nuestros bosques, siendo además muy abundante. No tiene predilección por un bosque determinado, se da en robledales, hayedos, pinares etc..., siendo su época de aparición el final del verano y durando todo el otoño.",
+    "observations": "No tiene ningún interés culinario esta seta, por lo demás reconocible con cierta facilidad. La Rhodocollybia butyracea var. asema cuyo sombrero es más claro está ahora sinonimizada. Otra especie de montaña próxima a esta es la Collybia filamentosa, de sombrero pardo rojizo y láminas aserradas.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/rhodocollybia_butyracea/rhodocollybia_butyracea1.jpg",
+        "https://www.fungipedia.org/images/galerias/rhodocollybia_butyracea/rhodocollybia_butyracea2.jpg"
+    ]
+}

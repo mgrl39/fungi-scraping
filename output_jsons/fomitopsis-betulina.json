@@ -1,0 +1,34 @@
+{
+    "name": "fomitopsis-betulina",
+    "title": null,
+    "author": "(Bull.) B.K. Cui, M.L. Han & Y.C. Dai",
+    "additional_info": {
+        "common_name": "Yesquero del abedul, urki-ardagai, bolet d'esca de bedoll.",
+        "synonym": "Piptoporus betulinus (Bull.) P. Karst."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Aphyllophoromycetidae",
+        "Orden": "Polyporales",
+        "Familia": "Fomitopsidaceae"
+    },
+    "edibility": "no-comestible",
+    "characteristics": {
+        "cap": "Carpóforo anual de tamaño notable, puede proyectarse del sustrato en más de 10 cm, siendo capaz de alcanzar los 20 cm de ancho, y un espesor que puede llegar a superar los 5 cm. Suele tener forma de riñón, aunque a veces adopta forma semicircular o de lengua. Su superficie pileica es completamente lisa, de color uniforme gris ocráceo, netamente ocre de vieja, en situación de sequía tiende a agrietarse, y es frecuente que la zona próxima al margen sea más clara. Es característico el margen siempre redondeado de esta especie.",
+        "hymenium": "Himenio formado por tubos blancos de hasta 8 mm de largo y poros igualmente blancos, algo más oscuros de viejos, más o menos redondeados, con un tamaño de unos 3 o 4 por mm. Una característica inusual en el género es que en los ejemplares ya avanzados estos se puede separar de la carne.",
+        "stipe": "Pie rudimentario y lateral, del mismo color que el sombrero, a veces está enterrado en el sustrato y no es visible.",
+        "flesh": "Carne blanquecina, relativamente blanda en la primera etapa del desarrollo, se endurece rápidamente hasta volverse de consistencia similar al corcho. Su olor es perceptible, pero no desagradable, y su sabor es un tanto amargo."
+    },
+    "habitat": "Se trata de una especie que parasita de manera exclusiva la madera de los abedules causando podredumbre marrón. Fructifica prácticamente en cualquier época del año, siendo una especie frecuente y abundante en su hábitat exclusivo.",
+    "observations": "Por regla general los hongos de la madera no suelen ser fáciles de identificar, sin embargo este es una excepción, su peculiar forma y su hábitat exclusivo bajo abedules le hacen fácilmente identificable. Esta especie suele estar parasitada a su vez por una especie llamada Trichoderma pulvinatum que también describimos en este trabajo.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/fomitopsis_betulina/fomitopsis_betulina1.jpg",
+        "https://www.fungipedia.org/images/galerias/fomitopsis_betulina/fomitopsis_betulina2.jpg",
+        "https://www.fungipedia.org/images/galerias/fomitopsis_betulina/fomitopsis_betulina3.jpg",
+        "https://www.fungipedia.org/images/galerias/fomitopsis_betulina/fomitopsis_betulina4.jpg",
+        "https://www.fungipedia.org/images/galerias/fomitopsis_betulina/fomitopsis_betulina5.jpg",
+        "https://www.fungipedia.org/images/galerias/fomitopsis_betulina/fomitopsis_betulina6.jpg"
+    ]
+}

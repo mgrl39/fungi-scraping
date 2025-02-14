@@ -1,0 +1,36 @@
+{
+    "name": "coprinopsis-lotinae",
+    "title": null,
+    "author": "(Picón) Picón",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Ninguno."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Agaricales",
+        "Familia": "Psathyrellaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero que en su nacimiento tiene una forma ovoide, pero que pronto adquiere forma campanulada y luego cónica, sin llegar a abrirse o aplanarse. Es bastante pequeño, no más de 2 cm de altura por 1 o 1´5 de ancho en la zona inferior en el mejor de los casos, de color blanco durante buena parte de su desarrollo, tendiendo en la madurez a tonos grises claros. Cutícula que en los especímenes más jóvenes está recubierta en su totalidad por una especie de velo concoloro que tiende a desaparecer con la madurez y la lluvia. Margen estriado abarcando casi toda la superficie salvo el disco central.",
+        "hymenium": "Láminas adnatas y no demasiado apretadas, por la morfología del sombrero ascendentes, de color blanco al principio pero grises con prontitud, a veces los especímenes pueden secarse y permanecer de color gris o sino se vuelven negruzcas. Arista laminar que permanece blanca por más tiempo que el resto y algo crenulada.",
+        "stipe": "Pie notablemente alargado con respecto al sombrero, puede rebasar los 5 cm de largo, de color blanco como el sombrero e igualmente recubierto con restos del velo floconosos que tienden a desaparecer con el tiempo, cilíndrico pero rara vez recto, tiene marcada tendencia a mostrarse sinuoso, con la base ligeramente engrosada.",
+        "flesh": "Carne prácticamente inexistente, a destacar que es apenas delicuescente, al contrario de lo habitual en su género, no tiene olor apreciable ni sabor digno de mención."
+    },
+    "habitat": "Estamos ante una especie que es saprofita y que no tiene un hábitat predilecto concreto, la primera recolecta de esta especie se efectuó sobre frutos de Eucalyptus globulus, pero existen otras recolectas posteriores en diferentes hábitats, sobre el humus, hojas, en nuestro caso sobre hojas mezcladas de Quercus y Salix sp. Especie referenciada por primera vez en 1998.",
+    "observations": "Especie caracterizada por su aspecto que es próximo a las especies del género Psathyrella, su color blanco predominando en todo el basidioma, la práctica inexistencia de delicuescencia, y el velo floconoso que recubre los ejemplares jóvenes. Su etimología es una dedicatoria al célebre maestro de la micología Roberto Lotina Benguria, a quién el autor, Rafael Picón, quiso homenajear. En el capítulo de parecidos destacaremos a Coprinopsis nivea por el color y el revestimiento, aunque es más coprófilo, o al Coprinopsis marcescibilis en su variedad virginea, muy similar pero con diferencias microscópicas.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/coprinopsis_lotinae/coprinopsis_lotinae1.jpg",
+        "https://www.fungipedia.org/images/galerias/coprinopsis_lotinae/coprinopsis_lotinae2.jpg",
+        "https://www.fungipedia.org/images/galerias/coprinopsis_lotinae/coprinopsis_lotinae3.jpg",
+        "https://www.fungipedia.org/images/galerias/coprinopsis_lotinae/coprinopsis_lotinae4.jpg",
+        "https://www.fungipedia.org/images/galerias/coprinopsis_lotinae/coprinopsis_lotinae5.jpg",
+        "https://www.fungipedia.org/images/galerias/coprinopsis_lotinae/coprinopsis_lotinae6.jpg",
+        "https://www.fungipedia.org/images/galerias/coprinopsis_lotinae/coprinopsis_lotinae7.jpg",
+        "https://www.fungipedia.org/images/galerias/coprinopsis_lotinae/coprinopsis_lotinae8.jpg"
+    ]
+}

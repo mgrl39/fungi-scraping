@@ -1,0 +1,34 @@
+{
+    "name": "peziza-vesiculosa",
+    "title": null,
+    "author": "Bull.",
+    "additional_info": {
+        "common_name": "Peziza vesiculosa, katilu xizkidun, cassoleta.",
+        "synonym": "Aleuria vesiculosa (Bull.) Gillet"
+    },
+    "taxonomy": {
+        "División": "Ascomycota",
+        "Subdivisión": "Ascomycotina",
+        "Clase": "Himenoascomycetes",
+        "Subclase": "Pezizomycetidae",
+        "Orden": "Pezizales",
+        "Familia": "Pezizaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Carpóforo con una forma globosa y con el interior hueco en la primera etapa de su desarrollo, se va abriendo paulatinamente adquiriendo una forma acopada pero muy irregular, incluso pudiendo estar hendida lateralmente. Es de destacar que esta especie no se aplana como sucede con otras de su género. Su tamaño es muy variable, pudiéndose encontrar ejemplares desarrollados de apenas 3 o 4 cm junto a otros que alcanzan dimensiones en torno a los 8 o 10 (12) cm. La superficie externa es furfurácea e incluso pruinosa en algunos ejemplares, esto le confiere un tono blanquecino, sin embargo puede adquirir un tono más ocráceo. El margen es muy irregular, puede ser crenulado, ondulado o hasta fisurado, pero todo ello, reitero, de forma irregular.",
+        "hymenium": "Himenio situado en la superficie interna del ascocarpo, de color marrón más o menos claro según el estado del espécimen, es generalmente liso, si bien en algunos ejemplares se presentan algunas arrugas o protuberancias derivadas de la forma de crecimiento, una especie de vesículas que dan nombre a la especie.",
+        "stipe": "Pie normalmente inexistente, aunque es factible encontrar algún ejemplar con un pseudoestipite corto enterrado en el sustrato.",
+        "flesh": "Carne algo más consistente que en otras especies de su género, de grosor variable, sin apenas olor apreciable y con escaso sabor."
+    },
+    "habitat": "Esta especie ha sido localizada en primavera si bien es posible hallarla también durante el otoño, siendo una especie no demasiado frecuente. Fructifica en hábitat muy nitrogenado con presencia de materia vegetal en descomposición, sobre paja con estiércol de ganado, o a veces sobre alpacas expuestas a las inclemencias meteorológicas, de forma ocasional sobre tierra con estiércol muy degradado. Sale generalmente en grupos más o menos numerosos.",
+    "observations": "La lista de especies que pueden presentar confusión con esta se antoja interminable, hemos de observar en primer lugar el hábitat de esta especie, un tanto peculiar, y las protuberancias vesiculares que presentan algunos ejemplares para aproximarnos a su identificación macroscópica, pero para certificar su clasificación es indispensable el análisis microscópico. Otra característica a tener en cuenta es que no se aplana como hace por ejemplo la Peziza arvernensis o la Peziza repanda, muy similares por otra parte.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/peziza_vesiculosa/peziza_vesiculosa1.jpg",
+        "https://www.fungipedia.org/images/galerias/peziza_vesiculosa/peziza_vesiculosa2.jpg",
+        "https://www.fungipedia.org/images/galerias/peziza_vesiculosa/peziza_vesiculosa3.jpg",
+        "https://www.fungipedia.org/images/galerias/peziza_vesiculosa/peziza_vesiculosa4.jpg",
+        "https://www.fungipedia.org/images/galerias/peziza_vesiculosa/peziza_vesiculosa5.jpg",
+        "https://www.fungipedia.org/images/galerias/peziza_vesiculosa/peziza_vesiculosa6.jpg"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "xerocomellus-chrysenteron",
+    "title": null,
+    "author": "(Bull.) Šutara",
+    "additional_info": {
+        "common_name": "Boleto de carne amarilla, onddo urregorri, mataparent de carn groga.",
+        "synonym": "Xerocomus chrysenteron (Bull.) Quél."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Boletales",
+        "Familia": "Boletaceae"
+    },
+    "edibility": "comestible",
+    "characteristics": {
+        "cap": "Sombrero no demasiado grande para el género, en estado adulto algunos ejemplares pueden sobrepasar brevemente los 10 cm de diámetro. Su forma es hemisférica en su nacimiento, desarrollando forma convexa posteriormente y al final puede ser prácticamente aplanado. Su superficie es en su primera etapa de color pardo oscuro, algunos ejemplares se llegan a aproximar al negro, en esta etapa es aterciopelada, a lo largo de su evolución va adquiriendo tonos pardo olivas, es decir, va palideciendo a la par de perder su vellosidad inicial, en estado adulto y sobre todo con poca humedad la cutícula se resquebraja y oxida en las grietas a tonos rojizos, pero la superficie en si misma nunca es roja.",
+        "hymenium": "Tubos adnatos y más bien largos, primero de color amarillento y luego oliváceos.",
+        "stipe": "Poros amplios y angulosos, al principio de color amarillo y luego verdoso sucio, azulean a la presión de forma no muy intensa.",
+        "flesh": "Pie proporcionado o alargado, cilíndrico y más bien estrecho en los ejemplares adultos, lleno, con cierta tendencia a atenuarse por la base. Es de color de fondo amarillo vivo, pero está casi siempre pustulado en rojo, color que predomina a simple vista, solo el ápice se muestra amarillo y no en todos los ejemplares."
+    },
+    "habitat": "Carne relativamente espesa pero de consistencia un tanto fofa, de color amarillento, adopta tonos rojizos en las grietas del sombrero y bajo la cutícula y azulea al corte.",
+    "observations": "Estamos ante una especie muy común y extendida por toda la geografía española, la hemos visto prácticamente en cualquier época del año, aunque es en otoño cuando prolifera más. Es una especie además que aparece casi en todo tipo de bosques, hecho que aumenta la posibilidad de verla, aunque no suele hacerlo en grandes grupos ni en grandes cantidades generalmente.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/xerocomellus_chrysenteron/xerocomellus_chrysenteron1.jpg",
+        "https://www.fungipedia.org/images/galerias/xerocomellus_chrysenteron/xerocomellus_chrysenteron2.jpg",
+        "https://www.fungipedia.org/images/galerias/xerocomellus_chrysenteron/xerocomellus_chrysenteron3.jpg"
+    ]
+}

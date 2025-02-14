@@ -1,0 +1,32 @@
+{
+    "name": "agaricus-sylvicola",
+    "title": null,
+    "author": "(Vittad.) Peck",
+    "additional_info": {
+        "common_name": "Champiñón anisado, anis aspibeltz, bola de neu anisada.",
+        "synonym": "Psalliota sylvicola (Vittad.) Richon & Roze"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Agaricales",
+        "Familia": "Agaricaceae"
+    },
+    "edibility": "buen-comestible",
+    "characteristics": {
+        "cap": "Sombrero de buen tamaño, en los ejemplares adultos su diámetro puede variar entre los 7 y los 12 (15) cm, un tanto hemisférico en sus inicios, pronto convexo y finalmente extendido. Cutícula lisa y glabra, tan solo algo fibrilosa a veces pero con ausencia de escamas de ningún tipo, de color blanco puro que adopta tonos amarillentos sucios al ser frotada, es habitual observar especímenes viejos con tonalidad amarillenta predominante. Margen incurvado en las primeras etapas, pronto liso e incluso agudo, bastante fino y regular.",
+        "hymenium": "Láminas libres y apretadas, bastante desiguales en su disposición, de color prácticamente blanco en la primera etapa de su desarrollo, evolucionando a gris rosado y al madurar de color marrón oscuro como es habitual en el género, la arista estéril suele ser de color más claro, incluso blanquecina.",
+        "stipe": "Pie cilíndrico y alargado, frecuentemente más largo que el diámetro del sombrero, hueco desde joven, más bien bulboso en la base, de color blanco sobre todo desde el anillo a la base, por encima de este suele adoptar un tono rosado sucio. Al igual que el sombrero amarillea al tacto, y posee un anillo característico por su amplitud colgando a modo de faldón y por su tacto harinoso.",
+        "flesh": "Carne no demasiado espesa pero si con una cierta consistencia, blanca al corte y prácticamente inmutable salvo quizás algún tono rosado, a destacar el hecho de que aunque exteriormente amarillea de forma notable la carne al corte no lo hace, tiene un olor anisado notable en la recolección que se torna al de un tiempo de almendras amargas y un sabor agradable."
+    },
+    "habitat": "Como su propio nombre indica es una especie propia de los bosques, no sale en campas o pastizales como otras especies de su género, sino que lo hace en el interior de los bosques, tanto de coníferas como de planifolios diversos. Suele hacer acto de aparición sobre todo a finales del verano y durante el otoño, a veces aislada o gregaria en grupos de muy pocos ejemplares, no suele formar setales, sin embargo es una especie bastante frecuente y extendida.",
+    "observations": "Se trata de una especie de buen sabor y carne consistente, que sin embargo para algunos autores es sospechosa, nosotros la hemos degustado con agrado y sin contratiempo alguno y nos parece muy rica. Se caracteriza sobre todo por su presencia en bosques, el olor anisado que emana al ser recolectada, el amarilleamiento de su superficie externa y el hecho de no amarillear al corte. No confundir con la especie tóxica Agaricus xanthodermus, que emana un olor desagradable a tinta que se acentúa con la cocción en caso de incurrir en el error de cocinarla, y con fuerte amarilleamiento de la carne al corte en la base del pie.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/agaricus_sylvicola/agaricus_sylvicola1.jpg",
+        "https://www.fungipedia.org/images/galerias/agaricus_sylvicola/agaricus_sylvicola2.jpg",
+        "https://www.fungipedia.org/images/galerias/agaricus_sylvicola/agaricus_sylvicola3.jpg",
+        "https://www.fungipedia.org/images/galerias/agaricus_sylvicola/agaricus_sylvicola4.jpg"
+    ]
+}

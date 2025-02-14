@@ -1,0 +1,31 @@
+{
+    "name": "helvella-sulcata",
+    "title": null,
+    "author": "(Afz.)",
+    "additional_info": {
+        "common_name": "Oreja de gato negra.",
+        "synonym": "Ninguno."
+    },
+    "taxonomy": {
+        "División": "Ascomycota",
+        "Subdivisión": "Ascomycotina",
+        "Clase": "Himenoascomycetes",
+        "Subclase": "Pezizomycetidae",
+        "Orden": "Pezizales",
+        "Familia": "Helvellaceae"
+    },
+    "edibility": "comestible-precaucion",
+    "characteristics": {
+        "cap": "Sombrero de unos 3 cm de altura por otro tanto de ancho, compuesto por una serie de lóbulos dispuestos de manera un tanto irregular. El borde suele ser convoluto y ondulado. El color de su superficie es muy oscuro, prácticamente negro, brillante en tiempo de lluvias.",
+        "hymenium": "Himenio compuesto por la cara externa del sombrero, aunque a veces está tan ondulado que no se sabe que cara es la externa y cual la interna. Es totalmente liso y carente de toda vellosidad. Concoloro o algo más pálido.",
+        "stipe": "Pie longitudinalmente surcado de manera muy acusada, al punto de que parece tener cavidades. Puede alcanzar los 5 cm de altura, es hueco y también cilíndrico. Su color es marcadamente grisáceo.",
+        "flesh": "Carne bastante frágil, quizás algo elástica en el pie, poco consistente, sin que tenga ningún olor ni sabor destacable."
+    },
+    "habitat": "Su época de aparición más habitual es el otoño, es una seta frecuente que no tiene especiales exigencias en cuanto al tipo de terreno, ni tampoco en cuanto al tipo de bosque.",
+    "observations": "Esta seta está considerada por algunos autores como una variedad de la Helvella lacunosa, con quién guarda efectivamente muchas similitudes. Nosotros la diferenciamos por su pie marcadamente gris, y por los tonos negros evidentes del sombrero. Otras helvellas, o bien no tienen el pie surcado o no tienen el sombrero lobulado, con lo cual se distinguen bien de la especie aquí descrita.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/helvella_sulcata/helvella_sulcata1.jpg",
+        "https://www.fungipedia.org/images/galerias/helvella_sulcata/helvella_sulcata2.jpg",
+        "https://www.fungipedia.org/images/galerias/helvella_sulcata/helvella_sulcata3.jpg"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "hericium-coralloides",
+    "title": null,
+    "author": "(Scop.) Pers.",
+    "additional_info": {
+        "common_name": "Hongo en forma de coral.",
+        "synonym": "Hericium ramosum (Bull.) Letell"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Aphyllophoromycetidae",
+        "Orden": "Hericiales",
+        "Familia": "Hericiaceae"
+    },
+    "edibility": "comestible",
+    "characteristics": {
+        "cap": "Carpóforo que fructifica en forma de una masa un tanto deforme en su primer estado, de la cual van creciendo una serie de ramificaciones con forma de coral, dispuestas irregularmente. De estas ramificaciones cuelgan una especie de espinas que se distribuyen arbitrariamente, tanto en disposición como en número, dando al carpóforo un bonito aspecto en su madurez. El color es el blanco, aunque se vuelve algo crema con la edad, y puede llegar a medir hasta 30 cm de ancho por 10 de profundidad.",
+        "hymenium": "Himenio formado por aguijones o espinas irregulares dispuestas en sentido vertical.",
+        "stipe": "Pie blanquecino amarillento, muy corto, apenas perceptible. Achaparrado y ramificado.",
+        "flesh": "Carne blanquecina, de olor a rábano y sabor no excesivamente agradable en crudo, algo tenaz, sobre todo en los ejemplares viejos."
+    },
+    "habitat": "Fructifica tanto en verano como en otoño sobre troncos en descomposición de árboles de hoja caduca, rara sobre árboles vivos y más aún sobre coníferas. Muy poco frecuente, difícil de localizar.",
+    "observations": "Aunque los ejemplares jóvenes pueden degustarse, no tiene entidad culinaria esta seta, que pudiera confundirse con el Hericium erinaceus, que tiene las espinas mucho más largas y agrupadas, no ramificadas. También puede confundirse con el Hericium cirrhatum, más amarillento y compuesto por varios sombreros de los que cuelgan las espinas. Sobre abetos vivos se describe la especie Hericium alpestre, muy parecida a la aquí descrita.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/hericium_coralloides/hericium_coralloides1.jpg",
+        "https://www.fungipedia.org/images/galerias/hericium_coralloides/hericium_coralloides2.jpg",
+        "https://www.fungipedia.org/images/galerias/hericium_coralloides/hericium_coralloides3.jpg"
+    ]
+}

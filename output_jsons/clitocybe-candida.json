@@ -1,0 +1,31 @@
+{
+    "name": "clitocybe-candida",
+    "title": null,
+    "author": "Bres.",
+    "additional_info": {
+        "common_name": "Candida, seta de enebro, seta del biércol, bitigarra, moixernó de tardor.",
+        "synonym": "Leucopaxillus candidus (Bres.) Singer"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Tricholomatales",
+        "Familia": "Tricholomataceae"
+    },
+    "edibility": "buen-comestible",
+    "characteristics": {
+        "cap": "Sombrero grande, algunos ejemplares adultos pueden llegar a los 30 cm de diámetro, siendo lo habitual hallarlos entre 15 y 20 cm. Tiene una forma aplanada desde muy joven, deprimiéndose por el centro hasta quedar al final notablemente embudado. Su cutícula es de color blanco muy puro en los especímenes jóvenes, adquiriendo tonos cremas u ocráceos con la edad, satinada y seca, lisa y glabra, perfectamente separable de la carne. El margen es involuto, permanece enrollado durante buena parte de su desarrollo, solo al final es fino y entero.",
+        "hymenium": "Láminas decurrentes y muy apretadas, también son separables de la carne, de color blanco y un tanto desiguales, adquiriendo al igual que el sombrero matices cremas o sucios de viejas.",
+        "stipe": "Pie generalmente corto pero grueso, cilíndrico, de color blanco, a veces algo engrosado en la base, lleno y carnoso. Su superficie es pruinosa, sobre todo en los ejemplares más jóvenes.",
+        "flesh": "Carne espesa en la zona central del sombrero, maciza, de color blanco a veces algo sucio, inmutable. Su sabores agradable, dulce con matiz harinoso, su olor, sin ser desagradable, sí que es algo fuerte, entre harinoso y ciánico."
+    },
+    "habitat": "Esta especie acostumbra a fructificar en grupos de bastantes ejemplares formando lo que se conoce como \"corros de bruja\" o en hileras. Suele localizarse en zonas más bien altas, pastizales con brezo, y también la hemos visto en los claros de los bosques de montaña. Sale sobre todo en otoño, es una especie frecuente aunque no demasiado abundante en el norte de la península ibérica.",
+    "observations": "Cabe destacar de esta especie el notable porte y aspecto carnoso, su color blanco puro de joven, sus láminas bastante decurrentes y apretadas, además de su pie lleno. Existe una especie tóxica con la que pudiera confundirse, el Pseudoclitopilus rhodoleucus, de láminas rosadas en su juventud pero que pronto se vuelven blancas por la esporada, especie de tamaño bastante inferior. El Leucopaxillus giganteus es muy probable que sea una forma adulta de Clitocybe candida, ojo con no confundirla con los Clitocybes blancos tóxicos como Clitocybe phyllophila=Clitocybe cerussata, cuyo sombrero no excede de los 10 cm. Estas especies de Clitocybe que salen en corros, suelen generar a través de su micelio, antibióticos como la Clitocibina que producen efectos sobre la hierba dando a esta un aspecto como de estar \"quemada\".",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/clitocybe_candida/clitocybe_candida1.jpg",
+        "https://www.fungipedia.org/images/galerias/clitocybe_candida/clitocybe_candida2.jpg",
+        "https://www.fungipedia.org/images/galerias/clitocybe_candida/clitocybe_candida3.jpg"
+    ]
+}

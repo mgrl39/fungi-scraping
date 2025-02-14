@@ -1,0 +1,34 @@
+{
+    "name": "marasmius-graminum",
+    "title": null,
+    "author": "(Lib.) Berk.",
+    "additional_info": {
+        "common_name": "Marasmio de las gramíneas.",
+        "synonym": "Marasmius curreyi Berk. & Broome"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Tricholomatales",
+        "Familia": "Marasmiaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero de tamaño reducido, la mayor parte de los ejemplares localizados apenas alcanzaban 2 o 3 mm de diámetro, los más grandes 5 o 6 mm. Cuando sale tiene forma hemisférica, abriéndose poco a poco hasta quedar con forma de paraguas, incluso los salientes que provocan las láminas asemejan a los de las varillas de los paraguas. En el centro del sombrero se aprecia un ombligo bien definido, que permanece desde el principio y a lo largo de todo su desarrollo. Su superficie, al principio lisa, se vuelve rugulosa con el tiempo, y es de color anaranjado rojizo de joven, después más ocre rojiza. Debido al acanalamiento del sombrero el margen es muy crenulado.",
+        "hymenium": "Láminas blanquecinas o cremas, muy separadas entre sí, libres con respecto al pie, anchas y algo ventricosas. Algunos ejemplares tienen un collarium bien definido alrededor del pie, mientras que en otros apenas es perceptible.",
+        "stipe": "Pie alargado y filiforme, de color pardo negruzco prácticamente en su totalidad, solo la zona próxima al sombrero es algo más clara.",
+        "flesh": "Carne insignificante de color blanco, tenaz en el pie, sin olor o sabor dignos de mención."
+    },
+    "habitat": "Esta pequeña seta tiene hábitat graminícola, sale sobre los tallos de diversas hierbas, o también sobre las raíces, los ejemplares fotografiados fueron encontrados en una zona herbosa cercana a unos robles centenarios. Las hemos visto en el mes de julio, bibliográficamente la sitúan como seta de verano y otoño. Es una especie bastante rara, pero cuando se encuentra se hallan siempre numerosos ejemplares, dado que su fructificación es de modo gregario.",
+    "observations": "Existen tres especies con cierta similitud en cuanto al color y demás características, por un lado está el Marasmius armeniacus, perfectamente diferenciable por su sombrero aplanado y no umbilicado, así como su ausencia de collar. No lo tenemos tan claro en cuanto al Marasmius curreyi, diferenciado por algunos autores como especie independiente por su mayor tamaño y pie más corto, que creemos pudiera tratarse de la misma especie. También se describe el Cryptomarasmius corbariensis, similar pero con hábitat exclusivo sobre ramitas de olivo.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/marasmius_graminum/marasmius_graminum1.jpg",
+        "https://www.fungipedia.org/images/galerias/marasmius_graminum/marasmius_graminum2.jpg",
+        "https://www.fungipedia.org/images/galerias/marasmius_graminum/marasmius_graminum3.jpg",
+        "https://www.fungipedia.org/images/galerias/marasmius_graminum/marasmius_graminum4.jpg",
+        "https://www.fungipedia.org/images/galerias/marasmius_graminum/marasmius_graminum5.jpg",
+        "https://www.fungipedia.org/images/galerias/marasmius_graminum/marasmius_graminum6.jpg"
+    ]
+}

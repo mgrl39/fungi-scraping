@@ -1,0 +1,32 @@
+{
+    "name": "hygrocybe-conica",
+    "title": null,
+    "author": "(Schaeff.) P. Kumm.",
+    "additional_info": {
+        "common_name": "Higróforo cónico, ezko gorri-koniko, pixaconill.",
+        "synonym": "Hygrocybe tristis (Pers.) F. H. Moller"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Tricholomatales",
+        "Familia": "Hygrophoraceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero cuyo diámetro puede rondar los 5 cm en los ejemplares maduros, frecuentemente algo menos, con la típica forma cónica que su propio nombre indica, haciendo la salvedad de que cuando es joven es mucho más cónico y puntiagudo, anchándose con el tiempo, pero sin llegar nunca a aplanarse. En todas las etapas de su desarrollo mantiene en el centro un mamelón agudo muy notable. Superficie fibrilosa de color muy variable, típicamente rojiza, pero también amarillenta o anaranjada, un poco viscosa con lluvia y casi siempre brillante. Toda la superficie tiende a ennegrecer de vieja y al roce.",
+        "hymenium": "Láminas adnatas o con más frecuencia sublibres, espaciadas y anchas como la mayoría de los Hygrocybes, de color claro, casi blanco, o amarillentas, con tendencia a ennegrecer con el tiempo a partir de la arista.",
+        "stipe": "Pie por lo general cilíndrico y alargado, fibriloso, liso o longitudinalmente acanalado, a veces con un gran surco central. Es hueco y nada viscoso, puede tener color rojizo, amarillento, anaranjado, e incluso a veces con matiz verdoso, con marcada tendencia a ennegrecer.",
+        "flesh": "Carne más bien delgada y frágil, de color amarillento también variable, no tiene olor perceptible y su sabor es dulce y muy suave."
+    },
+    "habitat": "Especie con predilección heliófila, sale por igual en prados y pastizales, así como en los claros herbosos de cualquier tipo de bosque, también se localiza en zonas más ruderales. Es una especie bastante frecuente que crece muchas veces en grupo, también solitaria, sobre todo durante el otoño, sin ser descartable su aparición en otras épocas del año.",
+    "observations": "Se trata de una seta tan sumamente variable de color que durante muchos años dio lugar a la creación de diversos taxones, que a nuestro juicio son la misma especie. Se separaba Hygrocybe nigrescens=Hygrocybe pseudoconica por sus basidios tetraspóricos, habiéndose comprobado, sin embargo, que un mismo espécimen en determinadas circunstancias puede desarrollar basidios bispóricos o tetraspóricos. Si se separa como taxón independiente Hygrocybe conicoides, típico de dunas litorales y con esporas más alargadas.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/hygrocybe_conica/hygrocybe_conica1.jpg",
+        "https://www.fungipedia.org/images/galerias/hygrocybe_conica/hygrocybe_conica2.jpg",
+        "https://www.fungipedia.org/images/galerias/hygrocybe_conica/hygrocybe_conica3.jpg",
+        "https://www.fungipedia.org/images/galerias/hygrocybe_conica/hygrocybe_conica4.jpg"
+    ]
+}

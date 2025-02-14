@@ -1,0 +1,30 @@
+{
+    "name": "helvella-lacunosa",
+    "title": null,
+    "author": "Afzel.",
+    "additional_info": {
+        "common_name": "Oreja de gato negra, mitra beltz, orella de gat negra.",
+        "synonym": "Helvella cinerea (Afzel.) Rea"
+    },
+    "taxonomy": {
+        "División": "Ascomycota",
+        "Subdivisión": "Ascomycotina",
+        "Clase": "Himenoascomycetes",
+        "Subclase": "Pezizomycetidae",
+        "Orden": "Pezizales",
+        "Familia": "Helvellaceae"
+    },
+    "edibility": "comestible-precaucion",
+    "characteristics": {
+        "cap": "Sombrero de 3 a 4 cm de alto por 2 o 3 de ancho, con forma de silla de montar, con el borde más o menos envuelto hacia dentro u ondulado. Normalmente compuesto por 2 o 3 lóbulos bien diferenciados. El color de la superficie que no es fértil es muy variable dentro de los tonos grises, a veces tendente al pardo negruzco.",
+        "hymenium": "Himenio compuesto por la cara externa del sombrero, que tiene, al igual que la parte interna una gran variabilidad de color, pudiendo ser desde gris claro hasta casi negro.",
+        "stipe": "Pie que puede superar los 5 cm de altura, hueco y cilíndrico. Está recorrido en su totalidad por surcos bastante profundos que forman en él una especie de cavidades. Su color va del blanco sucio al gris.",
+        "flesh": "Carne poco consistente, frágil, quizás algo elástica, sin que podamos reseñar nada interesante en cuanto a sabor u olor."
+    },
+    "habitat": "Esta seta no tiene especial exigencia a la hora de fructificar en cuanto a su ubicación, sale en cualquier tipo de bosque e incluso en parques. Su época más habitual es el otoño y es muy común.",
+    "observations": "Existe una especie de gran similitud, que actualmente se tiende a sinonimizar con esta, que es la Helvella sulcata, de sombrero negro, que nosotros trataremos como especie independiente. También puede parecerse por su pie a la Paxina queletii, cuyo sombrero tiene tonos marrones y forma acopada. Más difícil es su confusión con la Helvella crispa, de tonos blancuzcos.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/helvella_lacunosa/helvella_lacunosa1.jpg",
+        "https://www.fungipedia.org/images/galerias/helvella_lacunosa/helvella_lacunosa2.jpg"
+    ]
+}

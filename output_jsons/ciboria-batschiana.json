@@ -1,0 +1,34 @@
+{
+    "name": "ciboria-batschiana",
+    "title": null,
+    "author": "(Zopf.) Buchw.",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Sclerotinia batschiana Zopf."
+    },
+    "taxonomy": {
+        "División": "Ascomycota",
+        "Subdivisión": "Ascomycotina",
+        "Clase": "Himenoascomycetes",
+        "Subclase": "Pezizomycetidae",
+        "Orden": "Leotiales",
+        "Familia": "Sclerotiniaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero de reducidas dimensiones, los individuos plenamente desarrollados apenas alcanzan un diámetro que oscila entre 0`5 y 2 cm. Tiene forma de cúpula en sus primeros estadios, aunque se va aplanando con el tiempo, al final es más o menos plano, pero manteniendo un hundimiento en forma de ombligo en el centro. La superficie externa no fértil, es de color marrón oscuro, casi pardo, completamente lisa, y el margen es agudo y regular, poco o nada dentado.",
+        "hymenium": "Himenio liso, del mismo color que la superficie externa o algo más claro.",
+        "stipe": "Pie muy evidente, si el sustrato está enterrado puede llegar a ser largo, de unos 3 cm, si bien lo habitual es que tenga 1 o 2. Es más consistente que el sombrero, y su color es oscuro, prácticamente negruzco.",
+        "flesh": "Carne escasa, de textura cerosa en el sombrero, más dura y fibrosa en el pie. Su olor apenas es perceptible, y su sabor poco significativo."
+    },
+    "habitat": "Los ejemplares fotografiados fueron hallados fructificando sobre bellotas de roble albar (Quercus petraea), en la provincia de Cantabria. Algunos autores destacan también su posible presencia sobre castañas en descomposición. Fueron localizados en el mes de octubre, por lo que entendemos que se trata de una especie otoñal. Consideramos que se trata de una especie de difícil localización, dado su pequeño tamaño y lo enterrada que sale en la mayoría de las ocasiones, siendo además muy localizada, si bien es cierto que donde sale lo hace con profusión.",
+    "observations": "Se trata de un Ascomycete que destaca por su peculiar hábitat sobre frutos del roble o del castaño. Existe una especie de similares características, la Ciboria amentacea, que se diferencia por su fructificación sobre amentos de los alisos, y que es más netamente cupuliniforme y con el margen finamente aserrado. También tiene parecido con la Rutstroemia firma, que sale sobre madera de roble en descomposición.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/ciboria_batschiana/ciboria_batschiana1.jpg",
+        "https://www.fungipedia.org/images/galerias/ciboria_batschiana/ciboria_batschiana2.jpg",
+        "https://www.fungipedia.org/images/galerias/ciboria_batschiana/ciboria_batschiana3.jpg",
+        "https://www.fungipedia.org/images/galerias/ciboria_batschiana/ciboria_batschiana4.jpg",
+        "https://www.fungipedia.org/images/galerias/ciboria_batschiana/ciboria_batschiana5.jpg",
+        "https://www.fungipedia.org/images/galerias/ciboria_batschiana/ciboria_batschiana6.jpg"
+    ]
+}

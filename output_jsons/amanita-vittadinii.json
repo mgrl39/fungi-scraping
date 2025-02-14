@@ -1,0 +1,33 @@
+{
+    "name": "amanita-vittadinii",
+    "title": null,
+    "author": "(Moretti) vittad.",
+    "additional_info": {
+        "common_name": "Amanita escamosa.",
+        "synonym": "Aspidella vittadinii (Moretti) Gilb"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Agaricales",
+        "Familia": "Amanitaceae"
+    },
+    "edibility": "comestible",
+    "characteristics": {
+        "cap": "Sombrero que frecuentemente supera en los ejemplares en pleno desarrollo los 10 cm de diámetro, pudiendo aproximarse a los 15, de forma globosa cuando brota, evolucionando a forma convexa o plano convexa, rara vez aplanado. Su superficie es de color blanco o crema, muy seca y fácilmente separable de la carne, pero está recubierta de escamas que no son otra cosa que restos del velo que recubre la seta en sus inicios. Estas escamas son de color variable, crema amarillentas a gris ocre, más bien aplanadas, no piramidales, pero si con un cierto relieve. Margen regular y no es inhabitual que tenga restos colgantes del velo.",
+        "hymenium": "Láminas libres con respecto al pie, apretadas, de color blanco de jóvenes, luego cremas, de consistencia un tanto cerosa, blanda.",
+        "stipe": "Pie cilíndrico, pero radicante por su base, de consistencia muy dura y lleno. La zona superior es lisa, hasta el anillo, que es colgante y persistente, liso por arriba y arrugado por la parte inferior. Desde el anillo hasta la base, el pie está recubierto en su totalidad de escamas dispuestas de forma circular o en espiral. Todo el pie tiene un color similar al del sombrero, salvo quizás la base que se vuelve algo más ocrácea.",
+        "flesh": "Carne espesa y consistente de color blanco, los ejemplares jóvenes tienen un olor aromático muy peculiar, con la edad este olor se mitiga y casi llega a desaparecer, su sabor es dulce."
+    },
+    "habitat": "Para tratarse de una Amanita su hábitat es peculiar, ya que sale en prados y pastizales de cierta altura, entre la hierba y acompañando muchas veces a algunas especies de Agaricus. Fructifica tanto en primavera como en otoño. Es una seta rara y muy localizada que hemos tenido la oportunidad de fotografiar gracias a Juan Ginés, buen amigo y colaborador de Fungipedia.",
+    "observations": "Por su hábitat es frecuentemente confundida con Agaricus, incluso estamos convencidos de que mucha gente se la ha comido confundida, sin que se tengan noticias de ningún contratiempo con ella. Está considerada como comestible, aunque no la hemos probado, pero los conocidos \"champis\" tienen las láminas de color marrón chocolate de viejas, mientras que esta seta las tiene cremas. Más difícil es su separación de la Amanita codinae, especie que no tiene el pie tan duro, y que sale en eriales y claros boscosos. La mortal Amanita virosa se diferencia por la ausencia de escamas y su volva envolvente.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/amanita_vittadinii/amanita_vittadinii1.jpg",
+        "https://www.fungipedia.org/images/galerias/amanita_vittadinii/amanita_vittadinii2.jpg",
+        "https://www.fungipedia.org/images/galerias/amanita_vittadinii/amanita_vittadinii3.jpg",
+        "https://www.fungipedia.org/images/galerias/amanita_vittadinii/amanita_vittadinii4.jpg",
+        "https://www.fungipedia.org/images/galerias/amanita_vittadinii/amanita_vittadinii5.jpg"
+    ]
+}

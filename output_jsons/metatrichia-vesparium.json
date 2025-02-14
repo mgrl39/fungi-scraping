@@ -1,0 +1,34 @@
+{
+    "name": "metatrichia-vesparium",
+    "title": null,
+    "author": "(Batsch) Nann.-Bremek. ex G.W. Martin & Alexop.",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Hemitrichia vesparium (Batsch.) T. Macbr."
+    },
+    "taxonomy": {
+        "División": "Myxomycota",
+        "Subdivisión": "Myxomycotina",
+        "Clase": "Myxomycetes",
+        "Subclase": "Myxogasteromycetidae",
+        "Orden": "Trichiales",
+        "Familia": "Trichiaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Esporóforo de desarrollo individual, si bien se hallan habitualmente fructificaciones de varios individuos sobre un mismo sustrato, estos se desarrollan de manera independiente. La parte superior está formada por varias cabezas arracimadas de color oscuro, casi negro de jóvenes. Cuando maduran se rompen liberando las esporas, quedando unos huecos de color marrón rojizo en su totalidad, y de aspecto que recuerdan al panal de las abejas. El tamaño es de apenas unos milímetros. Acompañando a las esporas, y contribuyendo de alguna manera a su dispersión, se encuentran una serie de fibras alargadas estériles que constituyen el llamado capilicio. En las especies de este género, estas fibrillas son alargadas y entrelazadas, así como más o menos espinosas.",
+        "hymenium": "Esporas redondas de color marrón a marrón rojizo, de entre 8 y 11 micras de tamaño, con probable presencia de alguna pequeña verruga o espina corta.",
+        "stipe": "Pie formado a partir del mucus del hipotalo, de color granate, a veces poco configurado o de aspecto deshilachado, generalmente de menor longitud que el capilicio.",
+        "flesh": "Se forma sobre madera podrida de planifolios, en zonas húmedas. Los ejemplares estudiados fueron encontrados en el mes de Febrero sobre un tronco podrido de haya (Fagus sylvatica), en la provincia de Álava."
+    },
+    "habitat": "Es una curiosa y llamativa especie de los Myxomycetes, perteneciente al grupo de las Trichias, caracterizado por tener un verdadero capilicio de fibras espinosas y entrelazadas, y por su desarrollo myxogasteroide. Es una especie diferenciable de otras del género Trichia, como la Trichia decipiens, por las múltiples cabezas que desarrolla, partiendo de un mismo pie.",
+    "observations": null,
+    "images": [
+        "https://www.fungipedia.org/images/galerias/metatrichia_vesparium/metatrichia_vesparium1.jpg",
+        "https://www.fungipedia.org/images/galerias/metatrichia_vesparium/metatrichia_vesparium2.jpg",
+        "https://www.fungipedia.org/images/galerias/metatrichia_vesparium/metatrichia_vesparium3.jpg",
+        "https://www.fungipedia.org/images/galerias/metatrichia_vesparium/metatrichia_vesparium4.jpg",
+        "https://www.fungipedia.org/images/galerias/metatrichia_vesparium/metatrichia_vesparium5.jpg",
+        "https://www.fungipedia.org/images/galerias/metatrichia_vesparium/metatrichia_vesparium6.jpg"
+    ]
+}

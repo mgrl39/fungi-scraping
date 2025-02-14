@@ -1,0 +1,30 @@
+{
+    "name": "clavaria-zollingeri",
+    "title": null,
+    "author": "Lev.",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Clavaria lavandula Peck."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Aphyllophoromycetidae",
+        "Orden": "Cantharellales",
+        "Familia": "Clavariaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Carpóforo compuesto por fructificaciones ramificadas, muchas veces desde la base, algunas de ellas simples y otras nuevamente ramificadas o bifurcadas. Alcanza una altura no superior a los 7 u 8 cm, y se extiende a lo ancho en otro tanto como mucho. Es de un llamativo color amatista o morado, similar a la flor de la lavanda, cuando el espécimen es joven y está hidratado, conforme va envejeciendo se vuelve menos vistoso, de color lila pálido e incluso con tonos cárneos. Las puntas de las ramas, aunque pueden bifurcarse, generalmente se presentan truncadas.",
+        "hymenium": "Himenio inmerso en la pileipellis del carpóforo.",
+        "stipe": "Pie en la mayoría de las ocasiones ausente, cuando se presenta es más pálido que el resto del carpóforo, incluso grisáceo.",
+        "flesh": "Carne de color lila y escasa consistencia, algo tiesa pero casca con cierta facilidad, sin nada reseñable en cuanto a olor o sabor."
+    },
+    "habitat": "Existe cierta confusión en cuanto al hábitat de esta especie motivado por su confusión con otras especies. Creemos que es una seta que fructifica en lugares herbosos, sobre todo praderas de pastos, pudiéndose localizar también en jardines nitrogenados o cementerios. Es una seta otoñal y muy rara, de difícil localización.",
+    "observations": "Hay tres especies con las que puede confundirse, debido fundamentalmente a la coincidencia de color. Una de ellas es la Ramaria fumigata, que sin embargo tiene en la base un tocho de color blanco del que salen las ramas lilas, por eso es Ramaria y no Clavaria. Por otro lado está la Alloclavaria purpurea, de carne púrpura acuosa, como translúcida, y la Clavulina amethystina, de la que solo se separa por su hábitat bajo caducifolios y por sus características microscópicas, ya que esta última tiene basidios bispóricos predominantes y sus esporas son mucho más grandes.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/clavaria_zollingeri/clavaria_zollingeri1.jpg",
+        "https://www.fungipedia.org/images/galerias/clavaria_zollingeri/clavaria_zollingeri2.jpg"
+    ]
+}

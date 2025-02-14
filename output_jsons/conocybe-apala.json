@@ -1,0 +1,31 @@
+{
+    "name": "conocybe-apala",
+    "title": null,
+    "author": "(Fr.) Arnolds",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Conocybe lactea (J.E. Lange) Métrod"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Cortinariales",
+        "Familia": "Bolbitiaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero muy pequeño, apenas 2 o 3 cm de diámetro, de forma cónica y puntiagudo en un primer momento, después se abre ligeramente para adoptar forma de campana, sin llegar nunca a aplanarse, ni tan siquiera a quedar convexo. De color blanco de leche, sobre todo de joven, algo más cremoso en la vejez. El margen está ligeramente estriado, y la cutícula es seca, solo lubrificada en época de lluvia.",
+        "hymenium": "Láminas adnatas y relativamente apretadas, de color pálido de joven, se vuelven pardas rápidamente con la maduración de las esporas. Un tanto irregulares.",
+        "stipe": "Pie central y cilíndrico, algo bulboso en la base y atenuado hacia el sombrero, muy delgado y frágil, de color blanquecino y fibriloso longitudinalmente.",
+        "flesh": "Carne muy delgada y escasa de color blanco, con olor a hierba y sabor un tanto amargo."
+    },
+    "habitat": "Es una especie muy habitual, que se localiza con frecuencia en parques y jardines abonados, entre la hierba, sobre todo durante los meses otoñales.",
+    "observations": "Es una seta que se reconoce con facilidad por su sombrero cónico de color blanco de leche y su pie delgado. Algo parecido puede ser el Conocybe pubescens, que tiene el pie más corto y consistente, y cuyo sombrero tiende a aplanarse, cosa que no sucede con la especie aquí descrita.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/conocybe_apala/conocybe_apala1.jpg",
+        "https://www.fungipedia.org/images/galerias/conocybe_apala/conocybe_apala2.jpg",
+        "https://www.fungipedia.org/images/galerias/conocybe_apala/conocybe_apala3.jpg"
+    ]
+}

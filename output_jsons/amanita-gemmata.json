@@ -1,0 +1,32 @@
+{
+    "name": "amanita-gemmata",
+    "title": null,
+    "author": "(Fries) Bertillon",
+    "additional_info": {
+        "common_name": "Lanperna hori.",
+        "synonym": "Amanita junquillea Quélet"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Agaricales",
+        "Familia": "Amanitaceae"
+    },
+    "edibility": "toxica",
+    "characteristics": {
+        "cap": "Sombrero de entre 5 y 10 cm de diámetro como mucho, en la mayoría de los casos no llega a esta cota, en su nacimiento de forma globosa, pero se va abriendo siendo, primero hemisférica, luego convexa, y al final plano-convexa, sin llegar a aplanarse del todo. Su color es variable, lo que da lugar a la aparición de algunas variedades, ocre amarillento en la especie tipo, con restos de velo de color blanco. Su superficie es brillante y lubrificada en tiempo de lluvias, siendo lisa o estriada en el margen.",
+        "hymenium": "Láminas bastante apretadas de color blanco, adnatas o incluso libres con respecto al pie.",
+        "stipe": "Pie central y engrosado en la base en una especie de bulbo, envuelto a su vez por una volva floconosa bastante variable en su forma. Es de color blanco, y goza de un anillo muy fugaz, es habitual encontrar especímenes de esta seta sin el anillo.",
+        "flesh": "Carne blanca y tierna, fácilmente rompible. Tiene sabor dulce y suave y olor poco específico."
+    },
+    "habitat": "Sale en bosques de planifolios, pero preferentemente lo hace bajo coníferas diversas, sobre todo pinos. La época más normal en que se la encuentra es en finales del otoño, aunque también aparece en primavera. Es muy frecuente y abundante en el norte de la península ibérica.",
+    "observations": "En tiempos remotos fue considerada mortal, que no lo es, después fue considerada inocua, que tampoco lo es, y definitivamente está considerada como tóxica, que lo es, pero no para todo el mundo, ni todas sus variedades. Tiene cierto parecido con la Amanita citrina, de color amarillo limón y olor a patata, también con la Amanita eliae, de color beige y más esbelta.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/amanita_gemmata/amanita_gemmata1.jpg",
+        "https://www.fungipedia.org/images/galerias/amanita_gemmata/amanita_gemmata2.jpg",
+        "https://www.fungipedia.org/images/galerias/amanita_gemmata/amanita_gemmata3.jpg",
+        "https://www.fungipedia.org/images/galerias/amanita_gemmata/amanita_gemmata4.jpg"
+    ]
+}

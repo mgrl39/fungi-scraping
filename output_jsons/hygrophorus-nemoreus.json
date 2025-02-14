@@ -1,0 +1,34 @@
+{
+    "name": "hygrophorus-nemoreus",
+    "title": null,
+    "author": "(Pers.) Fr.",
+    "additional_info": {
+        "common_name": "Baso-ezko.",
+        "synonym": "Camarophyllus nemoreus (Fr.) P. Kumm."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Tricholomatales",
+        "Familia": "Hygrophoraceae"
+    },
+    "edibility": "comestible",
+    "characteristics": {
+        "cap": "Sombrero que en estado adulto puede superar con facilidad los 5 cm de diámetro, algunos ejemplares llegan a los 10 cm. Su forma es hemisférica en un principio pero pronto se vuelve convexo y luego aplanado, pudiendo llegar a deprimirse un tanto por la zona central de viejo, algunos ejemplares son un poco umbonados. Su cutícula es radialmente fibrilosa, seca e incluso ligeramente aterciopelada en la juventud, de color predominante ocre anaranjado, más naranja en el centro y palideciendo hacia el margen donde pueden aparecer matices cremas o amarillentos. El margen es incurvado y bastante regular, no estriado.",
+        "hymenium": "Láminas un poco decurrentes, separadas entre sí y gruesas, en los especímenes jóvenes de color claro, blanquecino o crema, con el tiempo tienden a adquirir tonos similares a los del sombrero.",
+        "stipe": "Pie cilíndrico generalmente, alguna vez un poco atenuado, de color mucho más pálido que el sombrero, blanquecino, aunque oscurece algo de viejo. Su superficie es ligeramente fibrilosa y en la zona próxima a las láminas granulosa.",
+        "flesh": "Carne consistente de color blanco, más bien espesa, su sabor es ligeramente harinoso y su olor agradable, también un poco harinoso."
+    },
+    "habitat": "Este Hygrophorus no es en absoluto pratícola, fructifica dentro de los bosques de planifolios, aislado o en pequeños grupos, nosotros lo localizamos bajo hayas y también bajo robles. Esta especie era muy frecuente en nuestros bosques pero se halla en franca decadencia, ya no es tan fácil verla como hace unos años. Su época predilecta de aparición es el otoño, pero suele aguantar bien un buen tramo del invierno.",
+    "observations": "Se trata de una especie comestible, sin mayor elogio para nosotros, buena para algunos. Una especie de notable parecido es el Cuphophyllus pratensis, especie de pradería de color más netamente anaranjado y de parecida entidad culinaria. Hygrophorus poetarum es de mayor tamaño, su olor es fuerte y característico, comparte hábitat con la especie descrita, Hygrophorus pudorinus es más raro y de coníferas de montaña, sobre todo bajo abetos, su cutícula viscosa lo distingue de esta especie.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/hygrophorus_nemoreus/hygrophorus_nemoreus1.jpg",
+        "https://www.fungipedia.org/images/galerias/hygrophorus_nemoreus/hygrophorus_nemoreus2.jpg",
+        "https://www.fungipedia.org/images/galerias/hygrophorus_nemoreus/hygrophorus_nemoreus3.jpg",
+        "https://www.fungipedia.org/images/galerias/hygrophorus_nemoreus/hygrophorus_nemoreus4.jpg",
+        "https://www.fungipedia.org/images/galerias/hygrophorus_nemoreus/hygrophorus_nemoreus5.jpg",
+        "https://www.fungipedia.org/images/galerias/hygrophorus_nemoreus/hygrophorus_nemoreus6.jpg"
+    ]
+}

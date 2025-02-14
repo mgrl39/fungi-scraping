@@ -1,0 +1,31 @@
+{
+    "name": "russula-nobilis",
+    "title": null,
+    "author": "Velen.",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Russula mairei Singer"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Russulales",
+        "Familia": "Russulaceae"
+    },
+    "edibility": "toxica",
+    "characteristics": {
+        "cap": "Sombrero que en los ejemplares maduros tiene un diámetro que oscila entre los 4 y los 6 cm, ocasionalmente algo más, con forma convexa inicialmente, durante la mayor parte de su desarrollo extendido y finalmente un poco deprimido, sobre todo por la zona central. La superficie pileica es fácilmente separable, de color rojo predominante más o menos vivo, en algunos ejemplares este color es muy homogéneo, pero puede decolorarse en otros con alguna mancha de color crema dispuesta irregularmente, a simple vista es lisa y brillante con lluvia, dando una apariencia más seca en otras condiciones meteorológicas. El margen es liso y algo incurvado en los especímenes más jóvenes, tendiendo a estriarse en los maduros.",
+        "hymenium": "Láminas adnatas y más bien separadas entre sí, de color blanco y con la arista concolora, con poca presencia de laminillas y una disposición muy regular, redondeándose un poco hacia el pie pero sin llegar nunca a escotarse.",
+        "stipe": "Pie de tamaño variable en función del sustrato, cilíndrico o algo ensanchado en el ápice, de color blanco con cierta tendencia a ensuciarse de amarillento ocráceo con la manipulación, lleno sobre todo de joven, después cavernoso, con la superficie lisa de joven volviéndose más rugosa en los especímenes maduros.",
+        "flesh": "Carne espesa pero quebradiza, más bien frágil para la apariencia carnosa de la seta, de color blanco con la superficie subpileica con tonos rosados. Emana un olor afrutado bien apreciable y su sabor es intensamente picante."
+    },
+    "habitat": "Se trata de una especie común en los hayedos del norte peninsular, donde brota en grupos reducidos pero de forma abundante durante el otoño, pudiendo aparecer en otras épocas del año de forma puntual, siendo mucho menos frecuente en otros hábitats.",
+    "observations": "Las especies del grupo Emiticinae son muy difíciles de diferenciar entre sí, esta especie se caracteriza por su hábitat en la hojarasca de los hayedos, su porte intermedio y su sombrero prontamente extendido. La Russula emetica, especie tipo de este grupo, fructifica sobre todo en turberas asociadas a coníferas de montaña, tiene mayor porte y dureza, además sus esporas son de mayor tamaño, Russula silvestris es una especie más pequeña y endeble de sombrero que se decolara con facilidad y de crecimiento muscícola asociada a planifolios diversos. Existen otras especies menos conocidas pero igualmente similares cuya diferenciación está sujeta a pequeños caracteres generalmente microscópicos, lo que hace que este grupo sea realmente complicado.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/russula_nobilis/russula_nobilis1.jpg",
+        "https://www.fungipedia.org/images/galerias/russula_nobilis/russula_nobilis2.jpg",
+        "https://www.fungipedia.org/images/galerias/russula_nobilis/russula_nobilis3.jpg"
+    ]
+}

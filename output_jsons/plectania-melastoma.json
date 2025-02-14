@@ -1,0 +1,34 @@
+{
+    "name": "plectania-melastoma",
+    "title": null,
+    "author": "(Sowerby) Fuckel",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Urnula melastoma (Sowerby) Boud."
+    },
+    "taxonomy": {
+        "División": "Ascomycota",
+        "Subdivisión": "Ascomycotina",
+        "Clase": "Himenoascomycetes",
+        "Subclase": "Pezizomycetidae",
+        "Orden": "Pezizales",
+        "Familia": "Sarcoscyphaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Carpóforo que en los individuos plenamente desarrollados y abiertos puede alcanzar los 2 cm, si bien cuando el carpóforo está cerrado apenas llega a 0,5 cm. En un principio tiene forma de copa o esférica, con un pequeño agujerito en la parte superior, pero se va abriendo paulatinamente hasta casi extenderse. La superficie externa es de color de fondo negruzco, pero está recubierta de gránulos y pelos rojizos o color herrumbre, que le confieren este aspecto, aunque se van perdiendo con la maduración, manteniéndose sobre todo en al borde. Este borde suele ser irregular o dentado.",
+        "hymenium": "Himenio inmerso en la superficie interna del carpóforo, de color negro brillante, por lo general liso.",
+        "stipe": "Pie corto y muy rudimentario en los ejemplares jóvenes, los adultos que ya están abiertos son prácticamente sésiles. Es de color similar al resto del carpóforo.",
+        "flesh": "Carne relativamente espesa para lo pequeña que es la seta, de color pardo negruzco y consistencia un tanto gomosa. Apenas tiene olor y su sabor es insípido."
+    },
+    "habitat": "Es una especie que acostumbra a salir sobre ramas caídas, eso sí, de árboles muy diferentes, nos consta su presencia sobre abedules y, en general, sobre planifolios diversos, pero nosotros las hemos localizado sobre Picea abies. Sale de forma gregaria, pero aun así, debe ser considerada como una especie rara. Fructifica en el transcurso de la primavera, en este caso, los ejemplares localizados, lo fueron en el mes de abril.",
+    "observations": "Se trata de un hongo interesante por su rareza, no demasiado conocido entre los aficionados, que se caracteriza por salir en grupos sobre ramas caídas y por su recubrimiento rojizo. La Plectania rhytidia es muy similar, si bien carece de este recubrimiento y sale bajo eucaliptos. Otra especie de similares características e igualmente interesante es la Plectania zugazae, también sin el recubrimiento, que se diferencia al micro por sus esporas más pequeñas con matriz hialina.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/plectania_melastoma/plectania_melastoma1.jpg",
+        "https://www.fungipedia.org/images/galerias/plectania_melastoma/plectania_melastoma2.jpg",
+        "https://www.fungipedia.org/images/galerias/plectania_melastoma/plectania_melastoma3.jpg",
+        "https://www.fungipedia.org/images/galerias/plectania_melastoma/plectania_melastoma4.jpg",
+        "https://www.fungipedia.org/images/galerias/plectania_melastoma/plectania_melastoma5.jpg",
+        "https://www.fungipedia.org/images/galerias/plectania_melastoma/plectania_melastoma6.jpg"
+    ]
+}

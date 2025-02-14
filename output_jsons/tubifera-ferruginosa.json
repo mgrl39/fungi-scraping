@@ -1,0 +1,30 @@
+{
+    "name": "tubifera-ferruginosa",
+    "title": null,
+    "author": "(Batsch.) J. F. Gmel.",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Stemonitis ferruginosa Batsch."
+    },
+    "taxonomy": {
+        "División": "Myxomycota",
+        "Subdivisión": "Myxomycotina",
+        "Clase": "Myxomycetes",
+        "Subclase": "Myxogasteromycetidae",
+        "Orden": "Liceales",
+        "Familia": "Tubiferaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Plasmodio reptante ameboide que puede formar células flageladas si las condiciones ambientales son las adecuadas, pudiéndose desplazar en esta fase por el sustrato, fagocitando pequeños organismos como bacterias. Inicialmente de color blanco, rápidamente se vuelve rojo coral, para acabar siendo de color pardo ferruginoso mate. No suele superar los 5 cm de longitud. Tras la creación de los cigotos y múltiples divisiones celulares se crean las esporas, que son endógenas, pues se forman esporangios que las albergan en su interior.",
+        "hymenium": "Pseudoetalio formado por multitud de esporangios arrejuntados, cuya apariencia es la de una sola entidad. Estos esporangios son cilíndricos y su colorido es llamativo y afín al que tiene el plasmodio. Los cilindros apenas tienen 1 mm de diámetro y menos de 5 mm de largo, al apretarse tanto entre ellos pueden llegar a deformarse. Forman una masa mucilaginosa de apenas 3 o 4 cm con forma más o menos como las huevas de trucha. El interior de estos esporangios se vuelve con el tiempo una masa pulverulenta parduzca.",
+        "stipe": "Esporas más o menos redondeadas y con peridio, su tamaño es de 5 a 8 micras.",
+        "flesh": "Es un Myxomycete muy común que vemos cada año sin problemas. Cuando más aparece es a finales del verano y principios del otoño, siempre sobre madera en descomposición. En nuestro entorno es habitual sobre la madera de los pinos."
+    },
+    "habitat": "Es la especie tipo de este género, caracterizada por su llamativo color rojo cuando el espécimen es joven, sus cilindros a modo de tubos, que se arrejuntan, y su hábitat sobre madera de pino. Hay otras especies del género con las que se puede confundir, como la Tubifera stipitata o la Tubifera papillata. Sin embargo, el aficionado poco avezado suele confundirla con la puesta de algún insecto.",
+    "observations": null,
+    "images": [
+        "https://www.fungipedia.org/images/galerias/tubifera_ferruginosa/tubifera_ferruginosa1.jpg",
+        "https://www.fungipedia.org/images/galerias/tubifera_ferruginosa/tubifera_ferruginosa2.jpg"
+    ]
+}

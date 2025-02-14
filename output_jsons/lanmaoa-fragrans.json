@@ -1,0 +1,37 @@
+{
+    "name": "lanmaoa-fragrans",
+    "title": null,
+    "author": "(Vittad.) Vizzini, Gelardi & Simonini",
+    "additional_info": {
+        "common_name": "Boleto fragante, Sureny fragant, onddo usaintsu.",
+        "synonym": "Boletus fragrans Vittad."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Boletales",
+        "Familia": "Boletaceae"
+    },
+    "edibility": "buen-comestible",
+    "characteristics": {
+        "cap": "Sombrero de aspecto carnoso que puede llegar a alcanzar un diámetro de unos 15 cm, con forma hemisférica en su primera etapa, pronto convexo y finalmente plano-convexo. Su superficie es de color pardo básicamente, pudiendo ser castaño oscuro en algunos ejemplares y tener matices rojizos en otros. Cutícula aterciopelada en los ejemplares jóvenes que con el paso del tiempo se vuelve lisa y glabra, de aspecto seco y mate incluso con lluvia. El margen suele ser excedente e involuto sobre todo en los individuos más jóvenes, siendo más ondulado en la madurez.",
+        "hymenium": "Tubos adnatos o sublibres de color amarillo que se tornan algo más oliváceos en la madurez, azulean al ser presionados, son bastante cortos.",
+        "stipe": "Poros redondos, pequeños y bastante iguales, de color amarillo de jóvenes, con la vejez se abren un poco y se vuelven oliváceos o pardo oliváceos ya de muy viejos. Al igual que los tubos azulean al ser presionados.",
+        "flesh": "Pie proporcionado o más bien corto, cilíndrico o fusiforme, engrosado en la zona central y radicante hacia la base. Tiene un color amarillento de fondo que es más patente en la zona superior, ya que el resto suele estar punteado de pardo rojizo o netamente de color pardo."
+    },
+    "habitat": "Carne espesa y consistente de color blanquecino en el sombrero, netamente amarillenta en el pie, azulea al corte con intensidad variable. Tiene un olor aromático agradable y un sabor acídulo.",
+    "observations": "Es una especie rara, sobre todo en regiones más al norte de la península ibérica, sin embargo en el sur es bastante frecuente. La presentamos gracias a la gentileza de nuestro amigo y colaborador Juande, ha sido localizada en el P. N. de los Alcornocales, también sale en bosques de robles con sotobosque de jaras y bajo castaños. Es sobre todo otoñal aunque no es descartable su aparición en otras épocas del año.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/lanmaoa_fragrans/lanmaoa_fragrans1.jpg",
+        "https://www.fungipedia.org/images/galerias/lanmaoa_fragrans/lanmaoa_fragrans2.jpg",
+        "https://www.fungipedia.org/images/galerias/lanmaoa_fragrans/lanmaoa_fragrans3.jpg",
+        "https://www.fungipedia.org/images/galerias/lanmaoa_fragrans/lanmaoa_fragrans4.jpg",
+        "https://www.fungipedia.org/images/galerias/lanmaoa_fragrans/lanmaoa_fragrans5.jpg",
+        "https://www.fungipedia.org/images/galerias/lanmaoa_fragrans/lanmaoa_fragrans6.jpg",
+        "https://www.fungipedia.org/images/galerias/lanmaoa_fragrans/lanmaoa_fragrans7.jpg",
+        "https://www.fungipedia.org/images/galerias/lanmaoa_fragrans/lanmaoa_fragrans8.jpg",
+        "https://www.fungipedia.org/images/galerias/lanmaoa_fragrans/lanmaoa_fragrans9.jpg"
+    ]
+}

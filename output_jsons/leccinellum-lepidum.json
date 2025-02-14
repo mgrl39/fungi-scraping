@@ -1,0 +1,31 @@
+{
+    "name": "leccinellum-lepidum",
+    "title": null,
+    "author": "(H. Bouchet ex Essette) Bresinsky & Manfr. Binder",
+    "additional_info": {
+        "common_name": "Boleto agradable, artadi-onddo belzkor.",
+        "synonym": "Leccinum lepidum Bouchet ex Essette"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Boletales",
+        "Familia": "Boletaceae"
+    },
+    "edibility": "buen-comestible",
+    "characteristics": {
+        "cap": "Sombrero de buen porte, algunos ejemplares llegan a los 15 cm de diámetro, de forma hemisférica en su nacimiento, pronto se vuelve convexo, forma en la que permanece, ya que no se aplana. El color es muy variable, hemos encontrado ejemplares de color marrón oscuro, hasta casi amarillentos, e incluso en un mismo ejemplar ambas circunstancias por zonas. Su cutícula está lubrificada en época de lluvias, aunque no es viscosa, y el borde normalmente es involuto.",
+        "hymenium": "Tubos adnatos de color amarillo, más bien largos, que permanecen inmutables tanto al roce como al corte.",
+        "stipe": "Poros del mismo color que los tubos, aunque en la vejez se oscurecen y se ponen feos, también inmutables.",
+        "flesh": "Pie central y por lo general grueso, algo más fino junto al sombrero y más engrosado en la base. Es de color amarillento y está recubierto por unas granulaciones del mismo color que con el tiempo pueden llegar a pardear."
+    },
+    "habitat": "Carne de color amarillo pálido prácticamente inmutable, tan solo algún matiz rosado sobre todo en la base. Es espesa y de textura agradable, su olor y sabor son así mismo agradables.",
+    "observations": "Esta especie forma micorriza con las encinas, Quercus ilex, donde empieza a aparecer allá por el mes de mayo, en plena primavera, y la hemos visto hasta noviembre. Frecuente en su hábitat exclusivo.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/leccinellum_lepidum/leccinellum_lepidum1.jpg",
+        "https://www.fungipedia.org/images/galerias/leccinellum_lepidum/leccinellum_lepidum2.jpg",
+        "https://www.fungipedia.org/images/galerias/leccinellum_lepidum/leccinellum_lepidum3.jpg"
+    ]
+}

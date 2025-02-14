@@ -1,0 +1,31 @@
+{
+    "name": "tricholoma-columbetta",
+    "title": null,
+    "author": "(Fr.) P. Kumm.",
+    "additional_info": {
+        "common_name": "Palomita, ziza uso-zuri, llenega blanca, llenega dolc, tortullo blanco.",
+        "synonym": "Agaricus columbetta Fr."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Tricholomatales",
+        "Familia": "Tricholomataceae"
+    },
+    "edibility": "buen-comestible",
+    "characteristics": {
+        "cap": "Sombrero con un diámetro que oscila en los ejemplares adultos entre los 5 y los 10 cm, con forma convexo-campanulada en su primera etapa, convexo luego y finalmente aplanado, con un umbo obtuso a veces no demasiado definido. Cutícula glabra de color blanco puro en los ejemplares jóvenes, pudiendo en los más desarrollados adquirir alguno tono ocráceo por el centro, incluso en los más viejos no es rara la presencia de algún punto de color verdoso o rojo, antesala de la necrosis del ejemplar, brillante en tiempo húmedo y satinada en seco, fácilmente separable de la carne. Margen incurvado de joven y posteriormente ondulado.",
+        "hymenium": "Láminas escotadas o a veces uncinadas, anchas y apretadas, casi siempre de color blanco, en los ejemplares viejos cremosas, con la arista irregular, a veces crenulada, concolora o en ocasiones tiznada con puntos rojizos.",
+        "stipe": "Pie cilíndrico y alargado, lleno y macizo, frecuentemente atenuado en la base, de color blanco como el resto del basidioma, de aspecto fibroso y fibriloso sobre todo en el ápice, con relativa frecuencia presenta manchas de color azul turquesa o rosadas en la base, siendo este un carácter muy inconstante.",
+        "flesh": "Carne no demasiado espesa pero consistente, más fibrosa en el pie que en el sombrero, de color blanco e inmutable al corte salvo en la base del pie donde puede adquirir tonos rosados en alguna ocasión, es prácticamente inodora y de sabor ligeramente harinoso."
+    },
+    "habitat": "Especie fundamentalmente ligada a los bosques de planifolios, suele aparecer en hayedos, robledales y árboles de ribera principalmente, no es una especie muy prolífica, podriamos tildarla de poco frecuente, siendo mucho más rara aún bajo coníferas. Además de poco frecuente no es ni mucho menos abundante, dado que puede crecer aislada o en grupos de unos pocos ejemplares. Su época predilecta de aparición es el final del verano y durante el otoño.",
+    "observations": "Esta especie es un comestible de aspecto agradable y buen sabor, tal vez excesivamente fibrosa, sobre todo en el pie. Se caracteriza por el color blanco que es común a todo el basidioma, la práctica ausencia de olor característico, su sabor ligeramente harinoso y las manchas azuladas en la base del pie que no siempre están presentes. Por su color puede ser confundida con las Amanitas blancas mortales, pero la ausencia de anillo y volva eliminan rápido esta posibilidad, mucho más complicado es separarlo de otros Tricholoma de color blanco, como el Tricholoma album, de olor neutro de joven que se vuelve desagradable con el tiempo y sabor amargo.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/tricholoma_columbetta/tricholoma_columbetta1.jpg",
+        "https://www.fungipedia.org/images/galerias/tricholoma_columbetta/tricholoma_columbetta2.jpg",
+        "https://www.fungipedia.org/images/galerias/tricholoma_columbetta/tricholoma_columbetta3.jpg"
+    ]
+}

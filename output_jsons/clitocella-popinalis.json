@@ -1,0 +1,34 @@
+{
+    "name": "clitocella-popinalis",
+    "title": null,
+    "author": "(Fr.) Kluting, TJ Baroni & Bergemann",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Rhodocybe popinalis Fr."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Agaricales",
+        "Familia": "Entolomataceae"
+    },
+    "edibility": "no-comestible",
+    "characteristics": {
+        "cap": "Sombrero con un diámetro que oscila en los ejemplares adultos entre los 4 y los 8 cm, en fase de primordio con forma hemisférica, rápidamente se abre para volverse un tanto giboso, con la zona central resaltada, luego se aplana y puede llegar en los ejemplares más viejos a embudar un poco. Su cutícula es lisa y glabra, seca, algo tomentosa, sin un color uniforme, dado que se presenta característicamente jaspeada en diversos tonos de grises, con presencia también en muchos ejemplares de tonos marrones o incluso más claros, cremas. Margen involuto en las primeras fases del desarrollo, después extendido y fino, no estriado.",
+        "hymenium": "Láminas más bien apretadas, en especímenes jóvenes algo decurrentes y con el desarrollo muy decurrentes, con laminillas de diferente longitud, de un color crema al principio y luego grisáceas, aunque de tono más claro que el sombrero. Arista entera y del mismo color que el resto, esporada de color rosado que tiñe las láminas en la madurez.",
+        "stipe": "Pie proporcionado, de longitud similar al diámetro del sombrero, generalmente central, cilíndrico o algo atenuado hacia la base de joven, de un color blanquecino de joven, después se vuelve también grisáceo, a veces recubierto parcialmente por una pruina que tiende a oscurecerse al ser manipulado el ejemplar.",
+        "flesh": "Carne relativamente espesa y consistente, de color blanco, oscurece un tanto al corte a tonos grises que también pueden manifestarse en las heridas. Tiene un olor fuertemente harinoso que recuerda en cierta medida a Calocybe gambosa, su sabor es un poco amargo."
+    },
+    "habitat": "Estamos ante una especie que fructifica en praderas y páramos, la hemos localizado desde hace muchos años en diferentes sitios, con un denominador común, zonas abiertas con una cierta altura, generalmente por encima de 800 metros. Sierra de cameros (la rioja), Páramo de Masa(Burgos), Mataporquera (Cantabria), Arauzo de miel (Burgos). Fructifica tanto en primavera como en otoño, generalmente en grupos de unos pocos ejemplares, con una cierta predilección por suelos básicos. Se la considera bibliograficamente como especie poco frecuente o poco abundante.",
+    "observations": "Esta especie se caracteriza por sus láminas muy decurrentes, el aspecto jaspeado en varios tonos de grises de su sombrero, y sobre todo por su olor fuerte harinoso y sabor algo amargo. Nos consta que es frecuentemente confundida con formas oscuras de Pleurotus eryngii, la seta de cardo, con quien muchas veces comparte hábitat, y que no tiene el olor harinoso de esta especie. Clitocella popinalis ha sido durante muchos años enclavada dentro del género Rhodocybe y sinonimizada con Rhodocybe mundula, en base a estudios moleculares se concluye que son especies diferentes, y ambas están enclavadas en Clitocella, Clitocella mundula, de hecho, suele ser más propia de bosques, con más pruina que se resquebraja en el sombrero, y un sabor más amargo. A pesar de ser considerada comestible en algunas guias entendemos que no lo es por no tener buen sabor, y por su escasez no debe ser recolectada.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/clitocella_popinalis/clitocella_popinalis1.jpg",
+        "https://www.fungipedia.org/images/galerias/clitocella_popinalis/clitocella_popinalis2.jpg",
+        "https://www.fungipedia.org/images/galerias/clitocella_popinalis/clitocella_popinalis3.jpg",
+        "https://www.fungipedia.org/images/galerias/clitocella_popinalis/clitocella_popinalis4.jpg",
+        "https://www.fungipedia.org/images/galerias/clitocella_popinalis/clitocella_popinalis5.jpg",
+        "https://www.fungipedia.org/images/galerias/clitocella_popinalis/clitocella_popinalis6.jpg"
+    ]
+}

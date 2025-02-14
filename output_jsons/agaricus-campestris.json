@@ -1,0 +1,30 @@
+{
+    "name": "agaricus-campestris",
+    "title": null,
+    "author": "L.",
+    "additional_info": {
+        "common_name": "Champiñón silvestre, champiñón de campa, barren-gorri, camperol.",
+        "synonym": "Psalliota campestris (L.) Quél."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Agaricales",
+        "Familia": "Agaricaceae"
+    },
+    "edibility": "buen-comestible",
+    "characteristics": {
+        "cap": "Sombrero de entre 5 y 10 cm de diámetro, en una primera etapa de forma más o menos globosa, después convexo, solo aplanado cuando el ejemplar es muy viejo. Su color fundamental es el blanco, aunque en ocasiones las escamas que recubren la superficie se agrisan, e incluso a veces adquieren tonos ocráceos, dando lugar a algunas variedades. El borde del sombrero suele presentar flecos que no son otra cosa que restos del velo.",
+        "hymenium": "Láminas libres con respecto al pie, más bien apretadas, blanquecinas al principio, rápidamente de color rosado, aunque con la maduración van oscureciendo hasta adoptar un color marrón casi negro de viejas.",
+        "stipe": "Pie cilíndrico y proporcionado al tamaño del sombrero, concoloro, lleno y sin escamas. Una de las características fundamentales es que es fácilmente separable del sombrero. Tiene un anillo simple y ascendente del mismo color que el resto del carpóforo.",
+        "flesh": "Carne espesa y consistente de color blanco, algo rosada al corte zonalmente, con olor fúngico agradable y sabor dulce igualmente agradable."
+    },
+    "habitat": "Es una especie que fructifica tanto en primavera como en el otoño, propia de pastizales de las zonas bajas, en campas abonadas por el ganado, ya que necesita de terrenos nitrogenados para su crecimiento. Es muy frecuente y, en algunas zonas, muy abundante.",
+    "observations": "Es una especie comestible recolectada habitualmente para su consumo. Se caracteriza porque no amarillea, ni huele a anís, lo que la separa perfectamente del Agaricus arvensis, que en ocasiones se encuentra en las mismas zonas, también llamada bola de nieve e igualmente comestible. No confundir con Agaricus xanthodermus, especie tóxica que se distingue por el color amarillo vivo que adopta su carne al rasparla con la uña, sobre todo en el sombrero y en la base del pie.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/agaricus_campestris/agaricus_campestris1.jpg",
+        "https://www.fungipedia.org/images/galerias/agaricus_campestris/agaricus_campestris2.jpg"
+    ]
+}

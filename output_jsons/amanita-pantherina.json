@@ -1,0 +1,31 @@
+{
+    "name": "amanita-pantherina",
+    "title": null,
+    "author": "(Dc.) Krombh.",
+    "additional_info": {
+        "common_name": "Amanita pantera, lanperna txar, pixacá.",
+        "synonym": "Ninguno."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Agaricales",
+        "Familia": "Amanitaceae"
+    },
+    "edibility": "toxica",
+    "characteristics": {
+        "cap": "Sombrero que puede sobrepasar los 10 cm de diámetro, de convexo a aplanado, de color pardo gris, variable en los tonos. Su cutícula está recubierta de escamas de tacto harinoso completamente blancas que son los restos de la volva de la que emerge el carpóforo, en tiempo lluvioso estas escamas pueden llegar a desaparecer. En la especie tipo el borde del sombrero es netamente estriado.",
+        "hymenium": "Láminas muy blancas, libres con respecto al pie y más bien apretadas.",
+        "stipe": "Pie cilíndrico y central, de color blanco, engrosado en la base. Presenta un anillo blanco colgante liso o débilmente estriado. La volva es floconosa y adherida al pie, prolongándose en forma de brazaletes helicoidales hacia arriba.",
+        "flesh": "Carne poco espesa, de color blanco, con olor rafanoide aunque muy débil, y sabor dulce, no desagradable."
+    },
+    "habitat": "Es una especie frecuente y otoñal, que sale por igual en bosques de coníferas y de planifolios, sobre todo en los claros de los propios bosques.",
+    "observations": "Es una especie muy tóxica, que comida en grandes cantidades puede provocar graves envenenamientos, además no tiene mal sabor por lo que resulta muy peligrosa. Se confunde con la Amanita rubescens, que tiene tonos vinosos en las heridas y el borde del sombrero liso, no estriado. Existe la variedad abietum, más carnosa y poco estriada, para la que se define un hábitat en abetos y coníferas de montaña.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/amanita_pantherina/amanita_pantherina1.jpg",
+        "https://www.fungipedia.org/images/galerias/amanita_pantherina/amanita_pantherina2.jpg",
+        "https://www.fungipedia.org/images/galerias/amanita_pantherina/amanita_pantherina3.jpg"
+    ]
+}

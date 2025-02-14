@@ -1,0 +1,32 @@
+{
+    "name": "ramaria-cedretorum",
+    "title": null,
+    "author": "(Maire) Malençon",
+    "additional_info": {
+        "common_name": "ninguno",
+        "synonym": "Ramaria fennica var. cedretorum (Maire) Schild"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Aphyllophoromycetidae",
+        "Orden": "Gomphales",
+        "Familia": "Ramariaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Carpóforo de un tamaño considerable, puede superar los 10 cm de altura sin problema, prolongándose a lo ancho hasta a veces más de 15 cm. Tiene forma ramificada, de un tronco central parten algunas ramificaciones, que a su vez se dividen en nuevas ramificaciones, superficialmente surcadas, que acaban en el ápice en varias puntas crispadas o romas, especialmente achatadas en los ejemplares más jóvenes. Estos ejemplares jóvenes tienen un color lila amatista intenso muy bello y característico, que con el tiempo y el desarrollo se va difuminando hacia tonos cremas, pero manteniendo bastante tiempo algún matiz liláceo, los especímenes más viejos se vuelven de color crema ocráceo.",
+        "hymenium": "Himenio liso que recorre la parte exterior del carpóforo, de color lila, solamente la zona basal o pie se muestra estéril.",
+        "stipe": "Pie que se trata en realidad de un engrosamiento basal del que parten las ramificaciones, de color blanco que contrasta notablemente con el color lila del resto, si bien hay ocasiones en que se puede encontrar algo tiznado de lila. Es lleno y macizo, grueso, más estrecho en la zona de unión micelial y engrosado hacia arriba, a veces casi cónico. En su zona más gruesa puede aproximarse a los 5 cm.",
+        "flesh": "Carne de color blanco que contrasta también notablemente con la superficie, consistente y dura en la zona basal, mostrándose mucho más frágil y quebradiza en las ramificaciones, no tiene un olor digno de mención y su sabor es solo ligeramente amargo."
+    },
+    "habitat": "Especie localizada en las proximidades del area recreativa de Pinarejos, Arauzo de miel (Burgos), a 1020 metros de altitud, brotando en setales de numerosos individuos bajo Pinus sylvestris. A pesar de la profusión en que se mostraban es una especie poco frecuente o rara, que solo hemos podido ver de forma habitual en esa localización concreta. Es una especie fundamentalmente otoñal, localizada en el mes de noviembre, bibliograficamente se plantea un hábitat entre pinos de montaña como es el caso y también bajo cedros, dándose alguna recolecta en roble o bosque mixto.",
+    "observations": "Se trata de una especie de Ramaria caracterizada por el color lila amatista llamativo de sus ramificaciones, así como su grueso pie de color blanco y su sabor solo ligeramente amargo. Existe alguna otra Ramaria de color lila cuya separación resulta compleja y que están enclavadas dentro del complejo fumigata, anteriormente se creía que se trataba de variedades de la Ramaria fumigata, habiéndose comprobado en la actualidad que son taxones diferenciados. La especie tipo, Ramaria fumigata es muy similar, con hábitat preferente bajo planifolios y con sutiles diferencias microscópicas. También Ramaria fennica es más típica de hayedos y más difuminada de color.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/ramaria_cedretorum/ramaria_cedretorum1.jpg",
+        "https://www.fungipedia.org/images/galerias/ramaria_cedretorum/ramaria_cedretorum2.jpg",
+        "https://www.fungipedia.org/images/galerias/ramaria_cedretorum/ramaria_cedretorum3.jpg",
+        "https://www.fungipedia.org/images/galerias/ramaria_cedretorum/ramaria_cedretorum4.jpg"
+    ]
+}

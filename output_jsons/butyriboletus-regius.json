@@ -1,0 +1,32 @@
+{
+    "name": "butyriboletus-regius",
+    "title": null,
+    "author": "(Krombh.) Arora & J.L. Frank",
+    "additional_info": {
+        "common_name": "Boleto real, onddo errege.",
+        "synonym": "Boletus regius (Krombholz)"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Boletales",
+        "Familia": "Boletaceae"
+    },
+    "edibility": "excelente-comestible",
+    "characteristics": {
+        "cap": "Sombrero de tamaño medio para el género, entre 10 y 15 cm en estado adulto. Pasa de hemisférico a convexo y llega a aplanarse en la vejez. De un bello color rosa muy llamativo, ocasionalmente algo deslavado. Su cutícula es separable y en tiempo seco puede llegar a agrietarse, es además lisa y seca. Borde apenas excedente y regular.",
+        "hymenium": "Tubos que no son demasiado largos, estrechos y adnatos, de color netamente amarillo vivo salvo en los ejemplares avanzados, que tienen color oliváceo. Permanecen inmutables tanto al corte como al roce.",
+        "stipe": "Poros del mismo color amarillo cromo que los tubos, redondos o angulosos a veces, e igual que los tubos son inmutables.",
+        "flesh": "Pie relativamente corto, más ancho en la base y atenuado hacia el sombrero, de color amarillo en toda su superficie, con una especie de malla fina concolora en la parte superior."
+    },
+    "habitat": "Carne de color amarillo en todas sus partes, quizás algo rosada en la base y rojiza bajo la cutícula, maciza y espesa, consistente. Su olor es suave y agradable y su sabor igualmente agradable, como de frutos secos.",
+    "observations": "Exclusiva de árboles planifolios, como los robles o las hayas, desde finales de la primavera hasta principios del otoño. Nos consta que en algunos lugares sale mucho, sin embargo en la zona norte de la península ibérica es una seta rarísima.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/butyriboletus_regius/butyriboletus_regius1.jpg",
+        "https://www.fungipedia.org/images/galerias/butyriboletus_regius/butyriboletus_regius2.jpg",
+        "https://www.fungipedia.org/images/galerias/butyriboletus_regius/butyriboletus_regius3.jpg",
+        "https://www.fungipedia.org/images/galerias/butyriboletus_regius/butyriboletus_regius4.jpg"
+    ]
+}

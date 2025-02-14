@@ -1,0 +1,34 @@
+{
+    "name": "stephanospora-caroticolor",
+    "title": null,
+    "author": "(Berk.) Pat.",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Hydnangium caroticolor Berk."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Agaricales",
+        "Familia": "Stephanosporaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Carpóforo que se presenta con una forma de pequeña patata o tubérculo, forma más o menos globosa u oblonga, aunque como sucede habitualmente en este tipo de especies, es bastante irregular, siendo habitual que presente lóbulos o prominencias que le confieren un aspecto mas imperfecto. Es una especie de tamaño reducido, su diámetro puede oscilar por regla general entre 1 y 3 cm, saliéndose de este parámetro de forma ocasional, y destaca sobremanera por la belleza de su llamativo color anaranjado predominante, más rojizo u oscuro en las zonas heridas o manoseadas, y a veces de joven con la presencia de una pruina amarillenta que desaparece muy fácilmente. No suele tener cordones miceliales en la base ni tampoco suele presentar una cavidad basal aparente.",
+        "hymenium": "Peridio externo aracnoideo formado por hifas ramificadas y septadas de pared delgada, y endoperidio de celulas globosas, muy delgado, frágil y evenescente, su color claro inicial deviene rápidamente a tonos amarillentos anaranjados o netamente naranjas con zonas algo más rojizas, al desaparecer deja entrever la gleba subyacente.",
+        "stipe": "Gleba formada por abundantes celdillas bastante apretadas que tienden a alargarse un tanto con la maduración, de color generalmente más llamativo que el peridio, variando en función del grado de madurez del ejemplar, desde un tono amarillo anaranjado mate hasta un color naranja rojzo en los especímenes más viejos. Llama la atención la ausencia de columela en esta especie.",
+        "flesh": "Carne no diferenciada de la gleba, de consistencia algo esponjosa y frágil, su olor de joven es afrutado, pero con el tiempo va adquiriendo una intensidad excesiva, pudiendo llegar a hacerse desagradable, su sabor no es muy fuerte pero tampoco resulta agradable al paladar."
+    },
+    "habitat": "Estamos ante una especie que tiene un crecimiento hipogeo cuando es joven, pero que con el tiempo y al madurar, suele asomar a la superficie de forma semihipogea. A pesar de no ser una especie muy referenciada, es enormemente cosmopolita, dado que para ella se señalan hábitats dispares, que van desde campa hasta arboles de todo tipo, tanto coníferas como bosques de hoja ancha. Los ejemplares objeto de este estudio nos fueron cedidos por Javier Fernández Vicente, y fueron localizados bajo Fraxinus excelsior y Corylus avellana en Orduña (Bizkaia). Es una especie que suele salir en grupos allá donde fructifica, y que no tiene predilección por una época del año determinada, dado que hay recolectas desde julio hasta enero.",
+    "observations": "Especie caracterizada macroscópicamente por su bello color anaranjado, sobre todo de su gleba, y fácilmente identificable también microscópicamente debido a sus peculiares esporas coronadas con espinas, tal como podemos observar en nuestras \"caracteristicas microscópicas\". A pesar de su bello aspecto está descartada desde todo punto de vista culinario, por su olor fuerte, mal sabor, y por ser precursora de algún compuesto tóxico clorado en determinadas circunstancias. Antiguamente enclavada dentro del género Hydnangium, con cuyas especies guarda parecido macroscópico, como Hydnangium carneum, de tonos rosados, hábitat exclusivo bajo eucaliptos y micro diferente.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/stephanospora_caroticolor/stephanospora_caroticolor1.jpg",
+        "https://www.fungipedia.org/images/galerias/stephanospora_caroticolor/stephanospora_caroticolor2.jpg",
+        "https://www.fungipedia.org/images/galerias/stephanospora_caroticolor/stephanospora_caroticolor3.jpg",
+        "https://www.fungipedia.org/images/galerias/stephanospora_caroticolor/stephanospora_caroticolor4.jpg",
+        "https://www.fungipedia.org/images/galerias/stephanospora_caroticolor/stephanospora_caroticolor5.jpg",
+        "https://www.fungipedia.org/images/galerias/stephanospora_caroticolor/stephanospora_caroticolor6.jpg"
+    ]
+}

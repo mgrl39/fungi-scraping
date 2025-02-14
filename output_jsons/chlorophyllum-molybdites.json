@@ -1,0 +1,31 @@
+{
+    "name": "chlorophyllum-molybdites",
+    "title": null,
+    "author": "(G. Mey.) Masee",
+    "additional_info": {
+        "common_name": "Parasol falso, sombrilla de esporas verdes.",
+        "synonym": "Macrolepiota molybdites (G. Mey.) G. Moreno, Bañares & Heykoop"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Agaricales",
+        "Familia": "Agaricaceae"
+    },
+    "edibility": "toxica",
+    "characteristics": {
+        "cap": "Sombrero de importante tamaño, habitualmente supera los 20 cm de diámetro, aunque no es inusual encontrar ejemplares de 30 o más centímetros. En su primera etapa pegado al pie haciendo forma de maza con la parte superior plana, pero se va abriendo pasando de convexo a aplanado. Es de color blanquecino, con una amplia escama en forma de estrella en el ápice, que se disgrega en escamas lanosas por el resto de la superficie.",
+        "hymenium": "Láminas libres con respecto al pie, de color blanquecino cuando son jóvenes, adquiriendo luego tonos verdosos como consecuencia de la esporulación, para finalmente volverse pardas. Son bastante más apretadas que lo que suele ser habitual en las Macrolepiotas. Esporas de color verde pálido en masa.",
+        "stipe": "Pie cilíndrico y alargado, puede superar los 20 cm de altura, central y bulboso en la base. Es de color blanquecino o beige cuando joven, pero se va volviendo pardo rojizo a partir de la base. Tiene un anillo doble móvil de color blanquecino. Fibriloso y fistuloso.",
+        "flesh": "Carne relativamente espesa de color blanco, fibrosa en el pie, algo rubescente al corte o amarilleante al frotamiento. De sabor dulce y olor débil."
+    },
+    "habitat": "Es una especie que fructifica de forma rápida después de las lluvias, tanto en verano como en otoño. Sale en campas, pastizales y zonas ruderales, incluso en jardines. Está muy extendida por el continente americano, desde California hasta Argentina, en otros continentes sus referencias son casuales.",
+    "observations": "Especie tóxica que provoca trastornos gastrointestinales severos, si bien de corta duración, su incidencia depende de cada persona y de la cantidad ingerida. Hemos observado que se referencian distintos tamaños para la especie según la zona, en algunos sitios aseguran que no sobrepasa los 15 cm, tratándose con toda probabilidad de variedades de la misma especie. Puede confundirse con la europea Macrolepiota procera, de pie atigrado y esporas blancas, también con Chlorophyllum rachodes, más rubescente y escamada o Macrolepiota konradii, de anillo simple y esporas igualmente blancas. Existen otras especies de Macrolepiotas comestible en su misma zona como Macrolepiota bonaerensis, ninguna tiene esporas de color verde pálido.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/chlorophyllum_molybdites/chlorophyllum_molybdites1.jpg",
+        "https://www.fungipedia.org/images/galerias/chlorophyllum_molybdites/chlorophyllum_molybdites2.jpg",
+        "https://www.fungipedia.org/images/galerias/chlorophyllum_molybdites/chlorophyllum_molybdites3.jpg"
+    ]
+}

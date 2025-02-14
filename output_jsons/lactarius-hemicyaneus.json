@@ -1,0 +1,37 @@
+{
+    "name": "lactarius-hemicyaneus",
+    "title": null,
+    "author": "Romagn.",
+    "additional_info": {
+        "common_name": "Níscalo, rovellón, pinatell.",
+        "synonym": "Lactarius quieticolor var hemicyaneus (Romagn.) Basso"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Russulales",
+        "Familia": "Russulaceae"
+    },
+    "edibility": "comestible",
+    "characteristics": {
+        "cap": "Sombrero de tamaño medio, en estado adulto suele oscilar su diámetro entre los 5 y los 10 cm, ocasionalmente algo más. Tiene forma convexa en su juventud, manteniendo el borde involuto, se aplana en la madurez e incluso de viejo puede llegar a embudarse, a la par el borde del mismo se extiende. La superficie pileica tiene un tono muy pálido y mate al estar recubierta por una pruina que le confiere un tono blanquecino o grisáceo con claro matiz azulado. Apenas es zonado, y al ser manipulado o frotado adquiere un color azul indigo característico, mucho más patente en los ejemplares jóvenes, con la edad adquiere un tono naranja sucio muy apagado.",
+        "hymenium": "Láminas adnatas o más típicamente decurrentes, de color naranja pálido, poco vistoso en comparación con otros dapetes y algo más separadas. Suelen mancharse en las heridas de color verde cardenillo al secarse el látex sobre ellas, también adoptan manchas rojizas.",
+        "stipe": "Pie cilíndrico, lleno de joven y cavernoso de adulto, de color azulado sobre todo de joven, naranja pálido mate en los especímenes adultos, notablemente pruinoso. Algunos ejemplares presentan escrobículas mientras que en muchos de ellos el pie es completamente liso. También se mancha de verde cardenillo claro al ser manipulado.",
+        "flesh": "Carne firme y compacta, presenta al corte longitudinal una línea amplia de color azul indigo bajo la superficie del sombrero, presente en todos los ejemplares recolectados. Al cabo de unas horas esta línea deviene en un color verde claro. El resto de la carne tiene un tono naranja pálido, a veces casi blanquecino, exudando un látex escaso de color naranja que al secarse se vuelve primero verde y posteriormente rojo vinoso. Tiene un olor fúngico agradable pero algo fuerte y un sabor ligeramente picante en crudo."
+    },
+    "habitat": "Especie que se desarrolla de forma exclusiva formado micorrizas con los pinos, estos ejemplares han sido localizados en la zona norte de Burgos bajo Pinus sylvestris. Suele crecer en grupos durante los meses otoñales, siendo una especie francamente rara, poco referenciada y sinonimizada por algunos autores con otros dapetes.",
+    "observations": "Dentro de los dapetes, grupo formado por especies de Lactarius cuyo látex es de color naranja o rojo, existen especies conocidas y apreciadas gastronómicamente, todas ellas con el nombre común de níscalos. Esta especie es un comestible más bien discreto, de calidad notablemente inferior al Lactarius deliciosus. Según algunos autores la especie que les presentamos está sinonimizada con Lactarius quieticolor, siendo considerada como una simple variedad de ella, nosotros la presentamos de forma separada por ser varias las peculiaridades que presenta ajenas a la especie mencionada, es destacable la tendencia al color azul presente en todos los ejemplares recolectados, algo único dentro de su sección, que la podría incluso acercar a la especie americana y asiática Lactarius indigo.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/lactarius_hemicyaneus/lactarius_hemicyaneus1.jpg",
+        "https://www.fungipedia.org/images/galerias/lactarius_hemicyaneus/lactarius_hemicyaneus2.jpg",
+        "https://www.fungipedia.org/images/galerias/lactarius_hemicyaneus/lactarius_hemicyaneus3.jpg",
+        "https://www.fungipedia.org/images/galerias/lactarius_hemicyaneus/lactarius_hemicyaneus4.jpg",
+        "https://www.fungipedia.org/images/galerias/lactarius_hemicyaneus/lactarius_hemicyaneus5.jpg",
+        "https://www.fungipedia.org/images/galerias/lactarius_hemicyaneus/lactarius_hemicyaneus6.jpg",
+        "https://www.fungipedia.org/images/galerias/lactarius_hemicyaneus/lactarius_hemicyaneus7.jpg",
+        "https://www.fungipedia.org/images/galerias/lactarius_hemicyaneus/lactarius_hemicyaneus8.jpg",
+        "https://www.fungipedia.org/images/galerias/lactarius_hemicyaneus/lactarius_hemicyaneus9.jpg"
+    ]
+}

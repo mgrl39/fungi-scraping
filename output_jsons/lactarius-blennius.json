@@ -1,0 +1,31 @@
+{
+    "name": "lactarius-blennius",
+    "title": null,
+    "author": "(Fr.) Fr.",
+    "additional_info": {
+        "common_name": "Lactario mucoso, pagadi-esneki berde.",
+        "synonym": "Lactarius viridis Quél."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Russulales",
+        "Familia": "Russulaceae"
+    },
+    "edibility": "no-comestible",
+    "characteristics": {
+        "cap": "Sombrero de hasta 10 cm de diámetro, de forma plano-convexa, se va deprimiendo por el centro de adulto de forma notable. El color es muy variable, desde gris hasta verde, aunque como más habitualmente lo encontramos es verde oliva sucio. Suele tener máculas, pero no siempre concéntricas, a veces son un tanto irregulares. Su cutícula es viscosa, y el borde permanece bastante tiempo involuto.",
+        "hymenium": "Láminas adnatas o ligeramente decurrentes, de color blanco en los ejemplares jóvenes, algo herrumbrosas en los viejos. Son bastante prietas y al rozarlas exudan mucho látex.",
+        "stipe": "Pie central, cilíndrico y proporcionado al tamaño del sombrero, de color verde gris muy pálido.",
+        "flesh": "Carne de color blanco, bastante espesa aunque frágil y quebradiza. Exuda látex abundante de color blanco que al secarse hace que la carne adquiera un tono grisáceo. Olor poco perceptible y sabor acre tras un rato de masticación."
+    },
+    "habitat": "Es una seta muy frecuente y abundante en los hayedos y en general en todo tipo de bosques de planifolios. Su época más habitual de fructificación es el otoño.",
+    "observations": "No es comestible debido a la acritud de su carne, aunque es inocua. Su color verdoso, sus máculas en el sombrero, que no es zonado, hacen que sea uno de los lactarios más fáciles de identificar. El Lactarius fluens se le parece un poco, pero su sombrero es zonado y su látex inmutable.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/lactarius_blennius/lactarius_blennius1.jpg",
+        "https://www.fungipedia.org/images/galerias/lactarius_blennius/lactarius_blennius2.jpg",
+        "https://www.fungipedia.org/images/galerias/lactarius_blennius/lactarius_blennius3.jpg"
+    ]
+}

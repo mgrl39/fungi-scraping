@@ -1,0 +1,30 @@
+{
+    "name": "rhodocollybia-maculata",
+    "title": null,
+    "author": "(Alb. & Schwein.) Singer",
+    "additional_info": {
+        "common_name": "Collibia manchada, kolibia herdoildu.",
+        "synonym": "Collybia maculata (Alb. & Schwein.) P. Kumm."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Tricholomatales",
+        "Familia": "Marasmiaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero de buen tamaño, normalmente entre 5 y 10 cm de diámetro, ocasionalmente algo más, de forma convexa evolucionando a plano convexa, pero es habitual encontrar ejemplares un tanto deformes o comprimidos. Es de color blanco cuando es joven, luego algo más crema, pero se encuentra manchado de color roña de forma un tanto aleatoria. Su superficie es lisa y glabra, ni viscosa ni tan siquiera brillante, muy mate. El margen es incurvado cuando la seta es joven.",
+        "hymenium": "Láminas adnatas de color blanco, luego cremas, muy apretadas entre sí, con la arista un poco denticulada. Es frecuente que se puedan manchar también de roña.",
+        "stipe": "Pie alargado, con frecuencia supera en longitud el diámetro del sombrero, del mismo color que este, e igualmente manchado de roña de forma aleatoria. Es cilíndrico salvo en la zona de la base donde se vuelve claviforme e incluso radicante en la unión con el micelio. Es lleno y fibriloso.",
+        "flesh": "Carne fibrosa y elástica en el pie, espesa y consistente en el sombrero, de color blanco. Su olor es suave y su sabor es amargo."
+    },
+    "habitat": "Especie muy frecuente y abundante que sale generalmente de forma gregaria tanto en bosques de coníferas como de planifolios. Sale a finales del verano y a lo largo del otoño.",
+    "observations": "Dentro de su grupo la podemos diferenciar por su color blanquecino, su porte notable, y sus características manchas de roña a lo largo y ancho de todo el carpóforo. Puede llegar a confundirse con la Rhodocollybia prolixa var.distorta, que sin embargo no tiene sombrero blanco sino leonado o rojizo, y su pie está típicamente torcido. La rara Gymnopus hariolorum es también blanca pero es más pequeña y tiene un olor muy desagradable.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/rhodocollybia_maculata/rhodocollybia_maculata1.jpg",
+        "https://www.fungipedia.org/images/galerias/rhodocollybia_maculata/rhodocollybia_maculata2.jpg"
+    ]
+}

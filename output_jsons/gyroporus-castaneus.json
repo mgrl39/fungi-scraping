@@ -1,0 +1,31 @@
+{
+    "name": "gyroporus-castaneus",
+    "title": null,
+    "author": "(Bull.) Quél.",
+    "additional_info": {
+        "common_name": "Boleto castaño, gaztain onddo, sureny castany.",
+        "synonym": "Boletus castaneus Bull."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Boletales",
+        "Familia": "Gyroporaceae"
+    },
+    "edibility": "buen-comestible",
+    "characteristics": {
+        "cap": "Sombrero que en el mejor de los casos llega a los 10 cm de diámetro, no es por tanto grande, de forma hemisférica de joven, pasando a convexa y finalmente extendido, con una pequeña depresión en el centro y el borde más alto de viejo. Su color varía dentro de los tonos pardos, de pardo canela a castaño. Su superficie es algo tomentosa de joven, después es lisa, e incluso en época de lluvias se muestra seca, nada viscosa.",
+        "hymenium": "Tubos que en proporción al tamaño de la seta deben considerarse largos, de color blanco, solo ocráceos tardíamente por envejecimiento. Permanecen inmutables tanto al tacto como al corte y son libres con respecto al pie.",
+        "stipe": "Poros concoloros con los tubos, en la vejez manchados de ocre sobre todo en el borde, delgados y poligonales. No azulean al ser presionados.",
+        "flesh": "Pie central y cilíndrico, grueso, de color castaño o marrón claro, muy parecido al del sombrero. Pronto es hueco y cavernoso a partir de la base."
+    },
+    "habitat": "Carne espesa y firme en el sombrero, de color blanco e inmutable al corte, con olor suave y agradable y sabor agradable de frutos secos.",
+    "observations": "Esta especie se localiza generalmente bajo árboles de hoja caduca, y más excepcionalmente en coníferas. Es una especie muy localizada, no es fácil encontrarla en nuestro radio de acción.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/gyroporus_castaneus/gyroporus_castaneus1.jpg",
+        "https://www.fungipedia.org/images/galerias/gyroporus_castaneus/gyroporus_castaneus2.jpg",
+        "https://www.fungipedia.org/images/galerias/gyroporus_castaneus/gyroporus_castaneus3.jpg"
+    ]
+}

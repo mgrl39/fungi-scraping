@@ -1,0 +1,40 @@
+{
+    "name": "conocybe-vestita",
+    "title": null,
+    "author": "(Fr.) Kühner",
+    "additional_info": {
+        "common_name": "Conocybe vestida.",
+        "synonym": "Pholiotina vestita (Fr.) Singer"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Agaricales",
+        "Familia": "Bolbitiaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero cuyo diámetro suele oscilar entre 1 y 3 cm, de forma hemisférica en los primeros estados de desarrollo, posteriormente convexa a plano-convexa, no llegando a aplanarse del todo. Cutícula algo rugulosa o crespada de aspecto seco, de color ocre, generalmente con el centro un poco más resaltado y oscuro, pero que en función del grado de humedad puede tener matices leonados, o amarillentos si está más seca. Posee restos de velo en forma de copos, sobre todo en ejemplares jóvenes, que en el margen quedan apendiculados otorgando un bello aspecto al basidioma.",
+        "hymenium": "Láminas adnatas, ligeramente ventricosas y con laminillas, al principio de color ocre amarillento, claramente ocres después y ocres ferruginosas con la esporulación. Arista generalmente de color más claro que el resto.",
+        "stipe": "Pie alargado con respecto al diámetro del sombrero, pudiendo alcanzar los 5 cm de largo, cilíndrico, fistuloso o hueco, inicialmente de color blanquecino pero pronto marrón, fibriloso, decorado con copos en los especímenes jóvenes que tienden a desaparecer con la edad.",
+        "flesh": "Carne escasa y delgada, poco significativa, de color ocráceo, sin olor apreciable e insipida."
+    },
+    "habitat": "Especie que suele salir aislada o bien en pequeños grupos y que hemos de tildarla como poco frecuente. Gusta de fructificar en terrenos higrófilos y ricos en nutrientes, generalmente bajo árboles planifolios, desde el verano y sobre todo durante el otoño. Nuestra recolecta se efectuó bajo Alnus glutinosa en el mes de octubre.",
+    "observations": "Se caracteriza esta especie por su bello aspecto, poco habitual en las especies de su género, debido a que el margen del sombrero presenta restos de velo excedentes y apendiculados. Existe, sin embargo, un congénere con aspecto similar y margen apendiculado, Conocybe appendiculata, que al micro se separa bien por presentar esporas con un conspícuo poro germinativo. Otras especies con ese aspecto en el margen, como algunas Pholiotas, son de porte mucho más notable que el que presenta Conocybe vestita.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/conocybe_vestita/conocybe_vestita1.jpg",
+        "https://www.fungipedia.org/images/galerias/conocybe_vestita/conocybe_vestita2.jpg",
+        "https://www.fungipedia.org/images/galerias/conocybe_vestita/conocybe_vestita3.jpg",
+        "https://www.fungipedia.org/images/galerias/conocybe_vestita/conocybe_vestita4.jpg",
+        "https://www.fungipedia.org/images/galerias/conocybe_vestita/conocybe_vestita5.jpg",
+        "https://www.fungipedia.org/images/galerias/conocybe_vestita/conocybe_vestita6.jpg",
+        "https://www.fungipedia.org/images/galerias/conocybe_vestita/conocybe_vestita7.jpg",
+        "https://www.fungipedia.org/images/galerias/conocybe_vestita/conocybe_vestita8.jpg",
+        "https://www.fungipedia.org/images/galerias/conocybe_vestita/conocybe_vestita9.jpg",
+        "https://www.fungipedia.org/images/galerias/conocybe_vestita/conocybe_vestita10.jpg",
+        "https://www.fungipedia.org/images/galerias/conocybe_vestita/conocybe_vestita11.jpg",
+        "https://www.fungipedia.org/images/galerias/conocybe_vestita/conocybe_vestita12.jpg"
+    ]
+}

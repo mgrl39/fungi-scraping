@@ -1,0 +1,31 @@
+{
+    "name": "gymnopus-dryophilus",
+    "title": null,
+    "author": "(Bull.) Murril",
+    "additional_info": {
+        "common_name": "Collibia de los robles, collibia temprana, haritz-marasmio, fals cama-sec.",
+        "synonym": "Collybia dryophila (Bull.) P. Kumm"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Tricholomatales",
+        "Familia": "Marasmiaceae"
+    },
+    "edibility": "comestible",
+    "characteristics": {
+        "cap": "Sombrero de reducidas dimensiones, en el mejor de los casos alcanza los 5 cm de diámetro, de forma inicialmente convexa, llega a aplanarse casi por completo, e incluso puede tener el centro un poco hundido. Su color varía en función de la hidratación del espécimen, desde un ocre leonado cuando está hidratado hasta un color de paja seca cuando no lo está. Su superficie es enteramente lisa y brillante con lluvia. Es higrófano, lo que lleva a que a veces sea algo estriado por trasparencia.",
+        "hymenium": "Láminas delgadas y muy apretadas de color blanquecino, ocasionalmente con reflejos amarillentos, adnatas.",
+        "stipe": "Pie central y cilíndrico, más bien alargado, su color suele variar muy poco con respecto al del sombrero, si acaso algo más oscuro. Es liso, fibroso y bastante elástico.",
+        "flesh": "Carne escasa y elástica, fibrosa en el pie, de color blanquecino, con un olor fúngico agradable y sabor dulce y suave."
+    },
+    "habitat": "Es una seta que forma verdaderas alfombras en bosques de planifolios, sobre todo bajo la carrasca, aunque algunas variedades de la misma fructifican en los pinares. No solo es frecuente y muy abundante, sino que sale prácticamente en cualquier época del año, a excepción de la parte más fría del invierno.",
+    "observations": "Quitándole el pie puede degustarse pero su calidad es muy limitada dada la escasez y elasticidad de su carne. Existen algunas variedades, algunas de las cuales han adquirido rango propio, aunque a nuestro modesto entender, pudiera tratarse solo de variedades. Tal es el caso de Gymnopus ocior=Collybia dryophila var. extuberans, o Gymnopus aquosus=Collybia dryophila var. Aquosa. ¡Ojo!, no confundir con la laxante Gymnopus hariolorum, que evidentemente no huele tan bien como esta.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/gymnopus_dryophilus/gymnopus_dryophilus1.jpg",
+        "https://www.fungipedia.org/images/galerias/gymnopus_dryophilus/gymnopus_dryophilus2.jpg",
+        "https://www.fungipedia.org/images/galerias/gymnopus_dryophilus/gymnopus_dryophilus3.jpg"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "name": "boletopsis-leucomelaena",
+    "title": null,
+    "author": "(Pers.) Fayod",
+    "additional_info": {
+        "common_name": "Poliporo blanquinegro, onddo-ardagai beltz.",
+        "synonym": "Polyporus leucomelas (Pers.) Pers."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Aphyllophoromycetidae",
+        "Orden": "Telephorales",
+        "Familia": "Bankeraceae"
+    },
+    "edibility": "no-comestible",
+    "characteristics": {
+        "cap": "Sombrero que puede llegar a alcanzar en su máximo desarrollo los 15 cm de diámetro, de 8 a 12 cm en la mayoría de los casos, de forma semiesférica en su primera etapa, evolucionando hacia formas convexas un tanto irregulares. Fundamentalmente es de color gris pero con diversos tonos, incluyendo matices pardos o violáceos de forma ocasional. Superficie fibrilosa de apariencia seca, que en condiciones de sequia llega a agrietarse. El borde al principio es más regular, pero se va ondulando y lobulando de forma irregular con el tiempo.",
+        "hymenium": "Tubos muy cortos de color blanco sucio de jóvenes, se vuelven grises con el tiempo, son decurrentes sobre el pie y prácticamente inseparables de la carne del sombrero.",
+        "stipe": "Poros de tamaño medio, 2 o 3 por mm, de color idéntico a los tubos. De jóvenes homogéneos redondeados, angulosos e irregulares de viejos.",
+        "flesh": "Pie central o un poco excéntrico, grueso y robusto, lleno, por lo general cilíndrico, pero atenuado en la base a veces de forma radicante. Su longitud es menor que el diámetro del sombrero, y su color similar al mismo."
+    },
+    "habitat": "Carne espesa y compacta de color blanquecino, bastante dura, al corte vira a color rosado en primera instancia, volviéndose grisácea con el tiempo. Su olor es poco perceptible y su sabor marcadamente amargo.",
+    "observations": "Especie rara que fructifica de forma aislada o como mucho dos ejemplares juntos, terrestre. Sale en primavera y durante el otoño, y siempre la hemos localizado en pinares.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/boletopsis_leucomelaena/boletopsis_leucomelaena1.jpg",
+        "https://www.fungipedia.org/images/galerias/boletopsis_leucomelaena/boletopsis_leucomelaena2.jpg"
+    ]
+}

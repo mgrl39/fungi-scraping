@@ -1,0 +1,34 @@
+{
+    "name": "pseudoclitopilus-rhodoleucus",
+    "title": null,
+    "author": "(Sacc.) Vizzini & Contu",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Leucopaxillus rhodoleucus (Romell) Kühner"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Tricholomatales",
+        "Familia": "Tricholomataceae"
+    },
+    "edibility": "toxica",
+    "characteristics": {
+        "cap": "Sombrero de tamaño medio, los ejemplares adultos recolectados tenían un diámetro que oscilaba entre los 3 y los 7 cm, con forma convexa en los individuos más jóvenes, pero pronto es aplanado y al final del ciclo solo ligeramente deprimido por el centro, no suele llegar a embudarse. Tiene un color blanco satinado o acharolado con zonas más cremas que en muchas ocasiones forma máculas sobre la superficie. Esta superficie puede ser algo afieltrada en la juventud, después pruinosa y lisa, de aspecto brillante, sobre todo con lluvia. Margen fino y bastante regular, no es estriado.",
+        "hymenium": "Láminas decurrentes en mayor o menor medida, en algunos ejemplares decurren de forma notable, bastante apretadas entre sí. La variación de color de esta zona himenial es un dato relevante en su identificación macroscópica, de jóvenes son de color rosa bastante vivo, pero con la maduración esporal se van volviendo blancas manteniendo un cierto reflejo rosado, esto es debido a que su esporada es blanca, no rosa.",
+        "stipe": "Pie proporcionado al tamaño del sombrero y como este de color blanco, cilíndrico, si acaso algo atenuado hacia la base, en la cual suele presentar una zona algodonosa.",
+        "flesh": "Carne de espesor normal, tierna pero no frágil, de color blanco, inmutable. Tiene un olor fuerte, algo jabonoso y nada agradable, con un sabor análogo, desagradable."
+    },
+    "habitat": "Se describe para esta especie un hábitat en zonas abiertas, páramos y pastizales, sin embargo los ejemplares recolectados, gentileza de nuestro amigo y colaborador Josu Mota, si bien se hallaban cerca de un páramo estaban en la proximidad de unos robles. Es una especie muy rara y a proteger precisamente por su rareza, sale en grupos numerosos tanto en primavera como durante el otoño.",
+    "observations": "Especie tóxica que produce trastornos gastrointestinales bastante serios con vómitos y diarreas. Mucho cuidado con esta seta, ya que es fácilmente confundible con la excelente comestible Clitopilus prunulus, de láminas que se ponen rosas al madurar, mientras que en esta son rosas y se ponen blancas al madurar, además la carne de la \"molinera\" tiene un olor muy harinoso y es más frágil. El sombrero es un calco de los Clitocybes blancos tóxicos como Clitocybe phyllophila o Clitocybe rivulosa, pero estos últimos no tienen reflejos rosados en sus láminas.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/pseudoclitopilus_rhodoleucus/pseudoclitopilus_rhodoleucus1.jpg",
+        "https://www.fungipedia.org/images/galerias/pseudoclitopilus_rhodoleucus/pseudoclitopilus_rhodoleucus2.jpg",
+        "https://www.fungipedia.org/images/galerias/pseudoclitopilus_rhodoleucus/pseudoclitopilus_rhodoleucus3.jpg",
+        "https://www.fungipedia.org/images/galerias/pseudoclitopilus_rhodoleucus/pseudoclitopilus_rhodoleucus4.jpg",
+        "https://www.fungipedia.org/images/galerias/pseudoclitopilus_rhodoleucus/pseudoclitopilus_rhodoleucus5.jpg",
+        "https://www.fungipedia.org/images/galerias/pseudoclitopilus_rhodoleucus/pseudoclitopilus_rhodoleucus6.jpg"
+    ]
+}

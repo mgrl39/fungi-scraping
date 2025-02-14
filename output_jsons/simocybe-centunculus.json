@@ -1,0 +1,31 @@
+{
+    "name": "simocybe-centunculus",
+    "title": null,
+    "author": "(Fr.) P. Karst.",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Naucoria centunculus (Fr.) P. Kumm."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Cortinariales",
+        "Familia": "Crepidotaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero de pequeñas dimensiones, en el mejor de los casos puede llegar a los 3 cm de diámetro, habitualmente entre 1 y 2 cm, de forma convexa en los primeros estadios, evolucionando a plano con un pequeño hundimiento en la zona central. Su superficie es finamente aterciopelada o pruinosa, de color marrón oliva en los ejemplares hidratados, sin embargo, al ser una seta higrófana su color puede variar a diversos tonos de ocre. El margen es incurvado en los especímenes jóvenes, luego fino, algo más pálido que el resto y estriado.",
+        "hymenium": "Láminas adnatas y con laminillas, de color marrón, bastante separadas entre sí.",
+        "stipe": "Pie de tamaño proporcionado al sombrero, cilíndrico y en ocasiones curvado, fistuloso. Es finamente pubescente de joven, luego pruinoso, y su color de fondo es similar al del sombrero. Suele ser frecuente encontrar tomento blanquecino en la base.",
+        "flesh": "Carne escasa y poco consistente de color marrón, sin olor o sabor destacables."
+    },
+    "habitat": "Es una seta de aparición temprana, se la puede localizar en primavera y durante los meses veraniegos. Su pequeño tamaño la hace pasar muchas veces inadvertida, por lo que resulta complicado precisar si se trata de una especie rara o común. Fructifica sobre restos leñosos degradados o directamente sobre troncos podridos.",
+    "observations": "Especie poco referenciada bibliográficamente, quizás debido a su pequeño tamaño. Dentro de su género destacaremos su parecido con el Simocybe haustellaris, que sin embargo tiene por costumbre salir en los meses fríos, finales de otoño e invierno, más netamente lignícola. Puede confundirse también con alguna otra especie como el Pluteus flavofuligineus, con quién comparte hábitat, pero no debemos olvidar que los Pluteus tienen la esporada rosa.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/simocybe_centunculus/simocybe_centunculus1.jpg",
+        "https://www.fungipedia.org/images/galerias/simocybe_centunculus/simocybe_centunculus2.jpg",
+        "https://www.fungipedia.org/images/galerias/simocybe_centunculus/simocybe_centunculus3.jpg"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "name": "stereum-insignitum",
+    "title": null,
+    "author": "Quélet",
+    "additional_info": {
+        "common_name": "Estéreo insigne, azal polit.",
+        "synonym": "Stereum ostrea (Nées.) Fr."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Aphyllophoromycetidae",
+        "Orden": "Sterales",
+        "Familia": "Steraceae"
+    },
+    "edibility": "no-comestible",
+    "characteristics": {
+        "cap": "Carpóforo anual, saliente, no resupinado, que puede alcanzar un tamaño superior a los 5 cm de radio, siendo sin embargo extremadamente delgado, apenas tiene 1 o 2 mm de grosor. Habitualmente tiene forma de abanico o de ostra, y la zona superior del sombrero se presenta zonada, observándose diferentes tonos de color en sus distintas zonas, siempre dentro de los ocres, desde el marrón hasta tonos ocre crema. El margen se muestra irregularmente ondulado, y la superficie es tomentosa, sobre todo de joven, pero no hirsuta. Es habitual en este tipo de especies que con el tiempo adopten tonos verdosos por la presencia de líquenes.",
+        "hymenium": "Himenio liso, ni tomentoso ni hirsuto, de color ocre anaranjado de joven, palideciendo con el tiempo.",
+        "stipe": "Pie lateral e ínfimo, muchas veces nulo, la apariencia visual es que de salir directamente sobre el sustrato.",
+        "flesh": "Carne muy poco espesa y dura, tenaz, de consistencia coriácea, aunque un tanto elástica. Carece de olor o sabor significativos."
+    },
+    "habitat": "Especie bastante frecuente en su hábitat natural, fructificando sobre tocones de haya preferentemente, de forma gregaria e imbricada, pudiéndose observar numerosos individuos sobre un mismo tocón. Es una especie que se puede localizar en cualquier época del año.",
+    "observations": "Es una seta típica de madera, sobre todo de haya, que puede confundirse con relativa facilidad con otras especies afines con las que comparte hábitat. El Stereum hirsutum es muy parecido, pero su sombrero es menos zonado y está recubierto de pelos erizados de los que carece esta especie. El Stereum ochraceoflavum es más confluyente, y más habitual en otros árboles planifolios o de ribera. Otra especie menos conocida pero muy parecida es el Stereum reflexulum, que fructifica sobre enebros. Otros Stereum son más resupinados.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/stereum_insignitum/stereum_insignitum1.jpg",
+        "https://www.fungipedia.org/images/galerias/stereum_insignitum/stereum_insignitum2.jpg",
+        "https://www.fungipedia.org/images/galerias/stereum_insignitum/stereum_insignitum3.jpg",
+        "https://www.fungipedia.org/images/galerias/stereum_insignitum/stereum_insignitum4.jpg",
+        "https://www.fungipedia.org/images/galerias/stereum_insignitum/stereum_insignitum5.jpg"
+    ]
+}

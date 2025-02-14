@@ -1,0 +1,32 @@
+{
+    "name": "pisolithus-arhizus",
+    "title": null,
+    "author": "(Scop.) Rauschert",
+    "additional_info": {
+        "common_name": "Pisolito tinctoreo, astaputz tintatzaile.",
+        "synonym": "Pisolithus arenarius Alb. et Schwein."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Gasteromycetidae",
+        "Orden": "Sclerodermatales",
+        "Familia": "Pisolithaceae"
+    },
+    "edibility": "comestible",
+    "characteristics": {
+        "cap": "Carpóforo que en su máximo apogeo puede llegar a los 15 cm de altura, de forma muy variable, en un primer momento se muestra globoso para pasar después a formas alargadas, finalmente como si fuera un tronco deforme que hecha polvillo por arriba. Su peridio es simple y bastante liso, duro y de color variable dentro de los ocres.",
+        "hymenium": "Gleba formada por cavidades de diferentes colores, que son como peridios, cuando son inmaduros tienen color amarillo o verdoso, pasando después a marrón oscuro y acabando por ser pardos. Curiosamente maduran desde la zona basal hacia el ápice, con lo cual, si cogemos un espécimen en proceso de maduración y le damos un corte observaremos de abajo hacia arriba los tres colores.",
+        "stipe": "Pie prácticamente inexistente.",
+        "flesh": "Carne de olor intenso que contrasta con su sabor suave."
+    },
+    "habitat": "A partir de la primavera lo podemos localizar, siempre en lugares arenosos, taludes, caminos, o pistas forestales, es muy frecuente y abundante.",
+    "observations": "Entendemos que es un hongo inconfundible, siempre y cuando al que lo vea le parezca un hongo, y no un cacho de tronco o de raíz de un árbol. A pesar de su aspecto se considera comestible, y tiene además múltiples utilidades tanto en tintorería como en medicina.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/pisolithus_arhizus/pisolithus_arhizus1.jpg",
+        "https://www.fungipedia.org/images/galerias/pisolithus_arhizus/pisolithus_arhizus2.jpg",
+        "https://www.fungipedia.org/images/galerias/pisolithus_arhizus/pisolithus_arhizus3.jpg",
+        "https://www.fungipedia.org/images/galerias/pisolithus_arhizus/pisolithus_arhizus4.jpg"
+    ]
+}

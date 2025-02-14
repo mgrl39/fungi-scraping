@@ -1,0 +1,31 @@
+{
+    "name": "caloboletus-calopus",
+    "title": null,
+    "author": "(Pers.) Vizzini",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Boletus calopus Pers."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Boletales",
+        "Familia": "Boletaceae"
+    },
+    "edibility": "no-comestible",
+    "characteristics": {
+        "cap": "Sombrero de hasta 15 cm, de hemisférico a convexo y con el margen ligeramente excedente. Macizo y carnoso, de color claro con variabilidad de tonos, de joven casi blanco y con la cutícula aterciopelada, tiende a tonos grises u oliváceos y a volverse opaca la cutícula.",
+        "hymenium": "Tubos amarillo pálido, después de color oliva, finos y bastante prietos, redondeados junto al pie, que se manchan de azul al corte.",
+        "stipe": "Poros amarillos, de color más vivo que los tubos, se manchan de azul al tacto.",
+        "flesh": "Pie macizo, cilíndrico y generalmente engrosado hacia la base, que suele guardar junto a los poros una banda de color amarillo vivo, el resto recubierto de una red de color rojo llamativo, más abierta en la parte superior, cerrada hacia la base, que es completamente roja."
+    },
+    "habitat": "Carne compacta y maciza, sobre todo en el sombrero, de color blanco-amarillento y que azulea débilmente al corte. Su olor es poco significativo y su sabor marcadamente amargo.",
+    "observations": "Aunque la bibliografía nos la señala como una especie que sale también en coníferas, nosotros siempre la hemos cogido bajo planifolios, robles y hayas. Especie temprana, puede aparecer desde agosto.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/caloboletus_calopus/caloboletus_calopus1.jpg",
+        "https://www.fungipedia.org/images/galerias/caloboletus_calopus/caloboletus_calopus2.jpg",
+        "https://www.fungipedia.org/images/galerias/caloboletus_calopus/caloboletus_calopus3.jpg"
+    ]
+}

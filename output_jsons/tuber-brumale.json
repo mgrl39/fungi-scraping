@@ -1,0 +1,31 @@
+{
+    "name": "tuber-brumale",
+    "title": null,
+    "author": "Vittad.",
+    "additional_info": {
+        "common_name": "Trufa de invierno, neguko boilur, tofona negra.",
+        "synonym": "Oogaster brumalis (Vittad.) Corda"
+    },
+    "taxonomy": {
+        "División": "Ascomycota",
+        "Subdivisión": "Ascomycotina",
+        "Clase": "Himenoascomycetes",
+        "Subclase": "Pezizomycetidae",
+        "Orden": "Tuberales",
+        "Familia": "Tuberaceae"
+    },
+    "edibility": "excelente-comestible",
+    "characteristics": {
+        "cap": "Carpóforo de forma más o menos globosa en los ejemplares más jóvenes, va creciendo de forma irregular adoptando protuberancias o lóbulos en los especímenes adultos, no teniendo estos una forma concreta definible salvo llamarlo tuberiforme. El tamaño medio de un ejemplar adulto suele estar en el entorno de los 4 o 5 cm de diámetro, encontrándose algunas piezas de hasta 10 cm. Aunque al nacer tiene un color menos oscuro se vuelve de color negro con celeridad, siendo lo habitual encontrarla con este color.",
+        "hymenium": "Peridio estrecho formado por verrugas de color negro de hasta 3 mm achatadas en el ápice y estriadas longitudinalmente, muy frágil y que no está adherido a la gleba, de tal forma que suele suceder que se desprenda al ser limpiado con el cepillo.",
+        "stipe": "Gleba que en los ejemplares jóvenes e inmaduros es de color blanco, con la madurez tendente a tonos grisáceos y finalmente de un color gris oscuro, con venas amplias y patentes que son de color blanco siempre, sea cual sea el estado de madurez del ejemplar.",
+        "flesh": "Carne consistente y compacta de agradable sabor y con el aroma característico de las trufas, si bien es menos intenso que el que posee la Tuber melanoposporum."
+    },
+    "habitat": "Como su propio nombre indica es una especie que aparece durante el invierno, siendo los meses predilectos para su recolecta desde enero a marzo. Incluso en las plantaciones de árboles micorrizados comparte hábitat con el Tuber melanosporum, además de este hábitat común también suele aparecer bajo tilos y avellanos, y puede aparecer sin la compañía del melanosporum en lugares más húmedos no aptos para este o en otros con Ph menos básico. Es una especie hipógea, crece bajo tierra, por lo que generalmente se precisa de perros adiestrados para su localización.",
+    "observations": "Esta especie es un excelente comestible a pesar de no llegar a tener el aroma de otras trufas, es por ello que su valor de mercado es notablemente inferior a ellas. Se trata de una especie muy variable que ha dado lugar a múltiples variedades, caracterizada por su frágil peridio verrucoso no adherido a la gleba y que se desprende con la manipulación, así como por sus venas amplias siempre de color blanco. El Tuber melanosporum es una especie ciertamente similar con la que comparte hábitat y época de aparición, tiene un aroma notablemente más intenso, su peridio si está adherido a la gleba por lo que no se desprende fácilmente y sus venas son mucho más estrechas.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/tuber_brumale/tuber_brumale1.jpg",
+        "https://www.fungipedia.org/images/galerias/tuber_brumale/tuber_brumale2.jpg",
+        "https://www.fungipedia.org/images/galerias/tuber_brumale/tuber_brumale3.jpg"
+    ]
+}

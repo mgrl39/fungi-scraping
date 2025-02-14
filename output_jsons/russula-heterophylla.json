@@ -1,0 +1,30 @@
+{
+    "name": "russula-heterophylla",
+    "title": null,
+    "author": "(Fr.) Fr.",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Ninguno."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Russulales",
+        "Familia": "Russulaceae"
+    },
+    "edibility": "buen-comestible",
+    "characteristics": {
+        "cap": "Sombrero que en su mayor apogeo alcanza de 8 a 10 cm de diámetro, ocasionalmente algo más, de forma subglobosa en su primera etapa, se va abriendo hasta aplanarse completamente, hundiéndose un poco en el centro como un ombligo. Es de color fundamentalmente verde, aunque es habitual la presencia de difumaciones de varios colores, sobre todo en la zona central, donde es más oscuro. Su cutícula es parcialmente separable y el borde un tanto incurvado.",
+        "hymenium": "Láminas adnatas, anastomosadas irregularmente en las proximidades del pie, de color blanco, bastante apretadas, sin tacto grasiento y desprendibles con relativa facilidad.",
+        "stipe": "Pie cilíndrico, a veces atenuado en la base, de color blanco, pudiendo presentar alguna mancha ocre sobre todo en la parte baja. Proporcional al tamaño del sombrero.",
+        "flesh": "Carne espesa y firme de color blanco, consistente pero quebradiza como Russula que es. Olor fúngico suave y sabor suave y agradable."
+    },
+    "habitat": "Es una seta habitualmente encontrada durante el verano y el otoño, preferentemente en bosques de planifolios, pero también bajo coníferas.",
+    "observations": "Es un buen comestible, quizás sin llegar a la entidad de otras setas de su género, como la Russula virescens, con quien se suele confundir. La cutícula de esta seta es lisa, no cuarteada, y tampoco tiene el color verde cardenillo de la virescens. También es habitual confundirla con la Russula cyanoxantha, de láminas grasientas al tacto, cualidad que no tiene la especie aquí descrita.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/russula_heterophylla/russula_heterophylla1.jpg",
+        "https://www.fungipedia.org/images/galerias/russula_heterophylla/russula_heterophylla2.jpg"
+    ]
+}

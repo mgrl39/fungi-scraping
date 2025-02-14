@@ -1,0 +1,34 @@
+{
+    "name": "fomes-fomentarius",
+    "title": null,
+    "author": "(L.) Fr.",
+    "additional_info": {
+        "common_name": "Yesquero, supizteko ardagai, casco de caballo, bolet désca.",
+        "synonym": "Fomes griseus Lázaro"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Aphyllophoromycetidae",
+        "Orden": "Poriales",
+        "Familia": "Coriolaceae"
+    },
+    "edibility": "no-comestible",
+    "characteristics": {
+        "cap": "Carpóforo perenne de gran tamaño, puede aproximarse a los 50 cm de ancho, y además se adhiere al sustrato a lo largo de todo este ancho, se proyecta por más o menos la mitad del ancho, pudiendo alcanzar un espesor en la zona próxima a la unión con el sustrato de cerca de 20 cm. Tiene forma de pezuña de caballo, aunque a veces se deforma un tanto, quedando como un simple tocho adherido a la madera. Su superficie es muy seca y de color gris con diferentes tonos, no está lacada, si bien tiene protuberancias en la mayoría de los casos. Margen por lo general más claro e incluso amarillento.",
+        "hymenium": "Himenio formado por tubos alargados de color ocre ferruginoso, y poros muy pequeños, hasta 5 por mm, redondeados, de color gris claro al principio, tendentes al ocre con el tiempo. Como el hongo es perenne, los tubos están dispuestos en estratos anuales.",
+        "stipe": "Pie inexistente, se trata de una especie sésil adherida al sustrato por todo su ancho.",
+        "flesh": "Carne de textura suberosa, algo menos dura cuando es joven, pero acaba pareciéndose a la propia madera sobre la que fructifica. Es de color marrón con matiz amarillento a leonado. Su olor es suave, poco significativo, y su sabor desagradable."
+    },
+    "habitat": "Es un hongo descomponedor de la madera que produce podredumbre blanca, por lo que sale sobre árboles en franca decadencia o ya muertos, generalmente planifolios. Es frecuente sobre chopos y se le puede localizar durante todo el año.",
+    "observations": "Es esta una especie que se identifica con relativa facilidad, caracterizada por la unión con la madera que le sirve de sustrato por toda la anchura del carpóforo, su forma de casco de caballo y sus pequeños poros redondeados. Guarda cierta similitud con el Phellinus igniarius, de color más negruzco y microscopía diferente, también con el Ganoderma applanatum, que no tiene para nada la forma de pezuña propia de esta especie.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/fomes_fomentarius/fomes_fomentarius1.jpg",
+        "https://www.fungipedia.org/images/galerias/fomes_fomentarius/fomes_fomentarius2.jpg",
+        "https://www.fungipedia.org/images/galerias/fomes_fomentarius/fomes_fomentarius3.jpg",
+        "https://www.fungipedia.org/images/galerias/fomes_fomentarius/fomes_fomentarius4.jpg",
+        "https://www.fungipedia.org/images/galerias/fomes_fomentarius/fomes_fomentarius5.jpg",
+        "https://www.fungipedia.org/images/galerias/fomes_fomentarius/fomes_fomentarius6.jpg"
+    ]
+}

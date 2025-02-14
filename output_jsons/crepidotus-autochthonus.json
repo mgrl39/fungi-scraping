@@ -1,0 +1,31 @@
+{
+    "name": "crepidotus-autochthonus",
+    "title": null,
+    "author": "J.E. Lange",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Crepidotus caspari var. autochthonus (J.E. Lange) P. Roux, Guy García & Manie"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Cortinariales",
+        "Familia": "Crepidotaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero con forma flabelada o de concha, con un tamaño que oscila bastante, puede alcanzar los 2 cm de proyección y hasta 4 cm de anchura, mientras que su espesor no suele exceder del centímetro. Cuando es joven es de color blanco, adoptando tonos cremas con la edad, con un matiz amarillento cuando son especímenes viejos. Su superficie posee de joven una fina capa afieltrada que tiende a desaparecer con la edad quedando lisa y glabra. No es una especie demasiado higrofana, por lo que el margen no suele ser estriado por trasparencia. Al contrario de lo que pasa con otras especies del género, no tiene capa gelatinosa.",
+        "hymenium": "Láminas divergentes que parten del punto de unión con el sustrato, un tanto irregulares en su configuración, separadas y con laminillas. Son de color pálido de jóvenes, pero rápido se vuelven de color ocre al depositarse sobre ellas las esporas de este color. La arista suele tener color más claro y es floconosa.",
+        "stipe": "Pie muy rudimentario o inexistente, por regla general suele estar directamente unida al sustrato.",
+        "flesh": "Carne poco espesa de color blanco y textura gomosa, algo elástica, su sabor es dulce, y tiene olor rafanoide pero débil."
+    },
+    "habitat": "Se trata de una especie que suele salir de forma gregaria sobre madera muerta en descomposición de distintos tipos de árboles o sobre las ramas caídas o enterradas. Es una especie rara que puede fructificar tanto en primavera como durante el otoño.",
+    "observations": "El género Crepidotus lo componen especies con forma de concha o abanico, de comportamiento saprófito, láminas que se unen en la zona de unión con el sustrato, y esporada ocrácea. Es difícil diferenciar una de otra macroscópicamente. Esta especie que les presentamos pertenece al grupo de las que carecen de capa gelatinosa, y tienen cutícula más o menos lisa, es algo más grande que otras especies del género. La más conocida es el Crepidotus variabilis pero es mucho más pequeño.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/crepidotus_autochthonus/crepidotus_autochthonus1.jpg",
+        "https://www.fungipedia.org/images/galerias/crepidotus_autochthonus/crepidotus_autochthonus2.jpg",
+        "https://www.fungipedia.org/images/galerias/crepidotus_autochthonus/crepidotus_autochthonus3.jpg"
+    ]
+}

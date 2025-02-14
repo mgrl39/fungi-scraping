@@ -1,0 +1,34 @@
+{
+    "name": "pyrenopeziza-benesuada",
+    "title": null,
+    "author": "(Tul.) Gremmen",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Mollisia benesuada (Tul.) W. Phillips"
+    },
+    "taxonomy": {
+        "División": "Ascomycota",
+        "Subdivisión": "Ascomycotina",
+        "Clase": "Himenoascomycetes",
+        "Subclase": "Pezizomycetidae",
+        "Orden": "Leotiales",
+        "Familia": "Dermateaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Fructificaciones sésiles de tamaño apenas visible sin la ayuda de la lupa, los ejemplares más grandes apenas sobrepasan el milímetro de diámetro. Cuando son jóvenes tienen forma discoidal con el margen resaltado como un botón, poco a poco este margen se eleva adoptando el ascocarpo una forma más acopada o subhemisférica, a la par que se ondula o lobula irregularmente. La superficie externa es lisa y glabra, de color gris claro acuoso.",
+        "hymenium": "Himenio liso de color gris más oscuro que la superficie externa, a veces con leve matiz azulado. Produce ascósporas oblongo-fusiformes de 9 o 10 micras por 2 o 3, y paráfisis filiformes.",
+        "stipe": "Pie inexistente, se adhiere directamente al sustrato.",
+        "flesh": "Carne gris de consistencia cerea y poco significativa, de apariencia translúcida, sin que podamos resaltar nada en cuanto a olor o sabor."
+    },
+    "habitat": "Recolectada en un mes de febrero excepcionalmente caluroso sobre ramas caídas de aliso (Alnus glutinosa), que es precisamente el hábitat sobre el que está referenciada. Fructifica de manera gregaria o subfasciculada, generalmente en la parte de la rama que queda hacia el suelo, lo que hace aun más difícil su localización, máxime si tenemos en cuenta lo pequeño de su tamaño. Además se trata de una especie rara, muy poco frecuente y apenas referenciada bibliográficamente.",
+    "observations": "Pyrenopeziza es un género de creación relativamente reciente que engloba especies que anteriormente pertenecían al género Mollisia. A través de estudios realizados en cultivos de esta especie se ha descubierto un nuevo metabolito antibiótico al que se ha denominado benesudón. En el capítulo de comparaciones, cabe destacar su notable parecido con Mollisia cinerea, con paráfisis cilíndricas septadas junto a la base. Tapesia fusca también tiene aspecto similar, pero su diferencia más significativa es que se asienta sobre un subículo.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/pyrenopeziza_benesuada/pyrenopeziza_benesuada1.jpg",
+        "https://www.fungipedia.org/images/galerias/pyrenopeziza_benesuada/pyrenopeziza_benesuada2.jpg",
+        "https://www.fungipedia.org/images/galerias/pyrenopeziza_benesuada/pyrenopeziza_benesuada3.jpg",
+        "https://www.fungipedia.org/images/galerias/pyrenopeziza_benesuada/pyrenopeziza_benesuada4.jpg",
+        "https://www.fungipedia.org/images/galerias/pyrenopeziza_benesuada/pyrenopeziza_benesuada5.jpg",
+        "https://www.fungipedia.org/images/galerias/pyrenopeziza_benesuada/pyrenopeziza_benesuada6.jpg"
+    ]
+}

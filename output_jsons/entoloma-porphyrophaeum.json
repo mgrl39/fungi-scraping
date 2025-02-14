@@ -1,0 +1,31 @@
+{
+    "name": "entoloma-porphyrophaeum",
+    "title": null,
+    "author": "(Fr.) P. Karst.",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Rhodophyllus porphyrophaeus (Fr.) J. E. Lange"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Pluteales",
+        "Familia": "Entolomataceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero que puede alcanzar notables dimensiones, superando muchas veces los 10 cm de diámetro, aunque lo más habitual es encontrarlos de entre 5 y 10 cm. Tiene forma cónica durante su juventud, pero se va aplanando paulatinamente, manteniendo en el centro un mamelón bien diferenciado. Es radialmente fibriloso y de color pardo púrpura o liláceo, todos los ejemplares localizados presentaban el margen de color netamente púrpura. Este margen es involuto en los individuos jóvenes, luego fino y regular, además, al no ser una seta higrófana, no es estriado.",
+        "hymenium": "Láminas escotadas o libres, relativamente separadas y con laminillas intercaladas. Son de color claro en su juventud, blanquecinas, pero se vuelve rosas con la esporulación, y finalmente de color salmón muy oscuro, casi pardo. Arista irregular.",
+        "stipe": "Pie alargado y cilíndrico, a veces algo engrosado en la parte central, de color blanquecino de fondo, pero recubierto en su totalidad por fibrillas longitudinales de color pardo púrpura. Es lleno y de grosor aproximado de unos 2 cm en los individuos adultos.",
+        "flesh": "Carne consistente y de aceptable espesor, de color blanco en todas sus partes, a excepción de la superficie subcuticular concolora con el sombrero. Tiene un sabor no muy agradable, sin embargo su olor es suave."
+    },
+    "habitat": "Nuestra recolecta se realizó en una campa o zona de pasto apenas utilizada o abandonada a tal fin. Encontramos numerosos ejemplares en hilera, en número aproximado de unos 20, en diferentes estados de desarrollo, y todos con el borde de color púrpura. Esta especie también está referenciada en claros boscosos, y a pesar de que la encontramos en otoño, también puede aparecer durante la primavera. Es rara, o al menos poco frecuente.",
+    "observations": "Se caracteriza esta especie por su notable porte, su aspecto similar a un Tricholoma, y por el color pardo purpúreo de todo el basidioma salvo las láminas. El Entoloma jubatum, de porte menos robusto y color más marrón puede tener cierto parecido con esta especie. La clasificamos sin valor culinario por ser este un aspecto todavía poco estudiado, pero es sospechosa de toxicidad.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/entoloma_porphyrophaeum/entoloma_porphyrophaeum1.jpg",
+        "https://www.fungipedia.org/images/galerias/entoloma_porphyrophaeum/entoloma_porphyrophaeum2.jpg",
+        "https://www.fungipedia.org/images/galerias/entoloma_porphyrophaeum/entoloma_porphyrophaeum3.jpg"
+    ]
+}

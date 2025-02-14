@@ -1,0 +1,37 @@
+{
+    "name": "delicatula-integrella",
+    "title": null,
+    "author": "(Pers.) Fayod",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Mycena integrella (Pers.) Gray"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Himenoascomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Tricholomatales",
+        "Familia": "Marasmiaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero de tamaño muy pequeño, en el mejor de los casos su diámetro apenas alcanza 1 cm, con forma campanulada en su primera etapa, se vuelve convexo muy pronto y al final llega a aplanarse bastante, manteniendo en su zona central un ombligo bien definido durante el transcurso de todas estas etapas. Su cutícula es lisa, solo velutina en el nacimiento, de color blanco y translúcida, dejando entrever la zona himenial. El margen es ondulado en algunos ejemplares y también crenulado de forma más habitual.",
+        "hymenium": "Láminas ciertamente curiosas, de color blanco translúcido, muy separadas entre sí asemejando tratarse de pliegues en lugar de verdaderas láminas. Son incurvadas, decurrentes, con la presencia en muchos casos de nervaduras finas dispuestas perpendicularmente a las mismas.",
+        "stipe": "Pie más bien alargado del mismo tono blanquecino translúcido que posee el resto del basidioma o incluso transparente, generalmente incurvado y con la base algo bulbosa.",
+        "flesh": "Carne insignificante, pudiera decirse que carece de verdadera carne, su olor es prácticamente nulo y su sabor es suave y dulce."
+    },
+    "habitat": "Especie que suele aparecer en pequeños grupos con un hábitat muy variado, puede encontrarse en restos de madera musgosos, restos vegetales diversos o directamente sobre el humus del suelo. Es una seta poco frecuente, y si unimos eso a su pequeño tamaño resulta difícil de localizar. Puede ser encontrada tanto en primavera como durante el otoño.",
+    "observations": "Se trata de una especie de pequeño tamaño caracterizada por sus peculiares láminas pliciformes. Su aspecto macroscópico nos recuerda mucho a las especies del género Hemimycena, que sin embargo no tienen este tipo de láminas ni poseen esporas amiloides como sucede con la especie aquí descrita. Algunas pequeñas Mycenas de color blanco como Mycena tenerrima o Phloeomana alba también pueden prestarse a confusión, ninguna de ellas en todo caso tiene láminas pliciformes.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/delicatula_integrella/delicatula_integrella1.jpg",
+        "https://www.fungipedia.org/images/galerias/delicatula_integrella/delicatula_integrella2.jpg",
+        "https://www.fungipedia.org/images/galerias/delicatula_integrella/delicatula_integrella3.jpg",
+        "https://www.fungipedia.org/images/galerias/delicatula_integrella/delicatula_integrella4.jpg",
+        "https://www.fungipedia.org/images/galerias/delicatula_integrella/delicatula_integrella5.jpg",
+        "https://www.fungipedia.org/images/galerias/delicatula_integrella/delicatula_integrella6.jpg",
+        "https://www.fungipedia.org/images/galerias/delicatula_integrella/delicatula_integrella7.jpg",
+        "https://www.fungipedia.org/images/galerias/delicatula_integrella/delicatula_integrella8.jpg",
+        "https://www.fungipedia.org/images/galerias/delicatula_integrella/delicatula_integrella9.jpg"
+    ]
+}

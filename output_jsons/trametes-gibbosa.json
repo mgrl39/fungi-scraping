@@ -1,0 +1,31 @@
+{
+    "name": "trametes-gibbosa",
+    "title": null,
+    "author": "(Pers.) Fr.",
+    "additional_info": {
+        "common_name": "Yesquero blanco, ardagai konkordun, bolet de soca blanc.",
+        "synonym": "Trametes nigrescens Lázaro Ibiza"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Aphyllophoromycetidae",
+        "Orden": "Poriales",
+        "Familia": "Coriolaceae"
+    },
+    "edibility": "no-comestible",
+    "characteristics": {
+        "cap": "Carpóforo grande para el género, supera con facilidad los 10 cm de anchura, aproximándose a los 20 de forma ocasional, con una proyección superior a los 5 cm, y un espesor notable. Tiene forma semicircular, más o menos aplanada o de manera más habitual gibosa. Superficie de color blanco y tomentosa cuando es joven, con el paso del tiempo se vuelve grisácea y glabra, muy poco zonada. El margen, del mismo color que el resto, es fino y bastante regular.",
+        "hymenium": "Himenio formado por poros de disposición radial, angulosos de jóvenes, alargándose con posterioridad hasta llegar a formar tramas laberínticas de viejos, de color blancuzco o crema y un tamaño de 1 mm por poro, 2 poros por mm como mucho.",
+        "stipe": "Pie inexistente, esta especie es sésil.",
+        "flesh": "Carne de buen espesor en la zona de unión con el sustrato, hasta 4 cm, siendo en la zona del margen fina, de unos pocos milímetros. Es de color blanco, aunque en ocasiones presenta zonas de diferente color, y su textura es notablemente coriácea. Olor agradable y sabor poco significativo."
+    },
+    "habitat": "Aparece sobre madera de planifolios prácticamente durante todo el año, teniendo un comportamiento saprófito, es decir, surge sobre madera ya muerta. Debe considerarse como especie frecuente.",
+    "observations": "Los Trametes son hongos descomponedores de la madera que provocan pudrición blanca. Se puede diferenciar de otros congéneres por su carne gruesa en la unión con el sustrato, su forma más o menos gibosa, la ausencia de pelos o zonas concéntricas claras, así como por su margen del mismo color que el resto. La Trametes hirsuta tiene pelos muy apreciables en su superficie, la Trametes pubescens es más parecida, pero de contexto menos grueso.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/trametes_gibbosa/trametes_gibbosa1.jpg",
+        "https://www.fungipedia.org/images/galerias/trametes_gibbosa/trametes_gibbosa2.jpg",
+        "https://www.fungipedia.org/images/galerias/trametes_gibbosa/trametes_gibbosa3.jpg"
+    ]
+}

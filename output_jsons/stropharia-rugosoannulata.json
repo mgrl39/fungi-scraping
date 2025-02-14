@@ -1,0 +1,34 @@
+{
+    "name": "stropharia-rugosoannulata",
+    "title": null,
+    "author": "Farl. ex Murril",
+    "additional_info": {
+        "common_name": "Sorgin handi-marroi.",
+        "synonym": "Stropharia ferrii Bres."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Cortinariales",
+        "Familia": "Strophariaceae"
+    },
+    "edibility": "buen-comestible",
+    "characteristics": {
+        "cap": "Sombrero de tamaño muy notable para el género al que pertenece, en estado adulto puede superar de forma habitual los 10 cm de diámetro, se han llegado a ver ejemplares cuyo diámetro se aproximaba a los 20 cm. Tiene forma subglobosa en sus orígenes, pronto convexo y finalmente aplanado. Su cutícula es gruesa y separable de la carne con cierta facilidad, de color fundamentalmente marrón, pero con matices pardo púrpuras o rojizos, sobre todo en los ejemplares viejos, y posee flocones lanosos en su primera etapa que desaparecen rápidamente. Margen incurvado y lanoso de joven, liso y fisurado en los especímenes adultos.",
+        "hymenium": "Láminas sublibres de color que varía del gris inicial al lila y se oscurecen con la maduración hasta tonos púrpuras casi negruzcos. Son delgadas y bastante apretadas, con la arista del mismo color que el resto.",
+        "stipe": "Pie cilíndrico de aspecto robusto y lleno de joven, luego fistuloso, a veces con la base bulbosa. Tiene color blanquecino de fondo pero está recubierto de algunas fibrillas de tono amarillento en los individuos jóvenes que con la manipulación se vuelven ocráceas. Posee un anillo persistente en la zona superior de color blanco rebordeado de amarillo de joven.",
+        "flesh": "Carne gruesa de color blanco, un poco más fibrosa en el pie, puede tener tonos amarillentos en las heridas. Su olor es apreciable, entre fúngico y herbáceo, y su sabor es dulce."
+    },
+    "habitat": "Solemos localizarla en una campa de la localidad vizcaína de Bedia (España), otro hábitat de referencia es la orilla de ríos y arroyos, junto a árboles de ribera, o en zonas ruderales nitrogenadas. Es una seta muy rara y escasa, difícil de encontrar de forma silvestre. Su época predilecta de aparición es el invierno y principios de la primavera.",
+    "observations": "Constituye un aceptable comestible esta seta carnosa que actualmente se cultiva con fines comerciales. Dentro del género Stropharia es sin duda la especie más carnosa y de mayor tamaño, además de ser la única comestible, dado que muchas de ellas son tóxicas e incluso alucinógenas. Leratiomyces squamosus var. squamosus, tiene cierta similitud, pero es más pequeña y sus escamas más persistentes. Los ejemplares muy viejos con las láminas negruzcas pudieran ser confundidos con Agaricus sp.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/stropharia_rugosoannulata/stropharia_rugosoannulata1.jpg",
+        "https://www.fungipedia.org/images/galerias/stropharia_rugosoannulata/stropharia_rugosoannulata2.jpg",
+        "https://www.fungipedia.org/images/galerias/stropharia_rugosoannulata/stropharia_rugosoannulata3.jpg",
+        "https://www.fungipedia.org/images/galerias/stropharia_rugosoannulata/stropharia_rugosoannulata4.jpg",
+        "https://www.fungipedia.org/images/galerias/stropharia_rugosoannulata/stropharia_rugosoannulata5.jpg",
+        "https://www.fungipedia.org/images/galerias/stropharia_rugosoannulata/stropharia_rugosoannulata6.jpg"
+    ]
+}

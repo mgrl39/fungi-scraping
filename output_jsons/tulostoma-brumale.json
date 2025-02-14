@@ -1,0 +1,37 @@
+{
+    "name": "tulostoma-brumale",
+    "title": null,
+    "author": "Pers.",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Tulostoma mammosum P. Micheli ex Fr."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Gasteromycetidae",
+        "Orden": "Tulostomatales",
+        "Familia": "Tulostomataceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Cabeza de forma más o menos globosa, si acaso puede tender a aplanarse un tanto por la zona inferior. Tiene un tamaño muy reducido, apenas alcanza 1´5 cm de diámetro en el mejor de los casos, y su color es un poco variable dentro de los tonos claros, blanquecino o crema con cierto matiz grisáceo, algo ocre en la zona del ápice. Precisamente la dehiscencia es apical a través de un peristoma tubular resaltado con ostíolo perfectamente definido y rodeado de una zona circular ocre parduzca.",
+        "hymenium": "Himenio que se encuentra en el interior de la cabeza, donde encontramos una gleba, paradójicamente sin revestimiento himenial, donde se forman las basidiósporas de color marrón en masa.",
+        "stipe": "Pie de entre 1´5 y 4 cm de largo por un par de mm de grueso, de joven blanquecino y pronto ocráceo, escamoso o acanalado, con una consistencia dura y tenaz, fibroso, además es hueco. Es cilíndrico salvo quizás en la base que suele ser algo bulbosa por la presencia de abundante masa micelial. Es habitual que se halle prácticamente enterrado en el sustrato dejando visible solo la cabezuela fértil.",
+        "flesh": "Carne inexistente en la cabeza y muy dura en el pie, de hecho la fugacidad de su exoperidio y el endoperidio que es como el papel solo protegen la masa esporal, sin que haya ningún tipo de carne."
+    },
+    "habitat": "Estos especímenes han sido encontrados en la provincia de Bizkaia, en terreno arenoso con la presencia de briófitos próximo a un encinar. No es una especie común en esta zona pero si en otras zonas de nuestra geografía donde sale en grupos. Ha sido localizada en otoño, saliendo casi en cualquier época del año según la latitud, lo que contradice de forma clara su etimología, brumale = invierno.",
+    "observations": "Se caracteriza esta especie por la presencia en el ápice de un ostíolo bien definido con peristoma tubular y por el halo que lo rodea. Una especie muy parecida es el Tulostoma fimbriatum, diferenciándose de esta por su zona apical con ostíolo mal delimitado y fimbriado, sin tubo y sin el halo circular. Otras especie de su género son menos frecuentes, como Tulostoma simulans, con peristoma cónico y gleba con tonos amarillentos, Tulostoma giovanellae tiene esporas con verrugas alineadas, mientras que el Tulostoma squamosum se diferencia por su pie lacerado formando una especie de escamas.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/tulostoma_brumale/tulostoma_brumale1.jpg",
+        "https://www.fungipedia.org/images/galerias/tulostoma_brumale/tulostoma_brumale2.jpg",
+        "https://www.fungipedia.org/images/galerias/tulostoma_brumale/tulostoma_brumale3.jpg",
+        "https://www.fungipedia.org/images/galerias/tulostoma_brumale/tulostoma_brumale4.jpg",
+        "https://www.fungipedia.org/images/galerias/tulostoma_brumale/tulostoma_brumale5.jpg",
+        "https://www.fungipedia.org/images/galerias/tulostoma_brumale/tulostoma_brumale6.jpg",
+        "https://www.fungipedia.org/images/galerias/tulostoma_brumale/tulostoma_brumale7.jpg",
+        "https://www.fungipedia.org/images/galerias/tulostoma_brumale/tulostoma_brumale8.jpg",
+        "https://www.fungipedia.org/images/galerias/tulostoma_brumale/tulostoma_brumale9.jpg"
+    ]
+}

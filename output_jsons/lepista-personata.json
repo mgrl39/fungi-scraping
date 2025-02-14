@@ -1,0 +1,31 @@
+{
+    "name": "lepista-personata",
+    "title": null,
+    "author": "(Fr.) Cooke",
+    "additional_info": {
+        "common_name": "Pie violeta.",
+        "synonym": "Rhodopaxillus saevus (Fr.) Maire"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Tricholomatales",
+        "Familia": "Tricholomataceae"
+    },
+    "edibility": "buen-comestible",
+    "characteristics": {
+        "cap": "Sombrero que puede sobrepasar los 10 cm, de convexo a aplanado, carnoso y macizo, con el borde sinuoso u ondulado y un poco recogido hacia dentro, liso y de color beige grisáceo, algo palidescente por desecación, pero uniforme.",
+        "hymenium": "Láminas apretadas y ligeramente sinuosas, adherentes al pie y de color beige, a veces con matices rosáceos.",
+        "stipe": "Pie de color violeta, muy llamativo, que contrasta con el resto del carpóforo, generalmente corto pero macizo, cilíndrico y algo bulboso en la zona más próxima a la unión con el micelio.",
+        "flesh": "Carne pálida, blanquecina, a veces con matices violetas, de olor no desagradable pero algo fuerte, que contrasta con su sabor suave."
+    },
+    "habitat": "Especie tardía que aguanta muy bien el frio, por lo que no suele aparecer hasta en el mes de noviembre, y se prolonga incluso hasta entrado el invierno. Su hábitat natural son las praderas de montaña o páramos, aunque también aparece en los bordes de los pinares, si bien con menos profusión.",
+    "observations": "Esta especie constituye un buen comestible, en nuestra modesta opinión superior a la Lepista nuda. Mucha gente que nos consulta se lía con estas dos especies y no entendemos porque, una es violeta todo el carpóforo, y la Lepista personata solo tiene violeta el pie.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/lepista_personata/lepista_personata1.jpg",
+        "https://www.fungipedia.org/images/galerias/lepista_personata/lepista_personata2.jpg",
+        "https://www.fungipedia.org/images/galerias/lepista_personata/lepista_personata3.jpg"
+    ]
+}

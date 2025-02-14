@@ -1,0 +1,34 @@
+{
+    "name": "conocybe-mairei",
+    "title": null,
+    "author": "Kühner ex Watling",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Pholiotina mairei Kühner ex Singer"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Agaricales",
+        "Familia": "Bolbitiaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero de pequeño tamaño, según la bibliografía su diámetro oscilaría entre los 5 y los 10 mm en estado adulto, los ejemplares de nuestra recolecta andaban en torno a los 6 mm, de forma convexa va evolucionando hasta ser prácticamente plano, pero manteniendo la zona central resaltada. Cutícula de aspecto seco y mate, variable de color, incluso con diferentes tonos por zonas en un mismo ejempar debido a su higrofaneidad, crema u ocre claro, generalmente con matices amarillentos. Margen estriado por transparencia en dos tercios del total con humedad, reduciéndose la superficie estriada al ir secándose.",
+        "hymenium": "Láminas adnatas y ventricosas, bastante separadas entre sí, inicialmente de color crema amarillento, teñidas con la esporulación de color ocre ferruginoso o canela.",
+        "stipe": "Pie central y cilíndrico, notablemente alargado con respecto al diámetro del sombrero, de color similar al mismo, también con matices amarillentos sobre todo en especímenes jóvenes, sobre 0´5 mm de grosor, bastante pruinoso pero sin anillo ni zona anular, con la base engrosada, blanquecina y algodonosa.",
+        "flesh": "Carne escasa y poco significativa, sin que hayamos apreciado olor o sabor dignos de mención."
+    },
+    "habitat": "Especie poco referenciada bibliográficamente y que hemos de considerar por tanto rara o poco frecuente, la recolecta que sirve de base a esta ficha fue efectuada en el mes de julio del 2016 en suelo de consistencia arenosa bajo alisos (Alnus glutinosa). Entendemos que puede aparecer en otros hábitats y épocas del año si las condiciones son favorables, se hallaron un grupo reducido de ejemplares.",
+    "observations": "Especie perteneciente a un grupo de Conocybes de pequeño tamaño bastante homogéneo, todos ellos con características comunes en cuanto al aspecto macroscópico, por lo que sería imposible su clasificación en rango de especie sin realizar un estudio microscópico profundo, por poner algún ejemplo se parece mucho a Conocybe aberrans o a Conocybe parvula, sus diferencias son estrictamente microscópicas y atañen a la longitud de las esporas o tamaño de los pileocistidios. La clasificamos como sin valor por ser este un aspecto poco estudiado, aunque la presencia de toxinas en estas especies es bastante factible.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/conocybe_mairei/conocybe_mairei1.jpg",
+        "https://www.fungipedia.org/images/galerias/conocybe_mairei/conocybe_mairei2.jpg",
+        "https://www.fungipedia.org/images/galerias/conocybe_mairei/conocybe_mairei3.jpg",
+        "https://www.fungipedia.org/images/galerias/conocybe_mairei/conocybe_mairei4.jpg",
+        "https://www.fungipedia.org/images/galerias/conocybe_mairei/conocybe_mairei5.jpg",
+        "https://www.fungipedia.org/images/galerias/conocybe_mairei/conocybe_mairei6.jpg"
+    ]
+}

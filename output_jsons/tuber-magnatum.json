@@ -1,0 +1,34 @@
+{
+    "name": "tuber-magnatum",
+    "title": null,
+    "author": "Picco",
+    "additional_info": {
+        "common_name": "Trufa blanca, tartufo bianco d'Alba.",
+        "synonym": "Tuber griseum Persoon"
+    },
+    "taxonomy": {
+        "División": "Ascomycota",
+        "Subdivisión": "Ascomycotina",
+        "Clase": "Himenoascomycetes",
+        "Subclase": "Pezizomycetidae",
+        "Orden": "Pezizales",
+        "Familia": "Tuberaceae"
+    },
+    "edibility": "excelente-comestible",
+    "characteristics": {
+        "cap": "Carpóforo con la característica forma de las especies de su género, como si se tratara de pequeñas patatas enterradas, esta forma tuberculada no suele ser, sin embargo, demasiado regular, dado que lo más habitual es que presente protuberancias y sea lobulada de manera irregular, de forma diferente según el ejemplar, alguno de ellos puede tener forma de turbina. Tiene un tamaño muy variable, la mayoría de ejemplares no excede de los 6 cm de diámetro, pero en ocasiones se encuentra algún ejemplar que supera los 10 cm y que puede pesar hasta 800 gr, ejemplares que suelen ser subastados. A pesar del popular nombre de trufa blanca, en contraposición a las negras (Tuber melanosporum), no tiene este color, sino que es de color ocre claro, a veces con algún tono gris olivaceo.",
+        "hymenium": "Peridio más bien fino, adherido a la gleba, sin que se puede separar por tanto de la misma, de un color fundamentalmente ocre claro, de forma ocasional algo verdoso, pero no blanco, si lo observamos detalladamente con una lupa se aprecia una cierta granulosidad fina, pero a los ojos es aparentemente liso.",
+        "stipe": "Gleba compacta y firme, de color muy variable en función del grado de maduración del ejemplar, en las primeras etapas del desarrollo blanquecina, adquiriendo diferentes tonos ocres o marrón rojizo, incluso rosados o amarillentos, pero siempre con la presencia de unas venas de color más claro, que se distribuyen de manera irregular y sinuosa a través de la gleba.",
+        "flesh": "Carne consistente, firme, con un olor muy intenso, propio de las trufas, que algunos comparan con el olor de determinados componentes gaseosos, y que puede resultar excesivo para olfatos no acostumbrados. Su sabor es también intenso, pero muy agradable, característico de la especie, una mezcla complicada de definir, en comparación con la trufa negra, la que nos ocupa suele tener un matiz algo más aliáceo."
+    },
+    "habitat": "Se trata de una especie de crecimiento hipogeo, a veces se encuentra a pocos centímetros del suelo y otras mucho más enterrada, a la que le gusta los suelos calizos, arcillosos, sin piedras, compactos y con abundante vegetación, generalmente en zonas donde suele correr agua. Es muy especifica de determinadas zonas del Piamonte italiano y de la región de Istria, que comparten Eslovenia y Croacia. Suele relacionarse de manera simbiótica con diferentes árboles de hoja ancha, desde robles o encinas hasta tilos o avellanos. Su época de fructificación va desde principio del otoño hasta el invierno, y su producción suele estar ligada a las lluvias que se producen en época estival.",
+    "observations": "Estamos con toda probabilidad ante la especie de hongo comestible más caro y cotizado del mundo, su precio en el mercado suele ser astronómico, variable en función de la productividad anual, pero siempre de varios miles de euros. Se acaba de publicar un estudio de científicos franceses que dicen haber conseguido cultivarla, hasta la fecha solo se ha podido recolectar de forma silvestre. Por sus especiales características organolépticas y macroscópicas, es una especie que se diferencia con facilidad, aunque a veces hay quien quiere hacer el agosto metiendo gato por liebre con la Tuber borchii, especie mucho más pequeña y con marcado olor y sabor aliáceo, comestible bueno pero de inferior calidad que la descrita en esta ficha.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/tuber_magnatum/tuber_magnatum1.jpg",
+        "https://www.fungipedia.org/images/galerias/tuber_magnatum/tuber_magnatum2.jpg",
+        "https://www.fungipedia.org/images/galerias/tuber_magnatum/tuber_magnatum3.jpg",
+        "https://www.fungipedia.org/images/galerias/tuber_magnatum/tuber_magnatum4.jpg",
+        "https://www.fungipedia.org/images/galerias/tuber_magnatum/tuber_magnatum5.jpg",
+        "https://www.fungipedia.org/images/galerias/tuber_magnatum/tuber_magnatum6.jpg"
+    ]
+}

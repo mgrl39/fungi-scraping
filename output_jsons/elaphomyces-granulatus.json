@@ -1,0 +1,31 @@
+{
+    "name": "elaphomyces-granulatus",
+    "title": null,
+    "author": "(Fries)",
+    "additional_info": {
+        "common_name": "Criadilla de ciervo, basahuntz-boilur.",
+        "synonym": "Elaphomyces cervinus (L.) Schltdl."
+    },
+    "taxonomy": {
+        "División": "Ascomycota",
+        "Subdivisión": "Ascomycotina",
+        "Clase": "Plectomycetes",
+        "Subclase": "Plectomycetidae",
+        "Orden": "Plectascales",
+        "Familia": "Elaphomycetaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Carpóforo de 2 a 4 cm de diámetro, de forma globosa un tanto irregular, en ocasiones ovalada y otras simplemente esférica. La superficie exterior es granulada por la presencie de una especie de pequeñas verrugas, y su color varía en función de la madurez del espécimen, de un color amarillento ocre de joven , incluso pajizo, acaba por volverse oscuro con el tiempo, prácticamente pardo.",
+        "hymenium": "Peridio apreciable al efectuar una sección de la seta, de un par de mm de grosor, liso, sin presencia de venas, de color pálido casi blanquecino, a veces teñido de color carne.",
+        "stipe": "Gleba pulverulenta y de color negruzco cuando se produce la maduración de las esporas.",
+        "flesh": "Carne compacta de joven, al final la zona interior desaparece manteniéndose solo la corteza exterior. Al principio su olor es poco destacado, pero al madurar llega a ser desagradable, como su sabor, que llega a ser algo amargo."
+    },
+    "habitat": "Se trata de un hongo hipogeo, pero que suele estar muy cerca de la superficie. Crece al final del verano y principio del otoño, preferentemente entre coníferas, aunque también bajo hayas, hábitat en el que ha sido fotografiado por nosotros. Debe considerarse frecuente.",
+    "observations": "El nombre común de criadillas de ciervo viene motivado por que los animales del bosque se nutren habitualmente de este manjar de temporada, por otra parte incomestible para los humanos. El olor les atrae y desentierran las setas para comérselas, pero es algo que hacen varios animales, no solo los ciervos. Esta especie es parasitada con frecuencia tanto por el Tolypocladium capitatum como por el Tolypocladium ophioglossoides, que son los que delatan frecuentemente su enterrada presencia. Es fácilmente confundible con el Elaphomyces muricatus, de aspecto casi idéntico, pero cuyo endoperidio está veteado de venas.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/elaphomyces_granulatus/elaphomyces_granulatus1.jpg",
+        "https://www.fungipedia.org/images/galerias/elaphomyces_granulatus/elaphomyces_granulatus2.jpg",
+        "https://www.fungipedia.org/images/galerias/elaphomyces_granulatus/elaphomyces_granulatus3.jpg"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "lyophyllum-fumosum",
+    "title": null,
+    "author": "(Pers.) P. D. Orton",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Lyophyllum conglobatum (Vittad.) M. M. Moser"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Tricholomatales",
+        "Familia": "Tricholomataceae"
+    },
+    "edibility": "buen-comestible",
+    "characteristics": {
+        "cap": "Sombrero de tamaño medio, los ejemplares más desarrollados pueden llegar a tener 10 cm de diámetro, de forma habitual entre 5 y 8 cm. Nace con una forma hemisférica, mostrándose convexo muy pronto y finalmente aplanado, si bien al crecer fasciculado a veces tiene forma irregular. Su cutícula es de color grisáceo generalmente y está veteada de fibrillas radiales algo más oscuras, es lisa y glabra, brillante con lluvia pero no viscosa. El margen es incurvado en los especímenes más jóvenes, después extendido e irregularmente ondulado por proximidad y contacto con otros especímenes.",
+        "hymenium": "Láminas adnatas por regla general, pudiendo decurrir un poco en los ejemplares viejos, de color grisáceo de jóvenes y netamente grises de adultas, apretadas y separables.",
+        "stipe": "Pie proporcionado de color blanquecino, generalmente curvado debido a su forma de crecimiento, lleno y de aspecto macizo, fibriloso, normalmente unido por su base a otros ejemplares.",
+        "flesh": "Carne relativamente espesa de color blanco, de consistencia elástica en el sombrero que se rompe con un chasquido, más fibrosa en el pie, inmutable al corte aunque en los ejemplares muy viejos suele tener una cierta tendencia a ennegrecer. Su olor es fúngico agradable con ligero matiz harinoso, su sabor en crudo puede tener un ligerísimo amargor tardío que no se manifiesta una vez cocinada."
+    },
+    "habitat": "Esta especie crece en grupos fasciculados de numerosos individuos, sobre restos leñosos enterrados o sobre raíces de diversos árboles, pero en la mayoría de las ocasiones aparentemente sobre el suelo. Se trata de una especie poco frecuente que fructifica preferentemente a finales de verano o durante el otoño.",
+    "observations": "Es una especie que hemos degustado con agrado a pesar de su carne elástica y ese ligerísimo amargor en crudo que desaparece al cocinarla, quizás de parecida entidad culinaria que su pariente más cercano, Lyophyllum decastes, especie que crece al igual que esta en grupos, de sombrero más pardo y láminas blancas de joven. La consistencia elástica de la carne y el chasquido con que se rompe el sombrero definen muy bien a este género. Otras especies similares como Lyophyllum infumatum o Lyophyllum transforme tienen una marcada tendencia al ennegrecimiento, Lyophyllum loricatum es quizás la más parecida pero crece individualmente, no en grupos fasciculados.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/lyophyllum_fumosum/lyophyllum_fumosum1.jpg",
+        "https://www.fungipedia.org/images/galerias/lyophyllum_fumosum/lyophyllum_fumosum2.jpg",
+        "https://www.fungipedia.org/images/galerias/lyophyllum_fumosum/lyophyllum_fumosum3.jpg"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "agaricus-litoralis",
+    "title": null,
+    "author": "(Wakef. & Pears.) Pilát.",
+    "additional_info": {
+        "common_name": "Agarico del litoral.",
+        "synonym": "Agaricus maskae Pilát"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Agaricales",
+        "Familia": "Agaricaceae"
+    },
+    "edibility": "buen-comestible",
+    "characteristics": {
+        "cap": "Sombrero de buen tamaño, puede superar con facilidad los 10 cm de diámetro, de forma hemisférica en su nacimiento, después convexa por lo general, evolucionando a aplanada en la última etapa de su desarrollo. Es de color blanco, aunque adopta tonos cremas ocráceos con la vejez y la desecación, algo amarilleante al frotamiento en ocasiones. Cutícula recubierta de pequeñas escamas, se resquebraja rápidamente a partir de la zona central.",
+        "hymenium": "Láminas adnatas y apretadas de color rosáceo de jóvenes, posteriormente marrones como todos los champis al madurar las esporas.",
+        "stipe": "Pie corto y compacto de color blanco, ligeramente atenuado en la base. Posee un anillo súpero con forma de faldón del mismo color que el resto del pie, liso o débilmente estriado en su parte superior y con copos en la inferior. Por encima del anillo el pie es liso y por debajo floconoso, además es lleno.",
+        "flesh": "Carne firme y compacta de color blanco, algo rubescente al corte en la base del pie. Olor fúngico agradable con trasfondo débilmente anisado y sabor dulce."
+    },
+    "habitat": "Especie rara en el norte pero abundante en otras zonas de la península ibérica. Aparece en un primer brote en primavera, dando otro en el otoño, en claros de pinares o encinares, campas y zonas herbosas. A pesar de su nombre no es exclusiva de zonas litorales.",
+    "observations": "Es un buen comestible, carnoso y de carne compacta. Por el agrietamiento de su cutícula se puede confundir con el Agaricus arvensis, de cutícula más lisa y débil olor anisado pero sobre todo se confunde con el Agaricus bernardii, más rubescente, de anillo ínfero y olor fuerte desagradable en los ejemplares adultos. La confusión más peligrosa sería con el Agaricus xanthodermus que amarillea tanto en el sombrero como en el pie y tiene un olor más desagradable.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/agaricus_litoralis/agaricus_litoralis1.jpg",
+        "https://www.fungipedia.org/images/galerias/agaricus_litoralis/agaricus_litoralis2.jpg",
+        "https://www.fungipedia.org/images/galerias/agaricus_litoralis/agaricus_litoralis3.jpg"
+    ]
+}

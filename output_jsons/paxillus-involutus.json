@@ -1,0 +1,31 @@
+{
+    "name": "paxillus-involutus",
+    "title": null,
+    "author": "(Batsch) Fr.",
+    "additional_info": {
+        "common_name": "Paxilo enrollado.",
+        "synonym": "Ninguno."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Boletales",
+        "Familia": "Paxillaceae"
+    },
+    "edibility": "mortal",
+    "characteristics": {
+        "cap": "Sombrero de hasta 15 cm de diámetro, de joven convexo y con el borde del mismo enrollado, tiende a aplanarse con la edad. El margen suele aparecer acanalado y el color es pardo sucio, adoptando tonos más oscuros en las zonas manoseadas.",
+        "hymenium": "Láminas de color ocre, se vuelven más oscuras con la edad y se manchan de un color pardo muy feo al pasar el dedo sobre ellas. Son decurrentes sobre el pie y separables con facilidad del sombrero.",
+        "stipe": "Pie más bien corto, central, de color similar al sombrero o ligeramente más claro, también se ensucia con el manoseo, sobre todo en la parte inferior, donde puede adoptar un tono algo más rojizo.",
+        "flesh": "Carne bastante compacta de joven, se vuelve algo más fofa con el tiempo. ¡Ojo!, de buen sabor y con olor fúngico nada desagradable."
+    },
+    "habitat": "Especie muy extendida, aparece en cualquier época del año si las condiciones son favorables, lo mismo en bosque de coníferas que en caducifolios.",
+    "observations": "Esta especie está catalogada como MORTAL a pesar de que en los catálogos antiguos aparecía como especie comestible. Ha llegado a producir envenenamientos con consecuencias fatales. Se puede confundir con Tapinella atrotomentosa, de pie lateral, hábitat sobre madera, y con el Paxillus rubicundulus, de pie excéntrico y color más amarillento con hábitat exclusivo bajo alisos.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/paxillus_involutus/paxillus_involutus1.jpg",
+        "https://www.fungipedia.org/images/galerias/paxillus_involutus/paxillus_involutus2.jpg",
+        "https://www.fungipedia.org/images/galerias/paxillus_involutus/paxillus_involutus3.jpg"
+    ]
+}

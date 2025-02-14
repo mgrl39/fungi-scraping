@@ -1,0 +1,30 @@
+{
+    "name": "arrhenia-onisca",
+    "title": null,
+    "author": "(Fr.) Redhead, Lutzoni, Moncalvo & Vilgalis",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Omphalina oniscus (Fr.) Quélet"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Tricholomatales",
+        "Familia": "Tricholomataceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero cuyo diámetro oscila entre 1`5 y 3`5 cm, de joven tiene una depresión central a modo de ombligo, con el tiempo tiende a quedar con forma de embudo. El color varía del gris oscuro o tonos pardo-negruzcos, adoptando colores más pálidos con la desecación. Su superficie, sobre todo en los ejemplares adultos, es fuertemente estriada por transparencia, siendo además seca, lisa y glabra. Borde regular, en ocasiones acanalado.",
+        "hymenium": "Láminas decurrentes de color más pálido que el sombrero, grisáceas. Son relativamente gruesas y espaciadas, con la arista de color negro en los especímenes viejos.",
+        "stipe": "Pie proporcional o un poco más largo con respecto al diámetro del sombrero, prácticamente del mismo color que éste. Es hueco o fistuloso, liso y glabro.",
+        "flesh": "Carne poco significativa de color grisáceo, sin olor o sabor referenciable."
+    },
+    "habitat": "Es una seta que sale durante el otoño, en turberas o zonas musgosas. Es una seta poco referenciada bibliográficamente, entendemos que por el escaso interés que genera, ya que es bastante frecuente y gregaria.",
+    "observations": "Perteneciente al género Omphalina hasta hace bien poco, género notablemente vilipendiado por los nuevos estudios de esta joven ciencia que es la micología. Existen varias especies similares, como la Arrhenia obscurata, o la Arrhenia sphagnicola, precisándose un análisis microscópico para su correcta clasificación. Todas ellas pertenecían a Omphalina hasta el año 2002.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/arrhenia_onisca/arrhenia_onisca1.jpg",
+        "https://www.fungipedia.org/images/galerias/arrhenia_onisca/arrhenia_onisca2.jpg"
+    ]
+}

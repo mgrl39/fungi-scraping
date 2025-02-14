@@ -1,0 +1,31 @@
+{
+    "name": "galerina-terrestris",
+    "title": null,
+    "author": "V. L. Wells & Kempton",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Galerina minima (Peck.) Smith & Singer"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Cortinariales",
+        "Familia": "Crepidotaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero muy pequeño, el diámetro de los ejemplares plenamente desarrollados apenas roza el centímetro, de forma hemisférica en un principio, subglobosa después, para acabar por adoptar una forma convexa en la que permanece hasta el final, sin llegar nunca a aplanarse. Los especímenes jóvenes y convenientemente hidratados tienen un color marrón rojizo cálido, pero al irse desecando se va volviendo netamente ocrácea comenzando por el ápice. Su superficie es lisa y estriada por transparencia prácticamente en su totalidad cuando es joven, salvo quizás la zona central más oscura. El margen es ampliamente crenulado y algo irregular.",
+        "hymenium": "Láminas adnatas y ascendentes con algunas laminillas, de color ocre ferruginoso y con la arista ciliada.",
+        "stipe": "Pie alargado, aunque no tanto como el de otras Galerinas, por lo general rondando los 3 centímetros. Es notablemente fibriloso en su totalidad, si bien los ejemplares viejos pueden perder esas fibrillas y volverse casi glabros, además es pruinoso, sobre todo en su mitad superior. Su color es el ocre rojizo, aunque la zona próxima a la base es más parda, y es más elástico de lo que es habitual para el género. Es fistuloso desde joven.",
+        "flesh": "Carne escasa y sin apenas consistencia, de color ocráceo y sin nada reseñable en cuanto a olor o sabor."
+    },
+    "habitat": "Se trata de una rarísima especie de hábitat muscícola, ligada a musgos del género Rhacomitrium, con especial predilección por el Rhacomitrium canescens. Principalmente sale, de forma gregaria, en terrenos ácidos que pueden tener consistencia un tanto arenosa a la vez que musgosa, algo poco habitual. Los especímenes recolectados fueron localizados en el mes de Mayo en la localidad burgalesa de Rabanera del pinar, si bien no descartamos su aparición en otras épocas del año.",
+    "observations": "A pesar de haber buscado por todas partes solo hemos encontrado una referencia de esta especie para la península ibérica, citada en el mes de noviembre del 2005 en Serón de Nágima, Soria, no demasiado lejos de nuestra recolecta, aunque siempre es posible que alguien más la haya recolectado y no nos conste. Existen algunas especies del género Galerina con las que guarda cierta similitud, por ejemplo la Galerina vittiformis, de pie más largo, borde del sombrero no crenulado y arista laminar blanquecina y escarchada. La Galerina Hypnorum es muy similar, incluso en los colores del pie, pero su olor marcadamente harinoso la delata.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/galerina_terrestris/galerina_terrestris1.jpg",
+        "https://www.fungipedia.org/images/galerias/galerina_terrestris/galerina_terrestris2.jpg",
+        "https://www.fungipedia.org/images/galerias/galerina_terrestris/galerina_terrestris3.jpg"
+    ]
+}

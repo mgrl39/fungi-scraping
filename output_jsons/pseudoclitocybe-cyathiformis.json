@@ -1,0 +1,30 @@
+{
+    "name": "pseudoclitocybe-cyathiformis",
+    "title": null,
+    "author": "(Bull.) Singer",
+    "additional_info": {
+        "common_name": "Clitocibe en forma de copa, tassa de bruc fosca, klitozibe beltz.",
+        "synonym": "Clitocybe cyathiformis (Bull.) P. Kumm."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Tricholomatales",
+        "Familia": "Tricholomataceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero que puede superar los 5 cm de diámetro, pero no llega a los 10, en forma de embudo o de copa, profundamente deprimido por su zona central. Cuando está convenientemente hidratado es de color pardo oscuro, palideciendo por desecación hacia tonos ocres. El borde del mismo es fino e incurvado y puede estar ligeramente estriado. Su superficie es lisa, además es higrófano.",
+        "hymenium": "Láminas bastante apretadas de color blancuzco, en ocasiones con tonos grisáceos, con respecto al pie son claramente decurrentes.",
+        "stipe": "Pie por lo general de mayor longitud que el diámetro del sombrero, central y habitualmente curvado. El fondo es de color blancuzco, pero está adornado con fibrillas más oscuras, que le dan un aspecto gris. Es lleno y tomentoso en la base.",
+        "flesh": "Carne escasa, de consistencia elástica, sobre todo en el pie, de color gris. Tiene un olor poco destacado, y un sabor igualmente suave."
+    },
+    "habitat": "Es una especie eminentemente otoñal, que fructifica por igual en planifolios y en coníferas, en suelos herbosos y húmedos, muchas veces de forma gregaria. Es una especie frecuente en nuestros bosques.",
+    "observations": "No tiene entidad culinaria dada la elasticidad de su carne y su poco espesor esta especie. Puede confundirse con el Clitocybe brumalis, que sin embargo tiene un tono grisáceo uniforme en todo el carpóforo. Sus características microscópicas, por ejemplo la ausencia de fíbulas en sus hifas, hacen que haya sido separada del genero Clitocybe.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/pseudoclitocybe_cyathiformis/pseudoclitocybe_cyathiformis1.jpg",
+        "https://www.fungipedia.org/images/galerias/pseudoclitocybe_cyathiformis/pseudoclitocybe_cyathiformis2.jpg"
+    ]
+}

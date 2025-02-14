@@ -1,0 +1,34 @@
+{
+    "name": "geopora-sumneriana",
+    "title": null,
+    "author": "(Cooke) M. De la Torre",
+    "additional_info": {
+        "common_name": "Geopora de los cedros, Zedro-katilu.",
+        "synonym": "Sepultaria sumneriana (Cooke) Mass."
+    },
+    "taxonomy": {
+        "División": "Ascomycota",
+        "Subdivisión": "Ascomycotina",
+        "Clase": "Himenoascomycetes",
+        "Subclase": "Pezizomycetidae",
+        "Orden": "Pezizales",
+        "Familia": "Humariaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Carpóforo que se presenta en su primer estadio con forma globosa y prácticamente enterrado, poco a poco se va abriendo paso a la par que adopta una forma de cúpula, finalmente emerge a la superficie abriéndose en lóbulos más o menos estrellados, sin llegar a aplanarse. En estado adulto su diámetro puede llegar a superar los 5 cm, aunque los ejemplares cerrados apenas tienen 2 o 3 cm.",
+        "hymenium": "Peridio de color marrón recubierto en toda la superficie externa por pelos largos muy apretados de color pardo, sobre todo en los ejemplares jóvenes estos pelos forman una especie de tapiz siendo muy patentes, con el tiempo tienden a desprenderse sobre todo en la zona superior del ascoma.",
+        "stipe": "Himenio ubicado en la superficie interna, resaltando por su color mucho más claro que el resto del carpóforo, entre crema y gris claro. Es completamente liso, carente de los pelos que presenta la zona externa. Tanto las ascas como las esporas destacan por su gran tamaño, pudiendo alcanzar las últimas de 30 a 36 micras por 15 de ancho.",
+        "flesh": "Carne más bien espesa pero de consistencia frágil, su olor es casi nulo, apreciándose solo el aroma del sustrato terroso sobre el que fructifica, así mismo es prácticamente insípida."
+    },
+    "habitat": "Es una especie considerada bibliográficamente como primaveral, constatando que también puede aparecer en inviernos calurosos, nosotros la hemos localizado en marzo y abril. Se caracteriza por su hábitat exclusivo bajo cedros, siendo frecuente en este hábitat, pero hemos de constatar que desgraciadamente no hay apenas cedros en nuestro entorno, en la mayoría de las ocasiones aparecen de forma ornamental en jardines públicos. Suele aparecer en grupos numerosos.",
+    "observations": "Este Ascomycete se diferencia de otros similares en primer lugar por su hábitat exclusivo bajo cedros, además en caso de duda una simple mirada al tamaño de sus esporas disipará dicha duda. La Geopora arenicola es menos frecuente, aparece en zonas arenosas y sus esporas son mucho más pequeñas. Otra especie que guarda cierta similitud es la Humaria hemisphaerica, de esporas verrucosas.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/geopora_sumneriana/geopora_sumneriana1.jpg",
+        "https://www.fungipedia.org/images/galerias/geopora_sumneriana/geopora_sumneriana2.jpg",
+        "https://www.fungipedia.org/images/galerias/geopora_sumneriana/geopora_sumneriana3.jpg",
+        "https://www.fungipedia.org/images/galerias/geopora_sumneriana/geopora_sumneriana4.jpg",
+        "https://www.fungipedia.org/images/galerias/geopora_sumneriana/geopora_sumneriana5.jpg",
+        "https://www.fungipedia.org/images/galerias/geopora_sumneriana/geopora_sumneriana6.jpg"
+    ]
+}

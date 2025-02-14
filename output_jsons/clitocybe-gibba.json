@@ -1,0 +1,31 @@
+{
+    "name": "clitocybe-gibba",
+    "title": null,
+    "author": "(Pers.) P. Kumm.",
+    "additional_info": {
+        "common_name": "Clitocibe embudado, inbutu, tassa de bruc.",
+        "synonym": "Clitocybe infundibuliformis (Schaeff.) Quélet"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Tricholomatales",
+        "Familia": "Tricholomataceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero que puede llegar como mucho a los 10 cm de diámetro, al principio de forma plana y con un mamelón notorio, luego se vuelve de forma embudada, y además de manera acusada, manteniendo el mamelón, aunque ya no es tan apreciable. Es de color ocráceo a crema, dependiendo de la hidratación del espécimen. Borde festoneado, incurvado y fino, poco ondulado.",
+        "hymenium": "Láminas de color blanquecino, bastante apretadas y muy decurrentes sobre el pie.",
+        "stipe": "Pie central y cilíndrico, esbelto y en ocasiones alargado, de color similar al sombrero o algo más pálido. Suele estar en su base recubierto de un tomento blanquecino.",
+        "flesh": "Carne más consistente en el centro de sombrero, escasa en el borde, tenaz en el propio sombrero y esponjosa en el pie. Tiene un olor agradable y un sabor suave."
+    },
+    "habitat": "Lo más habitual es encontrarla sobre las hojas caídas de árboles planifolios, pero sale también bajo coníferas. Es una seta muy común y muy abundante, sobre todo durante los meses otoñales.",
+    "observations": "A pesar de ser una especie inocua, la tenacidad de su carne hace que no sea recolectable para el consumo. Se parece mucho a la Paralepista flaccida, especie de coníferas de sombrero más leonado, así mismo, guarda parecido con otros clitocybes como el Clitocybe costata, que tiene el borde del sombrero con costillares, o el Clitocybe catinus de sombrero muy claro, por poner dos ejemplos, pero hay más posibles confusiones.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/clitocybe_gibba/clitocybe_gibba1.jpg",
+        "https://www.fungipedia.org/images/galerias/clitocybe_gibba/clitocybe_gibba2.jpg",
+        "https://www.fungipedia.org/images/galerias/clitocybe_gibba/clitocybe_gibba3.jpg"
+    ]
+}

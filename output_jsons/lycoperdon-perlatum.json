@@ -1,0 +1,34 @@
+{
+    "name": "lycoperdon-perlatum",
+    "title": null,
+    "author": "Pers.",
+    "additional_info": {
+        "common_name": "Cuesco de lobo, bejín, astaputz perladun, pet de llop (perlat).",
+        "synonym": "Lycoperdon gemmatum Batsch."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Gasteromycetidae",
+        "Orden": "Lycoperdales",
+        "Familia": "Lycoperdaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Carpóforo con forma de pera o de bombilla, con una altura que puede llegar a superar los 5 cm, y una anchura en la zona superior de unos 3 o 4 cm. Tiene un color uniforme blanco cuando es joven, derivando a tonos grisáceos o parduzcos de viejo. Toda la zona engrosada superior es fértil, siendo la parte inferior más estrecha y estéril.",
+        "hymenium": "Exoperidio blanco, grisáceo con el tiempo, simple, recubierto por una serie de prominencias verrucosas concoloras coronadas por una especie de espinas, dando al conjunto un aspecto perlado. Con la edad y el efecto de la lluvia, estas espinas se van desprendiendo del exoperidio dejándolo liso y con unas marcas allá donde estuvieron las espinas. Finalmente todo el exoperidio acaba por desprenderse.",
+        "stipe": "Endoperidio blanquecino y casi liso, aunque suele presentar unas marcas irregularmente reticuladas dejadas por el exoperidio. La dehiscencia se produce en la parte más alta, donde se abre un pequeño agujero llamado poro apical, a través del cual se esparcen al aire las esporas.",
+        "flesh": "Gleba esponjosa de color blanco en los especímenes jóvenes, con la maduración se vuelve primero de color amarillento, luego verdoso, y finalmente pardo amarillenta. La zona inferior contiene una gleba estéril o subgleba de color blanco a pardo oliváceo."
+    },
+    "habitat": "Es una especie muy frecuente en nuestros bosques, que no tiene especial predilección por un tipo determinado de arbolado, fructifica por igual bajo coníferas y bajo planifolios. Sale de manera individual, o a veces con varios individuos arracimados, empezando a aparecer ya en la primavera, si bien es durante el otoño cuando se la encuentra con mayor profusión.",
+    "observations": "Es uno de los popularmente llamados \"pedos de lobo\" más comunes en nuestro entorno, caracterizado por su color blanco de joven y el recubrimiento de \"perlas\". Según algunos tratados es comestible de joven, cuando la gleba está blanca, pero realmente no tiene gran valor culinario. Guarda bastante parecido con algunos de sus congéneres, el Lycoperdon pyriforme sale en bosques de planifolios, en grupos de numerosos individuos arracimados, y es más pequeño. De viejo es posible confundirlo con otros como el Lycoperdon umbrinum, de color ocre y con espinas cortas.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/lycoperdon_perlatum/lycoperdon_perlatum1.jpg",
+        "https://www.fungipedia.org/images/galerias/lycoperdon_perlatum/lycoperdon_perlatum2.jpg",
+        "https://www.fungipedia.org/images/galerias/lycoperdon_perlatum/lycoperdon_perlatum3.jpg",
+        "https://www.fungipedia.org/images/galerias/lycoperdon_perlatum/lycoperdon_perlatum4.jpg",
+        "https://www.fungipedia.org/images/galerias/lycoperdon_perlatum/lycoperdon_perlatum5.jpg",
+        "https://www.fungipedia.org/images/galerias/lycoperdon_perlatum/lycoperdon_perlatum6.jpg"
+    ]
+}

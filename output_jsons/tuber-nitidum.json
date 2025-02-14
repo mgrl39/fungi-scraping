@@ -1,0 +1,34 @@
+{
+    "name": "tuber-nitidum",
+    "title": null,
+    "author": "Vittad.",
+    "additional_info": {
+        "common_name": "Trufa de la encina, trufa brillante.",
+        "synonym": "Tuber rufum var. nitidum (Vittad.) E. Fischer"
+    },
+    "taxonomy": {
+        "División": "Ascomycota",
+        "Subdivisión": "Ascomycotina",
+        "Clase": "Himenoascomycetes",
+        "Subclase": "Pezizomycetidae",
+        "Orden": "Pezizales",
+        "Familia": "Tuberaceae"
+    },
+    "edibility": "comestible",
+    "characteristics": {
+        "cap": "Carpóforo de tamaño más bien pequeño para el género, el diámetro de los ejemplares recolectados oscila entre 1 y 3 cm, con la típica forma tuberculada o de pequeña patata habitual en las especies de Tuber, un tanto variable, a veces subglobosa y otras más irregular, con prominencias pero escasamente lobulado. Suele tener un color igualmente variable dentro de los ocres, desde ocre claro a tonos próximos al pardo en ejemplares más maduros. No presenta una cavidad basal propiamente dicha al estilo, por ejemplo, de Tuber excavatum, pero muchos ejemplares, si tienen una especie de arruga o hendidura característica en la zona más proxima a la unión micelial.",
+        "hymenium": "Peridio plectenquimatoso, liso y glabro, ni contiene pelos ni posee verdaderas papilas como sucede en especies afines, si acaso algo pruinoso, bastante grueso, pudiendo superar las 500 micras de grosor, y prácticamente inseparable de la gleba. A pesar de que se pueden encontrar ejemplares casi blancos cuando son muy jóvenes e inmaduros, lo mas habitual es que sean de color ocraceo, hasta tonos casi pardos de viejos.",
+        "stipe": "Gleba compacta, consistente, dura, de color blanquecino en la primera etapa de desarrollo, adquiriendo tonos rosados a ocres, y oscureciéndose notablemente con la maduración. Posee venas de color blanquecino que mantienen un tono más claro que el resto de la gleba incluso al madurar.",
+        "flesh": "Carne que es la propia gleba en realidad, muy consistente, con agradable olor trufado en los ejemplares jóvenes, que se va haciendo más fuerte con la maduración, llegando a resultar algo desagradable al final, su sabor no es malo, como de frutos secos en especímenes jóvenes."
+    },
+    "habitat": "Especie que fructifica de forma bastante abundante en los encinares del sur de la península, ligada a Quercus ilex aunque no de forma exclusiva, también está referenciada en otros árboles como Quercus rotundifolia o Quercus pyrenaica, sin embargo en el norte no es tan prolífica. Suele fructificar en grupos más o menos numerosos, de forma hipogea, desarrollándose a lo largo de la primavera, alcanzando su estado óptimo de maduración durante el verano y principio del otoño. Nuestra recolecta está efectuada en la provincia de Alava, y ha sido localizada también bajo Quercus ilex.",
+    "observations": "Especie comestible no muy apreciada, debido en parte a su pequeño tamaño y a su carne algo dura. Es una especie que podemos enclavar dentro del complejo del Tuber rufum, algunos autores la consideraban como una variedad de esta, pero en la actualidad tiene taxón propio gracias en parte a los análisis de ADN. Tuber rufum, Tuber ferrugineum, y Tuber pustulatum son especies afines muy complejas de diferenciar entre sí, incluso con un análisis microscópico no se observan diferencias, en parte por culpa de la gran variabilidad de tamaño y forma de las esporas de estas especies, incluso entre ejemplares extraidos de un mismo micelio. Sin embargo, las tres tienen peridio papiloso, y Tuber nitidum es así la única especie diferenciable macroscópicamente dentro de este complejo al tenerlo totalmente liso.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/tuber_nitidum/tuber_nitidum1.jpg",
+        "https://www.fungipedia.org/images/galerias/tuber_nitidum/tuber_nitidum2.jpg",
+        "https://www.fungipedia.org/images/galerias/tuber_nitidum/tuber_nitidum3.jpg",
+        "https://www.fungipedia.org/images/galerias/tuber_nitidum/tuber_nitidum4.jpg",
+        "https://www.fungipedia.org/images/galerias/tuber_nitidum/tuber_nitidum5.jpg",
+        "https://www.fungipedia.org/images/galerias/tuber_nitidum/tuber_nitidum6.jpg"
+    ]
+}

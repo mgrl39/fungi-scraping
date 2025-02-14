@@ -1,0 +1,31 @@
+{
+    "name": "glutinoglossum-glutinosum",
+    "title": null,
+    "author": "(Pers.) Hustad, A.N. Mill., Dentinger & P.F. Cannon",
+    "additional_info": {
+        "common_name": "lengua de tierra glutinosa.",
+        "synonym": "Geoglossum glutinosum Pers."
+    },
+    "taxonomy": {
+        "División": "Ascomycota",
+        "Subdivisión": "Ascomycotina",
+        "Clase": "Himenoascomycetes",
+        "Subclase": "Pezizomycetidae",
+        "Orden": "Leotiales",
+        "Familia": "Geoglossaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Carpóforo que en ocasiones puede sobrepasar los 5 cm de altura, estructurado en dos partes perfectamente diferenciadas, una especie de pie y una cabezuela. Esta última suele tener forma aplastada y longitudinalmente surcada en su zona central, aunque este es un carácter sujeto a una cierta variabilidad. Lo que no varía es su superficie viscosa, de un color que va del pardo oscuro al negro. Esta cabezuela constituye la parte fértil del carpóforo.",
+        "hymenium": "Pie estéril, esbelto y lleno, de un color netamente pardo, sin que suela volverse negro. Es viscoso aun sin lluvia reciente y glutinoso cuando está convenientemente hidratado, al punto de escaparse entre los dedos.",
+        "stipe": "Carne escasa, poco significativa, sin olor ni sabor específicos.",
+        "flesh": "Es una seta que no es infrecuente, pero que pasa desapercibida por regla general, ya que fructifica entre la hierba, siendo esta de mayor longitud que la seta. En praderas a finales del otoño y durante el invierno."
+    },
+    "habitat": "Esta especie se caracteriza por su superficie viscosa, e incluso glutinosa con lluvia, y su pie pardo. Estas características la separan con claridad de otras especies afines que salen en la misma época y lugares que esta, tal es el caso del Geoglossum fallax, seco y de pie negro, o el Trichoglossum hirsutum, que posee pelos en su superficie. Están referenciadas para Europa una decena de especies pertenecientes al género Geoglossum.",
+    "observations": null,
+    "images": [
+        "https://www.fungipedia.org/images/galerias/glutinoglossum_glutinosum/glutinoglossum_glutinosum1.jpg",
+        "https://www.fungipedia.org/images/galerias/glutinoglossum_glutinosum/glutinoglossum_glutinosum2.jpg",
+        "https://www.fungipedia.org/images/galerias/glutinoglossum_glutinosum/glutinoglossum_glutinosum3.jpg"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "russula-aurea",
+    "title": null,
+    "author": "Pers.",
+    "additional_info": {
+        "common_name": "Rusula dorada, gibel kuleto, puagra retgera.",
+        "synonym": "Russula aurata Fr."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Russulales",
+        "Familia": "Russulaceae"
+    },
+    "edibility": "buen-comestible",
+    "characteristics": {
+        "cap": "Sombrero de 5 a 10 cm, convexo en un principio, aplanándose luego, pero suele tener en los ejemplares adultos una depresión central. Tiene un color muy llamativo, superficialmente rojizo sobre un fondo amarillo, la conjunción de ambos colores le dan su aspecto anaranjado. Su cutícula es separable, pero tan solo parcialmente, más o menos hasta la mitad, siendo además seca.",
+        "hymenium": "Láminas un poco amarillentas de joven, pálidas, rápidamente amarillo vivo sobre todo en su arista, donde se depositan las esporas de ese color. Son adnatas y bastante densas.",
+        "stipe": "Pie de color blanco, típicamente manchado de amarillo, cilíndrico, proporcional al tamaño del sombrero.",
+        "flesh": "Carne de color amarillo dorado bajo la cutícula, por lo demás blanca, con un agradable sabor a frutos secos y un olor igualmente agradable, si bien no muy pronunciado."
+    },
+    "habitat": "Es una especie bastante termófila que suele aparecer en verano y durante la primera mitad del otoño, su hábitat más común son los bosques de caducifolios. Poco frecuente y no muy abundante.",
+    "observations": "Constituye un buen comestible esta especie, que tiene además un aspecto muy apetecible. Vista a una cierta distancia, esta seta puede confundirse con la Amanita caesarea, debido a la similitud de colores, aunque evidentemente no tiene anillo ni volva. Creemos que es difícil confundirla con otra Russula, ya que ninguna tiene ese colorido en el sombrero. La Russula nobilis puede salir en los mismos lugares, de sombrero rojo, láminas blancas y carne muy picante.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/russula_aurea/russula_aurea1.jpg",
+        "https://www.fungipedia.org/images/galerias/russula_aurea/russula_aurea2.jpg",
+        "https://www.fungipedia.org/images/galerias/russula_aurea/russula_aurea3.jpg"
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "name": "macrocystidia-cucumis",
+    "title": null,
+    "author": "(Pers.) Joss.",
+    "additional_info": {
+        "common_name": "Seta con olor a pepino, arrain-ziza.",
+        "synonym": "Naucoria cucumis (Pers.) P. Kumm."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Pluteales",
+        "Familia": "Macrocystidiaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero de pequeño tamaño, en su máximo esplendor no suele rebasar los 5 cm de diámetro, con forma cónica campanulada en los primeros estadios, se va abriendo paulatinamente hasta quedar plano, pudiendo ser mamelonado o no serlo, es un carácter variable. Su cutícula es brillante en época de lluvia, subseca y pruinosa en otras condiciones, de color pardo rojizo característico, sobre todo en los ejemplares jóvenes, algo más variable en los adultos, pero manteniendo en todo caso siempre el margen de un color más claro, ocre claro o amarillento. Este margen es fino y regular y no es estriado en los ejemplares más jóvenes, solo de viejo estría un tanto, aunque este carácter es también variable y puedes encontrar ejemplares concretos más estriados.",
+        "hymenium": "Láminas sublibres no muy apretadas y con abundantes laminillas, ventrudas. De color claro al principio, pronto ocres con matiz rosado o carneo.",
+        "stipe": "Pie alargado y aterciopelado de joven, fistuloso y fácilmente separable del sombrero. Tiene un color por lo general pardo, siendo más claro en la zona de inserción con el sombrero y prácticamente negruzco hacia la base.",
+        "flesh": "Carne escasa y delgada, bastante frágil, de color ocráceo oscuro. Su olor en la recolección es similar al pepino, pero los ejemplares maduros y los que llevan tiempo recolectados tienen un olor a pescado bien diferenciado, el sabor es también similar al pepino."
+    },
+    "habitat": "Se trata de una especie poco frecuente que suele fructificar en zonas húmedas de diversos bosques, tanto de coníferas como de planifolios. A pesar de su escasez donde sale no suele hacerlo en forma aislada sino en grupos de unos pocos ejemplares, y su época predilecta de aparición es el otoño tardío o principios del invierno.",
+    "observations": "Se trata de una especie bien caracterizada por su sombrero pardo rojizo con el margen más claro y su característico olor a pepino y luego a pescado. Todo ello hace que sea una especie de difícil confusión para la que se ha creado un género propio aludiendo a su indefinición taxonómica y a sus grandes cistidios. Si acaso pudiera confundirse por el pie a la Flammulina velutipes var. velutipes, pero esta última tiene comportamiento más lignícola, sale en ramilletes y sus láminas no adoptan tonos rosados o cárneos, son más claras.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/macrocystidia_cucumis/macrocystidia_cucumis1.jpg",
+        "https://www.fungipedia.org/images/galerias/macrocystidia_cucumis/macrocystidia_cucumis2.jpg",
+        "https://www.fungipedia.org/images/galerias/macrocystidia_cucumis/macrocystidia_cucumis3.jpg",
+        "https://www.fungipedia.org/images/galerias/macrocystidia_cucumis/macrocystidia_cucumis4.jpg",
+        "https://www.fungipedia.org/images/galerias/macrocystidia_cucumis/macrocystidia_cucumis5.jpg",
+        "https://www.fungipedia.org/images/galerias/macrocystidia_cucumis/macrocystidia_cucumis6.jpg",
+        "https://www.fungipedia.org/images/galerias/macrocystidia_cucumis/macrocystidia_cucumis7.jpg",
+        "https://www.fungipedia.org/images/galerias/macrocystidia_cucumis/macrocystidia_cucumis8.jpg",
+        "https://www.fungipedia.org/images/galerias/macrocystidia_cucumis/macrocystidia_cucumis9.jpg"
+    ]
+}

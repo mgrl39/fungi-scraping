@@ -1,0 +1,31 @@
+{
+    "name": "helvella-leucomelaena",
+    "title": null,
+    "author": "(Pers.) Nannf.",
+    "additional_info": {
+        "common_name": "Pucheruelo, cassoleta, kaliza zuri-beltz.",
+        "synonym": "Paxina leucomelaena (Pers.) Kuntze"
+    },
+    "taxonomy": {
+        "División": "Ascomycota",
+        "Subdivisión": "Ascomycotina",
+        "Clase": "Himenoascomycetes",
+        "Subclase": "Pezizomycetidae",
+        "Orden": "Pezizales",
+        "Familia": "Helvellaceae"
+    },
+    "edibility": "comestible-precaucion",
+    "characteristics": {
+        "cap": "Sombrero pequeño, alcanza los 2 o 3 cm de altura y tiene un diámetro aproximado de 3 o 4 cm, con forma de copa durante buena parte de su desarrollo, se va abriendo paulatinamente hasta llegar a aplanarse en la madurez. La superficie externa es lisa y de color blancuzco o crema en los especímenes jóvenes, aunque se va oscureciendo con el tiempo hacia tonos gris oscuro a partir de el borde. Borde liso y recto de joven después irregularmente dentado.",
+        "hymenium": "Himenio ubicado en la parte interna del carpóforo, de color gris oscureciéndose a tonos pardos casi negruzcos en la última etapa de su desarrollo.",
+        "stipe": "Pie muy corto de color blanquecino, longitudinalmente surcado por unos pocos pliegues que pueden llegar a formar cavidades, y que apenas se prolongan hacia el sombrero.",
+        "flesh": "Carne de poco espesor y color blanco, quebradiza como la mayoría de las Helvellas. Olor débil y sabor dulce y suave."
+    },
+    "habitat": "Es una especie que sale a finales del invierno, pero sobre todo durante la primavera, en grupos más o menos numerosos. Su hábitat predilecto son los pinares, aunque también se localizan bajo otras coníferas. Es una seta poco frecuente.",
+    "observations": "Es una seta apreciada como comestible en determinadas zonas de nuestra geografía, siendo sin embargo tóxica en crudo, como todos sus congéneres. Existe la creencia en esos lugares de que el falso pucheruelo (Helvella acetabulum) es muy tóxica mientras que esta no lo es, eso es totalmente falso, la toxicidad de ambas especies es idéntica. Si es más tóxica y peligrosa la Sarcosphaera coronaria, que aparece también en primavera en los pinares, de mayor tamaño, himenio lila y sin pie.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/helvella_leucomelaena/helvella_leucomelaena1.jpg",
+        "https://www.fungipedia.org/images/galerias/helvella_leucomelaena/helvella_leucomelaena2.jpg",
+        "https://www.fungipedia.org/images/galerias/helvella_leucomelaena/helvella_leucomelaena3.jpg"
+    ]
+}

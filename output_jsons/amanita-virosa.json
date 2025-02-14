@@ -1,0 +1,29 @@
+{
+    "name": "amanita-virosa",
+    "title": null,
+    "author": "(Fr.) Bertill.",
+    "additional_info": {
+        "common_name": "Amanita maloliente, hiltzaile konkordun, farinera pudent.",
+        "synonym": "Ninguno."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Agaricales",
+        "Familia": "Amanitaceae"
+    },
+    "edibility": "mortal",
+    "characteristics": {
+        "cap": "Sombrero que en el mejor de los casos llega a los 8 cm de diámetro, de forma acampanada de joven, después se abre un poco, pero sin llegar nunca a aplanarse, en este estado su forma asemeja a los cascos que los ciclistas usan en las etapas contra el reloj. Durante todo su desarrollo conserva un mamelón obtuso. Es de color blanco muy puro, solo de vieja deviene hacia un tono un poquito crema, y el borde puede poseer restos del velo.",
+        "hymenium": "Láminas libres con respecto al pie, blancas, bastante densas y con laminillas intercaladas de forma regular.",
+        "stipe": "Pie muy alargado, puede llegar a triplicar en longitud el diámetro del sombrero, de color blanco. Es sinuoso en ocasiones, y está recubierto de una especie de fibrillas lanosas concoloras. Lleno de joven pero pronto meduloso. Posee un anillo igualmente blanco, membranoso y móvil, que en ocasiones se queda adherido al sombrero. Su volva es envainante y membranosa, también de color blanco.",
+        "flesh": "Carne poco espesa, más bien escasa, de color blanco, con olor rafanoide desagradable y sabor suave, poco significativo."
+    },
+    "habitat": "Esta especie es poco habitual, puede considerarse rara. Sale en verano y durante el otoño, y siempre la hemos cogido en planifolios con el suelo ácido, jamás la hemos visto en terrenos con pH básico.",
+    "observations": "Es una seta perteneciente a la trilogía de las Amanitas mortales, la ingesta de un solo ejemplar puede causar daños hepáticos irreversibles. Se parece a la Amanita verna, especie primaveral también mortal, que no tiene la forma tan especial del sombrero de la virosa, es más globosa. Mucho cuidado con confundirla con la especie comestible Leucoagaricus leucothites=Lepiota naucina, cuya base del pie posee un engrosamiento, no una volva.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/amanita_virosa/amanita_virosa1.jpg"
+    ]
+}

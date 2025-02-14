@@ -1,0 +1,31 @@
+{
+    "name": "dichomitus-campestris",
+    "title": null,
+    "author": "(Quél.) Domanski & Orlizc",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Antrodia campestris (Quél.) P. Karst."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Aphyllophoromycetidae",
+        "Orden": "Poriales",
+        "Familia": "Coriolaceae"
+    },
+    "edibility": "no-comestible",
+    "characteristics": {
+        "cap": "Carpóforo resupinado, adherido al sustrato como una costra, o incluso con forma almohadillada, cuyo tamaño es muy variable, pueden verse individuos de apenas 3 o 4 cm de largo, hasta algunos de más de 10 cm, con un espesor que puede superar el centímetro. Lo más habitual es que se trate de carpóforos anuales, pero algunas veces quedan como disecados y se les puede ver por mucho tiempo. Son de color ocre más o menos claro o incluso crema, pero destaca sobre todo su margen, de color negro.",
+        "hymenium": "Himenio formado por tubos muy cortos dispuestos en capas, cada uno de ellos de apenas 1 o 2 mm de longitud y color ocre claro, y poros laberínticos irregulares, cuyo tamaño es de 1 o 2 por mm, de color que evoluciona desde el crema de su juventud, hasta tonos marrones en la vejez.",
+        "stipe": "Pie inexistente, se trata de una especie adherida al sustrato directamente.",
+        "flesh": "Carne de textura similar al corcho o a la propia madera, de color ocráceo, sin apenas olor."
+    },
+    "habitat": "Es una especie que sale exclusivamente adherida a la madera de árboles planifolios, generalmente sobre restos leñosos o ramas caídas. Se puede encontrar prácticamente en cualquier época del año, aun así, debe considerarse como una especie rara.",
+    "observations": "Es una especie no demasiado conocida que se diferencia de otras similares por su margen ennegrecido, sobre todo en los ejemplares adultos. La Donkioporia expansa es muy similar, fructifica sobre madera de roble, muchas veces incluso trabajada, pero su margen es blanquecino. Datronia mollis tiene proyección sobre la madera, no es tanto como una costra y sus poros son grisáceos.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/dichomitus_campestris/dichomitus_campestris1.jpg",
+        "https://www.fungipedia.org/images/galerias/dichomitus_campestris/dichomitus_campestris2.jpg",
+        "https://www.fungipedia.org/images/galerias/dichomitus_campestris/dichomitus_campestris3.jpg"
+    ]
+}

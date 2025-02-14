@@ -1,0 +1,34 @@
+{
+    "name": "scutellinia-trechispora",
+    "title": null,
+    "author": "(Berk. & Broome) Lambotte",
+    "additional_info": {
+        "common_name": "Betiledun.",
+        "synonym": "Peziza trechispora Berk. & Broome"
+    },
+    "taxonomy": {
+        "División": "Ascomycota",
+        "Subdivisión": "Ascomycotina",
+        "Clase": "Himenoascomycetes",
+        "Subclase": "Pezizomycetidae",
+        "Orden": "Pezizales",
+        "Familia": "Humariaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Carpóforo de reducidas dimensiones, muchos de los ejemplares encontrados no llegaban a medio centímetro de diámetro, y los más desarrollados ni tan siquiera alcanzaban el centímetro. Tienen forma redondeada y almohadillada, por lo general bastante regular, como un botón blando. La superficie externa es de color anaranjado o rojizo, pero está recubierta de pelos parduzcos que le confieren este color, estos pelos se muestran especialmente largos y visibles en el margen, si bien están presentes en toda la superficie.",
+        "hymenium": "Himenio inmerso en la superficie interna del ascocarpo, de color uniforme anaranjado oscuro o rojizo, brillante. Es completamente liso, careciendo de los pelos que se hallan en la parte externa.",
+        "stipe": "Pie inexistente, se trata de una especie sésil.",
+        "flesh": "Carne escasa y frágil del mismo color que el resto, ni su olor ni su sabor son dignos de mención."
+    },
+    "habitat": "Es una especie que aparece desde la primavera hasta entrado el otoño, normalmente en suelos húmedos, y creemos que relacionada con algún tipo de briofito, nunca la hemos visto sobre madera. No es demasiado frecuente, pero cuando se localiza lo habitual es encontrar un grupo numeroso de ejemplares.",
+    "observations": "Se trata de un Ascomycete de pequeño tamaño, forma discoidal, y un llamativo color rojizo, caracterizado por los pelos parduzcos muy apreciables en el margen. Es prácticamente imposible distinguir una Scutellinia de otra sin recurrir al análisis microscópico. Esta en concreto se diferencia por sus esporas especiales, globosas y verrucosas, con una ornamentación muy marcada, casi a modo de aguijones. La Scutellinia scutellata es la especie más conocida del género, pero tiene esporas elípticas, y sale también sobre madera en descomposición.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/scutellinia_trechispora/scutellinia_trechispora1.jpg",
+        "https://www.fungipedia.org/images/galerias/scutellinia_trechispora/scutellinia_trechispora2.jpg",
+        "https://www.fungipedia.org/images/galerias/scutellinia_trechispora/scutellinia_trechispora3.jpg",
+        "https://www.fungipedia.org/images/galerias/scutellinia_trechispora/scutellinia_trechispora4.jpg",
+        "https://www.fungipedia.org/images/galerias/scutellinia_trechispora/scutellinia_trechispora5.jpg",
+        "https://www.fungipedia.org/images/galerias/scutellinia_trechispora/scutellinia_trechispora6.jpg"
+    ]
+}

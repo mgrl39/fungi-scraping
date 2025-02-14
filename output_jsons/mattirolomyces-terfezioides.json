@@ -1,0 +1,32 @@
+{
+    "name": "mattirolomyces-terfezioides",
+    "title": null,
+    "author": "(Mattir.) E. Fisch.",
+    "additional_info": {
+        "common_name": "Trufa dulce de Hungria, trufa de miel, Homoki szarvasgomba.",
+        "synonym": "Choiromyces terfezioides Mattir."
+    },
+    "taxonomy": {
+        "División": "Ascomycota",
+        "Subdivisión": "Ascomycotina",
+        "Clase": "Himenoascomycetes",
+        "Subclase": "Pezizomycetidae",
+        "Orden": "Pezizales",
+        "Familia": "Pezizaceae"
+    },
+    "edibility": "buen-comestible",
+    "characteristics": {
+        "cap": "Carpóforo que rara vez se presenta de forma globosa, habitualmente con forma variable, más o menos oblongo pero bastante irregular, con presencia de numerosas protuberancias o hendiduras, que en ningún caso forman ningún tipo de cavidad, pero siempre con la típica forma tuberculada o de patata habitual en las especies hipogeas. Es de color blanco bastante satinado, tendente a ensuciarse de ocre con la manipulación, y su tamaño es también muy variable, en los ejemplares objeto de estudio entre 3 y 8 cm de diámetro, si bien pueden alcanzar en ocasiones tamaños bastante más grandes, superando incluso los 15 cm.",
+        "hymenium": "Peridio totalmente liso de color blanco que con la edad tiende a volverse primero crema y luego ocraceo ya de viejo, también se ensucia al frotarlo de ocre, más bien fino e inseparable de la gleba.",
+        "stipe": "Gleba inicialmente compacta, manteniéndose así por bastante tiempo, pero en los ejemplares muy maduros se vuelve más blanda y esponjosa. Tiene color blanquecino en la primera etapa de desarrollo, dificilmente diferenciable de las venas estériles que posee, después se vuelve más crema y finalmente ocracea, manteniéndose en todo momento las venas estériles de color blanco.",
+        "flesh": "Carne que en realidad no es otra cosa sino la propia gleba, compacta, con un olor bastante acusado y dulzón característico de la especie, que es agradable, pero que en los especímenes excesivamente maduros se vuelve tan fuerte que resulta desagradable. Tiene un sabor análogo al olor, dulzón, muy diferente a cualquier hongo hipogeo que hayamos tenido."
+    },
+    "habitat": "Los ejemplares que sirvieron de sujeto de este estudio provenían de Hungria, donde fueron localizados bajo Robinia pseudoacacia. Es una especie que cuando es joven es totalmente hipogea, pero que al madurar asoma parcialmente a la superficie, siendo los meses otoñales su época predilecta de aparición. Al margen del hábitat de nuestra recolecta, tambíen está proliferando estos últimos años en España, concretamente en la provincia de Valencia, asociada a el cultivo de naranjas (Citrus x sinensis), en otras zonas del mundo existen también citas bajo otros árboles frutales. Tiene predilección por los suelos básicos.",
+    "observations": "Esta especie se caracteriza por su olor y sabor dulces, su color blanco que se ensucia con el roce, y su gleba blanca de joven. Se trata de un buen comestible que hemos podido degustar con agrado, peculiar su sabor, que no guarda relación alguna con el sabor de las trufas o las Terfezias, y que hace que sea utilizado para la elaboración de postres, aunque también está bueno en salados. Hay que tener cuidado con el consumo de los ejemplares que salen en los cultivos de naranjos, dado que los hongos tienen capacidad para absorver los pesticidas que se usan en estos cultivos, no deben ser recolectados a menos que se sepa con certeza que el cultivo no usa estos productos. Se puede confundir con Tirmania nivea, la trufa del desierto, excelente comestible, que huele más suave y sabe a frutos secos, así como con otros semihipogeos como Choiromyces meandriformis, especie algo tóxica, o Terfezia magnusii, la conocida criadilla jarera.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/mattirolomyces_terfezioides/mattirolomyces_terfezioides1.jpg",
+        "https://www.fungipedia.org/images/galerias/mattirolomyces_terfezioides/mattirolomyces_terfezioides2.jpg",
+        "https://www.fungipedia.org/images/galerias/mattirolomyces_terfezioides/mattirolomyces_terfezioides3.jpg",
+        "https://www.fungipedia.org/images/galerias/mattirolomyces_terfezioides/mattirolomyces_terfezioides4.jpg"
+    ]
+}

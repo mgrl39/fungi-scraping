@@ -1,0 +1,34 @@
+{
+    "name": "marasmius-rotula",
+    "title": null,
+    "author": "(Scop.) Fr.",
+    "additional_info": {
+        "common_name": "Marasmio ruedecita, marasmio gurpiltxo.",
+        "synonym": "Micromphale collariatum (With.) Gray"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Tricholomatales",
+        "Familia": "Marasmiaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero que en su máximo apogeo apenas llega a alcanzar 1`5 cm de diámetro, al principio de forma hemisférica, pronto adquiere su típica forma de paracaídas en la que permanece buena parte de su desarrollo, con su zona central deprimida o umbilicada, solo al final se aplana un poco. Es de color blanco o crema pálido, y su superficie suele ser lisa y estriada. Margen marcadamente crenulado.",
+        "hymenium": "Láminas libres formando alrededor del pie un collar muy bien definido, casi tubular, que es signo distintivo de la especie. Son de color blanco, muy separadas entre sí y carecen de laminillas, además son anchas y algo ventrudas.",
+        "stipe": "Pie muy largo, hasta 7 cm, liso en su totalidad, duro y consistente para lo pequeña que es la seta. La zona superior es de color más claro, pero el resto es pardo, casi negro, que contrasta con el blanco del sombrero.",
+        "flesh": "Carne insignificante, de consistencia cartilaginosa en el pie, sin apenas olor ni sabor."
+    },
+    "habitat": "Es una especie bastante común que hace acto de aparición ya durante el verano y que se prolonga a lo largo del otoño. Sale sobre restos leñosos de árboles planifolios, directamente sobre la madera, fructificando generalmente en grupos bastante numerosos, rara vez aislada.",
+    "observations": "Se trata de una pequeña especie que guarda cierto parecido con el Marasmiellus ramealis o el Marasmiellus candidus, especies que también fructifican sobre madera, e igualmente son blanquecinas. Al margen de la estructura de su cutícula, aspecto apreciable solo al micro, también se diferencia macroscópicamente por el collar que forman las láminas que no alcanzan el pie, mientras que en estas dos son adnatas.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/marasmius_rotula/marasmius_rotula1.jpg",
+        "https://www.fungipedia.org/images/galerias/marasmius_rotula/marasmius_rotula2.jpg",
+        "https://www.fungipedia.org/images/galerias/marasmius_rotula/marasmius_rotula3.jpg",
+        "https://www.fungipedia.org/images/galerias/marasmius_rotula/marasmius_rotula4.jpg",
+        "https://www.fungipedia.org/images/galerias/marasmius_rotula/marasmius_rotula5.jpg",
+        "https://www.fungipedia.org/images/galerias/marasmius_rotula/marasmius_rotula6.jpg"
+    ]
+}

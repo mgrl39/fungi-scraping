@@ -1,0 +1,34 @@
+{
+    "name": "xylaria-carpophila",
+    "title": null,
+    "author": "(Pers.) Fr.",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Sphaeria carpophila Pers."
+    },
+    "taxonomy": {
+        "División": "Ascomycota",
+        "Subdivisión": "Ascomycotina",
+        "Clase": "Himenoascomycetes",
+        "Subclase": "Pyrenomycetidae",
+        "Orden": "Sphaeriales",
+        "Familia": "Sphaeriaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Carpóforo formado por fructificaciones en forma de estromas delgados, filiformes y eréctiles, que pueden superar los 5 cm de altura, pero que son extremadamente delgados, de apenas 1 mm de ancho. En muchas ocasiones son fructificaciones simples, sin embargo también pueden hallarse bifurcadas. Son de color gris oscuro o más típicamente negro, con el ápice aplastado, y una zona inferior siempre negra, que no constituye un pie en el sentido estricto de la palabra, pero que si se diferencia del resto por estar recubierta de pelillos muy pequeños, sobre todo en la zona más próxima a la unión con el sustrato. Como sucede con muchos Ascomycetes, en este caso de forma habitual durante la primavera, aunque no descartable en otras estaciones, se presentan unas formas conidiales de la especie, cuya diferenciación macroscópica estriba en la presencia de una especie de pruina blanquecina que recubre los carpóforos, confiriéndoles un aspecto pulverulento.",
+        "hymenium": "Himenio liso y concoloro inserto en la superficie del carpóforo.",
+        "stipe": "Carne prácticamente inexistente e inodora.",
+        "flesh": "Es este un carácter diferenciador de la especie en cuestión, ya que sale sobre los frutos de las hayas, los conocidos hayucos, donde se presenta mucha veces agrupada. Es relativamente habitual durante la parte fría del otoño e incluso en invierno en su forma principal, por el contrario la forma conidial es más típica de la primavera. Dado su pequeño tamaño, su localización resulta complicada a pesar de ser una especie frecuente."
+    },
+    "habitat": "Especie curiosa por su hábitat específico sobre hayucos, su color fundamentalmente negro y su extrema delgadez. Muy similar, e incluso más pequeña y delgada, es la Xylaria filiformis, que fructifica sobre restos herbáceos diversos, de localización y frecuencia menor a la aquí descrita. Otra especie parecida es Xylaria hypoxylon, más robusta y de ápice claramente bifurcado como el asta de un venado.",
+    "observations": null,
+    "images": [
+        "https://www.fungipedia.org/images/galerias/xylaria_carpophila/xylaria_carpophila1.jpg",
+        "https://www.fungipedia.org/images/galerias/xylaria_carpophila/xylaria_carpophila2.jpg",
+        "https://www.fungipedia.org/images/galerias/xylaria_carpophila/xylaria_carpophila3.jpg",
+        "https://www.fungipedia.org/images/galerias/xylaria_carpophila/xylaria_carpophila4.jpg",
+        "https://www.fungipedia.org/images/galerias/xylaria_carpophila/xylaria_carpophila5.jpg",
+        "https://www.fungipedia.org/images/galerias/xylaria_carpophila/xylaria_carpophila6.jpg"
+    ]
+}

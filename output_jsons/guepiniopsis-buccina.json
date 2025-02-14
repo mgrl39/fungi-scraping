@@ -1,0 +1,37 @@
+{
+    "name": "guepiniopsis-buccina",
+    "title": null,
+    "author": "(Pers.) L.L. Kenn.",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Peziza buccina Pers."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Phragmobasidiomycetes",
+        "Subclase": "Incertae sedis",
+        "Orden": "Dacrymycetales",
+        "Familia": "Dacrymycetaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Carpóforo pequeño, está referenciado que puedan alcanzar los 3 cm de altura, si bien nuestros ejemplares apenas llegaban a la mitad en el mejor de los casos, con diámetro que apenas llegaba a 0`5 cm en su zona superior. Adoptan formas diversas, pueden ser pateliformes o caliciformes, aunque los individuos jóvenes adoptan una forma típica de periscopio. Estos carpóforos están divididos en dos zonas perfectamente diferenciadas, una parte superior más acopada y que constituye la parte fértil y un pie estéril muy evidente. Todo el conjunto tiene un llamativo color amarillo anaranjado bastante vistoso que deviene en tonos más mates con la vejez.",
+        "hymenium": "Himenio constituido en la zona superior interna del carpóforo, de color amarillo y liso. Toda la superficie externa de la copa es, sin embargo, finamente granulosa y posee unas características estriaciones que van a parar al pie. El margen se suele presentar algo ondulado o crenulado.",
+        "stipe": "Pie evidente y concolor, cilíndrico, con apenas 0`5 cm de largo, suele tener estrías longitudinales, sobre todo en la parte superior del mismo.",
+        "flesh": "Carne de aspecto céreo y tacto gelatinoso, no es tan frágil como aparenta y su color es similar al de la superficie externa."
+    },
+    "habitat": "Especie que fructifica sobre la madera de planifolios diversos, crece por lo general de forma gregaria, y tiene la peculiaridad de que pueden aparecer en ocasiones varios carpóforos partiendo de la base de un mismo pie, si bien es más habitual encontrar carpóforos individuales. Especimenes localizados en otoño por nuestros amigos y colaboradores Juan Ginés y Duende, aunque también es factible su aparición en otras épocas del año. Especie a proteger por su escasez.",
+    "observations": "El género Guepiniopsis consta de muy pocas especies, constatamos la presencia referenciada de tan solo 4 especies en la zona europea, de todas ellas Guepiniopsis buccina es sin duda la más fácil de reconocer. Guepiniosis chrysocoma también se da por estas latitudes pero presenta carpóforos pulvinados sin pie evidente. Macroscópicamente existe una fácil confusión con el género Hymenoscyphus, de especies aún más pequeñas, muchas de ellas de color también amarillo, pero no olvidemos que se trata de Ascomycetes.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/guepiniopsis_buccina/guepiniopsis_buccina1.jpg",
+        "https://www.fungipedia.org/images/galerias/guepiniopsis_buccina/guepiniopsis_buccina2.jpg",
+        "https://www.fungipedia.org/images/galerias/guepiniopsis_buccina/guepiniopsis_buccina3.jpg",
+        "https://www.fungipedia.org/images/galerias/guepiniopsis_buccina/guepiniopsis_buccina4.jpg",
+        "https://www.fungipedia.org/images/galerias/guepiniopsis_buccina/guepiniopsis_buccina5.jpg",
+        "https://www.fungipedia.org/images/galerias/guepiniopsis_buccina/guepiniopsis_buccina6.jpg",
+        "https://www.fungipedia.org/images/galerias/guepiniopsis_buccina/guepiniopsis_buccina7.jpg",
+        "https://www.fungipedia.org/images/galerias/guepiniopsis_buccina/guepiniopsis_buccina8.jpg",
+        "https://www.fungipedia.org/images/galerias/guepiniopsis_buccina/guepiniopsis_buccina9.jpg"
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "name": "phaeolus-schweinitzii",
+    "title": null,
+    "author": "(Fr.) Pat.",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Polyporus schweinitzii Fr."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Aphyllophoromycetidae",
+        "Orden": "Poriales",
+        "Familia": "Coriolaceae"
+    },
+    "edibility": "no-comestible",
+    "characteristics": {
+        "cap": "Sombrero de notable tamaño, el diámetro de los ejemplares adultos oscila generalmente entre los 10 y los 20 cm, si bien se pueden observar individuos de hasta 25 cm de diámetro. Su forma es ciertamente variable, puede tener una forma circular típica, pero a veces se presenta reniforme, e incluso cabe la posibilidad de encontrar sombreros imbricados. Su superficie es pilosa o aterciopelada en los ejemplares jóvenes, volviéndose con el tiempo primero tomentosa y lisa en la vejez por la zona central. De joven tiene un color azufre llamativo, pero al ir madurando se vuelve marrón a partir del centro y hacia la periferia, siendo ocre con algún matiz herrumbroso en la vejez. El margen suele presentarse grueso y redondeado, irregularmente ondulado o deformado.",
+        "hymenium": "Himenio formado por poros de buen tamaño, no más de 2 poros por milímetro, terminación de unos tubos que son apreciables en la zona próxima al pie, y que se reducen a la mínima expresión en la parte cercana al margen. Se trata de poros con forma poligonal y muy decurrentes, de color amarillento de jóvenes, se vuelven rápidamente marrones y tienen una cierta tendencia a ennegrecer al pasar la uña sobre ellos.",
+        "stipe": "Pie que puede ser central o también excéntrico, muy corto en relación al tamaño del sombrero, grueso o algo atenuado hacia la base. Tiene un color similar al resto del carpóforo.",
+        "flesh": "Carne espesa de color amarillento y blanda en los individuos más jóvenes, poco a poco va adquiriendo una textura similar al corcho a la par de tornarse marrón, en su última etapa es muy coriácea. No tiene apenas olor ni sabor dignos de mención."
+    },
+    "habitat": "Es una especie anual casi exclusiva de coníferas, con especial predilección por los pinos, siendo muy rara su aparición sobre árboles planifolios. Brota directamente sobre viejos tocones en descomposición, o a veces aparentemente sobre el suelo al sustentarse sobre raíces enterradas. Se le considera como una especie común y frecuente que crece preferentemente en el otoño, normalmente de forma individual.",
+    "observations": "Es una seta de aspecto ciertamente feo, caracterizada por su tamaño grande, su superficie pilosa o tomentosa de color amarillo a marrón y su himenio con poros grandes. Descrita muchas veces como inconfundible, creemos que macroscópicamente no es nada fácil separarla de la Onnia tomentosa, especie que comparte hábitat, de colores similares, de textura similar, las únicas diferencias claras son su menor tamaño y sus poros más pequeños.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/phaeolus_schweinitzii/phaeolus_schweinitzii1.jpg",
+        "https://www.fungipedia.org/images/galerias/phaeolus_schweinitzii/phaeolus_schweinitzii2.jpg",
+        "https://www.fungipedia.org/images/galerias/phaeolus_schweinitzii/phaeolus_schweinitzii3.jpg",
+        "https://www.fungipedia.org/images/galerias/phaeolus_schweinitzii/phaeolus_schweinitzii4.jpg",
+        "https://www.fungipedia.org/images/galerias/phaeolus_schweinitzii/phaeolus_schweinitzii5.jpg",
+        "https://www.fungipedia.org/images/galerias/phaeolus_schweinitzii/phaeolus_schweinitzii6.jpg",
+        "https://www.fungipedia.org/images/galerias/phaeolus_schweinitzii/phaeolus_schweinitzii7.jpg",
+        "https://www.fungipedia.org/images/galerias/phaeolus_schweinitzii/phaeolus_schweinitzii8.jpg",
+        "https://www.fungipedia.org/images/galerias/phaeolus_schweinitzii/phaeolus_schweinitzii9.jpg"
+    ]
+}

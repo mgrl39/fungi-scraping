@@ -1,0 +1,32 @@
+{
+    "name": "hohenbuehelia-petaloides",
+    "title": null,
+    "author": "(Bull.) Schulzer.",
+    "additional_info": {
+        "common_name": "Orellana de terra.",
+        "synonym": "Hohenbuehelia geogenia (DC.) Singer"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Tricholomatales",
+        "Familia": "Pleurotaceae"
+    },
+    "edibility": "comestible",
+    "characteristics": {
+        "cap": "Sombrero que puede sobrepasar los 10 cm, de color muy variable que va desde el gris hasta diversos tonos del ocre, habitualmente recubierto por una especie de pruina que al contrario de lo que ocurre con otras especies, no es harinosa, sino más bien gelatinosa. Su forma es peculiar, abierto por un lado y lobulado de forma irregular, incluso espatulada.",
+        "hymenium": "Láminas tremendamente decurrentes, apretadas y estrechas, de color blanco o crema muy pálido.",
+        "stipe": "Pie muy corto, a veces parece una prolongación del propio sombrero, de color generalmente más pálido que este, afieltrado en la base, indefectiblemente lateral, nunca central.",
+        "flesh": "Carne delgada y tiesa, de consistencia algo gelatinosa, de sabor y olor suaves."
+    },
+    "habitat": "Fructifica sobre todo en el otoño, en el suelo de los bosques tanto de coníferas como de planifolios, con preferencia por suelos calcáreos. Especie poco frecuente.",
+    "observations": "Es un comestible muy mediocre que no merece la pena recolectar. El hecho de aparecer sobre el suelo, aunque pueda estar ligada a las raíces de los árboles, la diferencia de diversos Pleurotus, que crecen sobre madera. Sin embargo se parece mucho a otras Hohenbuehelias como la Hohenbuehelia tremula, de tonos más amarillentos.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/hohenbuehelia_petaloides/hohenbuehelia_petaloides1.jpg",
+        "https://www.fungipedia.org/images/galerias/hohenbuehelia_petaloides/hohenbuehelia_petaloides2.jpg",
+        "https://www.fungipedia.org/images/galerias/hohenbuehelia_petaloides/hohenbuehelia_petaloides3.jpg",
+        "https://www.fungipedia.org/images/galerias/hohenbuehelia_petaloides/hohenbuehelia_petaloides4.jpg"
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "name": "fuscoporia-contigua",
+    "title": null,
+    "author": "(Pers.) G. Cunn.",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Phellinus contiguus (Pers.) Pat."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Aphyllophoromycetidae",
+        "Orden": "Hymenochaetales",
+        "Familia": "Hymenochaetaceae"
+    },
+    "edibility": "no-comestible",
+    "characteristics": {
+        "cap": "Carpóforo resupinado y perenne que forma costras de dimensiones variables adheridas a la madera. Sobre un micelio de color gamuza se forman cuerpos fructíferos de color ocre, estos adoptan la forma propia de la madera que les sirve de sustrato. Es bastante habitual que posean un margen o zona de crecimiento de color más oscuro, pardo, siendo la zona central de mayor grosor, más almohadillada, y los márgenes más finos.",
+        "hymenium": "Himenio formado por varias capas de poros que se van superponiendo anualmente, dado que la especie es perenne. Estos poros son de pequeño tamaño, 3 poros por milímetro como mucho, de color ocre más o menos oscuro o pardos con matiz canela. Son redondeados pero a veces un tanto irregulares.",
+        "stipe": "Pie inexistente, se adhiere directamente al sustrato.",
+        "flesh": "Carne o contexto de color claro, de consistencia dura y coriácea similar a la propia madera, sin olor específico."
+    },
+    "habitat": "Los especímenes fotografiados han sido hallados sobre madera degradada de Rosa canina, un rosal silvestre comúnmente llamado escaramujo, en el mes de enero. Se trata de una especie que puede encontrarse también sobre madera muerta de planifolios diversos, a lo largo del todo el año. Especie muy poco referenciada bibliográficamente, por lo que hemos de entender que se trata de una especie muy poco frecuente.",
+    "observations": "Es un hongo descomponedor de la madera que forma podredumbre blanca. Existen muchas especies con las que pudiéramos confundirlo con suma facilidad, siendo necesario un análisis exhaustivo para su determinación. Fuscoporia ferruginosa es prácticamente idéntico y además comparte hábitat sobre madera de espino, rosales silvestres y árboles de hoja ancha, sus diferencias macroscópicas son escasas, si acaso este último posee una zona de crecimiento de color mucho más claro que contrasta con el resto, y sus poros son más pequeños, 5 o 6 por mm. Donkioporia expansa es también muy parecido, pero de mayor espesor y distinto hábitat.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/fuscoporia_contigua/fuscoporia_contigua1.jpg",
+        "https://www.fungipedia.org/images/galerias/fuscoporia_contigua/fuscoporia_contigua2.jpg",
+        "https://www.fungipedia.org/images/galerias/fuscoporia_contigua/fuscoporia_contigua3.jpg",
+        "https://www.fungipedia.org/images/galerias/fuscoporia_contigua/fuscoporia_contigua4.jpg",
+        "https://www.fungipedia.org/images/galerias/fuscoporia_contigua/fuscoporia_contigua5.jpg",
+        "https://www.fungipedia.org/images/galerias/fuscoporia_contigua/fuscoporia_contigua6.jpg"
+    ]
+}

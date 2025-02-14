@@ -1,0 +1,34 @@
+{
+    "name": "mycena-acicula",
+    "title": null,
+    "author": "(Schaeff.) P. Kumm.",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Hemimycena acicula (Schaeff.) Singer"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Agaricales",
+        "Familia": "Mycenaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero de tamaño ínfimo, en los ejemplares menos desarrollados apenas unos milímetros, 1 cm de diámetro en el mejor de los casos. Tiene forma cónica campanulada de joven, luego se vuelve hemisférico, y finalmente convexo. Superficie pruinosa y brillante de color rojo en un principio, volviéndose con el paso del tiempo anaranjada, siempre con el borde de color más claro, incluso amarillento en su última etapa. El margen es finamente estriado por transparencia y un poco crenulado.",
+        "hymenium": "Láminas adnatas y relativamente separadas entre sí, con laminillas. Tienen color blanco durante buena parte de su desarrollo, al final son amarillentas, con la arista del mismo color.",
+        "stipe": "Pie alargado y cilíndrico de color amarillento, translúcido y que se mantiene firme al agarrarlo, como lo hacen las Hemimycenas. Es un poco pruinoso, menos que el sombrero en todo caso, con la unión micelial blanquecina.",
+        "flesh": "Carne poco significativa dado lo pequeño de la seta, de color amarillento o translúcida. No hemos constatado ningún olor ni sabor apreciables."
+    },
+    "habitat": "Se referencian diversos hábitats para esta especie, parece ser que puede fructificar sobre restos herbáceos o directamente sobre restos leñosos. Nuestra recolecta se efectuó sobre madera de Quercus petraea (roble albar). Se trata de una especie un tanto rara, no demasiado frecuente en nuestro entorno cercano, otoñal.",
+    "observations": "Macroscópicamente, por su pie rígido pudiera aproximarse al subgénero Hemimycena, pero tiene un color tan llamativo que resulta impensable confundirla con ellas. Existe, sin embargo, otra especie afín de colores llamativos y similares a esta, la Atheniella adonis, mucho más rara que esta y de mayor tamaño. La confusión más habitual es con la Rickenella fibula, que tiene las láminas claramente decurrentes.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/mycena_acicula/mycena_acicula1.jpg",
+        "https://www.fungipedia.org/images/galerias/mycena_acicula/mycena_acicula2.jpg",
+        "https://www.fungipedia.org/images/galerias/mycena_acicula/mycena_acicula3.jpg",
+        "https://www.fungipedia.org/images/galerias/mycena_acicula/mycena_acicula4.jpg",
+        "https://www.fungipedia.org/images/galerias/mycena_acicula/mycena_acicula5.jpg",
+        "https://www.fungipedia.org/images/galerias/mycena_acicula/mycena_acicula6.jpg"
+    ]
+}

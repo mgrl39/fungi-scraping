@@ -1,0 +1,34 @@
+{
+    "name": "gautieria-trabutii",
+    "title": null,
+    "author": "(Chatin) Pat.",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Hymenogaster trabutii Chatin"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Gasteromycetidae",
+        "Orden": "Gautieriales",
+        "Familia": "Gautieriaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Carpóforo de un tamaño más bien pequeño, el diámetro de los ejemplares adultos suele variar entre los 2 y los 5 cm como mucho, con una forma tuberculada irregular, a veces subglobosa, pero más habitualmente con formación de diversos lóbulos o protuberancias. Su color es también variable en función de la maduración del ejemplar y la cantidad de peridio que conserve, desde ejemplares muy jóvenes blanquecinos, hasta otros con tonos ferruginosos, o directamente del color ocre terroso predominante cuando pierden peridio. Es habitual la presencia en la base de un cordón micelial blanquecino y elástico, que dependiendo de como se extraiga puede no estar presente.",
+        "hymenium": "Peridio formado por células globosas o esferocistos, extremadamente delgado, entre 0´2 y 0´5 mm solamente, además es evanescente, se esfuma con facilidad, algo bastante común en las especies del género Gautieria. Suele tener un color blanquecino o crema, fácilmente manchado de roña con tonos ferruginosos, al desaparecer deja entrever cavidades ocres provenientes de la gleba.",
+        "stipe": "Gleba que al corte manifiesta un color ocre terroso que evoluciona a ocre ferruginoso, solo los ejemplares muy jóvenes presentan otros tonos blanquecinos o grisáceos, formada por celdillas cerradas al principio, pero que se van haciendo más amplias con la madurez, además de una columela dendroide evidente generalmente, que parte de la base y se expande en forma de fibras gelatinosas y de aspecto translúcido.",
+        "flesh": "Carne inexistente como tal, la textura adscrita a la gleba es más bien cartilaginosa aunque bastante tenaz, con un olor escaso al principio, pero que se torna fuerte y no muy agradable con la maduración, muy diferente a nuestro entender del de las trufas. Su sabor aunque dulce tampoco resulta agradable."
+    },
+    "habitat": "Estamos ante una especie más bien rara o poco referenciada, que fue encontrada por primera vez en la Península Iberica en 1996, desde entonces se han dado varias recolectas, pudiendose comprobar que la descripción original que la vincula exclusivamente a los cedros no es correcta, dado que es mucho más cosmopolita, encontrándose tanto bajo coníferas como bajo Quercus. Tiene crecimiento hipogeo, pero al madurar suele asomar a la superficie de forma semihipogea. Tiene preferencia por los suelos de Ph acido y sustrato siliceo, donde fructifica, bien aislada, o en pequeños grupos, siendo su época predilecta la primavera o principos del verano. Nuestra recolecta está efectuada en el mes de junio, bajo Quercus ilex en la provincia de La Rioja.",
+    "observations": "Especie carente de todo interés desde el punto de vista culinario. Dentro de la dificultad que conlleva la diferenciación, tanto macroscópica como microscópica, de las diferentes especies del género Gautieria, quizás sea esta la que tiene mayor facilidad, debido a la presencia de unas características verrugas en los costillares exteriores de las esporas. Gautieria morchelliformis es muy similar, pero suele presentar ausencia total de peridio muchas veces y sus esporas suelen superar bien las 20 micras, Gautieria graveolens o Gautieria othii son también similares, pero ninguna de las dos tiene verrugas en los costillares esporales.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/gautieria_trabutii/gautieria_trabutii1.jpg",
+        "https://www.fungipedia.org/images/galerias/gautieria_trabutii/gautieria_trabutii2.jpg",
+        "https://www.fungipedia.org/images/galerias/gautieria_trabutii/gautieria_trabutii3.jpg",
+        "https://www.fungipedia.org/images/galerias/gautieria_trabutii/gautieria_trabutii4.jpg",
+        "https://www.fungipedia.org/images/galerias/gautieria_trabutii/gautieria_trabutii5.jpg",
+        "https://www.fungipedia.org/images/galerias/gautieria_trabutii/gautieria_trabutii6.jpg"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "calocera-cornea",
+    "title": null,
+    "author": "(Batsch.) Fr.",
+    "additional_info": {
+        "common_name": "Mukiadar labur.",
+        "synonym": "Clavaria aculeiformis Bull."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Phragmobasidiomycetes",
+        "Subclase": "Incertae sedis",
+        "Orden": "Dacrymycetales",
+        "Familia": "Dacrymycetaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Carpóforo de forma erecta con un tamaño que no supera los 2 cm de altura por apenas unos milímetros de ancho. Suele ser lateralmente comprimida y tiende siempre a atenuarse hacia el ápice, que en la mayoría de los casos es redondeado, aunque a veces se muestra un poco bifurcado. Su color va del amarillo al naranja en función de la incidencia de la luz solar y su grado de hidratación, los ejemplares que se encuentran a resguardo del sol son siempre amarillos. Su superficie es lisa y glabra, brillante incluso en tiempo seco, algo viscosa con lluvia.",
+        "hymenium": "Himenio inmerso en la superficie externa del carpóforo, liso.",
+        "stipe": "Pie inexistente como tal, la seta forma un único elemento eréctil.",
+        "flesh": "Carne poco consistente de textura gelatinosa y color amarillo, no tiene olor ni sabor dignos de mención."
+    },
+    "habitat": "Es un hongo descomponedor de la madera que fructifica siempre, de forma gregaria pero no fasciculada, sobre árboles de hoja caduca, tocones o restos leñosos en general, madera muerta en todo caso. Es un hongo muy frecuente y abundante en nuestra zona, pudiéndose encontrar prácticamente en cualquier época del año.",
+    "observations": "Es este un hongo muy común y fácil de reconocer por sus fructificaciones eréctiles y gregarias de consistencia gelatinosa y color amarillo. La Calocera viscosa es bastante más grande, más viscosa, ramificada, y además tiene hábitat preferencial entre las coníferas. Otros hongos amarillos que salen en el mismo hábitat y con consistencia similar, tienen formas discoidales o están plegados, ninguno es eréctil.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/calocera_cornea/calocera_cornea1.jpg",
+        "https://www.fungipedia.org/images/galerias/calocera_cornea/calocera_cornea2.jpg",
+        "https://www.fungipedia.org/images/galerias/calocera_cornea/calocera_cornea3.jpg"
+    ]
+}

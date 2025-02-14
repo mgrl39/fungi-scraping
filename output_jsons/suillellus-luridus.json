@@ -1,0 +1,31 @@
+{
+    "name": "suillellus-luridus",
+    "title": null,
+    "author": "(Schaeff.) Murrill",
+    "additional_info": {
+        "common_name": "Boleto cetrino, hongo de vaca, onddo zikin, mataparent de peu reticulat.",
+        "synonym": "Boletus luridus Schaeff."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Boletales",
+        "Familia": "Boletaceae"
+    },
+    "edibility": "comestible-precaucion",
+    "characteristics": {
+        "cap": "Sombrero que puede llegar a los 15 cm de diámetro, de forma hemisférica de joven, posteriormente convexo. El color es muy variable, siempre dentro de los tonos ocres y oliváceos, incluso con matices rojizos, por lo que no es relevante para su correcta clasificación. La superficie es finamente tomentosa o pubescente, incluso aterciopelada en los ejemplares jóvenes.",
+        "hymenium": "Tubos primero amarillos y después oliváceos, fácilmente separables de la carne del sombrero, libres con respecto al pie.",
+        "stipe": "Poros redondos y más bien pequeños, de color rojo fuerte con matiz anaranjado, al tacto se tiñen de un color azul muy oscuro.",
+        "flesh": "Pie grueso y cilíndrico, generalmente más corto que el diámetro del sombrero, de color amarillo, pero recubierto de una malla de color rojo anaranjado que ocupa toda la superficie del mismo."
+    },
+    "habitat": "Carne de color marcadamente amarillo, a excepción de la superficie subhimenial (bajo los tubos), donde es de color rojo anaranjado. Al corte vira a un color verde azulado en un prmer momento y luego a un azul añil. Es espesa y bastante compacta, con olor débil y sabor agradable.",
+    "observations": "Fructifica en cualquier tipo de bosque con preferencia por los caducifolios de suelo calizo. Desde finales del verano y durante el otoño. Frecuente aunque no tanto como otros Boletus de su sección.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/suillellus_luridus/suillellus_luridus1.jpg",
+        "https://www.fungipedia.org/images/galerias/suillellus_luridus/suillellus_luridus2.jpg",
+        "https://www.fungipedia.org/images/galerias/suillellus_luridus/suillellus_luridus3.jpg"
+    ]
+}

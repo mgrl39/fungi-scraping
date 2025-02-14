@@ -1,0 +1,36 @@
+{
+    "name": "arachnopeziza-aurelia",
+    "title": null,
+    "author": "(Pers.) Fuckel",
+    "additional_info": {
+        "common_name": "Peziza dorada",
+        "synonym": "Arachnopeziza fulgens (Hazsl.) Boud."
+    },
+    "taxonomy": {
+        "División": "Ascomycota",
+        "Subdivisión": "Ascomycotina",
+        "Clase": "Himenoascomycetes",
+        "Subclase": "Pezizomycetidae",
+        "Orden": "Leotiales",
+        "Familia": "Arachnopezizaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Carpóforo que brota de un micelio de color blanco, formado por filamentos entrelazados que muchas veces aparecen de forma superficial sobre el sustrato, con aspecto similar a la tela de las arañas. Fructifica sobre un subículo de color blanquecino o amarillento, su diámetro no suele exceder de los 2mm, entre 0´5 y 1´5 mm habitualmente. Al principio tiene forma de cazoleta cerrada, pero con el desarrollo se va abriendo quedando con una forma más o menoa acopada que nos recuerda a la forma de las especies del género Peziza. El excípulo es de un color que va del amarillento al naranja vivo, y está recubierto en su totalidad por pequeños pelos concoloros o incluso más llamativos aún, en el margen estos pelos son más patentes y desarrollados, pudiendo llegar a formar haces.",
+        "hymenium": "Himenio inmerso en la superficie interna del apotecio, completamente liso, carece de los pelos presentes en el excípulo, su color, en función del grado de hidratación del espécimen, puede ser amarillo o más anaranjado.",
+        "stipe": "Pie inexistente, se trata de una especie sésil.",
+        "flesh": "Carne poco significativa del mismo color que el exterior, sin olor o sabor destacados."
+    },
+    "habitat": "Estamos ante una especie eminentemente saprófita, crece sobre la madera de diversos árboles muertos, o sobre restos leñosos o vegetales en general. Por su pequeño tamaño pasa muchas veces desapercibida, pero es una especie ampliamente citada y geográficamente extendida. Su forma de aparición más habitual es en grupos más o menos numerosos, y puede aparecer en cualquier época del año si las condiciones son buenas. Nuestra recolecta fue en primavera sobre madera de Betula sp.",
+    "observations": "Pequeño ascomycete saprófito caracterizado por lo llamativo de su colorido y la presencia de abundantes pelos en el excípulo, mucho más evidentes en el margen. Por sus especiales características es difícil confundirla con otra especie, tal vez con algún congénere como Arachnopeziza eriobasis, o con algún Lachnum de color amarillo, pero estos por lo general suelen tener los pelos de color blanco, no de color amarillo o naranja vivo.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/arachnopeziza_aurelia/arachnopeziza_aurelia1.jpg",
+        "https://www.fungipedia.org/images/galerias/arachnopeziza_aurelia/arachnopeziza_aurelia2.jpg",
+        "https://www.fungipedia.org/images/galerias/arachnopeziza_aurelia/arachnopeziza_aurelia3.jpg",
+        "https://www.fungipedia.org/images/galerias/arachnopeziza_aurelia/arachnopeziza_aurelia4.jpg",
+        "https://www.fungipedia.org/images/galerias/arachnopeziza_aurelia/arachnopeziza_aurelia5.jpg",
+        "https://www.fungipedia.org/images/galerias/arachnopeziza_aurelia/arachnopeziza_aurelia6.jpg",
+        "https://www.fungipedia.org/images/galerias/arachnopeziza_aurelia/arachnopeziza_aurelia7.jpg",
+        "https://www.fungipedia.org/images/galerias/arachnopeziza_aurelia/arachnopeziza_aurelia8.jpg"
+    ]
+}

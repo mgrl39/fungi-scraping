@@ -1,0 +1,32 @@
+{
+    "name": "chlorophyllum-rachodes",
+    "title": null,
+    "author": "(Vittad.) Vellinga",
+    "additional_info": {
+        "common_name": "Apagador menor, parasol de carne roja, galanperna mamigorriska, apagallums de cama blanca.",
+        "synonym": "Macrolepiota rhacodes (Vittad.) Singer"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Agaricales",
+        "Familia": "Agaricaceae"
+    },
+    "edibility": "buen-comestible",
+    "characteristics": {
+        "cap": "Sombrero de tamaño intermedio dentro de las Macrolepiotas, su diámetro puede alcanzar los 20 cm como mucho. En su primera etapa es globoso, abriéndose de forma paulatina, siendo hemisférico, convexo, y finalmente se extiende. Su superficie está recubierta por escamas de color marrón, que pueden tener matiz rojizo o grisáceo, y que se resquebrajan de forma más o menos concéntrica hacia el margen, manteniendo una especie de disco marrón en el centro. El fondo es blanquecino, a veces con manchas rosadas, y el margen se presenta deshilachado y resquebrajado casi siempre.",
+        "hymenium": "Láminas libres con respecto al pie, de color blanco con tendencia al enrojecimiento en zonas dañadas, de viejas adoptan color marrón, sobre todo en la arista.",
+        "stipe": "Pie cilíndrico con un apreciable engrosamiento en la zona basal, de color claro de fondo pero con fibrillas que le dan un tono ocráceo o grisáceo. Es fistuloso y rubescente al rascarlo con la uña, posee además un anillo móvil doble, generalmente blanquecino.",
+        "flesh": "Carne espesa en el sombrero, de color blanco que se torna rojizo al corte en un primer momento, para al cabo de unos minutos volverse de un tono sucio. El pie es leñoso, no tiene la carne del sombrero. El sabor es dulce, y su olor es fúngico."
+    },
+    "habitat": "Esta seta es variable hasta en el hábitat, puede salir en los bosques, en el borde de los caminos, en campas, y es relativamente frecuente encontrar la Chlorophyllum brunneum, antiguamente considerada la variedad hortensis del Chlorophyllum rhachodes en zonas próximas a asentamientos humanos, como pueden ser escombreras. Es una especie otoñal frecuente pero no demasiado abundante en muchas zonas.",
+    "observations": "Se consideró como especie independiente y tóxica la Macrolepiota venenata, ahora sinonimizada con Chlorophyllum rachodes, si existe sin embargo una especie similar tóxica, la Chlorophyllum molybdites, de esporada verdosa. Parece ser que la propia var. hortensis, ahora Chlorophyllum brunneum resulta indigesta para estómagos delicados, quizás en parte por encontrarse en zonas ruderales, con la importante absorción de metales pesados que ello supone. Más típica y grande es la Macrolepiota procera, de pie atigrado y esporada blanca, buen comestible.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/chlorophyllum_rachodes/chlorophyllum_rachodes1.jpg",
+        "https://www.fungipedia.org/images/galerias/chlorophyllum_rachodes/chlorophyllum_rachodes2.jpg",
+        "https://www.fungipedia.org/images/galerias/chlorophyllum_rachodes/chlorophyllum_rachodes3.jpg",
+        "https://www.fungipedia.org/images/galerias/chlorophyllum_rachodes/chlorophyllum_rachodes4.jpg"
+    ]
+}

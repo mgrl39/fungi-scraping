@@ -1,0 +1,30 @@
+{
+    "name": "pseudocraterellus-undulatus",
+    "title": null,
+    "author": "(Pers.) Rauschert",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Craterellus sinuosus (Fr.) Fr."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Aphyllophoromycetidae",
+        "Orden": "Cantharellales",
+        "Familia": "Cantharellaceae"
+    },
+    "edibility": "comestible",
+    "characteristics": {
+        "cap": "Sombrero de pequeñas dimensiones, lo normal es encontrarlos de 2 a 4 cm de diámetro, ocasionalmente algo más, tiene forma embudada como la mayoría de sus congéneres, aunque de joven es algo más plano, y de viejo infundibuliforme. Es de color marrón claro, aunque la zona central es más oscura que el margen, y bastante mate. El borde es ondulado y crispado de manera poco regular.",
+        "hymenium": "Láminas inexistentes, tiene el himenio prácticamente liso, solo plegado de forma débil. El color es el gris claro con matices ocráceos.",
+        "stipe": "Pie cilíndrico o curvado, de joven lleno, sobre todo por la base, después enteramente hueco, de color similar al sombrero o algo más claro, a veces comprimido lateralmente y atenuado en la base.",
+        "flesh": "Carne de poca consistencia, escasa y frágil, siendo además más blanda que otros Cantharellus. Es de color gris claro, de sabor agradable y de olor fúngico, más suave que otros Cantharellales."
+    },
+    "habitat": "Siempre que lo hemos visto ha sido bajo hayas durante los meses otoñales. Especie poco frecuente, rara.",
+    "observations": "El hecho de tener la carne más blanda hace que sea peor comestible que otras setas de su grupo, es además una seta de porte más limitado. Creemos que es, sin embargo, una seta fácilmente clasificable, debido a que otros Cantharellus o bien tienen tonos negruzcos, o el pie amarillento, cosas ambas de las que carece el Pseudocraterellus undulatus.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/pseudocraterellus_undulatus/pseudocraterellus_undulatus1.jpg",
+        "https://www.fungipedia.org/images/galerias/pseudocraterellus_undulatus/pseudocraterellus_undulatus3.jpg"
+    ]
+}

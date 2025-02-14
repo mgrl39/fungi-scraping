@@ -1,0 +1,31 @@
+{
+    "name": "hygrophoropsis-aurantiaca",
+    "title": null,
+    "author": "(Wulfen) Maire",
+    "additional_info": {
+        "common_name": "Falso rebozuelo, zizahori faltsua, fals rossinyol.",
+        "synonym": "Clitocybe aurantiaca (Wulfen) Stud.-Steinh."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Tricholomatales",
+        "Familia": "Hygrophoropsidaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero de pequeño tamaño, apenas llega a rebasar en los ejemplares adultos los 5 cm de diámetro, con forma convexa en un principio, pero tendente a embudarse, al punto de llegar a ser infundibuliforme de adulto. Su superficie tiene un color variable, unas veces es de color naranja mate, otras de color butano, y también es habitual encontrarlos de color amarillento. Su cutícula es pruinosa en los ejemplares jóvenes y separable de la carne. El margen enrollado en su primera etapa, llega a extenderse, siendo fino y bastante regular.",
+        "hymenium": "Láminas notablemente decurrentes y apretadas de color naranja más llamativo que el sombrero, anastomosadas o a veces ahorquilladas, más bien finas o delgadas y separables con cierta facilidad de la carne.",
+        "stipe": "Pie cilíndrico y proporcionado, algo atenuado en la base, de color que puede variar entre el amarillo y el naranja pálido, con frecuencia con la base negruzca en los ejemplares maduros (var. nigripes). No se rompe con facilidad dado que tiene cierta flexibilidad, y es lleno.",
+        "flesh": "Carne muy escasa, blanda en el sombrero y tenaz en el pie, de color similar a la superficie externa. Su olor no es muy apreciable y su sabor ligeramente amargo."
+    },
+    "habitat": "Se trata de una de las especies más comunes en nuestros bosques, puede llegar a formar verdaderas alfombras en los bosques de coníferas. Crece generalmente de forma gregaria a partir del verano, y sobre todo durante el otoño.",
+    "observations": "Resulta difícilmente entendible que sea catalogada en algunos tratados como comestible esta seta, de carne escasa y sabor astringente. Es conocido su notable parecido con el rebozuelo o saltsaperretxiko, Cantharellus cibarius, que posee pliegues en lugar de láminas y una carne mucho más consistente, así como un olor afrutado característico. Mucha precaución en no confundirlo con la especie tóxica Omphalotus olearius, más lignícola y que forma ramilletes sobre árboles planifolios.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/hygrophoropsis_aurantiaca/hygrophoropsis_aurantiaca1.jpg",
+        "https://www.fungipedia.org/images/galerias/hygrophoropsis_aurantiaca/hygrophoropsis_aurantiaca2.jpg",
+        "https://www.fungipedia.org/images/galerias/hygrophoropsis_aurantiaca/hygrophoropsis_aurantiaca3.jpg"
+    ]
+}

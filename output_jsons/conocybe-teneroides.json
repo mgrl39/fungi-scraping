@@ -1,0 +1,34 @@
+{
+    "name": "conocybe-teneroides",
+    "title": null,
+    "author": "(J.E. Lange) Kits van Wav.",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Pholiotina teneroides (J.E. Lange) Singer"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Agaricales",
+        "Familia": "Bolbitiaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero con un diámetro que puede oscilar en individuos adultos entre 1 y 3`5 (4) cm, a lo largo de sus sucesivas etapas de crecimiento pasa de ser ovoide a hemisférico, luego convexo, y finalmente convexo-aplanado, sin llegar a ser totalmente plano, sutilmente resaltado o umbonado al final. Cutícula de aspecto seco y mate, tan solo algo brillante con lluvia, floconosa en los especímenes jóvenes, de color variable dentro de los tonos ocres, dependiendo de su hidratación puede tener color miel, tonos más netamente ocres, sobre todo en el centro, e incluso amarillentos junto al margen. Estriado por transparencia laminar en el margen, a veces hasta la mitad del radio.",
+        "hymenium": "Láminas adnatas y más o menos ventricosas, al principio de color claro, luego arcilla amarillento, después color miel y al final del proceso más oscuras, sin llegar a los tonos canela de otras especies afines. Arista laminar de color mucho más claro, blanquecino, floconosa e irregularmente aserrada o crenulada.",
+        "stipe": "Pie alargado y cilíndrico, en un principio de color claro, después ocráceo, oscureciéndose desde la base con tonos pardos, el ápice suele ser la zona más clara. Posee un anillo móvil persistente a modo de faldón, de color blanquecino, muchas veces tiznado del color de las esporas, estriado por arriba y liso por debajo. Superficie longitudinalmente estriada y floconosa, de manera más acusada bajo el anillo, pruinosa en el ápice.",
+        "flesh": "Carne escasa y poco consistente del mismo color que el sombrero, algo más fibrosa en el pie, de olor suave ligeramente acidulado y sabor análogo, no amargo."
+    },
+    "habitat": "Especie para la que se especifican hábitats distintos en función de presuntas sinonimias que no son tales, nuestra recolecta está efectuada bajo Pinus sylvestris, en terreno con Ph básico, con presencia de ganado, en zona por tanto nitrogenada, unas veces sobre el suelo y otras bordeando el propio estiércol. La hemos encontrado en varias localizaciones dentro del mismo pinar, normalmente en pequeños grupos, rara vez aislada, a finales del mes de noviembre.",
+    "observations": "Existe cierta confusión con estas especies del Genero Conocybe con anillo, muchos autores establecen sinonimias con Conocybe blattaria de forma errónea, dado que la especie que aquí les presentamos presenta basidios bispóricos y queilocistidios claviformes, por contra Conocybe blattaria presenta basidios tetraspóricos y queilocistidios ampulliformes, incluso macroscópicamente existen diferencias(p. ej. tipo de anillo). Conocybe percincta es muy similar, al punto de que para algunos son sinónimo,solo se separa por sutiles diferencias, tiene tonos más amarillentos y esporas de tamaño algo inferior. Nosotros aquí la hemos considerado como sinónima priorizando Conocybe teneroides por antiguedad.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/conocybe_teneroides/conocybe_teneroides1.jpg",
+        "https://www.fungipedia.org/images/galerias/conocybe_teneroides/conocybe_teneroides2.jpg",
+        "https://www.fungipedia.org/images/galerias/conocybe_teneroides/conocybe_teneroides3.jpg",
+        "https://www.fungipedia.org/images/galerias/conocybe_teneroides/conocybe_teneroides4.jpg",
+        "https://www.fungipedia.org/images/galerias/conocybe_teneroides/conocybe_teneroides5.jpg",
+        "https://www.fungipedia.org/images/galerias/conocybe_teneroides/conocybe_teneroides6.jpg"
+    ]
+}

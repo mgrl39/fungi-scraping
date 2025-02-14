@@ -1,0 +1,32 @@
+{
+    "name": "tubaria-furfuracea",
+    "title": null,
+    "author": "(Pers.) Gillet",
+    "additional_info": {
+        "common_name": "Tubaria casposa.",
+        "synonym": "Naucoria furfuracea (Pers.) P. Kumm."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Cortinariales",
+        "Familia": "Tubariaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero cuyo diámetro medio aproximado es de unos 2 cm, pudiendo alcanzar como mucho los 4, de forma hemisférica en su primera etapa, posteriormente convexo, y al final casi plano. Tiene color predominante ocre, algo más rojizo en la zona central, palideciendo de forma clara hacia el borde. En su juventud, cuando la lluvia no ha disipado alguna de sus características, posee unas fibras blanquecinas dispuestas de forma concéntrica cerca del margen, que a su vez puede presentar también restos de velo a modo de pequeños flecos.",
+        "hymenium": "Láminas generalmente adnatas, a veces pueden decurrir un poco, con laminillas y de color ocráceo. Son relativamente apretadas y un tanto desiguales en ocasiones.",
+        "stipe": "Pie más bien alargado y hueco, notablemente fibriloso o floconoso, pero carente de toda zona anular. Es de color similar al sombrero o algo más carneo, y el tercio superior es más pruinoso que el resto, siendo la base o unión micelial blanquecina.",
+        "flesh": "Carne escasa y poco consistente de color ocre, apenas tiene olor y su sabor es igualmente poco significativo."
+    },
+    "habitat": "Se trata de una especie que fructifica con relativa frecuencia durante el verano, y también en el transcurso del otoño. Por regla general aparenta estar sobre la tierra, pero si tenemos cuidado al extraerla, apreciaremos que en realidad sale sobre restos leñosos diversos y enterrados, tanto en madera de planifolios como de coníferas.",
+    "observations": "Las diferencias entre las diversas especies del género Tubaria son, a veces, sutiles, pero a pesar de su parecido entre ellas si poseen algunas diferencias macroscópicas también. La Tubaria hiemalis, más invernal, tiene notable parecido, pero si observamos con detenimiento, su velo no es blanquecino sino pardo ocráceo, algunos autores consideran ambas especies como sinónimos, dato que hemos de cotejar. La Tubaria conspersa se diferencia bastante mejor al ser su sombrero muy floconoso. Las diferencias microscópicas vienen en parte marcadas por las diferentes formas de los cystidios.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/tubaria_furfuracea/tubaria_furfuracea1.jpg",
+        "https://www.fungipedia.org/images/galerias/tubaria_furfuracea/tubaria_furfuracea2.jpg",
+        "https://www.fungipedia.org/images/galerias/tubaria_furfuracea/tubaria_furfuracea3.jpg",
+        "https://www.fungipedia.org/images/galerias/tubaria_furfuracea/tubaria_furfuracea4.jpg"
+    ]
+}

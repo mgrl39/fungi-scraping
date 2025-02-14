@@ -1,0 +1,34 @@
+{
+    "name": "gymnopus-androsaceus",
+    "title": null,
+    "author": "(L.) Della Maggiora & Trassinelli",
+    "additional_info": {
+        "common_name": "Marasmio rosa, marasmius arrosa, marasmius pé de arame.",
+        "synonym": "Marasmius androsaceus (L.) Fr."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Tricholomatales",
+        "Familia": "Marasmiaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero de tamaño muy pequeño, su diámetro rara vez llega a superar 1 cm, siendo lo habitual encontrarlo entre 0`5 y 1. Tiene forma hemisférica en su nacimiento, pronto se vuelve convexo y al final plano-convexo, no suele aplanarse del todo, y la zona central presenta una pequeña depresión más evidente en los ejemplares adultos. Cutícula algo rugulosa y radialmente estriada o acanalada, de un color que va del pardo rojizo al marrón con matices rosados, manteniendo siempre la zona central más oscura que el resto. Margen ligeramente crenulado de forma irregular.",
+        "hymenium": "Láminas adnatas y bastante separadas entre sí, sin formar collarium, de un color ocráceo más o menos claro según el grado de maduración o hidratación del ejemplar examinado.",
+        "stipe": "Pie desproporcionadamente alargado, filiforme, de color prácticamente negro, tan solo el ápice presenta tonos distintos en ocasiones, que pueden ser marronáceos o blanquecinos. En la base suelen encontrarse rizomorfos con frecuencia.",
+        "flesh": "Carne insignificante de color ocráceo pálido, endeble en el sombrero y dura en el pie, no presenta ningún olor apreciable ni tampoco posee un sabor destacado."
+    },
+    "habitat": "Suele aparecer esta especie de forma gregaria, en grupos de numerosos individuos, siendo frecuente en nuestros bosque de coníferas y algo más rara bajo planifolios. Aparece fundamentalmente durante el otoño aunque es factible hallarla en otras épocas del año, fructificando sobre las acículas de los pinos, restos de hojas y humus, alguna vez se la ha visto sobre restos leñosos también.",
+    "observations": "Esta pequeña especie se caracteriza por su crecimiento gregario, su pie negro alargado, la ausencia de collarium y de olor significativo. Marasmius (Mycetinis) scorodonius es muy similar, pero posee un acusado olor a ajo, Marasmius splachnoides es quizás el más parecido, macroscópicamente se distingue de este por poseer láminas blanquecinas. Existen muchas otras especies que deberemos analizar minuciosamente para diferenciarlas de la aquí descrita.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/gymnopus_androsaceus/gymnopus_androsaceus1.jpg",
+        "https://www.fungipedia.org/images/galerias/gymnopus_androsaceus/gymnopus_androsaceus2.jpg",
+        "https://www.fungipedia.org/images/galerias/gymnopus_androsaceus/gymnopus_androsaceus3.jpg",
+        "https://www.fungipedia.org/images/galerias/gymnopus_androsaceus/gymnopus_androsaceus4.jpg",
+        "https://www.fungipedia.org/images/galerias/gymnopus_androsaceus/gymnopus_androsaceus5.jpg",
+        "https://www.fungipedia.org/images/galerias/gymnopus_androsaceus/gymnopus_androsaceus6.jpg"
+    ]
+}

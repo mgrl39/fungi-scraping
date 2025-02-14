@@ -1,0 +1,30 @@
+{
+    "name": "russula-rosea",
+    "title": null,
+    "author": "Pers.",
+    "additional_info": {
+        "common_name": "Rusula graciosa, gibelgorri hankagogor, puagra de sang de bou.",
+        "synonym": "Russula lepida Pers."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Russulales",
+        "Familia": "Russulaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero de tamaño medio, en su máximo desarrollo alcanza los 10 cm de diámetro, de forma globosa en su etapa inicial, posteriormente convexo, para acabar aplanándose y con la parte central un tanto deprimida. Su superficie destaca por ser especialmente seca, no separable, de un color rojo mate bastante homogéneo en un principio, pero con el tiempo decolorándose de forma notable hacia tonos ocre amarillentos, lo habitual, sin embargo, es encontrarla de color rojo.",
+        "hymenium": "Láminas no muy apretadas de color blancuzco o crema pálido. Son libres con respecto al pie y ocasionalmente con la arista teñida de rojo.",
+        "stipe": "Pie central y cilíndrico, tan duro que apretándolo con dos dedos no conseguiremos romperlo, a veces es totalmente blanco y otras está teñido de rojizo o rosa, muy variable.",
+        "flesh": "Carne espesa y firme, dura, de color blanco, con un olor propio y definido, no muy agradable, y un sabor diferente a otras setas de su género, da cierta sensación de sequedad, pero a pesar de haberla probado en infinidad de ocasiones, nunca hemos notado ningún sabor mentolado como apuntan muchos autores."
+    },
+    "habitat": "En el norte de la península ibérica es una seta frecuente y habitual que vemos cada año sin problemas, lo mismo en verano que durante el otoño, siempre la hemos encontrado bajo planifolios, sobre todo hayas.",
+    "observations": "La hemos degustado, y con conocimiento de causa podemos decir que no merece la pena, aunque haya a quien le guste. Existen múltiples variedades de esta especie, destacaremos la var. lactea, de color blanco, o la var. speciosa, cuyo sombrero se decolora hasta el amarillo. Otras han adquirido rango propio, como la Russula amarissima, de sabor amargo, arista laminar roja, y pie que amarillea, también Russula linnaei, de sombrero oscuro y arista de color rojo muy vivo. Se confunde mucho con Russula aurora, de sombrero rosa con el centro ocráceo amarillento, pie blanco y sabor suave y agradable. Russula nobilis guarda cierto parecido pero su carne es muy picante.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/russula_rosea/russula_rosea1.jpg",
+        "https://www.fungipedia.org/images/galerias/russula_rosea/russula_rosea2.jpg"
+    ]
+}

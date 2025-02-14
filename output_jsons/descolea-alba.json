@@ -1,0 +1,33 @@
+{
+    "name": "descolea-alba",
+    "title": null,
+    "author": "Kuhar, Nouhra & M.E. Sm.",
+    "additional_info": {
+        "common_name": "Hipogeo blanco del eucalipto",
+        "synonym": "Descomyces albus (Klotzsch) Bougher & Castellano"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Agaricales",
+        "Familia": "Bolbitiaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Carpóforo que en nuestra recolecta tenía un tamaño ciertamente pequeño, el diámetro de los ejemplares oscilaba entre 0,5 y 2 cm, aunque se referencian recolectas de ejemplares con tamaños algo más grandes que los nuestros. Tiene una forma globosa o subglobosa, por regla general bastante irregular, con algún abultamiento, pero sin demasiadas protuberancias o hendiduras como sucede en otras especies semihipogeas. El aspecto general es seco, con textura no demasiado dura, y el color exterior es inicialmente blanquecino o crema, manchándose de amarillento u ocre por zonas al ser manipulado, y volviéndose parduzco en los ejemplares viejos al secarse.",
+        "hymenium": "Peridio bastante fino, generalmente liso o algo afieltrado, de color blanquecino crema con manchas amarillentas u ocres, ocre o pardo y papiráceo al secarse, con dos estructuras perfectamente diferenciadas, un exoperidio formado por hifas cilíndricas fibuladas y un endoperidio con células globosas (consultar características microscópicas).",
+        "stipe": "Gleba de aspecto esponjoso, formada por pequeños alveolos o cavidades laberínticas, en los individuos jóvenes el color es blanco y las cavidades son más cerradas, con la maduración, las cavidades se van abriendo paulatinamente, y la gleba va adquiriendo, primero un tono crema, después ocráceo, y finalmente un tono pardo grisáceo. Suele tener algunas venaduras estériles sutiles de color más claro que el resto.",
+        "flesh": "Carne inexistente, esta especie no tiene ningún olor o sabor característicos, siendo ambos débiles o poco significativos."
+    },
+    "habitat": "Se trata de una especie alóctona, que ha llegado a nuestros lares a través de la plantación de Eucalyptus que se llevó a cabo en la zona costera cantábrica hace unos cuantos años. Está ligada exclusivamente a este hábitat concreto, y suele fructificar a finales del otoño, durante el invierno o principio de primavera, normalmente en grupo de unos cuantos ejemplares. Es difícil su localización debido a su pequeño tamaño y a su caráter semihipogeo, al principo nace bajo tierra pero asoma al exterior con la maduración, a pesar de ello es una especie bastante frecuente en este hábitat concreto, y tiene preferencia por suelos ácidos. Los ejemplares objeto de este estudio fueron cedidos por Jon Joseba Arnedo y localizados en Akarlanda, Bizkaia.",
+    "observations": "Esta especie tiene una posición taxonómica un tanto controvertida, habiendo pasado ya por diversos géneros, en base a los análisis moleculares se ha establecido su pertenencia al género Descolea, aunque alguna base de datos de referencia mundial a fecha de publicación de esta ficha todavía la tiene como Descomyces albus, su denominación anterior. Se caracteriza esta especie por su color blanquecino con manchas amarillas u ocres y al micro por su doble capa diferenciada en el peridio y la presencia de fíbulas en sus tejidos. Guarda bastante parecido macroscópico con otras especies afines como Descolea albella o Descolea giachinii, al micro se pueden separar bien al carecer ambas de celulas globosas en el peridio interno, siendo ambas capas en tricoderma",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/descolea_alba/descolea_alba1.jpg",
+        "https://www.fungipedia.org/images/galerias/descolea_alba/descolea_alba2.jpg",
+        "https://www.fungipedia.org/images/galerias/descolea_alba/descolea_alba3.jpg",
+        "https://www.fungipedia.org/images/galerias/descolea_alba/descolea_alba4.jpg",
+        "https://www.fungipedia.org/images/galerias/descolea_alba/descolea_alba5.jpg"
+    ]
+}

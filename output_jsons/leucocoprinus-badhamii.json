@@ -1,0 +1,31 @@
+{
+    "name": "leucocoprinus-badhamii",
+    "title": null,
+    "author": "(Berk. & Broome) Locq.",
+    "additional_info": {
+        "common_name": "Galanperna faltsu.",
+        "synonym": "Leucoagaricus badhamii (Berk & Broome) Singer"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Agaricales",
+        "Familia": "Agaricaceae"
+    },
+    "edibility": "toxica",
+    "characteristics": {
+        "cap": "Sombrero de buen tamaño, los ejemplares adultos sobrepasan con cierta facilidad los 10 cm de diámetro, aproximándose en ocasiones a los 20, con forma trapezoidal cuando son jóvenes, como de casco, con el ápice aplanado, posteriormente se van abriendo hasta casi aplanarse, manteniendo una especie de mamelón aplastado. Color crema de fondo, pero recubierto de escamas pardas con matiz purpúreo que se extienden por toda la superficie, siendo más cerradas en el centro. Margen habitualmente fisurado en los epecímenes viejos, al roce vira o tonos amarillentos que con posterioridad se tornan pardo rojizos o purpúreos.",
+        "hymenium": "Láminas sublibres, asemejando un collar, apretadas, desiguales y anchas, de color crema, pero volviéndose feas y de aspecto sucio, ocráceo, de viejas.",
+        "stipe": "Pie blanquecino cuando sale, pero rápidamente manchado de pardo, amarillento, o rojizo. Es generalmente curvado y amorfo, con engrosamientos en su zona central muy característicos. Su tamaño es proporcional al del sombrero y suele tener anillo, aunque no es inhabitual que lo pierda.",
+        "flesh": "Carne relativamente espesa de color blanco, fibrosa en el pie. Al corte vira a color rojizo previo paso por el amarillo. Su olor es fúngico y su sabor es dulce, algo acídulo. Reaccion verde con el amoniaco."
+    },
+    "habitat": "En zonas con materia en descomposición, terrenos ricos, madera podrida o serrín, en general zonas ruderales, aunque también se puede encontrar en madera podrida de viejos árboles en zonas boscosas. Es una seta muy rara y poco abundante, aunque cuando sale suele hacerlo en grupo. Su época predilecta es el verano y principios del otoño.",
+    "observations": "Se caracteriza esta especie por el enrojecimiento generalizado de todo el carpóforo al menor roce, este detalle ayuda a distinguirlo de otras especies similares. Entre estas podemos destacar el Leucoagaricus pilatianus, seta más pequeña con sombrero de color uniforme vinoso, el Leucoagaricus purpureolilacinus, de sombrero viscídulo, o el Leucoagaricus americanus, el más parecido de todos, que tiene las láminas algo amarillentas.l",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/leucocoprinus_badhamii/leucocoprinus_badhamii1.jpg",
+        "https://www.fungipedia.org/images/galerias/leucocoprinus_badhamii/leucocoprinus_badhamii2.jpg",
+        "https://www.fungipedia.org/images/galerias/leucocoprinus_badhamii/leucocoprinus_badhamii3.jpg"
+    ]
+}

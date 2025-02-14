@@ -1,0 +1,32 @@
+{
+    "name": "tricholomella-constricta",
+    "title": null,
+    "author": "(Fr.) Zerova ex Kalamees",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Calocybe constricta (Fr.) Kühner"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Tricholomatales",
+        "Familia": "Tricholomataceae"
+    },
+    "edibility": "comestible",
+    "characteristics": {
+        "cap": "Sombrero con un diámetro que puede llegar a los 7 u 8 cm como mucho, en un primer momento con forma hemisférica, evolucionando a convexa y por último plano-convexa, es muy raro que llegue algún ejemplar a aplanarse completamente. Presenta una cutícula lisa y glabra de color blanquecino o crema en especímenes frescos, algo ocrácea de vieja, separable de la carne y de apariencia seca incluso en tiempo lluvioso. El margen es redondeado cuando es joven el ejemplar, luego queda algo ondulado y bastante irregular.",
+        "hymenium": "Láminas adnatas o ligeramente escotadas de color blanco, algo más cremosas con la edad, relativamente apretadas entre sí y con pocas laminillas.",
+        "stipe": "Pie central, lleno y muchas veces curvado, de color similar al resto del carpóforo. No es inhabitual que la base tenga una cierta tendencia a mostrarse radicante. Está recubierto de flocones en la mayoría de las ocasiones ya que son bastante persistentes, y además, sobre todo en los ejemplares jóvenes, posee una zona anular bien clara e incluso en muchos casos presenta un anillo membranoso perfectamente diferenciado.",
+        "flesh": "Carne espesa, es una seta carnosa, de color blanco e inmutable al corte. Su sabor es un tanto harinoso, y su olor es único, \"a pepino harinoso\", de modo que simplemente con el olfato se identifica sin dificultad."
+    },
+    "habitat": "Se trata de una especie eminentemente otoñal que también puede aparecer a principios del invierno. Fructifica en terrenos nitrogenados o abonados, sobre todo en campas o pastizales de montaña, siendo por lo demás una seta bastante rara.",
+    "observations": "Es el primo otoñal del conocido perretxiko o Calocybe gambosa, con quien guarda un notable parecido morfológico y organoléptico. Al margen de la época de aparición, la diferencia más evidente entre ambos es la presencia en el pie de la especie aquí descrita de flocones bien visibles e incluso de zona anuliforme o anillo propiamente dicho. Algunos autores separan Calocybe leucocephala como entidad propia en base al pie muy radicante y una pequeña diferencia en el tamaño esporal, pero actualmente ambas especies están sinonimizadas. Entoloma sinuatum es muy tóxica, sus láminas escotadas adquieren un color asalmonado en la madurez y carece de zona anuliforme en el pie.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/tricholomella_constricta/tricholomella_constricta1.jpg",
+        "https://www.fungipedia.org/images/galerias/tricholomella_constricta/tricholomella_constricta2.jpg",
+        "https://www.fungipedia.org/images/galerias/tricholomella_constricta/tricholomella_constricta3.jpg",
+        "https://www.fungipedia.org/images/galerias/tricholomella_constricta/tricholomella_constricta4.jpg"
+    ]
+}

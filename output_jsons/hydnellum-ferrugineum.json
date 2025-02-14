@@ -1,0 +1,30 @@
+{
+    "name": "hydnellum-ferrugineum",
+    "title": null,
+    "author": "(Fr.) P. Karst.",
+    "additional_info": {
+        "common_name": "Hidno herrumbroso.",
+        "synonym": "Calodon ferrugineus (Fr.) P. Karst."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Aphyllophoromycetidae",
+        "Orden": "Telephorales",
+        "Familia": "Telephoraceae"
+    },
+    "edibility": "no-comestible",
+    "characteristics": {
+        "cap": "Sombrero cuyo tamaño de adulto oscila entre los 5 y los 10 cm de diámetro, de forma muy irregular, a veces con apariencia de un solo sombrero y otras concrescente, como si fueran varios sombreros superpuestos. A lo largo de su desarrollo pasa de ser convexo a plano, y al final se deprime por el centro. Su superficie, cuando es joven, es de color blanquecino, y exuda unas pequeñas gotitas de color rojizo, pero en los ejemplares adultos es claramente marrón ferruginoso, oscuro en el centro y algo más claro hacia el margen. Al tacto es un tanto híspida, aunque no siempre, y el margen se ondula de forma irregular.",
+        "hymenium": "Himenio formado por una serie de aguijones, de forma similar a los Hydnum, estos pueden superar los 5 mm de largo, y son de color claro de jóvenes, adquiriendo tonos marrones o sucios de viejos. Suelen ser decurrentes sobre el pie.",
+        "stipe": "Pie proporcionado al sombrero o corto, del mismo color que este, grueso y macizo.",
+        "flesh": "Carne muy dura y coriácea de color ferruginoso, apenas elástica, de olor suave y en cuanto al sabor digamos que es difícilmente masticable."
+    },
+    "habitat": "Se trata de una especie propia de los pinares, aunque no descartamos su presencia bajo otras coníferas. Hace muchos años era una especie que se veía con más frecuencia, pero pensamos que se encuentra en recesión. Es fundamentalmente otoñal.",
+    "observations": "Su himenio provisto de los típicos aguijones, nos recuerda al Hydnum repandum, pero basta solo con observar la consistencia coriácea de su carne para descartar algún parecido con ella. Es muy similar la especie Hydnellum peckii, que también exuda gotas rojas de joven, difícilmente diferenciable, salvo por el hábitat, cuando es joven. Si se diferencia mejor del Hydnellum aurantiacum, debido a la carne anaranjada que posee este último.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/hydnellum_ferrugineum/hydnellum_ferrugineum1.jpg",
+        "https://www.fungipedia.org/images/galerias/hydnellum_ferrugineum/hydnellum_ferrugineum2.jpg"
+    ]
+}

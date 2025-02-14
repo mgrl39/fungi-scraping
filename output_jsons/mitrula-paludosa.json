@@ -1,0 +1,32 @@
+{
+    "name": "mitrula-paludosa",
+    "title": null,
+    "author": "Fr.",
+    "additional_info": {
+        "common_name": "Mitrula elegante, Mitraxo laranja.",
+        "synonym": "Mitrula phalloides (Bull.) Chevall."
+    },
+    "taxonomy": {
+        "División": "Ascomycota",
+        "Subdivisión": "Ascomycotina",
+        "Clase": "Himenoascomycetes",
+        "Subclase": "Pezizomycetidae",
+        "Orden": "Leotiales",
+        "Familia": "Geoglossaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Carpóforo estipitado en el que se diferencia una cabezuela en forma de maza de no más de 1 cm, que a veces adopta formas más esféricas o incluso la encontramos un tanto deforme. El color de esta cabezuela es el amarillo vivo adoptando tonos más anaranjados en su maduración.",
+        "hymenium": "Himenio incrustado en la cabeza del carpóforo, que es fértil, completamente liso.",
+        "stipe": "Pie blanquecino y traslúcido, de 2 a 4 cm de largo, perfectamente diferenciado del sombrero.",
+        "flesh": "Carne delgada, prácticamente inexistente, frágil."
+    },
+    "habitat": "Se encuentra esta rara curiosidad micológica exclusivamente en los meses primaverales, siendo su hábitat muy llamativo, ya que aparece habitualmente en zonas encharcadas, inundadas, e incluso en acequias donde el agua fluye. Especie poco frecuente que sale en el suelo ligada al musgo o a las acículas de los pinos.",
+    "observations": "Carece de valor culinario esta seta de color llamativo que a pesar de no ser muy frecuente, cuando sale lo hace en grandes grupos. Se parece mucho la Vibrissea truncorum, aún más pequeña y que fructifica sobre troncos sumergidos, y por su hábitat también pudiera confundirse con la Cudoniella clavus, también sobre madera, más blanquecina y con la cabeza discoidal. Se describe la especie Mitrula elegans, de esporas más pequeñas, como especie americana.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/mitrula_paludosa/mitrula_paludosa1.jpg",
+        "https://www.fungipedia.org/images/galerias/mitrula_paludosa/mitrula_paludosa2.jpg",
+        "https://www.fungipedia.org/images/galerias/mitrula_paludosa/mitrula_paludosa3.jpg",
+        "https://www.fungipedia.org/images/galerias/mitrula_paludosa/mitrula_paludosa4.jpg"
+    ]
+}

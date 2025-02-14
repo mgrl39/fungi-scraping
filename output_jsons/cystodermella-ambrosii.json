@@ -1,0 +1,30 @@
+{
+    "name": "cystodermella-ambrosii",
+    "title": null,
+    "author": "(Bres.) Harmaja",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Cystoderma ambrosii (Bres.) Singer"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Tricholomatales",
+        "Familia": "Marasmiaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero de tamaño similar a los demás Cystodermas, de 2 a 6 cm de diámetro, de forma hemisférica en su primera etapa, pasa después a convexa, para finalmente aplanarse. Es de color blanco, aunque los ejemplares ya viejos suelen tener el centro algo amarillento. Es de apariencia muy seca, y está recubierto en toda su superficie por unos gránulos marcados concoloros o algo grisáceos. El borde posee flecos también del mismo color.",
+        "hymenium": "Láminas blancas, adnatas o más raramente libres, bastante apretadas y sinuosas.",
+        "stipe": "Pie de medio cm de grueso por algo más de 5 cm de alto, más o menos cilíndrico o un poco bulboso. De color similar al del sombrero, si bien por encima del anillo es liso y por debajo está cubierto de escamas floconosas concoloras. Su anillo es desgarrado y suele desaparecer con el tiempo. Es lleno de joven, pero se vuelve hueco rápidamente.",
+        "flesh": "Carne poco densa de color blanco, con olor y sabor poco significativos."
+    },
+    "habitat": "Especie muy rara que sale en zonas musgosas bajo alerces durante el otoño.",
+    "observations": "Esta rarísima especie fue descrita por Bresadola por primera vez, solo la hemos visto en una ocasión, bajo alerces, no tenemos ninguna referencia de ella más allá de lo que Bruno Cetto apunta en su obra, por lo que entendemos que es propia de ese hábitat exclusivo. La confusión con otras setas de su género es poco probable dada su fisonomía, tan solo el Cystoderma carcharias es blanquecino, pero sus tonos rosados y su mal olor lo distinguen perfectamente.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/cystodermella_ambrosii/cystodermella_ambrosii1.jpg",
+        "https://www.fungipedia.org/images/galerias/cystodermella_ambrosii/cystodermella_ambrosii2.jpg"
+    ]
+}

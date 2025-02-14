@@ -1,0 +1,31 @@
+{
+    "name": "pleurotus-nebrodensis",
+    "title": null,
+    "author": "(Inzenga) Quél.",
+    "additional_info": {
+        "common_name": "Seta de caña.",
+        "synonym": "Pleurotus eryngii var. nebrodensis (Inzenga) Sacc."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Tricholomatales",
+        "Familia": "Pleurotaceae"
+    },
+    "edibility": "excelente-comestible",
+    "characteristics": {
+        "cap": "Sombrero de buen porte, su diámetro en su máximo esplendor pude llegar a alcanzar los 15 cm, de forma muy homogénea y regular a lo largo de su desarrollo. Los especímenes viejos suelen embudarse un poco, pero hasta entonces se mantiene su forma plano-convexa. Es de color blanco, sobre todo de joven, algo más crema de adulta, pero siempre mate. Su cutícula es seca incluso con lluvia, y el borde permanece enrollado durante largo tiempo, siendo al final fino y regular.",
+        "hymenium": "Láminas extremadamente decurrentes sobre el pie como buen Pleurotus que es, más bien apretadas y con laminillas, de color similar al del sombrero.",
+        "stipe": "Pie generalmente más corto que el diámetro del sombrero, sobre todo en los ejemplares adultos, lleno en todas las fases de su desarrollo, en la mayoría de las ocasiones excéntrico, pero rara vez lateral. Hacia la base se vuelve radicante, sobre todo en la zona de inserción con la raíz de la planta que le sirve de sustrato. Concoloro.",
+        "flesh": "Carne espesa y compacta, firme, de color blanco, de sabor dulce y agradable y olor suave, poco perceptible."
+    },
+    "habitat": "Aparece a lo largo del otoño, siempre unida a las raíces de unas plantas umbelíferas llamadas comúnmente cañas, pertenecientes al género Laserpitium. Seta muy localizada y por lo tanto ha de ser considerada como rara, aunque en las zonas donde sale no falta a su cita cada año.",
+    "observations": "Esta seta constituye un bocado muy apetecible, sobre todo si tenemos en cuenta su carnosidad y su agradable aspecto, aunque quizás no alcance la excelencia culinaria del Pleurotus eryngii, con quien se puede confundir por la forma, no así por el color o el hábitat. Además esta especie tiene mayor tamaño y porte.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/pleurotus_nebrodensis/pleurotus_nebrodensis1.jpg",
+        "https://www.fungipedia.org/images/galerias/pleurotus_nebrodensis/pleurotus_nebrodensis2.jpg",
+        "https://www.fungipedia.org/images/galerias/pleurotus_nebrodensis/pleurotus_nebrodensis3.jpg"
+    ]
+}

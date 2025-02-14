@@ -1,0 +1,31 @@
+{
+    "name": "gliophorus-psittacinus",
+    "title": null,
+    "author": "(Schaeff.) Herink",
+    "additional_info": {
+        "common_name": "Higróforo verde, seta loro, ezko berdeska, pixacá vert.",
+        "synonym": "Hygrocybe psittacina (Schaeff.) P. Kumm."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Tricholomatales",
+        "Familia": "Hygrophoraceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero de reducidas dimensiones, en el mejor de los casos puede alcanzar los 5 cm de diámetro, de hemisférico a convexo, para acabar por extenderse, manteniendo en todo momento un mamelón obtuso en el centro del mismo. Es de color variegado, es decir, con difumaciones de varios colores, predominando los tonos verdosos, pero también con tonos amarillentos, naranjas, e incluso rojizos. Cutícula marcadamente viscosa y margen estriado.",
+        "hymenium": "Láminas adnatas separadas entre sí, anchas y también ventrudas, de color variable, verdosas, amarillentas, o casi siempre ambas cosas a la vez.",
+        "stipe": "Pie cilíndrico, proporcionado o alargado, hueco desde joven. En su primera etapa está recubierto de una viscosidad verde en su totalidad, por lo que tiene este color, sin embargo se va volviendo amarillo a partir de la base, llegando a predominar el amarillo en los ejemplares plenamente desarrollados o viejos, salvo en la parte superior que permanece verde. Es viscoso como el sombrero.",
+        "flesh": "Carne escasita, poco consistente, de color blanco, a veces con difumaciones verdosas. Su olor es prácticamente nulo y su sabor muy suave y dulce."
+    },
+    "habitat": "Es una especie heliófila, aparece sobre todo durante el otoño entre la hierba de las campas o pastos, y también en los claros herbosos de los bosques. No es una seta que se vea con frecuencia.",
+    "observations": "Es una seta pequeña y viscosa que carece de todo valor culinario. Existen algunas variedades que otrora fueran taxones propios y que actualmente están sinonimizadas, la var. abietina, más propia de los bosques, aún más verdosa y primaveral o la var. perplexa, en otros tiempos llamada Hygrocybe sciophana. Creemos que es una de las pocas especies de su género que se identifica con relativa facilidad dada su viscosidad y su color verdoso.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/gliophorus_psittacinus/gliophorus_psittacinus1.jpg",
+        "https://www.fungipedia.org/images/galerias/gliophorus_psittacinus/gliophorus_psittacinus2.jpg",
+        "https://www.fungipedia.org/images/galerias/gliophorus_psittacinus/gliophorus_psittacinus3.jpg"
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "name": "psathyrella-corrugis",
+    "title": null,
+    "author": "(Pers.) Konrad & Maubl.",
+    "additional_info": {
+        "common_name": "Psathyrella esbelta.",
+        "synonym": "Psathyrella gracilis (Fr.) Quél."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Agaricales",
+        "Familia": "Psathyrellaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero con un tamaño que oscila entre los 2 o 3 cm de altura y 3 o 4 cm de diámetro en el margen en los ejemplares más desarrollados, siendo frecuente encontrar individuos con tamaños inferiores. En su primera etapa tienen forma hemisférica, pasando después a forma cónico-campanulada, finalmente con forma cónica obtusa, no se aplana del todo nunca. Su color es ocre uniforme en los ejemplares más jóvenes, luego como consecuencia de su higrofaneidad varía mucho, con tonos ocres muy claros con matices grises o amarillentos incluso. Su superficie es más bien seca y posee restos de velo que rápidamente tienden a desaparecer, y el margen es estriado en los individuos maduros.",
+        "hymenium": "Láminas adnatas, bastante anchas sobre todo en la zona central, algo ventrudas. De color beige oscuro en los ejemplares muy jóvenes pero pronto grises, con la arista teñida de rojo o rosa, a veces de forma evidente y en otras ocasiones solo perceptible con lupa.",
+        "stipe": "Pie muy largo y esbelto, en ocasiones puede superar los 8 cm, cilíndrico y regular, liso en gran medida, tan solo algo pruinoso, sobre todo en la zona más próxima a las láminas. No presenta restos de velo en ninguna parte pero si llega a ser piloso de viejo, de color similar al sombrero.",
+        "flesh": "Carne delgada y muy frágil, de color ocre pálido, no hemos constatado olor perceptible digno de mención y su sabor es muy suave y dulce."
+    },
+    "habitat": "Especie localizada sobre el sustrato leñoso que sirve de base en un jardín público bajo unos magnolios, si bien creemos que no guarda relación con ellos sino con los restos leñosos, dado que ha sido localizada en otros jardines con árboles muy diferentes. Acostumbra a salir en grupos a veces muy numerosos en diversas épocas del año, nuestra recolecta es del mes de enero. Especie poco referenciada bibliográficamente.",
+    "observations": "Se caracteriza esta especie por sus láminas grises con arista laminar ribeteada de rojo o rosa, así como por su pie alargado y pruinoso en la zona superior. Hay un grupo complejo de especies consideradas como sinónimos o variedades, sin que los análisis filogenéticos aclaren demasiado sobre su posición taxonómica, como Psathyrella pseudogracilis o Psathyrella squamosa. Psathyrella longipes es similar pero el margen de su sombrero es apendiculado y es más grande que la especie descrita en esta ficha.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/psathyrella_corrugis/psathyrella_corrugis1.jpg",
+        "https://www.fungipedia.org/images/galerias/psathyrella_corrugis/psathyrella_corrugis2.jpg",
+        "https://www.fungipedia.org/images/galerias/psathyrella_corrugis/psathyrella_corrugis3.jpg",
+        "https://www.fungipedia.org/images/galerias/psathyrella_corrugis/psathyrella_corrugis4.jpg",
+        "https://www.fungipedia.org/images/galerias/psathyrella_corrugis/psathyrella_corrugis5.jpg",
+        "https://www.fungipedia.org/images/galerias/psathyrella_corrugis/psathyrella_corrugis6.jpg"
+    ]
+}

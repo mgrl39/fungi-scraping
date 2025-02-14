@@ -1,0 +1,31 @@
+{
+    "name": "conocybe-filaris",
+    "title": null,
+    "author": "(Fr.) Kühner",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Pholiotina filaris (Fr.) Singer"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Cortinariales",
+        "Familia": "Bolbitiaceae"
+    },
+    "edibility": "mortal",
+    "characteristics": {
+        "cap": "Sombrero de pequeñas dimensiones, sin llegar a los 3 cm de diámetro, con forma de campana en su primera etapa, después adopta forma convexa, y finalmente plano-convexa. En el centro conserva durante todo su desarrollo un umbo obtuso bastante amplio. El color varía en función del grado de hidratación del espécimen, desde un ocre rojizo hasta un tono marrón claro casi pajizo. Su higrofaneidad hace que sea estriado por trasparencia.",
+        "hymenium": "Láminas adnatas o libres con respecto al pie, de color marrón claro de jóvenes, luego más oscuras o rojizas, relativamente apretadas y con laminillas intercaladas. La arista de las mismas es crenulada.",
+        "stipe": "Pie cilíndrico y sinuoso, generalmente más largo que el diámetro del sombrero, de color similar al mismo. Está recubierto de una especie de pruina en su totalidad. Posee un anillo, en ocasiones bajo y frágil, de color crema y forma de faldón, que habitualmente se encuentra manchado por la zona superior por efecto de las esporas.",
+        "flesh": "Carne escasa y poco consistente de color ocre claro, con olor fúngico suave y sabor dulce."
+    },
+    "habitat": "Ha sido localizada a finales del verano, aunque también sale durante el otoño. Especie rara, poco común, que fructifica en suelos ricos en humus y nitrógeno, pero que no es coprófila.",
+    "observations": "La alta concentración de amatoxinas que posee, similar a las pequeñas lepiotas, la hacen mortal de necesidad. El periodo de incubación de las amatoxinas, causantes del síndrome ciclopeptídico, es superior a 6 horas, por lo que el daño hepático puede ser irreversible. En el apartado de confusiones, se parece mucho al Conocybe aporos, mucho más común que la especie aquí descrita.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/conocybe_filaris/conocybe_filaris1.jpg",
+        "https://www.fungipedia.org/images/galerias/conocybe_filaris/conocybe_filaris2.jpg",
+        "https://www.fungipedia.org/images/galerias/conocybe_filaris/conocybe_filaris3.jpg"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "name": "amanita-torrendii",
+    "title": null,
+    "author": "Justo",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Torrendia pulchella Bres."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Agaricales",
+        "Familia": "Amanitaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero muy pequeño, en los ejemplares recolectados el diámetro oscilaba entre 0,5 y 1,5 cm, puede llegar a rebasar los 2 cm de forma menos habitual. Tiene un forma globosa a veces un tanto irregular o subglobosa, jamás se extiende ni aplana pues guarda en su interior la parte fértil del carpóforo a modo de gleba, el borde es redondeado y cerrado sobre el pie. Es de color blanquecino o grisáceo y su superficie en los ejemplares más jóvenes es afieltrada o granulosa y posteriormente es glabra, las granulaciones a veces tienden a ponerse ocres. Suele tener un cascote proveniente del velo que se desprende con extremada facilidad y es frecuente hallar este cascote junto al carpóforo.",
+        "hymenium": "Gleba de color blanquecino o más bien crema, no es compacta sino provista de pequeñas oquedades que le confieren un aspecto alveolado, es la parte fértil o zona himenial del carpóforo dado que carece por completo de láminas.",
+        "stipe": "Pie central y cilíndrico que se estrecha hacia el ápice, alargado con respecto al sombrero, de 3 a 5 cm de longitud, tiene color blanco y suele ser liso o de forma más frecuente fibriloso, carente de anillo. Se desprende con facilidad del sombrero y es frágil.",
+        "flesh": "Volva libre de color blanco, muy frágil, amplia, no adpresa, como consecuencia de estos caracteres resulta complicado extraer un ejemplar sin dejarse la volva."
+    },
+    "habitat": "Especie muy localizada de clima mediterráneo, aparece en el sur y este peninsular en zonas muy concretas y no está presente en el norte y centro, por este carácter localista hemos de considerarla rara y a proteger. Tiene un crecimiento gregario llegando a aparecer en condiciones propicias en grupos de numerosos ejemplares. Fructifica en suelos arenosos con diferentes especies arbóreas como encina, alcornoque o pino, tanto en primavera como en otoño. Los ejemplares fotografiados fueron hallados en Monesterio (Badajoz) en compañía de nuestros amigos de la asociación \"Pie Azul\" de la citada localidad.",
+    "observations": "Pequeña y frágil especie de posición taxonómica controvertida, tiene volva como las Amanitas y sin embargo no tiene láminas sino gleba, esto hace que existan dos tendencias, la marcada en el año 2010 de incluirla dentro del género Amanita, que nosotros hemos respetado, y la otra tendencia es la de seguir incluyéndola dentro de los Gasteromycetes como Torrendia no aceptando el estudio hecho por Justo, Morgenstern, Hallen.Adams & Gilbert. Por sus peculiares características macroscópicas entendemos que es una especie inconfundible, no encontramos similitud con ninguna otra.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/amanita_torrendii/amanita_torrendii1.jpg",
+        "https://www.fungipedia.org/images/galerias/amanita_torrendii/amanita_torrendii2.jpg",
+        "https://www.fungipedia.org/images/galerias/amanita_torrendii/amanita_torrendii3.jpg",
+        "https://www.fungipedia.org/images/galerias/amanita_torrendii/amanita_torrendii4.jpg",
+        "https://www.fungipedia.org/images/galerias/amanita_torrendii/amanita_torrendii5.jpg",
+        "https://www.fungipedia.org/images/galerias/amanita_torrendii/amanita_torrendii6.jpg",
+        "https://www.fungipedia.org/images/galerias/amanita_torrendii/amanita_torrendii7.jpg",
+        "https://www.fungipedia.org/images/galerias/amanita_torrendii/amanita_torrendii8.jpg",
+        "https://www.fungipedia.org/images/galerias/amanita_torrendii/amanita_torrendii9.jpg",
+        "https://www.fungipedia.org/images/galerias/amanita_torrendii/amanita_torrendii10.jpg",
+        "https://www.fungipedia.org/images/galerias/amanita_torrendii/amanita_torrendii11.jpg",
+        "https://www.fungipedia.org/images/galerias/amanita_torrendii/amanita_torrendii12.jpg",
+        "https://www.fungipedia.org/images/galerias/amanita_torrendii/amanita_torrendii13.jpg",
+        "https://www.fungipedia.org/images/galerias/amanita_torrendii/amanita_torrendii14.jpg",
+        "https://www.fungipedia.org/images/galerias/amanita_torrendii/amanita_torrendii15.jpg"
+    ]
+}

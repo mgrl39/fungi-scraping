@@ -1,0 +1,31 @@
+{
+    "name": "conocybe-ovalis",
+    "title": null,
+    "author": "(Fries)",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Galera ovalis (Fr.) Gillet"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Cortinariales",
+        "Familia": "Bolbitiaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero que en su máximo esplendor puede tener 3 o 3,5 cm de diámetro, que curiosamente es una medida nada desdeñable para el género que nos ocupa. Al principio tiene forma de campana, después se abre algo hasta quedar cónico-convexo, sin llegar a aplanarse. Cuando el ejemplar está hidratado el margen es estriado, y su color es el ocre, más o menos oscuro en función de la propia hidratación de la seta.",
+        "hymenium": "Láminas adnatas de color ocre leonado de joven, con la edad se vuelven de color ocre más oscuro.",
+        "stipe": "Pie bastante largo en proporción al sombrero, delgado y de color más claro, acanalado longitudinalmente, y terminado en su base en un bulbo marginado que puede pasar desapercibido si arrancamos la seta sin el debido cuidado.",
+        "flesh": "Carne ocrácea, escasa y poco consistente, sin olor especial ni sabor definido."
+    },
+    "habitat": "Aparece tanto en primaveras lluviosas como en verano y el otoño, en lugares húmedos y nitrogenados, a veces directamente sobre el estiércol.",
+    "observations": "Es uno de los Conocybes del grupo del Conocybe tenera, de complicada catalogación, la característica macroscópica más relevante es el bulbo marginado que ostenta en la base del pie. Muy similar es también Conocybe rickenii, cuya diferencia es meramente microscópica, y cuyo bulbo es simple, no marginado. Creemos que actualmente esta especie está poco menos que descatalogada, aunque nosotros hemos seguido los criterios de Bruno Cetto para su clasificación.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/conocybe_ovalis/conocybe_ovalis1.jpg",
+        "https://www.fungipedia.org/images/galerias/conocybe_ovalis/conocybe_ovalis2.jpg",
+        "https://www.fungipedia.org/images/galerias/conocybe_ovalis/conocybe_ovalis3.jpg"
+    ]
+}

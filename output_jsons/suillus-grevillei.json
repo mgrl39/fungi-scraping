@@ -1,0 +1,30 @@
+{
+    "name": "suillus-grevillei",
+    "title": null,
+    "author": "(Klotzsch) Singer",
+    "additional_info": {
+        "common_name": "Boleto elegante, ondo apain.",
+        "synonym": "Boletus elegans Schumach."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Boletales",
+        "Familia": "Boletaceae"
+    },
+    "edibility": "comestible",
+    "characteristics": {
+        "cap": "Sombrero de un llamativo color amarillo vivo, en ocasiones con difumaciones naranjas o pardas. Puede llegar a los 10 cm de diámetro y es muy viscoso, sobre todo en tiempo lluvioso, cuando puede resultar hasta pegajoso. Algo acampanado de joven, se vuelve convexo hasta aplanarse en la vejez. Su borde es bastante regular.",
+        "hymenium": "Tubos adnatos, largos y finos, de color amarillo dorado, color que se mantiene casi hasta la vejez del espécimen, solo oliváceos tardíamente.",
+        "stipe": "Poros pequeños y redondeados, de color amarillo vivo cuando son jóvenes, se vuelven angulosos y de color oliva sucio cuando envejecen. Al tacto se ensucian un poco pero no azulean.",
+        "flesh": "Pie de hasta 10 cm de largo, cilíndrico y más bien delgado, amarillento con zonas pardas más acusadas cuando el ejemplar está avanzado. En los especímenes jóvenes tiene una especie de membrana desde el sombrero hasta el pie que deviene en un anillo mucilaginoso, de color amarillento, que tiende a quedarse como una simple zona anular de viejo."
+    },
+    "habitat": "Carne de color amarillo, más compacta de joven, pero en seguida blanda y fofa. Puede grisear algo al tacto, pero no azulea. Olor fúngico suave y sabor agradable.",
+    "observations": "Puede aparecer desde el verano, pero es en otoño cuando sale con profusión. Es una especie que forma micorriza con los alerces, bajo los cuales suele formar verdaderas alfombras.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/suillus_grevillei/suillus_grevillei1.jpg",
+        "https://www.fungipedia.org/images/galerias/suillus_grevillei/suillus_grevillei2.jpg"
+    ]
+}

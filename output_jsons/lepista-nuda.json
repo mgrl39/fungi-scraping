@@ -1,0 +1,34 @@
+{
+    "name": "lepista-nuda",
+    "title": null,
+    "author": "(Bull.) Cooke",
+    "additional_info": {
+        "common_name": "Pie azul, ziza hankaurdin, pimpinella morada.",
+        "synonym": "Rhodopaxillus nudus (Bull.) Maire"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Tricholomatales",
+        "Familia": "Tricholomataceae"
+    },
+    "edibility": "buen-comestible",
+    "characteristics": {
+        "cap": "Sombrero que puede alcanzar ocasionalmente los 15 cm de diámetro, aunque lo habitual es encontrarlo entre 5 y 10 cm, de forma convexa en principio, para aplanarse con posterioridad. A veces está obtusamente umbonado y otras aplanado del todo. Es de color azul violáceo en su forma típica, pero tiene diversas tonalidades, lo cual provoca la existencia de múltiples variedades. Cutícula lubrificada, viscosa en tiempo lluvioso, prácticamente inseparable de la carne, que se vuelve en estado adulto marronácea en el centro.",
+        "hymenium": "Láminas adnatas y apretadas de color violeta más llamativo cuando el espécimen es joven. Una de las características importantes es que se separan con suma facilidad de la carne, con tan solo meter la uña del dedo.",
+        "stipe": "Pie cilíndrico y lleno, bastante fibroso y engrosado en la base, de color similar al de las láminas o algo más claro.",
+        "flesh": "Carne espesa y tierna, sobre todo en el sombrero, algo más fibrosa en el pie, de color lila pálido o blanquecino. Su olor es afrutado, es una seta muy aromática, y su sabor es dulce y agradable."
+    },
+    "habitat": "Es una seta que aparece con cierta profusión en el otoño tardío, e incluso se llega a encontrar ya entrado el invierno en algunas zonas. Crece en diversos hábitats, planifolios, pinares, o entre el brezo, frecuente y extendida.",
+    "observations": "Es un buen comestible para acompañamiento de guisos, no tanto para comerla sola, aunque es cuestión de gustos. Incompresiblemente para nosotros mucha gente sigue empeñada en confundirla con la Lepista personata, que solo tiene violeta el pie, ni el sombrero ni las láminas. Otra confusión habitual es con diversos cortinarios de tonos violetas o lilas, conozco quien se los ha comido confundidos sin notar la diferencia cuando son poco menos que incomestibles, por fortuna son inocuos.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/lepista_nuda/lepista_nuda1.jpg",
+        "https://www.fungipedia.org/images/galerias/lepista_nuda/lepista_nuda2.jpg",
+        "https://www.fungipedia.org/images/galerias/lepista_nuda/lepista_nuda3.jpg",
+        "https://www.fungipedia.org/images/galerias/lepista_nuda/lepista_nuda4.jpg",
+        "https://www.fungipedia.org/images/galerias/lepista_nuda/lepista_nuda5.jpg",
+        "https://www.fungipedia.org/images/galerias/lepista_nuda/lepista_nuda6.jpg"
+    ]
+}

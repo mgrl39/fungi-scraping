@@ -1,0 +1,34 @@
+{
+    "name": "leccinellum-crocipodium",
+    "title": null,
+    "author": "(Letell.) Della Maggiora & Trassin.",
+    "additional_info": {
+        "common_name": "Boleto cuarteado, onddo beltzkor.",
+        "synonym": "Leccinum crocipodium (Letell.) Watling"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Boletales",
+        "Familia": "Boletaceae"
+    },
+    "edibility": "comestible",
+    "characteristics": {
+        "cap": "Sombrero de tamaño medio, el diámetro de los ejemplares plenamente desarrollados suele oscilar entre los 10 y los 15 cm, de forma hemisférica en su primera etapa, después convexo y finalmente plano-convexo, sin llegar a aplanarse del todo. Tiene un color amarillento u oliváceo embebido y una cutícula seca y glabra, muchas veces rugulosa, que tiende a agrietarse con el tiempo o ante la escasez de precipitaciones, en estas condiciones adquiere matices pardos. No azulea al ser manipulado pero si tiende a ensuciarse.",
+        "hymenium": "Tubos cuando el ejemplar es joven de color amarillo bastante llamativo, después oliváceo sucio, adnatos con tendencia a separarse un poco en los especímenes viejos, marcada tendencia al ennegrecimiento tanto al corte como con la manipulación.",
+        "stipe": "Poros concoloros con los tubos y de pequeño tamaño, al igual que estos ennegrecen con la manipulación.",
+        "flesh": "Pie generalmente más largo que el diámetro del sombrero, cilíndrico y lleno, de forma habitual más grueso en la zona central y más estrecho tanto en el ápice como en la base. Tiene un color blanquecino o amarillento pálido, y está recubierto en su totalidad por granulaciones que en los individuos jóvenes son concoloras y después negruzcas."
+    },
+    "habitat": "Carne espesa tanto en el sombrero como en el pie, que en los especímenes jóvenes es consistente y que tiende a volverse esponjosa con el tiempo, de color amarillento bastante pálido, al corte a veces ennegrece directamente, pero lo más habitual es que se vuelva rosada, después violeta, y al final negra.",
+    "observations": "Es una especie de tendencia termófila, fructifica principalmente durante el verano y la parte más cálida del otoño. Es bastante abundante en algunas zonas, fructificando preferentemente en bosques de robles, de forma ocasional puede aparecer en otros planifolios.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/leccinellum_crocipodium/leccinellum_crocipodium1.jpg",
+        "https://www.fungipedia.org/images/galerias/leccinellum_crocipodium/leccinellum_crocipodium2.jpg",
+        "https://www.fungipedia.org/images/galerias/leccinellum_crocipodium/leccinellum_crocipodium3.jpg",
+        "https://www.fungipedia.org/images/galerias/leccinellum_crocipodium/leccinellum_crocipodium4.jpg",
+        "https://www.fungipedia.org/images/galerias/leccinellum_crocipodium/leccinellum_crocipodium5.jpg",
+        "https://www.fungipedia.org/images/galerias/leccinellum_crocipodium/leccinellum_crocipodium6.jpg"
+    ]
+}

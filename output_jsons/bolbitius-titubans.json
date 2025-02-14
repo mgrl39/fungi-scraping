@@ -1,0 +1,31 @@
+{
+    "name": "bolbitius-titubans",
+    "title": null,
+    "author": "(Bull.) Fr.",
+    "additional_info": {
+        "common_name": "Bolbicio amarillo yema, bolbizio hori.",
+        "synonym": "Bolbitius vitellinus (Pers.) Fr."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Cortinariales",
+        "Familia": "Bolbitiaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero de pequeñas dimensiones, apenas alcanza los 3 o 4 cm como mucho. Es de color amarillo vivo, y su forma es ovalada en un principio, después campanulada, y finalmente extendido, pero conservando un cierto mamelón central. Su cutícula es netamente viscosa y el margen está estriado radialmente por transparencia.",
+        "hymenium": "Láminas blanquecinas en un principio, luego ocres por efecto de las esporas, libres con respecto al pie y bastante densas.",
+        "stipe": "Pie muy largo en proporción al sombrero, estrecho, apenas de 2 a 4 mm de grueso, de color blanquecino algo tiznado de amarillo en ocasiones. Suele estar un poco engrosado en la base.",
+        "flesh": "Carne frágil y quebradiza, escasa, de color blanquecino y bastante tenaz, sin nada reseñable en cuanto a olor o sabor."
+    },
+    "habitat": "Es una especie que aparece entre la hierba en zonas húmedas y nitrogenadas, a veces sobre restos de madera en descomposición. Crece sobre todo durante el otoño, ocasionalmente en otras épocas. Es una seta frecuente aunque no muy abundante.",
+    "observations": "Se reconoce con relativa facilidad por el color amarillo limón vivo de su sombrero. Puede tener cierto parecido con el Bolbitius variicolor, actualmente considerado como una variedad bajo el nombre de Bolbitius titubans var. olivaceus y con el Bolbitius reticulatus, reconocible por la marcada retícula de su sombrero, además de por su color violáceo.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/bolbitius_titubans/bolbitius_titubans1.jpg",
+        "https://www.fungipedia.org/images/galerias/bolbitius_titubans/bolbitius_titubans2.jpg",
+        "https://www.fungipedia.org/images/galerias/bolbitius_titubans/bolbitius_titubans3.jpg"
+    ]
+}

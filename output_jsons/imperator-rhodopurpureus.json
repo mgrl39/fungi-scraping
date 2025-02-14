@@ -1,0 +1,31 @@
+{
+    "name": "imperator-rhodopurpureus",
+    "title": null,
+    "author": "(Smotl.) Assyov, Bellanger, Bertéa, Courtec., G. Koller, Loizides, G. Marques, J.A. Muñoz, N. Oppicelli, D. Puddu, F. Rich. & P.-A. Moreau",
+    "additional_info": {
+        "common_name": "Onddo purpura.",
+        "synonym": "Boletus rhodopurpureus Smotlacha"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Boletales",
+        "Familia": "Boletaceae"
+    },
+    "edibility": "no-comestible",
+    "characteristics": {
+        "cap": "Sombrero de porte robusto, puede llegar en su madurez a alcanzar los 20 cm de diámetro, de forma hemisférica en un principio, para adoptar luego forma globosa, forma en la que suele quedarse, o si acaso se vuelve convexo ya de viejo. De joven tiene un color rosa característico, aunque deriva de viejo hacia matices de diversos colores, desde el amarillento al rojo vinoso. Su superficie es brillante con lluvia, sino seca y finamente pubescente, frecuentemente abollada por zonas. Margen lobulado y ligeramente excedente. Azulea al ser manipulado.",
+        "hymenium": "Tubos bastante largos y escotados, de color amarillo, después oliváceos, azulean al corte de manera notoria.",
+        "stipe": "Poros ocasionalmente de color amarillo, más habitualmente de color rojo vivo, pequeños y muy azuleantes al menor roce.",
+        "flesh": "Pie muy grueso de joven, rechoncho, alargándose un poco hasta quedar claviforme o cilíndrico y bulboso. Es de color amarillo vivo salvo en la base que adopta un color rojo vinoso, e incluso puede tener una zona intermedia naranja. Está recubierto por un retículo muy fino, a veces poco perceptible, en un primer momento concoloro, luego rosado, y finalmente rojo."
+    },
+    "habitat": "Carne engañosamente poco densa, a pesar de que el porte de la seta aparenta lo contrario. Al corte vira rápida y totalmente al azul oscuro, aunque es de color amarillo. Su sabor es dulzón pero con un trasfondo poco agradable, y su olor es acídulo.",
+    "observations": "Es una seta poco común, pero sucede que cada cierto tiempo, hay un año que sale abundantemente, y luego igual no la ves en 4 o 5 años. Bastante termófila, sale en verano y en otoño, solo la hemos observado en bosques de planifolios.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/imperator_rhodopurpureus/imperator_rhodopurpureus1.jpg",
+        "https://www.fungipedia.org/images/galerias/imperator_rhodopurpureus/imperator_rhodopurpureus2.jpg",
+        "https://www.fungipedia.org/images/galerias/imperator_rhodopurpureus/imperator_rhodopurpureus3.jpg"
+    ]
+}

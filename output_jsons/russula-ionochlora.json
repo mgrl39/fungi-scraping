@@ -1,0 +1,34 @@
+{
+    "name": "russula-ionochlora",
+    "title": null,
+    "author": "Romagn.",
+    "additional_info": {
+        "common_name": "Rusula gris picante.",
+        "synonym": "Russula grisea var. ionochlora (Romagn.) Romagn."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Russulales",
+        "Familia": "Russulaceae"
+    },
+    "edibility": "no-comestible",
+    "characteristics": {
+        "cap": "Sombrero más bien pequeño para el género, algunos ejemplares adultos pueden superar por poco los 5 cm de diámetro, sin llegar a aproximarse nunca a los 10, de forma hemisférica en la primera etapa, luego convexa y finalmente se aplana produciéndose una depresión central. Su cutícula es separable y de color muy variable, pero la forma típica tiene el centro de color verdoso con matices amarillentos u ocres, y posee un disco viscídulo perfectamente delimitado junto al margen de un bello color lila. Margen poco ondulado y estriado.",
+        "hymenium": "Láminas adnatas de color crema pálido, sin apenas laminillas, ligeramente lardáceas al tacto, a la par que frágiles, saltan al ser rozadas con el dedo.",
+        "stipe": "Pie cilíndrico de tamaño proporcionado al sombrero, al principio de color blanco, pero poco a poco va adquiriendo difumaciones violetas, y de adulto puede estar claramente teñido de ese color por zonas. Es lleno y más bien delgado.",
+        "flesh": "Carne quebradiza como todas las de su género, no demasiado espesa y de color blanco, salvo en la superficie subcuticular, donde adquiere tonos violetas. Su olor es suave, afrutado, y su sabor es acre tanto en la carne como en las láminas, si bien esta acritud no es tan acentuada como en otras Russulas."
+    },
+    "habitat": "Se trata de una especie de aparición temprana, localizable ya a finales de la primavera y durante el verano. Suele aparecer normalmente bajo árboles planifolios, los ejemplares fotografiados fueron encontrados bajo robles. Esta seta es muy rara y poco conocida.",
+    "observations": "Es una especie que rompe ciertos moldes, ya que se trata de la única especie de la subsección Griseineae que tiene la carne acre, por lo que la consideramos como no comestible. Guarda similitud con muchas otras Russulas, entre las que destacaremos la Russula cyanoxantha, de láminas más lardáceas y no separables con facilidad, la Russula grisea, muy similar pero de carne dulce, aunque también se parece a las de la sección de la Russula amoena, cuyo olor es inconfundible. Es difícil separarla de la Russula medullata, de esporada más oscura, mayor porte y hábitat preferencial bajo abedules, cuyas láminas llegan a volverse amarillentas en la madurez.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/russula_ionochlora/russula_ionochlora1.jpg",
+        "https://www.fungipedia.org/images/galerias/russula_ionochlora/russula_ionochlora2.jpg",
+        "https://www.fungipedia.org/images/galerias/russula_ionochlora/russula_ionochlora3.jpg",
+        "https://www.fungipedia.org/images/galerias/russula_ionochlora/russula_ionochlora4.jpg",
+        "https://www.fungipedia.org/images/galerias/russula_ionochlora/russula_ionochlora5.jpg",
+        "https://www.fungipedia.org/images/galerias/russula_ionochlora/russula_ionochlora6.jpg"
+    ]
+}

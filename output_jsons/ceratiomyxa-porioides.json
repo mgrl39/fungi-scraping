@@ -1,0 +1,31 @@
+{
+    "name": "ceratiomyxa-porioides",
+    "title": null,
+    "author": "(Alb. & Schwein.) J. Schröt.",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Ceratiomyxa fruticulosa var. porioides (Alb. & Schwein.) Lister"
+    },
+    "taxonomy": {
+        "División": "Myxomycota",
+        "Subdivisión": "Myxomycotina",
+        "Clase": "Myxomycetes",
+        "Subclase": "Ceratiomyxomycetidae",
+        "Orden": "Ceratiomyxales",
+        "Familia": "Ceratiomyxaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Plasmodiocarpo que a diferencia de la especie tipo, no está formado por cuernecillos erectos, sino por formaciones de paredes poliédricas más o menos transversales que le dan una apariencia de poros. La disposición y tamaño de estos \"poros\" es variable e irregular, siendo de color blanquecino , o más típicamente translúcidos, formando masas relativamente extensas sobre el sustrato. Se llama plasmodiocarpo al esporóforo que en su desarrollo adopta forma similar a la del propio plasmodio, extendida o ramificada.",
+        "hymenium": "Esporas idénticas a las de la especie tipo, lisas. Se desarrollan superficialmente de forma exospórea, y cada una de ellas posee un pedúnculo individual que las sostiene hasta que estas son liberadas. Son de forma subglobosa u ovalada, y de color blanco lechoso en masa, hialinas al microscopio, con un tamaño de 4-6 por 9-10 micras. En su división forman células flageladas o mixamebas que con el tiempo darán lugar a zigotos que se unirán, formando nuevos plasmodios y cerrando el círculo vital de la especie.",
+        "stipe": "Pie inexistente, se adhiere directamente al sustrato.",
+        "flesh": "Carne insignificante, mocosa o gelatinosa, sobre todo si está hidratada. No tiene olor o sabor significativo."
+    },
+    "habitat": "Fructifica durante todo el año si las condiciones ambientales son las adecuadas, no siendo tan frecuente como la fruticulosa tipo. Salen adheridas a la madera de diversos árboles, sobre todo si está muerta y en proceso de descomposición.",
+    "observations": "Está considerada por algunos como taxón individual, y así lo plasmamos en esta ficha, si bien pudiera tratarse solo de una variedad de la Ceratiomyxa fruticulosa. Hasta hace bien poco, a nivel mundial tan solo estaban reconocidas como especies del género Ceratiomyxa 3 taxones, dos de los cuales son de localización subtropical, quedando Ceratiomyxa fruticulosa como único taxón mundialmente extendido por todos los continentes. Son las únicas especies de Myxomycetes que carecen de peridio, siendo por tanto exospóreas.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/ceratiomyxa_porioides/ceratiomyxa_porioides1.jpg",
+        "https://www.fungipedia.org/images/galerias/ceratiomyxa_porioides/ceratiomyxa_porioides2.jpg",
+        "https://www.fungipedia.org/images/galerias/ceratiomyxa_porioides/ceratiomyxa_porioides3.jpg"
+    ]
+}

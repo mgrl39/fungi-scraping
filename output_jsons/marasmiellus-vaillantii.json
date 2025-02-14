@@ -1,0 +1,34 @@
+{
+    "name": "marasmiellus-vaillantii",
+    "title": null,
+    "author": "(Pers.) Sing.",
+    "additional_info": {
+        "common_name": "Marasmio de Vaillant.",
+        "synonym": "Marasmius calopus (Pers.) Fr."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Tricholomatales",
+        "Familia": "Marasmiaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero cuyo diámetro en los ejemplares adultos oscila entre 0`5 y 1 cm, ocasionalmente algo más, con una forma que evoluciona según su estado de desarrollo, de hemisférica pasa a ser convexa, luego aplanada, e incluso en los ejemplares ya viejos se deprime un tanto por el centro, quedando con los bordes levantados. Su superficie es irregularmente rugulosa, de color crema pálido o blanquecina, con el centro teñido de ocráceo rosado en muchas ocasiones. Margen un poco ondulado.",
+        "hymenium": "Láminas ligeramente decurrentes de jóvenes, más decurrentes de viejas, además se van arqueando de forma paulatina según crecen. Son de color blanco y bastante separadas entre sí.",
+        "stipe": "Pie cilíndrico y en la mayoría de los casos curvado, de color marrón rojizo uniforme en el tercio inferior, mientras que en la zona más próxima al sombrero es más claro. Es muy fino y pulverulento, pudiendo alcanzar 2 o 3 cm de largo por apenas 1 mm de espesor.",
+        "flesh": "Carne De color blanco y consistencia elástica en el sombrero, mucho más tenaz en el pie, poco espesa. Resulta prácticamente inodora y su sabor tampoco es relevante."
+    },
+    "habitat": "Se trata de una especie que aparece de forma gregaria, en grupos numerosos, generalmente durante los meses estivales, más rara en otoño. Sale sobre restos o residuos herbáceos diversos o raíces de gramíneas, aunque también puede salir directamente sobre la madera de las ramas caídas. Relativamente frecuente pero poco conocida.",
+    "observations": "Se trata de una pequeña especie que tiene como particularidad su cutícula arrugada y su época de aparición, ya que acostumbra a salir en el verano. Guarda cierta similitud con otros Marasmiellus, como el Marasmiellus ramealis, de sombrero liso y hábitat exclusivo sobre ramas caídas, o también con el Marasmius epiphyllus, que tiene igualmente cutícula rugulosa, pero que sale sobre hojas.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/marasmiellus_vaillantii/marasmiellus_vaillantii1.jpg",
+        "https://www.fungipedia.org/images/galerias/marasmiellus_vaillantii/marasmiellus_vaillantii2.jpg",
+        "https://www.fungipedia.org/images/galerias/marasmiellus_vaillantii/marasmiellus_vaillantii3.jpg",
+        "https://www.fungipedia.org/images/galerias/marasmiellus_vaillantii/marasmiellus_vaillantii4.jpg",
+        "https://www.fungipedia.org/images/galerias/marasmiellus_vaillantii/marasmiellus_vaillantii5.jpg",
+        "https://www.fungipedia.org/images/galerias/marasmiellus_vaillantii/marasmiellus_vaillantii6.jpg"
+    ]
+}

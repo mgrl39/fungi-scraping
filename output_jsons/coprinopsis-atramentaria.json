@@ -1,0 +1,31 @@
+{
+    "name": "coprinopsis-atramentaria",
+    "title": null,
+    "author": "(Bull.) Redhead, Vilgalys & Moncalvo",
+    "additional_info": {
+        "common_name": "Coprino antialcohólico, urbeltz gorritzaile, bolet de femer.",
+        "synonym": "Coprinus atramentarius (Bull.) Fr."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Agaricales",
+        "Familia": "Coprinaceae"
+    },
+    "edibility": "toxica",
+    "characteristics": {
+        "cap": "Sombrero irregularmente ovoide y unido al pie en sus primeras etapas, se va separando de este quedando con forma campanulada, al final se abre un tanto, pero jamás se aplana. Su tamaño es variable, pudiendo alcanzar los 7 u 8 cm de diámetro, aunque a veces se queda más corto. Su superficie puede ser en algunos ejemplares finamente escamosa, pero por regla general es lisa y glabra, de color grisáceo predominante con la posibilidad de tener matices ocráceos. El margen se presenta plegado en los ejemplares jóvenes y surcado, estos surcos se extienden de forma radial o paralela a casi toda la longitud del sombrero.",
+        "hymenium": "Láminas adnatas y ascendentes, muy apretadas, su color va del blanquecino inicial al gris, posteriormente y dado que son delicuescentes se van volviendo primero rojo vinoso y finalmente negras.",
+        "stipe": "Pie que se va alargando con el desarrollo del espécimen, de esta forma al principio puede ser corto y al final es alargado con respecto al diámetro del sombrero. Tiene color blanquecino, es liso o algo escamoso, cilíndrico y hueco desde joven.",
+        "flesh": "Carne no demasiado espesa de color blanquecino, apenas tiene olor perceptible, su sabor es dulce y neutro."
+    },
+    "habitat": "Es una especie frecuente y localmente abundante, además se halla geográficamente extendida. Fructifica en grupos más o menos numerosos, muchas veces cespitosa, sobre restos leñosos de todo tipo, en zonas de pradería, lugares abonados y nitrogenados, e incluso la hemos localizado en jardines públicos. Es una especie que puede aparecer prácticamente en cualquier época del año si las condiciones son favorables.",
+    "observations": "Es una seta que produce el llamado síndrome coprínico o efecto antabus, contiene una sustancia llamada coprina que es capaz de interferir en el etanol que tenga nuestro cuerpo y provocar trastornos varios y desagradables, no es necesario que se haya tomado alcohol en el momento preciso de la ingesta de la seta, pues puede provocar el mismo efecto si se ha consumido alcohol horas antes, o incluso si se hace en los días posteriores a la ingesta de las setas. Se confunde con frecuencia con el Coprinus comatus, especie comestible de porte más estilizado, más blanca y escamosa lanosa, además posee un casquete en el ápice.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/coprinopsis_atramentaria/coprinopsis_atramentaria1.jpg",
+        "https://www.fungipedia.org/images/galerias/coprinopsis_atramentaria/coprinopsis_atramentaria2.jpg",
+        "https://www.fungipedia.org/images/galerias/coprinopsis_atramentaria/coprinopsis_atramentaria3.jpg"
+    ]
+}

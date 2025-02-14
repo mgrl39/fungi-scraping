@@ -1,0 +1,34 @@
+{
+    "name": "macrolepiota-mastoidea",
+    "title": null,
+    "author": "(Fr.) Singer",
+    "additional_info": {
+        "common_name": "Apagador mamelonado, parasol, galanperna puntaduna, cogomella de mugró.",
+        "synonym": "Lepiota mastoidea (Fr.) P. Kumm."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Agaricales",
+        "Familia": "Agaricaceae"
+    },
+    "edibility": "buen-comestible",
+    "characteristics": {
+        "cap": "Sombrero cuya forma evoluciona a lo largo de su desarrollo desde la cónica inicial a forma campanulada y finalmente se extiende, manteniendo en el centro un mamelón puntiagudo muy evidente. En esta postrera etapa en que se haya extendido su tamaño puede alcanzar los 12 cm de diámetro, pudiéndose hallar ejemplares de apenas 7 u 8 cm. Su cutícula al principio es de color ocráceo bastante uniforme, al ir creciendo se desgaja en escamas que se abren paulatinamente dejando entrever un fondo más crema, manteniendo la zona central y por ende el mamelón con el color primigenio, y siendo estas escamas mucho más abiertas hacia el margen. Este margen es regular y puede tener restos en forma de jirones en los especímenes jóvenes.",
+        "hymenium": "Láminas libres y bastante apretadas de color blanco, pasando a ser luego algo cremas y pudiendo mancharse de roña en la vejez, más bien ventrudas.",
+        "stipe": "Pie largo, cilíndrico, aunque puede ser algo atenuado en el ápice y bulboso en la base. Su superficie es de color marrón pálido sobre fondo blanquecino o crema, jaspeado o escamoso y bastante fibroso además de hueco. Tiene un anillo membranoso simple deslizante de color blanco, aunque puede tener la cara externa marrón.",
+        "flesh": "Carne relativamente espesa de color blanquecino, tierna en el sombrero, dura y fibrosa en el pie que es leñoso. Tiene un olor fúngico suave y un sabor dulce agradable."
+    },
+    "habitat": "Esta especie fructifica en zonas herbosas, prados y pastizales, a veces también en claros boscosos pero no suele salir dentro de los bosques propiamente dichos. Es sobre todo una especie otoñal que sale por regla general en pequeños grupos o aislada, no siendo tan frecuente como la Macrolepiota procera.",
+    "observations": "Especie de tamaño medio dentro del género, no alcanza las dimensiones de la Macrolepiota procera, de pie atigrado y sin mamelón puntiagudo. Otra especie con mamelón, esta vez obtuso, y que tiene un notable parecido es la Macrolepiota gracilenta, con anillo doble. Se debe tener la precaución de no recolectar Lepiotas de pequeño tamaño, muchas de las cuales son tóxicas o mortales, habiéndose dado muchos casos de intoxicación por Lepiota brunneoincarnata en los últimos tiempos, especie potencialmente mortal. Chlorophyllum molybdites es una especie tóxica de esporada verdosa y de pie que no es atigrado.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/macrolepiota_mastoidea/macrolepiota_mastoidea1.jpg",
+        "https://www.fungipedia.org/images/galerias/macrolepiota_mastoidea/macrolepiota_mastoidea2.jpg",
+        "https://www.fungipedia.org/images/galerias/macrolepiota_mastoidea/macrolepiota_mastoidea3.jpg",
+        "https://www.fungipedia.org/images/galerias/macrolepiota_mastoidea/macrolepiota_mastoidea4.jpg",
+        "https://www.fungipedia.org/images/galerias/macrolepiota_mastoidea/macrolepiota_mastoidea5.jpg",
+        "https://www.fungipedia.org/images/galerias/macrolepiota_mastoidea/macrolepiota_mastoidea6.jpg"
+    ]
+}

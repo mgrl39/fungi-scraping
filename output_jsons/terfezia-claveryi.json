@@ -1,0 +1,37 @@
+{
+    "name": "terfezia-claveryi",
+    "title": null,
+    "author": "Chatin",
+    "additional_info": {
+        "common_name": "Turma, trufa del desierto, criada, criadilla.",
+        "synonym": "Ninguno."
+    },
+    "taxonomy": {
+        "División": "Ascomycota",
+        "Subdivisión": "Ascomycotina",
+        "Clase": "Himenoascomycetes",
+        "Subclase": "Pezizomycetidae",
+        "Orden": "Tuberales",
+        "Familia": "Terfeziaceae"
+    },
+    "edibility": "buen-comestible",
+    "characteristics": {
+        "cap": "Carpóforo que puede alcanzar un tamaño considerable, se han llegado a recolectar ejemplares con un diámetro próximo a los 15 cm y un peso cercano a 500 gr, pero lo más habitual es hallar ejemplares cuyo diámetro oscile entre los 5 y los 10 cm. Su forma es bastante irregular, puede adoptar protuberancias o lobularse, muchas veces tiene forma turbinada, como de peonza, presentando en la base una zona no fértil a modo de apéndice cónico. Su color es variable con predominio del marrón y con matices diferentes según el grado de maduración del ejemplar, desde tonos asalmonados o rosados pasa por matices rojizos y tiende a ennegrecer en su postrer etapa.",
+        "hymenium": "Peridio de grosor intermedio, al corte transversal encontramos un peridio de 1 a 2 mm de grueso con tonos rosados o blanquecinos, a veces de color canela, externamente es liso con posibilidad de agrietarse o de ennegrecer en la vejez del ascoma.",
+        "stipe": "Gleba compacta y dura de aspecto carnoso, formada por dos zonas intermezcladas, una fértil y otra estéril, que le confiere un aspecto intervenado. El color de ambas zonas varía en función de la maduración, la parte estéril es en un principio blanquecina y la fértil rosada, con el tiempo adquiere tonos asalmonados y al final pardo rojizos a negruzcos, cuando madura el ejemplar la parte fértil es la que prevalece y la estéril se reduce a venitas casi imperceptibles.",
+        "flesh": "Carne compacta y sólida de olor agradable pero débil y con un sabor igualmente agradable a frutos secos."
+    },
+    "habitat": "Esta especie fructifica en terrenos arcillosos o arenosos, con predilección por pH básico, y ligada inexcusablemente a plantas del género Helianthemum con las que forma micorriza y que son llamadas popularmente como la planta madre. Geográficamente en la península aparece en la zona oriental de Andalucía y en general en el sudeste peninsular, la primera vez que la vimos provenía sin embargo de Marruecos, lugar donde es muy conocida como en el resto del norte africano y Oriente Medio. Sale en grupos, emergiendo de la tierra muy poco al ser una especie semihipogea, y su época de aparición en la península es la primavera. Agradecemos a nuestro amigo y colaborador Paco Otero la cesión del material necesario para la realización de esta ficha, los ejemplares fueron localizados en la provincia de Granada.",
+    "observations": "Especie comestible de buena calidad que es habitualmente recolectada en las zonas donde fructifica, es cultivada en algunos lugares y alcanza en el mercado un precio notable en años de escasez. Tiene mucho parecido con la Terfezia leptoderma, especie de peridio más fino que fructifica ligada a Tuberaria guttata, es igualmente comestible, microscópicamente la diferencia es ostensible. También la Terfezia arenaria=Terfezia leonis tiene un notable parecido, tiene un peridio más grueso y aparece también ligada a Tuberaria guttata en zonas occidentales peninsulares con terrenos ácidos.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/terfezia_claveryi/terfezia_claveryi1.jpg",
+        "https://www.fungipedia.org/images/galerias/terfezia_claveryi/terfezia_claveryi2.jpg",
+        "https://www.fungipedia.org/images/galerias/terfezia_claveryi/terfezia_claveryi3.jpg",
+        "https://www.fungipedia.org/images/galerias/terfezia_claveryi/terfezia_claveryi4.jpg",
+        "https://www.fungipedia.org/images/galerias/terfezia_claveryi/terfezia_claveryi5.jpg",
+        "https://www.fungipedia.org/images/galerias/terfezia_claveryi/terfezia_claveryi6.jpg",
+        "https://www.fungipedia.org/images/galerias/terfezia_claveryi/terfezia_claveryi7.jpg",
+        "https://www.fungipedia.org/images/galerias/terfezia_claveryi/terfezia_claveryi8.jpg",
+        "https://www.fungipedia.org/images/galerias/terfezia_claveryi/terfezia_claveryi9.jpg"
+    ]
+}

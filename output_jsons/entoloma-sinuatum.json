@@ -1,0 +1,34 @@
+{
+    "name": "entoloma-sinuatum",
+    "title": null,
+    "author": "(Bull.) P. Kumm.",
+    "additional_info": {
+        "common_name": "Entoloma lívido, pérfida, engañosa.",
+        "synonym": "Entoloma lividum Quél."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Pluteales",
+        "Familia": "Entolomataceae"
+    },
+    "edibility": "toxica",
+    "characteristics": {
+        "cap": "Sombrero grande, de hasta 20 cm, de color crema aunque variable en los tonos, con matices beige. Carnoso, seco, y con fibrillas concoloras poco apreciables. Su forma es globosa de joven, luego convexa y tardíamente aplanada, guardando el borde siempre bastante redondeado.",
+        "hymenium": "Láminas poco apretadas, de color crema cuando la seta es joven, se vuelven asalmonadas por efecto de las esporas. Escotadas, jamás decurren sobre el pie.",
+        "stipe": "Pie generalmente blanco, a veces un poco crema, fuerte y robusto, duro y lleno, central y cilíndrico. En ocasiones bastante largo.",
+        "flesh": "Carne blanca y firme tanto en el sombrero como en el pie. En los especímenes jóvenes el olor y el sabor son harinosos y nada desagradables, solo los ejemplares más desarrollados o viejos huelen de manera más desagradable."
+    },
+    "habitat": "Es una especie que aparece a finales de verano y en otoño de manera habitual en los bosques de caducifolios, sobre todo en robledales.",
+    "observations": "MUY TÓXICA, a pesar de no tener mal sabor, es la culpable de la mayoría de las intoxicaciones por setas que se producen cada año. Se confunde con el Clitocybe nebularis, o pardilla, que tiene las láminas más blancas y decurrentes sobre el pie, además de un olor característico no harinoso. En caso de salir en primavera, cosa excepcional, se podría confundir con la Calocybe gambosa, de olor mucho más harinoso y láminas blancas.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/entoloma_sinuatum/entoloma_sinuatum1.jpg",
+        "https://www.fungipedia.org/images/galerias/entoloma_sinuatum/entoloma_sinuatum2.jpg",
+        "https://www.fungipedia.org/images/galerias/entoloma_sinuatum/entoloma_sinuatum3.jpg",
+        "https://www.fungipedia.org/images/galerias/entoloma_sinuatum/entoloma_sinuatum4.jpg",
+        "https://www.fungipedia.org/images/galerias/entoloma_sinuatum/entoloma_sinuatum5.jpg",
+        "https://www.fungipedia.org/images/galerias/entoloma_sinuatum/entoloma_sinuatum6.jpg"
+    ]
+}

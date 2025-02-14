@@ -1,0 +1,31 @@
+{
+    "name": "tricholoma-ustale",
+    "title": null,
+    "author": "(Fr.) P. Kumm.",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Tricholoma fulvellum (Fr.) Gillet"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Tricholomatales",
+        "Familia": "Tricholomataceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero que puede alcanzar en su madurez los 10 cm de diámetro e incluso superarlos brevemente, en sus primeras etapas con forma hemisférica o un poco cónico, después se vuelve convexo y finalmente aplanado. Su superficie es separable y ligeramente viscosa con tiempo lluvioso, sino es brillante pero no viscosa, de color pardo rojizo o castaño, algo más oscura en la zona central y palideciendo hacia el margen en muchos ejemplares. Cutícula lisa y radialmente fibrilosa, margen regular que no presenta estrías y tampoco es acanalado.",
+        "hymenium": "Láminas escotadas de color blanquecino o crema, al ser rozadas adquieren tonos pardos rojizos que se manifiestan sobre todo en la arista, medianamente apretadas y con laminillas, rectas.",
+        "stipe": "Pie frecuentemente alargado, con forma irregular, a veces claviforme y otras cilíndrico, con cierta tendencia a engrosar en la parte baja y atenuarse en la propia base, que a veces llega a ser radicante. Su superficie es de fondo blanquecino pero está recubierta de fibras longitudinales de color pardo que es el color predominante a simple vista, salvo quizás en el ápice, carece de zona anular que delimite ambos colores.",
+        "flesh": "Carne espesa y fibrosa de color blanco con tendencia a pardear al corte sobre todo en el pie. Tiene un olor harinoso débil y un sabor que en un primer momento es también harinoso y que resulta amargo al de un rato de masticación."
+    },
+    "habitat": "Es una especie que aparece en bosque de planifolios diversos, no hemos constatado su presencia bajo coníferas. Fructifica sobre todo durante el otoño en pequeños grupos sobre el suelo, de forma más ocasional puede aparecer en otra épocas del año. Es relativamente frecuente aunque no abundante.",
+    "observations": "Esta especie se caracteriza por tener la superficie del sombrero poco viscosa, su pie sin delimitación entre dos colores y tener un sabor harinoso tardíamente amargo. El Tricholoma ustaloides tiene el sombrero notablemente viscoso y su pie delimita bien los dos colores, además su carne es prontamente amarga. Tricholoma fulvum es también parecido, posee láminas amarillentas de joven y su sombrero es acanalado, existen muchos otros Tricholomas marrones como Tricholoma stans, muy similar pero de coníferas y un largo etcétera, estudiándolos detenidamente se puede llegar a separarlos macroscópicamente.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/tricholoma_ustale/tricholoma_ustale1.jpg",
+        "https://www.fungipedia.org/images/galerias/tricholoma_ustale/tricholoma_ustale2.jpg",
+        "https://www.fungipedia.org/images/galerias/tricholoma_ustale/tricholoma_ustale3.jpg"
+    ]
+}

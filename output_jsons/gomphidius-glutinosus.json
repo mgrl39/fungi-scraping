@@ -1,0 +1,37 @@
+{
+    "name": "gomphidius-glutinosus",
+    "title": null,
+    "author": "(Schaeff.) Fr.",
+    "additional_info": {
+        "common_name": "Gonfidio mocoso, gonfidio glutinoso, lerdeki hankahori, cama de perdiu mocosa, chiodetto.",
+        "synonym": "Gomphus glutinosus (Schaeff.) Weinm."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Boletales",
+        "Familia": "Gomphidiaceae"
+    },
+    "edibility": "comestible",
+    "characteristics": {
+        "cap": "Sombrero de buen tamaño, el diámetro de los ejemplares adultos suele oscilar por lo general entre 5 y 10 cm, ocasionalmente algo más. En sus primeros estadios tiene forma convexa, incluso hemisférico los primordios, pero pronto se va aplanando manteniendo en algunos especímenes el centro resaltado, mientras que otros tienden a deprimirse un tanto por el centro. Cutícula muy viscosa, glutinosa con lluvia, fácilmente separable de la carne, cuando el ejemplar es joven de color marrón con claros matices violetas que van desapareciendo de adulto, quedando un tono marrón grisáceo bastante uniforme salvo en el centro que suele ser algo más oscuro. Margen incurvado y con restos de velo al principio, despues extendido y fino.",
+        "hymenium": "Láminas muy decurrentes sobre el pie, espaciadas y con escasas laminillas, al principio de color blanquecino, después grisáceas y finalmente como consecuencia de la esporulación casi negras, la esporada en masa es de color púrpura negruzco. De jóvenes están cubiertas por un velo blanquecino que une el borde del sombrero con el pie y que tiende a desaparecer.",
+        "stipe": "Pie mayoritariamente alargado o a veces proporcionado al sombrero, en la zona superior de color blanco y seco, hasta llegar a una zona anular viscosa formada por los restos del velo que le unía al sombrero, restos resaltados en un principio, de color blanquecino pero tiñendose de púrpura al depositarse sobre ellos esporas, debajo de esta zona anular el pie es escamoso y viscoso, tiñendose de amarillo desde la base. Es cilíndrico, pero la zona de unión con el micelio tiende a ser radicante.",
+        "flesh": "Carne bastante espesa de color blanco, amarillenta en la base del pie, con tendencia a grisear un poco, tiene una textura bastante buena, con olor fúngico suave, pero cocinada resulta un tanto insípida, siendo su sabor en crudo algo acídulo."
+    },
+    "habitat": "Estamos ante una especie relativamente poco frecuente, muy rara bajo planifolios, en nuestro radio de acción es una especie que si solemos ver cada año en varias localizaciones micorrizando con bosques de Picea abies, según la bibliografía es su hábitat predilecto, en una de estas localizaciones es una especie abundante. Donde aparece suele hacerlo en pequeños grupos, rara vez aislada, siendo una especie eminentemente otoñal que no hemos visto en otras épocas del año. Los ejemplares objeto de este estudio fueron localizados en Gillerna (Alava), en bosque mixto de Picea abies y Pseudotsuga menziesii (abeto de Douglas).",
+    "observations": "Los géneros Gomphidius y Chroogomphus, a pesar de estar integrados por especies con láminas, pertenecen al orden Boletales. La especie que les presentamos es una especie comestible sin mayores elogios, pero siendo además una especie más bien escasa, no recomendamos su consumo para preservarla. Esta especie es relativamente facil de identificar por sus características macroscópicas, su sombrero viscoso, láminas muy decurrentes, zona anular viscosa, y pie amarillo en su base, son suficientes pera identificarla sin problemas. Chroogomphus rutilus es una especie afin, pero de color completamente diferente.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/gomphidius_glutinosus/gomphidius_glutinosus1.jpg",
+        "https://www.fungipedia.org/images/galerias/gomphidius_glutinosus/gomphidius_glutinosus2.jpg",
+        "https://www.fungipedia.org/images/galerias/gomphidius_glutinosus/gomphidius_glutinosus3.jpg",
+        "https://www.fungipedia.org/images/galerias/gomphidius_glutinosus/gomphidius_glutinosus4.jpg",
+        "https://www.fungipedia.org/images/galerias/gomphidius_glutinosus/gomphidius_glutinosus5.jpg",
+        "https://www.fungipedia.org/images/galerias/gomphidius_glutinosus/gomphidius_glutinosus6.jpg",
+        "https://www.fungipedia.org/images/galerias/gomphidius_glutinosus/gomphidius_glutinosus7.jpg",
+        "https://www.fungipedia.org/images/galerias/gomphidius_glutinosus/gomphidius_glutinosus8.jpg",
+        "https://www.fungipedia.org/images/galerias/gomphidius_glutinosus/gomphidius_glutinosus9.jpg"
+    ]
+}

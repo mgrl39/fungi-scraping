@@ -1,0 +1,31 @@
+{
+    "name": "suillellus-rhodoxanthus",
+    "title": null,
+    "author": "(Krombh.) Blanco-Dios",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Boletus rhodoxanthus (Krombh.) Kallenbach"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Boletales",
+        "Familia": "Boletaceae"
+    },
+    "edibility": "no-comestible",
+    "characteristics": {
+        "cap": "Sombrero grande, puede llegar a los 20 cm de diámetro, de forma hemisférica de joven, luego convexo, y finalmente plano-convexo. Un poco pubescente en su primera etapa, después liso, de color blanco sucio, aunque con la edad se va manchando de tonos ocráceos. El margen suele tener tonos rosas y ser algo excedente. No es tan seco como el sombrero de otras especies afines, incluso puede ser un poco viscoso.",
+        "hymenium": "Tubos de longitud variable según la edad, primero amarillentos y después oliváceos, que azulean al corte.",
+        "stipe": "Poros de color amarillo-anaranjado al principio, en seguida rojo sangre o rojo púrpura, redondos. Azulean de forma notoria si se les presiona con el dedo.",
+        "flesh": "Pie cilíndrico y grueso, de color amarillo vivo, pero recubierto por una retícula roja amplia que deja entrever el fondo amarillo. Exteriormente también se vuelve azul al ser manoseado."
+    },
+    "habitat": "Carne firme y compacta, azulea al corte en el sombrero, mientras que en el pie permanece prácticamente inmutable. Es de color amarillo, y tanto su olor como su sabor son agradables.",
+    "observations": "Es una especie termófila, y por lo tanto veraniega, aunque se la encuentra también en el otoño. Sale en bosques de planifolios. Es una especie poco frecuente y desconocida para muchos.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/suillellus_rhodoxanthus/suillellus_rhodoxanthus1.jpg",
+        "https://www.fungipedia.org/images/galerias/suillellus_rhodoxanthus/suillellus_rhodoxanthus2.jpg",
+        "https://www.fungipedia.org/images/galerias/suillellus_rhodoxanthus/suillellus_rhodoxanthus3.jpg"
+    ]
+}

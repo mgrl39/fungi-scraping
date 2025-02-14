@@ -1,0 +1,32 @@
+{
+    "name": "scutellinia-scutellata",
+    "title": null,
+    "author": "(L.) Lambotte",
+    "additional_info": {
+        "common_name": "Betiledun.",
+        "synonym": "Peziza scutellata L."
+    },
+    "taxonomy": {
+        "División": "Ascomycota",
+        "Subdivisión": "Ascomycotina",
+        "Clase": "Himenoascomycetes",
+        "Subclase": "Pezizomycetidae",
+        "Orden": "Pezizales",
+        "Familia": "Humariaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Carpóforo muy pequeño, su diámetro en el mejor de los casos no acostumbra a exceder de 1 cm, siendo lo más habitual encontrarla con un diámetro de aproximadamente la mitad. Tiene forma acopada en las primeras etapas de su desarrollo, quedando muchas veces prácticamente discoidal pero con el borde algo realzado, y su color varía del rojo vivo a un naranja con más componente rojizo que amarillo, solo los ejemplares viejos y embebidos palidecen. La cara externa, de color algo más pálido que el himenio, posee pelos visibles con lupa, mucho más patentes en el borde del ascocarpo donde se prolongan de forma erizada, estos pelos son muy oscuros, casi negros.",
+        "hymenium": "Himenio liso de color rojo escarlata, ubicado en la zona interior del carpóforo, carece por completo de los pelos que presenta la superficie externa.",
+        "stipe": "Pie inexistente, se trata de una especie sésil.",
+        "flesh": "Carne escasa y frágil de color rojizo, sin que podamos reseñar nada significativo en cuanto a olor o sabor."
+    },
+    "habitat": "Esta especie suele tener un comportamiento más lignícola que otras especies de su género, su hábitat preferencial es la madera de diversos árboles, si bien no es su hábitat exclusivo, ya que también puede hallarse en el suelo. Precisa para su desarrollo un alto grado de humedad, por lo que es habitual encontrarla en el borde de ríos, arroyos o estanques. Nuestra recolecta ha sido efectuada sobre madera de aliso en primavera, aunque sale también en otoño y sobre muchos otros sustratos. Es probablemente la especie más común dentro de su género.",
+    "observations": "Es prácticamente imposible diferenciar una Scutellinia de otra sin el pertinente análisis microscópico, la especie que nos ocupa se caracteriza por su hábitat preferencial sobre madera de diversos árboles y por sus esporas elípticas finamente verrucosas. Scutellinia trechispora es muy similar, pero sus esporas son más globosas y provistas de verrugas con una ornamentación muy marcada casi a modo de aguijones.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/scutellinia_scutellata/scutellinia_scutellata1.jpg",
+        "https://www.fungipedia.org/images/galerias/scutellinia_scutellata/scutellinia_scutellata2.jpg",
+        "https://www.fungipedia.org/images/galerias/scutellinia_scutellata/scutellinia_scutellata3.jpg",
+        "https://www.fungipedia.org/images/galerias/scutellinia_scutellata/scutellinia_scutellata4.jpg"
+    ]
+}

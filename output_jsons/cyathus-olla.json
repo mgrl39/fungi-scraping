@@ -1,0 +1,34 @@
+{
+    "name": "cyathus-olla",
+    "title": null,
+    "author": "(Batsch) Pers.",
+    "additional_info": {
+        "common_name": "Ciato atrompetado, habia leun, trompeta petita.",
+        "synonym": "Cyathus vernicosus (Bull.) DC."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Gasteromycetidae",
+        "Orden": "Nidulariales",
+        "Familia": "Nidulariaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Carpóforo con forma cilíndrica o de canuto en sus primeros estadios, recubierto en la zona superior por una especie de tapa llamada epifragma, este es de color blancuzco o algo amarillento en ocasiones. Cuando el hongo evoluciona el epifragma se rompe y el espécimen adopta una forma típica de nido o taza, con una altura que puede alcanzar 1,5 cm y un diámetro aproximado de 1. Tiene tres partes diferenciadas, la superficie externa o exoperidio es básicamente gris y tomentoso, aunque puede tener matices pardos o tostados, el endoperidio es sin embargo liso, carente de pliegues o estrías, y más claramente gris.",
+        "hymenium": "Gleba constituida por una especie de huevos de pequeño tamaño llamados peridíolos, estos son la parte fértil del carpóforo y albergan en su interior las esporas y basidios, suelen ser de color gris, a veces casi negros, y tienen forma lenticular. Estos peridíolos tienen un tamaño de unos 3mm y permanecen unidos al endoperidio por un filamento bastante tenaz, el número de peridíolos que tiene cada espécimen es un carácter variable.",
+        "stipe": "Pie inexistente, es una especie sésil.",
+        "flesh": "Carne insignificante sin olor o sabor reseñables."
+    },
+    "habitat": "Especie de crecimiento gregario, sale en grupos más o menos numerosos, colonizando suelos ricos en nutrientes o directamente sobre madera o restos leñosos diversos. Se trata de una especie común que podemos encontrar prácticamente en cualquier época del año a excepción quizás del invierno.",
+    "observations": "Completamos con esta especie los nidulariales más comunes que se hallan en nuestro entorno, la trilogía de los Cyathus en la que encontramos la especie Cyathus stercoreus, quizás la más parecida a la presente, más pilosa y con hábitat coprófilo, el Cyathus striatus, de endoperidio estriado, y el Crucibulum laeve, hongo nido por excelencia, de color ocre amarillento y con diferencias estructurales claras en epifragma y exoperidio.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/cyathus_olla/cyathus_olla1.jpg",
+        "https://www.fungipedia.org/images/galerias/cyathus_olla/cyathus_olla2.jpg",
+        "https://www.fungipedia.org/images/galerias/cyathus_olla/cyathus_olla3.jpg",
+        "https://www.fungipedia.org/images/galerias/cyathus_olla/cyathus_olla4.jpg",
+        "https://www.fungipedia.org/images/galerias/cyathus_olla/cyathus_olla5.jpg",
+        "https://www.fungipedia.org/images/galerias/cyathus_olla/cyathus_olla6.jpg"
+    ]
+}

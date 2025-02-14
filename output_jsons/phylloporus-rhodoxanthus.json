@@ -1,0 +1,31 @@
+{
+    "name": "phylloporus-rhodoxanthus",
+    "title": null,
+    "author": "(Schwein.) Bres.",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Phylloporus pelletieri (Lév.) Quél."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Boletales",
+        "Familia": "Boletaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero de entre 5 y 8 cm de diámetro en edad adulta, en un principio tiene forma convexa, pero se aplana rápidamente, e incluso puede deprimirse un poco por la zona central. Es de color marrón más o menos oscuro, también en ocasiones con tonalidades rojizas. Su cutícula es finamente pubescente cuando la seta es joven, pero con el tiempo va perdiendo esta cualidad y se hace lisa. Borde regular, poco incurvado.",
+        "hymenium": "Láminas notablemente decurrentes de color amarillo con la arista pardo rojiza, gruesas y bastante separadas, bifurcadas o anastomosadas. También puede interpretarse que se trata de tubos con forma de láminas, ya que se trata de un boletal. En todo caso son fácilmente separables del sombrero.",
+        "stipe": "Pie generalmente central, a veces excéntrico, muchas veces curvado y atenuado en la base. Es de color pardo claro sobre fondo más amarillento, y tiene mucha semejanza con los pies de los Xerocomus.",
+        "flesh": "Carne más bien escasa, fibrosa en el pie, de color amarillento con difumaciones rosadas o lilas después de un rato de ser cortada. Sabor dulce y olor poco significativo."
+    },
+    "habitat": "Es una rarísima especie que aparece de forma ocasional en los meses veraniegos y durante el otoño, ligada a árboles planifolios.",
+    "observations": "Es esta una especie digna de un completo estudio, ya no microscópico, sino genético. Es una especie de transición, pero no tenemos muy claro entre que, ya que microscópicamente es afín al subgénero Xerocomus, pero macroscópicamente, se parece más a un Gomphidius que a un Paxillus. Curiosidad micológica este boletal con láminas.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/phylloporus_rhodoxanthus/phylloporus_rhodoxanthus1.jpg",
+        "https://www.fungipedia.org/images/galerias/phylloporus_rhodoxanthus/phylloporus_rhodoxanthus2.jpg",
+        "https://www.fungipedia.org/images/galerias/phylloporus_rhodoxanthus/phylloporus_rhodoxanthus3.jpg"
+    ]
+}

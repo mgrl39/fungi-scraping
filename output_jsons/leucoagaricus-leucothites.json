@@ -1,0 +1,31 @@
+{
+    "name": "leucoagaricus-leucothites",
+    "title": null,
+    "author": "(Vittad.) Wasser",
+    "additional_info": {
+        "common_name": "Lepiota blanca, galanperna zuri.",
+        "synonym": "Lepiota naucina (Fr.) P. Kumm."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Agaricales",
+        "Familia": "Agaricaceae"
+    },
+    "edibility": "comestible",
+    "characteristics": {
+        "cap": "Sombrero que en su máximo desarrollo puede aproximarse a los 10 cm de diámetro, aunque lo habitual es encontrarlo en torno a los 5 cm, con forma de campana al principio, después claramente convexo, sin llegar a aplanarse del todo. Es de color blanco puro, sobre todo de joven, aunque tiende a ensuciarse de ocre claro con la edad o el rozamiento. El borde es muy regular y en ocasiones un poco festoneado.",
+        "hymenium": "Láminas notablemente apretadas y libres con respecto al pie, muy blancas en los especímenes jóvenes, después cremas y finalmente rosadas por efecto de las esporas.",
+        "stipe": "Pie cilíndrico y alargado, superando en longitud el diámetro del sombrero, engrosado en un bulbo en la base. Es de color blanco, pero al frotamiento se ensucia primero de ocre amarillento y luego deviene en un tono marrón. Posee un anillo móvil y frágil de color blanco.",
+        "flesh": "Carne no muy espesa pero si consistente, de color blanco e inmutable al corte. Olor fúngico agradable y sabor dulce igualmente agradable."
+    },
+    "habitat": "Aparece al principio del otoño en praderas de pasto, borde de los caminos, en los claros de los pinares, e incluso en jardines públicos. Es una seta frecuente y bastante abundante.",
+    "observations": "Es una especie considerada como buen comestible por muchos autores. Además de esto, su confusión con la Amanita verna, y sobre todo con la Amanita virosa es notable, esta última sale además en la misma época del año. La diferencia más evidente con respecto a las Amanitas es que estas tienen volva y no bulbo o engrosamiento en la base del pie.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/leucoagaricus_leucothites/leucoagaricus_leucothites1.jpg",
+        "https://www.fungipedia.org/images/galerias/leucoagaricus_leucothites/leucoagaricus_leucothites2.jpg",
+        "https://www.fungipedia.org/images/galerias/leucoagaricus_leucothites/leucoagaricus_leucothites3.jpg"
+    ]
+}

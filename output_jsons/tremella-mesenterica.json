@@ -1,0 +1,32 @@
+{
+    "name": "tremella-mesenterica",
+    "title": null,
+    "author": "Retz.",
+    "additional_info": {
+        "common_name": "Gelatina amarilla, mukiziza hori.",
+        "synonym": "Tremella lutescens Pers."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Phragmobasidiomycetes",
+        "Subclase": "Tremellomycetidae",
+        "Orden": "Tremellales",
+        "Familia": "Tremellaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Carpóforo de un bello color amarillo vivo, que pierde cierta pigmentación en tiempo seco adoptando tonos anaranjados. En su primera etapa es una masa globosa que al extenderse adopta una forma lobulada, repartiendo estos lóbulos de forma irregular, pudiendo superar los 5 cm de largo y 2 o 3 de alto. Su consistencia es blanda y trémula como la gelatina.",
+        "hymenium": "Himenio que recubre toda la superficie externa de la seta, que es lisa y además brillante.",
+        "stipe": "Pie totalmente inexistente, se une al micelio en un solo punto a través de un hilo micelial.",
+        "flesh": "Carne de consistencia gelatinosa y sin que podamos reseñar nada destacable en cuanto a olor o sabor."
+    },
+    "habitat": "Es una especie que se puede encontrar en cualquier época del año, aunque preferentemente sale en la parte más fría del otoño y principio del invierno. Aparece de manera exclusiva sobre restos leñosos de planifolios, o incluso sobre los propios troncos. Se trata de una especie muy frecuente.",
+    "observations": "Carece de interés culinario. Varios autores separan las formas pálidas de esta especie como Tremella lutescens, sin sinonimizarlas, aludiendo también a la probable ausencia de conidios. Existe también la Tremella aurantia, a la que separan por ser parásita de Stereum. La Tremella foliácea es marrón, muy diferente.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/tremella_mesenterica/tremella_mesenterica1.jpg",
+        "https://www.fungipedia.org/images/galerias/tremella_mesenterica/tremella_mesenterica2.jpg",
+        "https://www.fungipedia.org/images/galerias/tremella_mesenterica/tremella_mesenterica3.jpg",
+        "https://www.fungipedia.org/images/galerias/tremella_mesenterica/tremella_mesenterica4.jpg"
+    ]
+}

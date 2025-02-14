@@ -1,0 +1,30 @@
+{
+    "name": "lactarius-controversus",
+    "title": null,
+    "author": "Pers.",
+    "additional_info": {
+        "common_name": "Lactario controverso, esneki zuri-orriarrosa, pebrás de riberada.",
+        "synonym": "Lactifluus controversus (Pers.) Kuntze"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Russulales",
+        "Familia": "Russulaceae"
+    },
+    "edibility": "no-comestible",
+    "characteristics": {
+        "cap": "Sombrero de importantes dimensiones, alcanza habitualmente los 20 a 25 cm de diámetro, convexo y con depresión central en un principio, después netamente embudado. Su color fundamental es el blanco, pero suele estar manchado de color rojo o rosado. El margen en los ejemplares jóvenes suele ser involuto, siendo lobulado irregularmente en los ejemplares viejos.",
+        "hymenium": "Láminas un poco decurrentes, en un principio son blancas, pero se van volviendo rosas o rojizas con el tiempo, bastante apretadas.",
+        "stipe": "Pie corto de color blanco, variable en su disposición, puede ser central, excéntrico o incluso lateral, duro y macizo. Ocasionalmente está manchado de rosa.",
+        "flesh": "Carne espesa y dura, pero sin embargo quebradiza, de color blanco, que exuda un látex también blanco no excesivamente abundante e inmutable al contacto con el aire. No tiene buen olor y su sabor es acre y desagradable."
+    },
+    "habitat": "Es una especie típica de los bosques de ribera, nosotros la encontramos con abundancia en las choperas. Su época de aparición suele ser el otoño, aunque también se la puede encontrar en primaveras lluviosas.",
+    "observations": "Es una seta incomestible debido a la acritud de su carne. Especie de tamaño notable y láminas rosadas, detalle que la diferencia de otros Lactarius blancos, como el Lactarius vellereus, todavía más grande y con las láminas enteramente blancas. Los demás Lactarius de su sección son más pequeños. También se parece a la Russula delica, que carece de látex.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/lactarius_controversus/lactarius_controversus1.jpg",
+        "https://www.fungipedia.org/images/galerias/lactarius_controversus/lactarius_controversus2.jpg"
+    ]
+}

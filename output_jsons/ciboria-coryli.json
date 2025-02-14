@@ -1,0 +1,32 @@
+{
+    "name": "ciboria-coryli",
+    "title": null,
+    "author": "(Schellenb.) N.F. Buchw.",
+    "additional_info": {
+        "common_name": "Ciboria de los avellanos.",
+        "synonym": "Sclerotinia coryli Schellenb."
+    },
+    "taxonomy": {
+        "División": "Ascomycota",
+        "Subdivisión": "Ascomycotina",
+        "Clase": "Himenoascomycetes",
+        "Subclase": "Pezizomycetidae",
+        "Orden": "Leotiales",
+        "Familia": "Sclerotiniaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero de tamaño bastante pequeño, similar a otras Ciborias que hemos publicado, puede alcanzar un diámetro de 15 mm en la zona superior. Tiene forma de copa, siendo esta más cerrada en los especímenes jóvenes y con tendencia a abrirse con el el desarrollo, aunque no suele llegar a aplanarse por completo, dado que siempre mantiene los bordes realzados. La cara externa es la zona no fértil del carpóforo, suele tener un color bastante variable, en función del grado de humedad, desarrollo, y de lo enterrado que este en el sustrato, de marrón oscuro hasta crema grisaceo. Suele estar recubierta en mayor o menor medida por una especie de tomento blanquecino, que puede llegar a desaparecer total o parcialmente con la lluvia. Borde regular habitualmente, aunque no es raro que presente alguna fisura o se lobule algo.",
+        "hymenium": "Himenio inserto en la superficie interna de la copa, de color similar o algo más claro que la superficie externa, liso y glabro, no suele tener el tomento típico del exterior, aunque a veces es un poco granuloso. Produce esporas irregularmente elípticas de mayor tamaño que otros congéneres, mayoritariamente con dos nucleos, y ascas con croziers en su base.",
+        "stipe": "Pie de mayor longitud que el diámetro de la copa, por regla general entre 2 o 3 cm, pero los ejemplares más enterrados desarrollan pies de mayor longitud, hasta 6 cm. Tiene un color marrón más o menos oscuro, es más ancho en la zona próxima a la copa, estrechándose hacia la base, rara vez recto, de forma más habitual sinuoso. Suele estar revestido del mismo tomento que contiene la zona externa de la copa, sobre todo hacia el ápice.",
+        "flesh": "Carne insignificante y un tanto elástica, sin ningún olor característico y totalmente insípida."
+    },
+    "habitat": "Estamos ante una especie caracterizada por su fructificación sobre viejos amentos de avellano (Corylus avellana), de forma ocasional puede ser encontrada sobre frutos podridos del año anterior. No es una especie demasiado prolífica, aunque donde sale normalmente suele hacerlo en grupos más o menos numerosos. Es una especie a la que le gusta el frío, siendo su época predilecta de aparición el final del invierno o principio de la primavera, entre los meses de Febrero y Abril, en zonas con elevada humedad o incluso embarradas a veces.",
+    "observations": "Las especies del género Ciboria son muy difíciles de diferenciar macroscópicamente dado que son todas muy similares, para identificarlas hemos de fijarnos en el sustrato donde se desarrollan, así como en el análisis microscópico. Ciboria amentacea se puede diferenciar por sus esporas más pequeñas y uninucleadas, y aunque hay alguna recolecta en avellano, normalmente suele fructificar sobre amentos de aliso (Alnus glutinosa), Ciboria caucus es más pequeña y sus esporas también (menos de 11 micras), tambíen suele salir en alisos, aunque es más cosmopolita, Ciboria batschiana crece sobre frutos viejos de roble o de castaño. Ciboria coryli se caracteriza, en definitiva, por su fructificación sobre amentos de avellano, y sus esporas grandes y binucleadas.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/ciboria_coryli/ciboria_coryli1.jpg",
+        "https://www.fungipedia.org/images/galerias/ciboria_coryli/ciboria_coryli2.jpg",
+        "https://www.fungipedia.org/images/galerias/ciboria_coryli/ciboria_coryli3.jpg",
+        "https://www.fungipedia.org/images/galerias/ciboria_coryli/ciboria_coryli4.jpg"
+    ]
+}

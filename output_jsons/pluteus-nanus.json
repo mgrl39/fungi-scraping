@@ -1,0 +1,31 @@
+{
+    "name": "pluteus-nanus",
+    "title": null,
+    "author": "(Pers.) P. Kumm.",
+    "additional_info": {
+        "common_name": "Pluteo enano",
+        "synonym": "Pluteus griseopus P.D. Orton"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Pluteales",
+        "Familia": "Pluteaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero de pequeño tamaño, el diámetro de los ejemplares desarrollados oscila entre los 2 y los 4 (5) cm, en las primeras etapas con forma cónica campanulada, abriéndose al desarrollarse hasta quedar aplanado, manteniendo en el centro un umbón obtuso. Cutícula de color marrón variable, generalmente con el centro más oscuro, finamente granulosa (sec.cellluloderma), con algunos pliegues radiales pero sin ser radialmente fibrilosa. Margen opaco al nacer pero que en los especímenes adultos es marcadamente estriado en aproximadamente dos tercios del total.",
+        "hymenium": "Láminas libres y relativamente espaciadas, bastante finas pero anchas, incluso ventrudas en ocasiones, con numerosas laminillas, cuando son jóvenes de color blanco, pero tiñéndose al madurar de color rosado por ser este el color de la esporada en masa.",
+        "stipe": "Pie alargado con respecto al sombrero, puede superar los 5 cm de largo, de color blanquecino y aspecto fibriloso sedoso, con estrías longitudinales poco resaltadas y fibrillas concoloras, suele presentar la base algo engrosada de forma habitual.",
+        "flesh": "Carne delgada y no demasiado consistente de color blanquecino, sin oxidaciones al corte y totalmente insípida, tampoco se le aprecia un olor destacable digno de mención."
+    },
+    "habitat": "Especie no demasiado abundante pero que si está ampliamente referenciada, de comportamiento saprófito, a veces aparenta estar sobre el suelo con restos leñosos enterrados y la mayoría de las veces fructifica directamente sobre la madera, tiene por tanto un carácter marcadamente lignícola. Tiene clara preferencia por la madera de planifolios diversos y puede aparecer en diversas épocas del año, sobre todo en otoño.",
+    "observations": "Estamos ante una especie caracterizada por su pequeño tamaño, su color marrón más oscuro en el centro del sombrero, margen del mismo estriado y pie blanquecino fibriloso con base engrosada. A pesar de ser una especie inocua apenas tiene carne y es totalmente insípida, por lo que carece de todo valor culinario. Es muy similar a Pluteus phlebophorus, de idéntico tamaño pero diferenciable por tener el sombrero venoso reticulado y un ligero olor rafanoide, más difícil es separarlo de Pluteus satur=Pluteus pallescens, que suele tener el pie más grisáceo y con acanaladuras mucho más evidentes, ambas especies tienen pequeñas diferencias microscópicas.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/pluteus_nanus/pluteus_nanus1.jpg",
+        "https://www.fungipedia.org/images/galerias/pluteus_nanus/pluteus_nanus2.jpg",
+        "https://www.fungipedia.org/images/galerias/pluteus_nanus/pluteus_nanus3.jpg"
+    ]
+}

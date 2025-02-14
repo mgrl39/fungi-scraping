@@ -1,0 +1,31 @@
+{
+    "name": "hygrophorus-persoonii",
+    "title": null,
+    "author": "Arnolds",
+    "additional_info": {
+        "common_name": "Hygroforo oliva y blanco, ezko kolorebiko, llenega.",
+        "synonym": "Agaricus limacinus Schaeff."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Tricholomatales",
+        "Familia": "Hygrophoraceae"
+    },
+    "edibility": "buen-comestible",
+    "characteristics": {
+        "cap": "Sombrero de tamaño medio, el diámetro de los ejemplares adultos suele oscilar por regla general entre los 4 y los 8 cm, ocasionalmente algo más, quizás acampanado en su nacimiento, pronto con forma convexa y finalmente aplanado, manteniendo el centro del mismo resaltado a modo de mamelón obtuso. Cutícula normalmente viscosa y glutinosa con tiempo lluvioso, totalmente separable de la carne, de color pardo oscuro en la zona central, color que permanece imperturbable con el desarrollo, sin embargo variable en el resto, con tonos pardos más claros con matices oliváceos en los ejemplares jóvenes, además suele presentar una zona marginal muy clara, crema o incluso blanquecina. Margen decurvado y bastante regular.",
+        "hymenium": "Láminas adnatas o subdecurrentes, de color blanco durante todo el desarrollo, medianamente separadas aunque no tanto como otras especies de su género, con laminillas cortas abundantes junto al margen, en número similar al de las propias láminas, arista regular entera.",
+        "stipe": "Pie generalmente alargado con respecto al sombrero, aunque en alguna zona geográfica se presenta una variedad de pie más corto, de color blanco de fondo, en el tercio superior pruinoso y recubierto de gránulos concolores y en los dos tercios inferiores recubierto de escamas glutinosas de color pardo. Es cilíndrico y lleno.",
+        "flesh": "Carne compacta de color blanco e inmutable al corte, con textura esponjosa, de olor imperceptible y de sabor suave, agradable."
+    },
+    "habitat": "Se trata de una especie ligada a los bosques de planifolios, forma micorrizas con árboles como la encina(Quercus ilex), alcornoque (Quercus suber), o diversas especies de robles como el melojo (Quercus pyrenaica), nuestra recolecta se hizo en bosque de Quercus robur. Es una especie de tendencia acidófila que fructifica sobre todo durante el otoño, rara vez aislada, de forma más habitual en grupos o pequeñas hileras.",
+    "observations": "A pesar de la viscosidad es un aceptable comestible, es recomendable retirar la cutícula previamente a su elaboración, buen acompañante de todo tipo de guisos aunque sin llegar a la excelencia del Hygrophorus latitabundus, especie con la cual se presta a confusión. Para diferenciar ambas especies es preciso fijarnos en primer lugar en el hábitat ya que el Hygrophorus latitabundus es propio de pinares calcáreos, no de planifolios acidófilos, ademas suele ser de mayor porte y su sombrero tiene tonos más grisáceos. Otra especie parecida es Hygrophorus olivaceoalbus, de pie delgado y estilizado. Es difícil confundir esta especie que les presentamos con ninguna tóxica.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/hygrophorus_persoonii/hygrophorus_persoonii1.jpg",
+        "https://www.fungipedia.org/images/galerias/hygrophorus_persoonii/hygrophorus_persoonii2.jpg",
+        "https://www.fungipedia.org/images/galerias/hygrophorus_persoonii/hygrophorus_persoonii3.jpg"
+    ]
+}

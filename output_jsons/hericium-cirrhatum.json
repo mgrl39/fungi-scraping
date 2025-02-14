@@ -1,0 +1,31 @@
+{
+    "name": "hericium-cirrhatum",
+    "title": null,
+    "author": "(Pers.) Nikol.",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Creolophus cirrhatus (Pers.) P. Karst."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Aphyllophoromycetidae",
+        "Orden": "Hericiales",
+        "Familia": "Hericiaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Carpóforo compuesto por una especie de sombreros imbricados unidos entre sí formando un todo y adheridos directamente al sustrato. El color de la parte superior es el crema, aunque tendiendo a ensuciarse con el tiempo hacia tonos ocráceos. Posee una especie de pelos a modo de pequeñas agujitas adheridos a la cutícula que son apreciables a simple vista. Su tamaño oscila entre los 5 y los 15 cm de anchura.",
+        "hymenium": "Himenio formado por aguijones bastante largos, superan el centímetro sin problema, de color crema cuando son muy jóvenes, pero deviniendo en tonos amarillentos rápidamente, incluso ocráceos zonalmente.",
+        "stipe": "Pie inexistente, se trata de una especie sésil.",
+        "flesh": "Carne que es blanda cuando la seta es muy joven, volviéndose con el tiempo coriácea, de color blanquecino, algo ocre de vieja. Su sabor es suave y su olor es prácticamente inapreciable."
+    },
+    "habitat": "Crece sobre todo durante el otoño, sobre árboles planifolios con preferencia por las hayas, generalmente adherida a árboles muertos o en estado terminal. Es un hongo muy raro y que debe ser protegido.",
+    "observations": "Cuando son muy jóvenes, algunos autores lo clasifican como comestible, aunque se vuelve dura la carne en seguida, por lo que entendemos que no merece la pena, además es un hongo a proteger. Esta especie está englobada dentro del género Hericium, a pesar de que estos no tienen sombreros, existiendo también diferencias notables en su trama.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/hericium_cirrhatum/hericium_cirrhatum1.jpg",
+        "https://www.fungipedia.org/images/galerias/hericium_cirrhatum/hericium_cirrhatum2.jpg",
+        "https://www.fungipedia.org/images/galerias/hericium_cirrhatum/hericium_cirrhatum3.jpg"
+    ]
+}

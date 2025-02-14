@@ -1,0 +1,31 @@
+{
+    "name": "baeospora-myosura",
+    "title": null,
+    "author": "(Fr.) Singer",
+    "additional_info": {
+        "common_name": "Colibia de las piñas, pinotxa kolibia.",
+        "synonym": "Collybia myosura (Fr.) Quél."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Tricholomatales",
+        "Familia": "Marasmiaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero muy pequeño, apenas alcanza los 2 cm de diámetro como mucho, de forma convexa pasando posteriormente a plano-convexa o incluso puede ser extendido, manteniendo en la zona central un umbo obtuso. Precisamente esta zona umbonada es de color ocre más oscuro que el resto, que es también ocre aunque palideciendo, sobre todo en el margen. Su superficie es lisa y un poco viscosa en tiempo lluvioso, y su margen no es estriado a pesar de que es un poco higrófana.",
+        "hymenium": "Láminas adnatas de color blanquecino, cremas en la madurez, estrechas y muy apretadas.",
+        "stipe": "Pie cilíndrico y alargado, rígido y tenaz, de color similar al del sombrero o algo más pálido. Se muestra un tanto radicante en la base, donde posee rizoides blanquecinos, a veces no apreciables al estar el pie muy metido en el sustrato.",
+        "flesh": "Carne escasa y poco consistente de color blanco. Olor y sabor poco relevantes, suaves."
+    },
+    "habitat": "Crece generalmente de forma gregaria sobre conos de diversas especies de pino, las encontramos frecuentemente sobre piñas expuestas, no necesariamente sobre piñas enterradas o semienterradas. Es una especie frecuente y bastante abundante que fructifica durante el otoño.",
+    "observations": "Existen varias especies que salen sobre las piñas al margen de la aquí descrita, ese es el caso de la Mycena seynesii, por lo demás de aspecto totalmente diferente. Pueden tener cierto parecido los Strobilurus, especies primaverales que fructifican siempre sobre piñas enterradas, Existe una forma primaveral clasificada como Collybia conigena, actualmente denominada Strobilurus conigenus que posee cistidios capitados y esporas no amiloides.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/baeospora_myosura/baeospora_myosura1.jpg",
+        "https://www.fungipedia.org/images/galerias/baeospora_myosura/baeospora_myosura2.jpg",
+        "https://www.fungipedia.org/images/galerias/baeospora_myosura/baeospora_myosura3.jpg"
+    ]
+}

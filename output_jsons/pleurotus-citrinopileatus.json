@@ -1,0 +1,37 @@
+{
+    "name": "pleurotus-citrinopileatus",
+    "title": null,
+    "author": "Singer",
+    "additional_info": {
+        "common_name": "Cuerno de la abundancia amarillo, seta ostra amarilla.",
+        "synonym": "Pleurotus cornucopiae var. citrinopileatus (Singer) Ohira"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Tricholomatales",
+        "Familia": "Pleurotaceae"
+    },
+    "edibility": "buen-comestible",
+    "characteristics": {
+        "cap": "Sombrero con un diámetro que oscila por regla general entre los 5 y los 10 cm, en su nacimiento de color blanquecino o crema, volviéndose amarillento con el tiempo hasta quedar totalmente de un color amarillo vivo que llama la atención. Tiene forma umbilicada en su primera etapa, pero el centro se va deprimiendo conforme madura el ejemplar hasta quedar prácticamente embudado. Su superficie es totalmente lisa y seca, algo pruinosa si acaso, y el margen, que es muy fino, permanece involuto hasta un estado de desarrollo avanzado, después es liso y ondulado.",
+        "hymenium": "Láminas densas de color blanco, muy decurrentes sobre el pie e incluso anastomosadas en la inserción con él, prolongándose como si de unas costillas se tratara.",
+        "stipe": "Pie proporcionado o alargado, unido por la base a los pies de otros ejemplares, lleno y de color blanco, recorrido por costillas sutiles provocadas por la prolongación de las láminas sobre el mismo.",
+        "flesh": "Carne un tanto tenaz de color blanco, elástica, con olor suave y sabor dulce y agradable."
+    },
+    "habitat": "Es una especie que puede encontrarse en la naturaleza sobre tocones y árboles caídos, pero es de procedencia tropical o subtropical, entre nosotros lo normal es verla cultivada, ya que se cultiva con fines comerciales desde hace unos años. No tenemos constancia de citas en nuestro territorio fuera de los sitios donde se cultiva, no sucede lo mismo que con el Pleurotus ostreatus, ya que este se encuentra con facilidad en la naturaleza. Tiene crecimiento cespitoso.",
+    "observations": "Agradecemos a Catalina Fernández, gerente de \"Hifas da terra\", la cesión de los ejemplares fotografiados. Es una seta caracterizada por el llamativo color amarillo que adopta su sombrero, sus láminas anastomosadas y prolongándose sobre el pie de forma muy marcada y su agradable sabor. Estas características diferenciadoras hacen que se trate de una especie prácticamente inconfundible, ya que otros congéneres tienen colores muy diferentes. En contra de la creencia generalizada, no se trata de una especie afín a Pleurotus ostreatus, seta ostra que se vende en bandejas también en los supermercados, sino una variedad del Pleurotus cornucopiae, o cuerno de la abundancia.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/pleurotus_citrinopileatus/pleurotus_citrinopileatus1.jpg",
+        "https://www.fungipedia.org/images/galerias/pleurotus_citrinopileatus/pleurotus_citrinopileatus2.jpg",
+        "https://www.fungipedia.org/images/galerias/pleurotus_citrinopileatus/pleurotus_citrinopileatus3.jpg",
+        "https://www.fungipedia.org/images/galerias/pleurotus_citrinopileatus/pleurotus_citrinopileatus4.jpg",
+        "https://www.fungipedia.org/images/galerias/pleurotus_citrinopileatus/pleurotus_citrinopileatus5.jpg",
+        "https://www.fungipedia.org/images/galerias/pleurotus_citrinopileatus/pleurotus_citrinopileatus6.jpg",
+        "https://www.fungipedia.org/images/galerias/pleurotus_citrinopileatus/pleurotus_citrinopileatus7.jpg",
+        "https://www.fungipedia.org/images/galerias/pleurotus_citrinopileatus/pleurotus_citrinopileatus8.jpg",
+        "https://www.fungipedia.org/images/galerias/pleurotus_citrinopileatus/pleurotus_citrinopileatus9.jpg"
+    ]
+}

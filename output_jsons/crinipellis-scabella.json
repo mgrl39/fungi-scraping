@@ -1,0 +1,32 @@
+{
+    "name": "crinipellis-scabella",
+    "title": null,
+    "author": "(Alb. & Schwein.) Murrill",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Crinipellis stipitaria (Fr.) Pat."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Tricholomatales",
+        "Familia": "Marasmiaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero de pequeño tamaño, el diámetro de un espécimen adulto oscila entre unos pocos milímetros y 1`5 cm, con forma un poco campanulada al principio, luego se vuelve convexo, y acaba por aplanarse, manteniendo en todo momento en el centro un mamelón pequeño pero bien definido. Su cutícula es algo pilosa en los ejemplares jóvenes, siempre radialmente fibrilosa, con fibrillas de color rojizo o pardo rojizo sobre un fondo más claro, crema o blanquecino. Con la edad tiende a predominar el color blanquecino o crema, quedando solo la zona central de color pardo rojizo. Margen no estriado pero si rugoso de forma irregular y recubierto de pelos de forma más notable cuando el ejemplar es joven.",
+        "hymenium": "Láminas adnatas, poco apretadas, separadas entre sí, ventrudas y de color blanquecino.",
+        "stipe": "Pie desproporcionadamente alargado en comparación con el sombrero, de color pardo castaño, recubierto de pequeñas pilosidades o tomentoso. Suele estar longitudinalmente surcado en muchas ocasiones, y a pesar de su consistencia tenaz es fistuloso.",
+        "flesh": "Carne delgada y escasa de color blanquecino, bastante tiesa, sobre todo en el pie. Su olor es poco significativo, y su sabor es dulce y suave."
+    },
+    "habitat": "Es sobre todo una especie otoñal, a veces tardía, que fructifica sobre restos herbáceos diversos y tallos de gramíneas, en todo tipo de bosques. Pasa desapercibida con cierta facilidad dado su pequeño tamaño, sin embargo es una seta bastante frecuente y de crecimiento gregario.",
+    "observations": "Pequeña seta que crece en grupos sobre la hierba, caracterizada por su mamelón central, que conserva un color pardo rojizo durante todo su desarrollo, mientras que el resto del sombrero va palideciendo. La Crinipellis corticalis es casi idéntica, diferenciable por ser más pilosa, fructificar sobre madera muerta, así como por sus esporas amigdaliformes. También se puede confundir con varios Marasmius, como por ejemplo el Marasmius cohaerens, de sombrero más ocráceo y margen estriado.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/crinipellis_scabella/crinipellis_scabella1.jpg",
+        "https://www.fungipedia.org/images/galerias/crinipellis_scabella/crinipellis_scabella2.jpg",
+        "https://www.fungipedia.org/images/galerias/crinipellis_scabella/crinipellis_scabella3.jpg",
+        "https://www.fungipedia.org/images/galerias/crinipellis_scabella/crinipellis_scabella4.jpg"
+    ]
+}

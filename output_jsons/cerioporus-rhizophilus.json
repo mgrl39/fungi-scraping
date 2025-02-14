@@ -1,0 +1,31 @@
+{
+    "name": "cerioporus-rhizophilus",
+    "title": null,
+    "author": "(Pat.) Zmitr. & Kovalenko",
+    "additional_info": {
+        "common_name": "Poliporo de las gramíneas, poliporo de las raíces.",
+        "synonym": "Polyporus rhizophilus Pat."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Aphyllophoromycetidae",
+        "Orden": "Poriales",
+        "Familia": "Polyporaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero que en los ejemplares completamente desarrollados se aproxima a los 5 cm de diámetro, de forma hemisférica en su primera etapa, adopta forma casi plana en la madurez. Superficie pileica de color claro, blanquecina o más típicamente crema, de cutícula un tanto rugosa o celulosa, completamente glabra y de apariencia seca. Margen involuto en los especímenes jóvenes, de adulto liso y un poco ondulado.",
+        "hymenium": "Himenio compuesto por tubos más bien cortos de color blanco que decurren sobre el pie, si bien no de forma acusada. Poros del mismo color cuando son jóvenes, algo más cremosos de viejos, angulosos o poligonales y de tamaño dispar.",
+        "stipe": "Pie de tamaño proporcionado al sombrero, duro y tenaz. Su disposición puede ser central o excéntrica, más raramente de disposición lateral, y su color es crema en los dos tercios superiores, oscuro en la base, casi negruzca. Es lleno, la mayoría de las veces curvado, y atenuado o subradicante en la unión con el sustrato.",
+        "flesh": "Carne tenaz y elástica, no demasiado espesa, de color blancuzco, más fibrosa en el pie. No podemos reseñar nada significativo en cuanto a olor o sabor."
+    },
+    "habitat": "Esta especie fructifica de manera exclusiva en las raíces de determinadas gramíneas, por lo que se presenta aparentemente sobre el suelo y sin árboles alrededor. Crece de forma gregaria, aunque creemos que se trata de una especie rara, poco habitual, que se la encuentra en primavera y en otoño en eriales.",
+    "observations": "Se caracteriza esta seta por su pequeño tamaño, color blanco o crema, sin escamas, y sobre todo por su hábitat sobre raíces de gramíneas, estos datos entendemos que la hacen poco menos que inconfundible. Existen otros congéneres de hábitat lignícola que pueden resultar parecidos, pero lo que llama la atención es que cuando la coges, aparenta estar sobre el suelo, y no hay ningún árbol cerca. Estos ejemplares fueron encontrados en el mes de Mayo en la localidad burgalesa de Gumiel de Izán, a la orilla de un camino, en terreno sin labrar.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/cerioporus_rhizophilus/cerioporus_rhizophilus1.jpg",
+        "https://www.fungipedia.org/images/galerias/cerioporus_rhizophilus/cerioporus_rhizophilus2.jpg",
+        "https://www.fungipedia.org/images/galerias/cerioporus_rhizophilus/cerioporus_rhizophilus3.jpg"
+    ]
+}

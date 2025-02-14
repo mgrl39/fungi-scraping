@@ -1,0 +1,31 @@
+{
+    "name": "ascocoryne-sarcoides",
+    "title": null,
+    "author": "(Jacq.) Groves & Wilson",
+    "additional_info": {
+        "common_name": "Mukizia ubel.",
+        "synonym": "Coryne sarcoides (Jacq.) Tul."
+    },
+    "taxonomy": {
+        "División": "Ascomycota",
+        "Subdivisión": "Ascomycotina",
+        "Clase": "Himenoascomycetes",
+        "Subclase": "Pezizomycetidae",
+        "Orden": "Leotiales",
+        "Familia": "Helotiaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Fructificaciones de formas diferentes según la fase en que se encuentran, en su fase conidial son elementos erectos con forma de clava, que sustentan unos conidios simples con forma de lenteja. La forma principal más conocida y típica, presenta agrupaciones de aspecto gelatinoso, cerebriforme o lobuladas irregularmente, llegando a adoptar otras diversas formas. Tanto en uno como en otro caso destaca el color uniforme rosado o lila pálido de todo el conjunto, solo cuando son viejos adoptan un color mate, marrón púrpura.",
+        "hymenium": "Himenio formado por ascas que albergan unas esporas septadas en gran parte, con hasta 3 septos por espora, aunque no todas lo son, con un tamaño que oscila mucho, pudiendo llegar a aproximarse a las 20 micras por 4 o 5.",
+        "stipe": "Carne de color rosado y consistencia gelatinosa, no tiene olor destacable y su sabor es suave.",
+        "flesh": "Es una especie que debe considerarse como relativamente frecuente, fructifica sobre madera muerta, tocones o ramas de árboles planifolios, con preferencia por el haya o el roble. Suele aparecer ya con la llegada del frío, segunda parte del otoño e incluso en invierno."
+    },
+    "habitat": "La forma conidial, también denominada anamorfa, de esta especie es considerada por diversos autores como entidad propia bajo el nombre de Coryne dubia. Existe, sin embargo, una especie que macroscópicamente es poco menos que idéntica a esta, el Ascocoryne cylichnium, que presenta esporas de mayor tamaño y mucho más septadas, llegando a tener algunas hasta 7 septos, además sus paráfisis son filiformes y con un engrosamiento en el ápice.",
+    "observations": null,
+    "images": [
+        "https://www.fungipedia.org/images/galerias/ascocoryne_sarcoides/ascocoryne_sarcoides1.jpg",
+        "https://www.fungipedia.org/images/galerias/ascocoryne_sarcoides/ascocoryne_sarcoides2.jpg",
+        "https://www.fungipedia.org/images/galerias/ascocoryne_sarcoides/ascocoryne_sarcoides3.jpg"
+    ]
+}

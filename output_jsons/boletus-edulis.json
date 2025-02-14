@@ -1,0 +1,31 @@
+{
+    "name": "boletus-edulis",
+    "title": null,
+    "author": "(Bull.)",
+    "additional_info": {
+        "common_name": "Hongo Blanco, calabaza, miguel, cep.",
+        "synonym": "Boletus bulbosus Schaeff"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Boletales",
+        "Familia": "Boletaceae"
+    },
+    "edibility": "excelente-comestible",
+    "characteristics": {
+        "cap": "Sombrero que en ocasiones alcanza grandes dimensiones, hasta 30 cm, de color muy variable, predominando el pardo, con el borde más claro. Muy carnoso, se muestra ligeramente viscoso en tiempo de lluvias, después seco. Su forma va desde hemisférica a convexa, aplanándose en la vejez.",
+        "hymenium": "Tubos blancos cuando es joven, se vuelven amarillos con el tiempo y finalmente verdosos, son separables con facilidad del sombrero y no llegan al pie (libres).",
+        "stipe": "Poros concolores, se muestran inmutables tanto al tacto como al corte.",
+        "flesh": "Pie lleno y duro, ventrudo cuando joven, después adopta una forma más cilíndrica, tan carnoso o más que el propio sombrero, de color generalmente blanco y a veces, no siempre, con una fina retícula en la parte superior."
+    },
+    "habitat": "Carne blanca e inmutable al contacto con el aire, dura cuando el ejemplar es joven, se va volviendo más esponjosa con la edad, de olor fúngico agradable y sabor a avellana.",
+    "observations": "Estamos ante una especie adaptada a multitud de hábitats. Hemos tenido el placer de encontrarla en pinares, robledales, hayedos, abetales, e incluso en jarales.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/boletus_edulis/boletus_edulis1.jpg",
+        "https://www.fungipedia.org/images/galerias/boletus_edulis/boletus_edulis2.jpg",
+        "https://www.fungipedia.org/images/galerias/boletus_edulis/boletus_edulis3.jpg"
+    ]
+}

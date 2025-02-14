@@ -1,0 +1,30 @@
+{
+    "name": "trametes-versicolor",
+    "title": null,
+    "author": "(L.) Lloyd",
+    "additional_info": {
+        "common_name": "Yesquero multicolor, larruki koloreanitz.",
+        "synonym": "Coriolus versicolor (L.) Quél."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Aphyllophoromycetidae",
+        "Orden": "Poriales",
+        "Familia": "Coriolaceae"
+    },
+    "edibility": "no-comestible",
+    "characteristics": {
+        "cap": "Carpóforo anual sésil no estipitado o pseudoestipitado, pero por lo general saliente, no resupinado, con un tamaño que puede llegar a los 10 cm de ancho, con un radio de unos 5 cm aproximadamente, y cuyo grosor es apenas de unos milímetros. Tiene forma semicircular o de abanico, abriéndose a partir del sustrato, y salen siempre en grupos más o menos numerosos e imbricados. Tiene múltiples colores dispuestos por la superficie de forma concéntrica, desde tonos claros casi blancos hasta prácticamente negros, pasando por tonos marrones o grises de distintos matices. Su superficie es vellosa en los especímenes jóvenes, quedando glabra posteriormente, y el borde se presenta ondulado de manera irregular.",
+        "hymenium": "Himenio formado por poros de pequeño tamaño, hasta 5 por mm, generalmente redondeados, a veces un poco angulosos, de color blanco, cremas con el tiempo.",
+        "stipe": "Pie Muy corto y enterrado en el sustrato o inexistente, por lo que consideramos a esta especie como sésil.",
+        "flesh": "Carne muy dura de color blanco, coriácea y fibrosa. En la zona de unión con el sustrato puede llegar a alcanzar un grosor de unos 5 mm, pero en el borde apenas alcanza los 2. Sin olor o sabor dignos de mención."
+    },
+    "habitat": "Es una especie que fructifica sobre madera de árboles planifolios, coníferas, e incluso sobre algunos frutales, provocando en el árbol una podredumbre blanca. Es un hongo muy frecuente y extendido que puede hacer acto de aparición en cualquier época del año si las condiciones ambientales son adecuadas.",
+    "observations": "Esta común especie que puebla nuestros bosques tiene importantes usos medicinales, algunos de los cuales están aún por investigar, se ha comprobado su eficacia en el tratamiento de diversos tipos de cáncer producidos por el papiloma humano, como el de mama o el de útero, además ayudan a minimizar los efectos de la quimioterapia en el ser humano. La variabilidad de su colorido ha dado lugar a la creación de algunas variedades, siendo frecuente en nuestro entorno encontrar ejemplares con predominio de zonas negruzcas, variedad que ha sido denominada como nigrescens o nigricans, dato al que no damos mayor importancia. Ninguna Trametes aúna los caracteres de esta, zonas concéntricas de diversos colores, sombrero velloso etc, por lo que consideramos que es inconfundible.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/trametes_versicolor/trametes_versicolor1.jpg",
+        "https://www.fungipedia.org/images/galerias/trametes_versicolor/trametes_versicolor2.jpg"
+    ]
+}

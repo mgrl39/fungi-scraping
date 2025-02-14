@@ -1,0 +1,31 @@
+{
+    "name": "tarzetta-catinus",
+    "title": null,
+    "author": "(Holmsk.) Korf & Rogers",
+    "additional_info": {
+        "common_name": "Peziza pálida.",
+        "synonym": "Pustularia catinus (Holmsk.) Fuckel"
+    },
+    "taxonomy": {
+        "División": "Ascomycota",
+        "Subdivisión": "Ascomycotina",
+        "Clase": "Himenoascomycetes",
+        "Subclase": "Pezizomycetidae",
+        "Orden": "Pezizales",
+        "Familia": "Pezizaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Carpóforo en forma de copa que en su parte superior puede tener 3 o 4 cm de diámetro. Su superficie externa es de color crema ocráceo y es finamente pubescente. El borde de la seta suele presentar una especie de dientes, como si estuviera aserrado, pero estos dientes no suelen terminar en punta. Apenas levanta 2 o 3 cm del suelo.",
+        "hymenium": "Himenio que recubre la superficie interior del carpóforo, concoloro, completamente liso.",
+        "stipe": "Pie muy rudimentario, apenas perceptible.",
+        "flesh": "Carne escasa y frágil, sin olor ni sabor destacables."
+    },
+    "habitat": "Suele fructificar a partir de la primavera en los suelos desprovistos de vegetación, y lo hace de manera indistinta en varios tipos de bosque, tanto de árboles de hoja ancha como coníferas.",
+    "observations": "Esta es una especie que se caracteriza por mantener su forma de copa sin llegar a abrirse como lo hacen ciertas pezizas, además tiene el borde aserrado y se la puede encontrar ya en la primavera. Hay sin embargo una especie de similares características que difícilmente se distingue de la aquí descrita, la Tarzetta cupularis, que presenta tonos más oliváceos y es de menor tamaño.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/tarzetta_catinus/tarzetta_catinus1.jpg",
+        "https://www.fungipedia.org/images/galerias/tarzetta_catinus/tarzetta_catinus2.jpg",
+        "https://www.fungipedia.org/images/galerias/tarzetta_catinus/tarzetta_catinus3.jpg"
+    ]
+}

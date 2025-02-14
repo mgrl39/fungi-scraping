@@ -1,0 +1,33 @@
+{
+    "name": "rhodocybe-gemina",
+    "title": null,
+    "author": "(Paulet) Kuiper & Noordel.",
+    "additional_info": {
+        "common_name": "Rojilla, gorritza, errotari marroi-arrosa.",
+        "synonym": "Clitopilus geminus (Paulet) Noordel. & Co-David"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Pluteales",
+        "Familia": "Entolomataceae"
+    },
+    "edibility": "buen-comestible",
+    "characteristics": {
+        "cap": "Sombrero con un diámetro que puede oscilar entre los 4 y los 10 (12) cm, de joven convexo, al irse desarrollando se aplana hacia el margen quedando el centro del mismo frecuentemente resaltado, a modo de mamelón obtuso, finalmente se aplana e incluso puede deprimirse un tanto en la vejez. Su cutícula es lisa, de color variable según condiciones climáticas y ecología, pero siempre su base cromática es ocre, con matices rojizos o rosados en su forma más típica. En un primer estado de desarrollo, el margen está fuertemente enrollado, abriéndose paulatinamente hasta quedar irregularmente ondulado en los ejemplares más desarrollados.",
+        "hymenium": "Láminas ligeramente decurrentes con abundantes laminillas, apretadas entre sí, estrechas y agudas sobre el margen, de color blanquecino a crema, ligeramente rosadas como consecuencia de la esporulación.",
+        "stipe": "Pie algo corto en los individuos jóvenes y después proporcionado al sombrero, lleno y macizo, por lo general liso aunque pruinoso en el ápice, cilíndrico, de color variable, blanquecino o del mismo color del sombrero.",
+        "flesh": "Carne espesa y consistente de color blanco, a veces con algún matiz rosado en alguna zona, de olor fúngico agradable con trasfondo harinoso y sabor igualmente agradable, quizás con algún matiz a frutos secos."
+    },
+    "habitat": "Se trata de una especie profundamente cosmopolita, debemos enumerar para ella multitud de hábitats distintos, puede salir bajo alguna conífera, bajo árboles planifolios, en árboles de ribera diversos, y como no, en pradera o páramos de montaña, siendo en este último hábitat donde sale quizás con más profusión. Es una especie que rara vez sale aislada, suele formar grupos más o menos numerosos, hileras o corros. Sus épocas del año predilectas para aparecer son la primavera y el otoño.",
+    "observations": "Esta especie constituye un comestible bastante aceptable, es carnosa y de sabor agradable, es recolectada en algunos lugares como la \"rojilla\". Existe cierta controversia sobre la separación de Rhodocybe truncata y gemina, los más recientes estudios parecen por fin separarlas. En el capítulo de confusiones cabe destacar su notable parecido con la especie Leucopaxillus gentianeus, de láminas siempre blancas y adnatas, con acentuado olor harinoso y sabor extremadamente amargo.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/rhodocybe_gemina/rhodocybe_gemina1.jpg",
+        "https://www.fungipedia.org/images/galerias/rhodocybe_gemina/rhodocybe_gemina2.jpg",
+        "https://www.fungipedia.org/images/galerias/rhodocybe_gemina/rhodocybe_gemina3.jpg",
+        "https://www.fungipedia.org/images/galerias/rhodocybe_gemina/rhodocybe_gemina4.jpg",
+        "https://www.fungipedia.org/images/galerias/rhodocybe_gemina/rhodocybe_gemina5.jpg"
+    ]
+}

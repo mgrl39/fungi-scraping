@@ -1,0 +1,31 @@
+{
+    "name": "cortinarius-inexspectatus",
+    "title": null,
+    "author": "Brandrub",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Ninguno."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Cortinariales",
+        "Familia": "Cortinariaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero de porte robusto y aspecto carnoso, cuyo tamaño puede superar los 10 cm de diámetro en los ejemplares adultos. Tiene forma hemisférica en su primera etapa de desarrollo, después convexa, y finalmente plano convexa, no llega a aplanarse del todo. Su superficie es de color pardo rojizo, salvo quizás en el margen que es más claro, ocráceo, siendo además viscosa de forma notable, sobre todo con lluvia, y radialmente fibrilosa. Margen involuto en los especímenes jóvenes, en los adultos es regular, algo incurvado si cabe, pero poco o nada ondulado.",
+        "hymenium": "Láminas adnatas o ligeramente escotadas de color claro al principio, derivando hacia el ocre con la maduración y siendo pardas en la última etapa de su desarrollo. Son estrechas y bastante apretadas entre sí, de disposición espacial irregular, poco homogénea, y con la arista irregular y concolora.",
+        "stipe": "Pie al igual que el sombrero de aspecto robusto y carnoso, cilíndrico o en forma de clava, con un bulbo marginado muy grueso en su base, de hasta 5 cm de grosor. Color de fondo blanquecino, pero recubierto de fibrillas de disposición aleatoria y restos del velo parduzcos o color roña, con una cortina abundante y persistente de color blanco que forma una zona cortiniforme a la altura del tercio superior, habitualmente teñida por las esporas que se depositan allí.",
+        "flesh": "Carne compacta y espesa, muy consistente, de color blanco e inmutable al corte. Su olor es suave, y su sabor es dulce."
+    },
+    "habitat": "Se trata de una especie exclusivamente primaveral, que fructifica bajo coníferas de montaña, siempre sobre suelos con pH básico. Es una seta muy localizada, pero fiel a los lugares donde sale, por lo que debemos catalogarla como rara. Los ejemplares fotografiados se localizan cada año entre los meses de abril y mayo, en la sierra de Cameros, en La Rioja, bajo Pinus silvestris y a una altitud aproximada de 1300 msnm.",
+    "observations": "Una vez conocida su existencia, que es lo más difícil, su identificación no resulta muy problemática debido a que se trata del único Cortinarius de la sección multiformes que sale en primavera. Existen muchos congéneres otoñales de guardarían similitud con la presente especie, entre ellos destacaremos el Cortinarius napus, que sale sobre suelos ácidos, o el Cortinarius cedretorum, que tiene las láminas más bien verdosas.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/cortinarius_inexspectatus/cortinarius_inexspectatus1.jpg",
+        "https://www.fungipedia.org/images/galerias/cortinarius_inexspectatus/cortinarius_inexspectatus2.jpg",
+        "https://www.fungipedia.org/images/galerias/cortinarius_inexspectatus/cortinarius_inexspectatus3.jpg"
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "name": "crucibulum-laeve",
+    "title": null,
+    "author": "(Huds.) Kambly",
+    "additional_info": {
+        "common_name": "Crucibulo común, hongo nido, habia hori, niuet.",
+        "synonym": "Nidularia laevis (Huds.) Huds."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Gasteromycetidae",
+        "Orden": "Nidulariales",
+        "Familia": "Nidulariaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Carpóforo cuyo diámetro medio oscila entre medio centímetro y uno, de manera excepcional hemos recogido ejemplares con diámetros próximos a los 2 cm, su altura es similar. En su primera etapa tienen forma de pequeños pastelillos, sus carpóforos son más o menos turbinados o acopados, tras su posterior evolución adoptan su forma típica de nido. El peridio que lo envuelve tiene un color amarillento pajizo, es tomentoso y está formado por un estrato separable. La superficie interna es ocre amarillenta al principio, pero con la edad se vuelve claramente grisácea, y es lisa, no estriada. Cuando el espécimen es joven toda la superficie superior está recubierta por una membrana, llamada epifragma, de color blanquecino o amarillento que se va disgregando de forma circular hasta desaparecer y dejar entrever la gleba.",
+        "hymenium": "Gleba compuesta por un líquido gelatinoso que envuelve una serie de peridíolos con forma lenticular, con el tiempo el líquido desaparece y los peridíolos, en número aproximado de 8 a 12 y de color blanquecino o crema, quedan al descubierto. Estos peridíolos están unidos a la superficie interna por un funículo.",
+        "stipe": "Pie inexistente, es una especie sésil.",
+        "flesh": "Carne insignificante, sin olor o sabor dignos de mención."
+    },
+    "habitat": "Esta especie fructifica sobre restos de todo tipo, sobre ramas, restos leñosos o vegetales, y también sobre el estiércol. Es una especie que debe ser considerada como común y abundante que puede aparecer ya desde la primavera hasta avanzado el otoño. Generalmente aparece en grupos más o menos numerosos.",
+    "observations": "Es una especie caracterizada por su forma de nido, su color amarillento y sus peridíolos blanquecinos. Puede confundirse con las especies del género Cyathus, como Cyathus stercoreus, de hábitat exclusivamente coprófilo, peridio pardo piloso y epifragma blanco o grisáceo. Una especie poco conocida y que guarda una notable similitud es la Nidularia deformis, especie más pequeña, con peridíolos más abundantes de color castaño y libres, sin funículo.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/crucibulum_laeve/crucibulum_laeve1.jpg",
+        "https://www.fungipedia.org/images/galerias/crucibulum_laeve/crucibulum_laeve2.jpg",
+        "https://www.fungipedia.org/images/galerias/crucibulum_laeve/crucibulum_laeve3.jpg",
+        "https://www.fungipedia.org/images/galerias/crucibulum_laeve/crucibulum_laeve4.jpg",
+        "https://www.fungipedia.org/images/galerias/crucibulum_laeve/crucibulum_laeve5.jpg",
+        "https://www.fungipedia.org/images/galerias/crucibulum_laeve/crucibulum_laeve6.jpg"
+    ]
+}

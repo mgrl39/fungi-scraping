@@ -1,0 +1,32 @@
+{
+    "name": "pleurotus-eryngii",
+    "title": null,
+    "author": "(D.C.) Quél.",
+    "additional_info": {
+        "common_name": "Seta de cardo, gardu ziza, gírgola de panical.",
+        "synonym": "Ninguno."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Tricholomatales",
+        "Familia": "Pleurotaceae"
+    },
+    "edibility": "excelente-comestible",
+    "characteristics": {
+        "cap": "Sombrero no demasiado grande, un ejemplar adulto oscila entre los 5 y los 10 cm de diámetro, Es convexo, pero solo en su nacimiento, ya que pronto tiende a aplanarse, e incluso a veces se deprime un poco por la zona central. Su color es ciertamente variable, hemos recolectado ejemplares de color marrón muy oscuro y otros de color ocre claro, Su superficie es un poco escamosa de joven, después lisa, mantiene el borde enrollado en los ejemplares jóvenes, pero de adulto es fino y ondulado.",
+        "hymenium": "Láminas muy decurrentes, característica definitoria de género Pleurotus, apretadas y con laminillas intercaladas. Son de color blanquecino en los especímenes jóvenes, después grisáceas u ocre claro.",
+        "stipe": "Pie más bien corto de color claro, algo más oscuro de viejo, generalmente excéntrico, e incluso puede ser lateral, es mucho más raro encontrarlo central. Lleno durante todo su desarrollo y unido por la base a la raíz de los cardos.",
+        "flesh": "Carne firme, espesa y consistente, aunque un poquito elástica, de color blanco. Su olor es suave, poco apreciable, y su sabor dulce y agradable."
+    },
+    "habitat": "Suele dar un primer brote en primavera, brotando nuevamente durante el otoño. Aparece siempre ligada a las raíces de los cardos y diversas umbilíferas, en eriales, zonas no sembradas y en las cunetas, en general en cualquier sitio donde crezcan las plantas huésped. Frecuente y extendida en muchas zonas de nuestra geografía.",
+    "observations": "Es una seta muy conocida que habitualmente suele ser recolectada, siendo además muy apreciada culinariamente, cosa que no es de extrañar dado que su sabor es excelente. En muchas zonas se recoge desde tiempo inmemorial y además ha surgido la posibilidad de adquirirlas en los mercados cultivadas. Tiene una especie afín, el Pleurotus nebrodensis, de color blanco y mayor tamaño que sale sobre umbelíferas, y varias variedades, la var. ferulae, de color crema y doble de tamaño, sobre Ferula communis, la var. elaeoselini, sobre Elaeoselinum asclepium, o la var. Thapsiae, sobre Thapsia villosa y Thapsia garganica. La especie tóxica Clitocybe rivulosa puede hallarse en los mismos lugares, tiene el pie corto y sombrero blanquecino.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/pleurotus_eryngii/pleurotus_eryngii1.jpg",
+        "https://www.fungipedia.org/images/galerias/pleurotus_eryngii/pleurotus_eryngii2.jpg",
+        "https://www.fungipedia.org/images/galerias/pleurotus_eryngii/pleurotus_eryngii3.jpg",
+        "https://www.fungipedia.org/images/galerias/pleurotus_eryngii/pleurotus_eryngii4.jpg"
+    ]
+}

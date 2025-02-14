@@ -1,0 +1,31 @@
+{
+    "name": "trichia-decipiens",
+    "title": null,
+    "author": "(Pers.) T. Macbr.",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Arcyria decipiens Berk."
+    },
+    "taxonomy": {
+        "División": "Myxomycota",
+        "Subdivisión": "Myxomycotina",
+        "Clase": "Himenoascomycetes",
+        "Subclase": "Myxogasteromycetidae",
+        "Orden": "Trichiales",
+        "Familia": "Trichiaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Esporóforo que crece de manera individual pero gregaria, con un tamaño que no sobrepasa los 3 o 4 mm de altura. Tiene a lo largo de su desarrollo una múltiple variabilidad de forma y color, empieza siendo rojizo con un pequeño pie blanco, después palidece hacia tonos ocráceo anaranjados, luego se vuelve ocre y el pie oscurece y enrojece, al final se crea un capilicio ocre amarillento. Su forma es globosa o piriforme en las primeras etapas, después, al esporular, se queda con forma de una copa rebosante de fibras. El capilicio está formado por fibras estériles alargadas en forma de espiral, sin estrías longitudinales, estas ayudan a la dispersión de las esporas que se encuentran entre ellas. El peridio es dehiscente y brillante, con pequeños pliegues hacia el pie, al madurar se rompe dando lugar al capilicio.",
+        "hymenium": "Esporas redondeadas o ligeramente oblongas, de 11 a 14 micras aproximadamente, con una especie de malla radiada alrededor, y con el borde a veces irregular.",
+        "stipe": "Pie que constituye el 50% del total de la altura, de color blanco, luego ocre rojizo, mocoso y filamentoso.",
+        "flesh": "Es una especie frecuente que se puede localizar prácticamente en cualquier época del año. Fructifica sobre todo tipo de madera muerta, cortezas o ramas de árboles. Los especímenes fotografiados se hallaban sobre madera muerta de haya."
+    },
+    "habitat": "Es la especie más habitual del grupo de las Trichias, caracterizada por su variabilidad de color, y su capilicio ocre amarillento con fibras dispuestas en espiral, y sin estrías longitudinales. Se puede confundir con un montón de especies, al punto que sin la inestimable ayuda del microscopio su identificación sería problemática. De hecho, se pueden confundir con otras de su mismo género, como la Trichia pesimilis, que solo se diferencia por los retículos que ornamentan sus esporas, y con muchas Arcyrias, como la Arcyria pomiformis.",
+    "observations": null,
+    "images": [
+        "https://www.fungipedia.org/images/galerias/trichia_decipiens/trichia_decipiens1.jpg",
+        "https://www.fungipedia.org/images/galerias/trichia_decipiens/trichia_decipiens2.jpg",
+        "https://www.fungipedia.org/images/galerias/trichia_decipiens/trichia_decipiens3.jpg"
+    ]
+}

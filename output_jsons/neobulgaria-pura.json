@@ -1,0 +1,34 @@
+{
+    "name": "neobulgaria-pura",
+    "title": null,
+    "author": "(Pers.) Petr.",
+    "additional_info": {
+        "common_name": "Mukibotoi lila.",
+        "synonym": "Ombrophila pura (Pers.) Quél."
+    },
+    "taxonomy": {
+        "División": "Ascomycota",
+        "Subdivisión": "Ascomycotina",
+        "Clase": "Himenoascomycetes",
+        "Subclase": "Pezizomycetidae",
+        "Orden": "Leotiales",
+        "Familia": "Helotiaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Ascocarpo de un tamaño referenciado bibliográficamente de hasta 4 cm de diámetro, si bien hemos de decir que los ejemplares recolectados por nosotros no excedían de los 2 cm de diámetro. Tiene forma de botón en su nacimiento o de turbina, evolucionando hacia forma de cúpula, con la zona central hundida y con el margen más levantado, realzado con respecto al centro. La superficie externa estéril es lisa de joven, arrugándose algo de vieja, con un color que va del gris brillante al marrón pálido, de vieja se vuelve marrón más oscuro y finalmente negra por necrosis.",
+        "hymenium": "Himenio integrado en la superficie interna del ascoma, completamente liso y de color gris, pudiendo tener de joven reflejos de color lila o rosa.",
+        "stipe": "Pie inexistente, se trata de una especie sésil.",
+        "flesh": "Carne gruesa para lo pequeña que es la especie, de color blanco grisáceo y translúcida, todo el conjunto, tanto interna como externamente, tiene consistencia gelatinosa. Tiene un olor fuerte, sobre todo en los ejemplares más viejos, y se trata de una especie totalmente insípida."
+    },
+    "habitat": "Es una especie que crece por regla general en grupos más o menos numerosos, adherida a troncos y ramas de planifolios diversos, con especial predilección por las hayas. Hemos constatado que suele aparecer sobre troncos o ramas apenas degradados, tanto en verano como durante el otoño. No es una especie demasiado común, solo es frecuente en los grandes hayedos.",
+    "observations": "Se caracteriza esta especie por su aspecto gelatinoso y carne translúcida, y por fructificar en troncos de haya muertos que conservan aun la corteza. Por su aspecto pudiera ser considerada como una Tremella, pero no nos olvidemos que estas son Phragmobasidiomycetes, no Ascomycetes. Ascotremella faginea guarda cierta similitud, incluso comparten hábitat, su diferencia microscópica es sin embargo clara, sus esporas están rayadas mientras que en la especie que les presentamos son lisas.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/neobulgaria_pura/neobulgaria_pura1.jpg",
+        "https://www.fungipedia.org/images/galerias/neobulgaria_pura/neobulgaria_pura2.jpg",
+        "https://www.fungipedia.org/images/galerias/neobulgaria_pura/neobulgaria_pura3.jpg",
+        "https://www.fungipedia.org/images/galerias/neobulgaria_pura/neobulgaria_pura4.jpg",
+        "https://www.fungipedia.org/images/galerias/neobulgaria_pura/neobulgaria_pura5.jpg",
+        "https://www.fungipedia.org/images/galerias/neobulgaria_pura/neobulgaria_pura6.jpg"
+    ]
+}

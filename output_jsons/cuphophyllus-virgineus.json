@@ -1,0 +1,32 @@
+{
+    "name": "cuphophyllus-virgineus",
+    "title": null,
+    "author": "(Wulfen) Kovalenko",
+    "additional_info": {
+        "common_name": "Higróforo niveo, ezko elurzuri, mocosa blanca petita.",
+        "synonym": "Hygrocybe virginea (Wulfen) P. D. Orton & Watling"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Tricholomatales",
+        "Familia": "Hygrophoraceae"
+    },
+    "edibility": "comestible",
+    "characteristics": {
+        "cap": "Sombrero poco o nada viscoso y pequeño, la mayor parte de los ejemplares de esta especie no llegan a alcanzar los 5 cm de diámetro, siendo muy frecuente encontrarlos de 2 o 3 cm. Al principio es convexo, pero se va aplanando, siendo en esta etapa obtusamente mamelonado, para acabar por embudar un tanto cuando son viejos. Los ejemplares jóvenes tienen un color blanco puro, luego son crema marfil, sobre todo por su zona central, pudiendo tener difumaciones rosadas cuando son muy maduros. El margen es involuto en la primera etapa de desarrollo, quedando después muy fino y regular, estriado por transparencia si está convenientemente hidratado.",
+        "hymenium": "Láminas notablemente decurrentes de color blanco, muy separadas entre ellas y con algunas nervaduras. Son bastante gruesas, de aspecto ceroso, pero al tacto no lo son.",
+        "stipe": "Pie más o menos cilíndrico de color blanco, puede estar algo atenuado en la base y su tamaño es proporcionado al sombrero. Lleno en los ejemplares jóvenes, se vuelve cavernoso con el tiempo, y es habitual encontrar difumaciones de color rojizo o rosado en la zona próxima a la base.",
+        "flesh": "Carne muy frágil de color blanco, se vuelve acuosa con el tiempo, su olor es prácticamente nulo y su sabor dulce y suave."
+    },
+    "habitat": "Puede aparecer en claros boscosos provistos de hierba, al borde de los caminos, pero es sin duda en campas y zonas de pastos donde aparece con mayor profusión. Es habitual que salga en grupos de numerosos individuos, durante los meses otoñales y también a principio del invierno en zonas bajas. Hemos de catalogarla como especie frecuente.",
+    "observations": "De joven resulta un comestible fino y delicado esta seta propia de las campas a la que le gusta el frío. Tradicionalmente se identificaban los individuos pequeños como Hygrophorus niveus, aunque actualmente se ha constatado la existencia de un solo taxón. También el Camarophyllus fuscescens está considerado como una simple variedad de la especie aquí descrita. Puede confundirse con el Hygrocybe russocoriacea, con marcado olor a cuero.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/cuphophyllus_virgineus/cuphophyllus_virgineus1.jpg",
+        "https://www.fungipedia.org/images/galerias/cuphophyllus_virgineus/cuphophyllus_virgineus2.jpg",
+        "https://www.fungipedia.org/images/galerias/cuphophyllus_virgineus/cuphophyllus_virgineus3.jpg",
+        "https://www.fungipedia.org/images/galerias/cuphophyllus_virgineus/cuphophyllus_virgineus4.jpg"
+    ]
+}

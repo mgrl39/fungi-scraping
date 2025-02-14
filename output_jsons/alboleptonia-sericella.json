@@ -1,0 +1,30 @@
+{
+    "name": "alboleptonia-sericella",
+    "title": null,
+    "author": "(Fr.) Largent & R.G. Benedict",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Entoloma sericellum (Fr.) P. Kumm"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Pluteales",
+        "Familia": "Entolomataceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero pequeño, la bibliografía nos marca que llega a los 4 cm de diámetro, sin embargo lo localizamos todos los años y nunca lo hemos visto de más de 2`5 cm de diámetro. Tiene forma campanulada en su nacimiento, pero se vuelve semiesférico a convexo y finalmente aplanado, aunque a veces, no siempre, puede tener un ligero mamelón. Es de color blanco satinado, brillante con lluvia, sino es más bien sedoso, y al de rato de ser recolectado se observa como la zona central va amarilleando poco a poco. Margen regular y no estriado.",
+        "hymenium": "Láminas adnatas o un poco decurrentes de color blanco, bastante regulares. Con la maduración se vuelven rosas por efecto de la esporada que es de ese color.",
+        "stipe": "Pie alargado, duplica generalmente el diámetro del sombrero, de color blanco brillante que se tiñe de amarillento al roce. Es lubrificado, sobre todo con lluvia. Central y cilíndrico, ligeramente engrosado en la base.",
+        "flesh": "Carne poco espesa, insignificante, de color blanco, más fibrosa en el pie. Su olor y sabor son poco perceptibles, suaves."
+    },
+    "habitat": "Los especímenes recolectados fueron encontrados en lugares herbosos, hábitat habitual de la especie, en este caso al borde de una pista junto a un bosque de Pinus radiata. Es una especie otoñal y más bien rara, poco frecuente.",
+    "observations": "Es una seta de pequeño tamaño que muchas veces pasa inadvertida entre la hierba. A veces es confundida por el nombre con Entoloma sericeum, que sin embargo es completamente diferente, solo se parece el nombre. Si es fácil confundirla con el Entoloma cephalotrichum, diferenciable por los pelos capitados y su hábitat sobre musgo, muchas veces adherido a la corteza de los árboles.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/alboleptonia_sericella/alboleptonia_sericella1.jpg",
+        "https://www.fungipedia.org/images/galerias/alboleptonia_sericella/alboleptonia_sericella2.jpg"
+    ]
+}

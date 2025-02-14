@@ -1,0 +1,32 @@
+{
+    "name": "clitocybe-odora",
+    "title": null,
+    "author": "(Bull.) P. Kumm.",
+    "additional_info": {
+        "common_name": "Anisada, anis-klitozibe berde, anisat.",
+        "synonym": "Clitocybe viridis (Huds.) Gillet"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Tricholomatales",
+        "Familia": "Tricholomataceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero que en su máximo esplendor apenas supera los 5 cm de diámetro, de forma un tanto globosa en su nacimiento, enseguida convexo, y finalmente aplanado, con el centro en ocasiones ligeramente hundido o umbilicado en la vejez. Es de color verde azulado cuando está convenientemente hidratado, pero se decolora hacia el verde oliva, e incluso puede llegar a ser blanquecino por desecación. Superficie lisa y un poco pruinosa.",
+        "hymenium": "Láminas adnatas o ligeramente decurrentes, de color grisáceo a verdoso pálido, mucho más claro que el sombrero. Son bastante densas.",
+        "stipe": "Pie cilíndrico y proporcionado al sombrero, de color similar al mismo o algo más pálido. Liso o débilmente fibriloso.",
+        "flesh": "Carne poco espesa, sin demasiada consistencia, algo más fibrosa en el pie, de color blanquecino, con sabor dulce demasiado empalagoso y olor intenso a anís."
+    },
+    "habitat": "Es una especie muy frecuente y abundante, que sale por igual bajo pinos y en bosques de caducifolios. Su época de aparición favorita es el otoño, y en los pinares la solemos ver formando hileras.",
+    "observations": "Es una especie que consideramos inconfundible, su color verdoso y el olor fuertemente anisado la identifican perfectamente, diferenciándola de cualquier otro Clitocybe. El Clitocybe fragrans huele también a anís, pero su porte es notablemente inferior, y es más blanquecino.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/clitocybe_odora/clitocybe_odora1.jpg",
+        "https://www.fungipedia.org/images/galerias/clitocybe_odora/clitocybe_odora2.jpg",
+        "https://www.fungipedia.org/images/galerias/clitocybe_odora/clitocybe_odora3.jpg",
+        "https://www.fungipedia.org/images/galerias/clitocybe_odora/clitocybe_odora4.jpg"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "lactarius-pergamenus",
+    "title": null,
+    "author": "(Sw.) Fr.",
+    "additional_info": {
+        "common_name": "Hongo pimentero, esne min.",
+        "synonym": "Lactarius glaucescens Crosssland"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Russulales",
+        "Familia": "Russulaceae"
+    },
+    "edibility": "no-comestible",
+    "characteristics": {
+        "cap": "Sombrero que puede superar los 10 cm de diámetro, convexo y algo deprimido de joven, luego aplanado, finalmente embudado, de color blanco mate que se ensucia al tacto, liso y satinado. El borde es fino y enrollado en los ejemplares jóvenes, lobulado irregularmente en los adultos.",
+        "hymenium": "Láminas adnatas, tan apretadas que mirando la seta a una cierta distancia no se distinguen. El color es el blanco, aunque pueden tener reflejos verdosos de viejas.",
+        "stipe": "Pie del mismo color que el sombrero, duro y macizo, central y cilíndrico, atenuado en su zona basal. Puede mancharse al frotamiento igual que el sombrero.",
+        "flesh": "Carne tremendamente picante, sabor que se manifiesta en cuanto te la acercas a la boca, de color blanco, dura pero quebradiza. Exuda un látex de color blanco, muy abundante, que se vuelve un poco verdoso cuando se seca. Su sabor acre contrasta con su olor, bastante agradable."
+    },
+    "habitat": "Fructifica en verano en bosques de planifolios, sobre todo en robledales y hayedos. No es una seta fácil de localizar, escasea bastante.",
+    "observations": "Esta seta pica tanto que es imposible comérsela, a menos que quieras destrozarte el estómago. Se parece muchísimo al Lactarius piperatus, igualmente acrescente y con las láminas muy apretadas, cuyo látex no tiene la tendencia a verdear de la especie aquí descrita. Otros Lactarius blancos no tienen las láminas tan apretadas.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/lactarius_pergamenus/lactarius_pergamenus1.jpg",
+        "https://www.fungipedia.org/images/galerias/lactarius_pergamenus/lactarius_pergamenus2.jpg",
+        "https://www.fungipedia.org/images/galerias/lactarius_pergamenus/lactarius_pergamenus3.jpg"
+    ]
+}

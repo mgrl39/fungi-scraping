@@ -1,0 +1,32 @@
+{
+    "name": "clavaria-acuta",
+    "title": null,
+    "author": "Sowerby",
+    "additional_info": {
+        "common_name": "Clavaria con forma de aguja.",
+        "synonym": "Clavaria asterospora Pat."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Aphyllophoromycetidae",
+        "Orden": "Cantharellales",
+        "Familia": "Clavariaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Carpóforo con forma de esparrago fino y estilizado o de aguja, su altura puede rebasar sin problema los 5 cm, mientras que su diámetro es de apenas un par de milímetros. La superficie fértil del cuerpo reproductor puede llegar a ocupar los dos tercios superiores, siendo de color blanco, brillante con lluvia o sino más mate. El ápice suele ser redondeado habitualmente, siendo raro que acabe en punta, y de grosor similar al resto o algo más estrecho.",
+        "hymenium": "Himenio inmerso en la superficie del carpóforo, liso y concolor.",
+        "stipe": "Pie que ocupa la zona inferior del carpóforo, perfectamente diferenciable del resto macroscópicamente, de color blanco grisáceo y aspecto translúcido. Su grosor es notablemente inferior a la zona superior, prácticamente se reduce a la mitad.",
+        "flesh": "Carne escasa y frágil de color blanco, el carpóforo es hueco. Apenas posee un olor perceptible y su sabor es suave."
+    },
+    "habitat": "Crece en el suelo, sobre hojas descompuestas de planifolios, también en claros boscosos húmedos y zonas musgosas, además se describe para ella hábitat en prados. Es una especie tardía, de localización otoñal o de principios del invierno. Puede aparecer solitaria o en grupos más o menos numerosos, pero nunca de forma fasciculada ni en haces.",
+    "observations": "Se destaca de esta especie su aspecto estilizado, su color blanco, y la presencia de un pie diferenciable. Es muy similar a la Clavaria fragilis, que crece en campas y pastizales, generalmente en haces, y que no posee un pie diferenciable del resto. La Clavaria fumosa, también crece en haces y es de color cuero.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/clavaria_acuta/clavaria_acuta1.jpg",
+        "https://www.fungipedia.org/images/galerias/clavaria_acuta/clavaria_acuta2.jpg",
+        "https://www.fungipedia.org/images/galerias/clavaria_acuta/clavaria_acuta3.jpg",
+        "https://www.fungipedia.org/images/galerias/clavaria_acuta/clavaria_acuta4.jpg"
+    ]
+}

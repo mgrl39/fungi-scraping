@@ -1,0 +1,31 @@
+{
+    "name": "lycogala-epidendrum",
+    "title": null,
+    "author": "(J.C. Buxb. ex L.) Fr.",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Lycogala epidendron (Micheli) Fries"
+    },
+    "taxonomy": {
+        "División": "Myxomycota",
+        "Subdivisión": "Myxomycotina",
+        "Clase": "Myxomycetes",
+        "Subclase": "Myxogasteromycetidae",
+        "Orden": "Liceales",
+        "Familia": "Lycogalaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Plasmodio formado por mútiples venillas que se entrelazan y endurecen en determinadas condiciones, formando una masa compacta de color rojo escarlata sobre la que se desarrollan los cuerpos fructíferos de la especie.",
+        "hymenium": "Etalios que es como se denominan este tipo de fructificaciones, de color rosa muy llamativo cuando son jóvenes, se vuelven luego rojizos, y finalmente de un color ocre arcilloso mate. Se presentan en forma de esferas de desarrollo individual, a veces interconexionadas, pero no unidas entre sí. Su superficie está recubierta en su totalidad por unas protuberancias visibles con lupa, que acaban por formar una especie de costra a su alrededor.",
+        "stipe": "Pie inexistente.",
+        "flesh": "Carne que no existe como tal, el interior alberga cuando es joven una especie de masa de color rojo con matiz rosáceo. Al madurar se convierte en una masa pulverulenta marrón. No se le aprecia ningún tipo de olor."
+    },
+    "habitat": "Es frecuente encontrar esta especie en nuestro radio de acción, la vemos todos los años sobre madera en descomposición de coníferas. Puede verse desde la primavera hasta bien entrado el otoño.",
+    "observations": "Especie perteneciente al orden Liceales, un orden muy variable, que tiene como característica común la no presencia de carbonato cálcico, y la creación de faneroplasmodios. En fase de plasmodio puede ser confundida con la Tubifera ferruginosa, sin embargo esta no desarrolla verdaderos etalios. En realidad estas bolitas rosas que crecen sobre la madera son poco menos que inconfundibles.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/lycogala_epidendrum/lycogala_epidendrum1.jpg",
+        "https://www.fungipedia.org/images/galerias/lycogala_epidendrum/lycogala_epidendrum2.jpg",
+        "https://www.fungipedia.org/images/galerias/lycogala_epidendrum/lycogala_epidendrum3.jpg"
+    ]
+}

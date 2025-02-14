@@ -1,0 +1,34 @@
+{
+    "name": "mycena-corynephora",
+    "title": null,
+    "author": "Maas Gesteranus",
+    "additional_info": {
+        "common_name": "Mycena harinosa.",
+        "synonym": "Ninguno."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Agaricales",
+        "Familia": "Mycenaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero de pequeñísimo tamaño, en el mejor de los casos puede rondar los 5 mm de diámetro, con forma campanulada cuando la seta es joven, después hemisférica, y finalmente con forma convexa, sin llegar nunca a aplanarse del todo. Es de color crema grisáceo al principio y luego más bien blanquecino, estriado por transparencia casi en su totalidad. Su superficie está recubierta de abundantes restos del velo, esto le da un aspecto furfuráceo o harinoso muy apreciable. El margen, algo crenulado, es regular al principio, pero con la edad tiende a abrirse, y puede también poseer restos el velo.",
+        "hymenium": "Láminas escasas en número debido a que la seta es pequeña y están muy separadas entre sí, de color blanco, adnatas y ascendentes.",
+        "stipe": "Pie cilíndrico y alargado, generalmente curvado, de color blanco y un poco engrosado en la base. El revestimiento que posee es aun más acusado que en el sombrero, por lo que de aspecto furfuráceo o harinoso pasa a ser prácticamente hirsuto. Es frágil como buena Mycena que es, y muchas veces llega a ser translúcido.",
+        "flesh": "Carne insignificante, sin apenas olor ni sabor digno de mención."
+    },
+    "habitat": "Fructifica sobre cortezas en descomposición de planifolios diversos, también se localiza sobre restos vegetales. Es una seta difícil de localizar por su pequeño tamaño, hemos de considerarla como muy rara y poco referenciada en la península. Puede llegar a salir en cualquier época del año si las condiciones ambientales son las adecuadas.",
+    "observations": "Se trata de una seta poco conocida, en parte por su pequeño tamaño, pero también por las dificultades que presenta su identificación, en la que resulta indispensable un estudio pormenorizado y el uso del microscopio. A simple vista llama la atención el pie con su revestimiento casi piloso, pero es muy parecida a la Mycena tenerrima, así como a otras especies como la Phloeomana hiemalis, que tiene el sombrero viscídulo.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/mycena_corynephora/mycena_corynephora1.jpg",
+        "https://www.fungipedia.org/images/galerias/mycena_corynephora/mycena_corynephora2.jpg",
+        "https://www.fungipedia.org/images/galerias/mycena_corynephora/mycena_corynephora3.jpg",
+        "https://www.fungipedia.org/images/galerias/mycena_corynephora/mycena_corynephora4.jpg",
+        "https://www.fungipedia.org/images/galerias/mycena_corynephora/mycena_corynephora5.jpg",
+        "https://www.fungipedia.org/images/galerias/mycena_corynephora/mycena_corynephora6.jpg"
+    ]
+}

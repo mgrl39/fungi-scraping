@@ -1,0 +1,31 @@
+{
+    "name": "strobilurus-tenacellus",
+    "title": null,
+    "author": "(Pers.) Singer",
+    "additional_info": {
+        "common_name": "Collybia tenaz, Pinotxa-kolibia min.",
+        "synonym": "Collybia tenacella (Pers.) P. Kumm."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Tricholomatales",
+        "Familia": "Marasmiaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero de pequeñas dimensiones, apenas alcanza los 3 cm de diámetro, campanulado en un principio, después convexo a plano-convexo. Frecuentemente presenta un mamelón en su zona central. Su cutícula es de color marrón oscuro o pardo, lisa y con el borde del sombrero no estriado.",
+        "hymenium": "Láminas adherentes al pie o libres, de color blanquecino y no muy apretadas, aunque si algo gruesas en relación al tamaño de la seta.",
+        "stipe": "Pie muy largo, cilíndrico, de consistencia tenaz, de color marrón en la parte inferior y más pálido hacia el sombrero. Termina por su zona basal en una especie de raíz muy larga recubierta de pilosidad que en ocasiones supera el tamaño de la propia seta.",
+        "flesh": "Carne blanca de consistencia elástica y bastante tenaz, de olor fúngico suave apenas perceptible y sabor algo amargo al de un rato de masticación."
+    },
+    "habitat": "Es una especie primaveral que fructifica sobre piñas enterradas de diversos tipos de pinos. Cuando la encuentras da la sensación de estar sobre la tierra. Es relativamente frecuente.",
+    "observations": "No es comestible debido al amargor que tiene su carne al rato de ser masticada, cosa que no sucede con la Strobilurus esculentus, que sale en la misma época sobre conos de diversas piceas, y cuya carne es dulce, siendo por lo tanto degustable. Muy parecida y también dulce es la Strobilurus stephanocystis, que sale en la misma época y lugares que la especie aquí descrita, de tonos marrón rojizos.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/strobilurus_tenacellus/strobilurus_tenacellus1.jpg",
+        "https://www.fungipedia.org/images/galerias/strobilurus_tenacellus/strobilurus_tenacellus2.jpg",
+        "https://www.fungipedia.org/images/galerias/strobilurus_tenacellus/strobilurus_tenacellus3.jpg"
+    ]
+}

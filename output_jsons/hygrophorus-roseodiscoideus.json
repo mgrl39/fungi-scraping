@@ -1,0 +1,34 @@
+{
+    "name": "hygrophorus-roseodiscoideus",
+    "title": null,
+    "author": "Bon & Chevassut",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Ninguno."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Tricholomatales",
+        "Familia": "Hygrophoraceae"
+    },
+    "edibility": "comestible",
+    "characteristics": {
+        "cap": "Sombrero de tamaño nada desdeñable para su grupo, de forma habitual por encima de 5cm de diámetro y aproximándose con frecuencia a los 10cm. Tiene forma convexa por lo general, si bien se aplana posteriormente hasta quedar algo deprimido de viejo, pero manteniendo a lo largo de todo su desarrollo un mamelón central. Su superficie es bastante viscosa con lluvia e incluso brillante en época seca, fibrilosa y con el centro de color pardo rojizo más oscuro que el resto, una amplia zona de color rosado y el margen crema. Este margen permanece involuto largo tiempo.",
+        "hymenium": "Láminas adnatas en algunos ejemplares y decurrentes en otros, como es habitual en el género bastante separadas entre sí, de color crema con matices rosados o cárneos.",
+        "stipe": "Pie bastante alargado de color blanquecino con algún matiz rosado o cárneo como sucede en las láminas, claramente atenuado hacia la base y a veces hasta radicante. Es viscoso, pero no tanto como el sombrero, y suele presentar una zona anuliforme, debido a tener velo parcial patente, que tiende a desaparecer con el tiempo.",
+        "flesh": "Carne densa en el sombrero, de color blanco pero rosada bajo la cutícula, tanto su olor como su sabor son suaves y agradables."
+    },
+    "habitat": "Estamos ante una especie poco frecuente y de aparición tardía, eso sí, donde sale acostumbra a hacerlo en grupo, rara vez aislada. Su época predilecta de aparición es el final del otoño o la primera parte del invierno, fructificando en bosques de encinas y robles preferentemente.",
+    "observations": "Se trata de una especie comestible a la que se debe extraer la cutícula, aceptable al decir de algunos pero no es un gran comestible. Se caracteriza por su sombrero viscoso y mamelonado, con el centro más oscuro y su aparición tardía. Hygrophorus discoideus es parecido, con tonos más claros, y sus esporas son notablemente más pequeñas. Hygrophorus lindtneri es también fácilmente confundible, pero tiene un hábitat preferente bajo avellanos, aunque sale también en hayas, es más viscoso si cabe.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/hygrophorus_roseodiscoideus/hygrophorus_roseodiscoideus1.jpg",
+        "https://www.fungipedia.org/images/galerias/hygrophorus_roseodiscoideus/hygrophorus_roseodiscoideus2.jpg",
+        "https://www.fungipedia.org/images/galerias/hygrophorus_roseodiscoideus/hygrophorus_roseodiscoideus3.jpg",
+        "https://www.fungipedia.org/images/galerias/hygrophorus_roseodiscoideus/hygrophorus_roseodiscoideus4.jpg",
+        "https://www.fungipedia.org/images/galerias/hygrophorus_roseodiscoideus/hygrophorus_roseodiscoideus5.jpg",
+        "https://www.fungipedia.org/images/galerias/hygrophorus_roseodiscoideus/hygrophorus_roseodiscoideus6.jpg"
+    ]
+}

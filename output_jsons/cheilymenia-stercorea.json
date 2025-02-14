@@ -1,0 +1,30 @@
+{
+    "name": "cheilymenia-stercorea",
+    "title": null,
+    "author": "(Pers.) Boud.",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Peziza stercorea Pers."
+    },
+    "taxonomy": {
+        "División": "Ascomycota",
+        "Subdivisión": "Ascomycotina",
+        "Clase": "Himenoascomycetes",
+        "Subclase": "Pezizomycetidae",
+        "Orden": "Pezizales",
+        "Familia": "Humariaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Carpóforo de ínfimo tamaño, en el mejor de los casos su diámetro apenas alcanza 2 o 3 mm. Tiene forma cóncava o un poco acopada en las primeras etapas de su desarrollo, evolucionando hasta quedar prácticamente discoidal y aplanada. El color de la superficie externa es el naranja más o menos intenso, y está recubierta de pelos que se hacen más patentes hacia el margen al prolongarse de forma erizada. Estos pelos del margen son además más oscuros y largos, en algún caso pueden llegar a alcanzar 1 mm de longitud, y es habitual que estos pelos excipulares se presenten ramificados en forma de estrella.",
+        "hymenium": "Himenio liso de color similar a la superficie externa, pero carente de los pelos que presenta esta.",
+        "stipe": "Pie inexistente, se trata de una especie sésil.",
+        "flesh": "Carne frágil y poco significativa de aspecto céreo, sin que podamos reseñar nada digno de mención en cuanto a olor o sabor."
+    },
+    "habitat": "Se trata de un Ascomycete de fructificación coprófila, sale siempre sobre estiércol, con preferencia por el del ganado bovino. Es una especie de fructificación gregaria, forma colonias importantes sobre las boñigas. Si las condiciones son favorables, puede aparecer prácticamente en cualquier época del año. Es una especie frecuente que pasa muchas veces inadvertida dado su pequeño tamaño.",
+    "observations": "El género Cheilymenia lo componen especies muy pequeñas, acopadas o paletiformes, con colores vivos, amarillentos, anaranjados o rojizos, y que tienen en común la presencia de pelos en el excípulo. Scutellinia crucipila es muy similar, también con pelos estrellados, pero de hábitat más terrícola. Existen muchas otras especies de similares características macroscópicas, precisándose un pormenorizado análisis microscópico para su correcta determinación.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/cheilymenia_stercorea/cheilymenia_stercorea1.jpg",
+        "https://www.fungipedia.org/images/galerias/cheilymenia_stercorea/cheilymenia_stercorea2.jpg"
+    ]
+}

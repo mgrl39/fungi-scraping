@@ -1,0 +1,34 @@
+{
+    "name": "dermoloma-cuneifolium",
+    "title": null,
+    "author": "(Fr.) Singer ex Bon",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Dermoloma atrocinereum (Pers.) Herink"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Tricholomatales",
+        "Familia": "Dermolomataceae"
+    },
+    "edibility": "toxica",
+    "characteristics": {
+        "cap": "Sombrero pequeño, los ejemplares adultos tienen un diámetro que puede llegar a aproximarse a los 5 cm, en nuestro caso ningún ejemplar los rebasaba y la mayoría oscilaban entre 2 y 4 cm. Tiene forma inicialmente campanulada o cónico-campanulada, abriéndose posteriormente hacia forma convexa y finalmente se aplana. Su cutícula es de color pardo, bastante uniforme en los ejemplares jóvenes, después palidece hacia el margen de forma notable preservando un tono pardo oscuro en el centro, es lisa y seca, solo brillante con lluvia pero nunca viscosa. El margen tiende a ondularse en muchos ejemplares cuando se aplana.",
+        "hymenium": "Láminas escotadas antes de llegar al pie y adheridas a este por un diente, muy separadas entre sí, anchamente ventrudas y sinuosas, de color blanquecino en algunos ejemplares y grisáceo de forma predominante.",
+        "stipe": "Pie proporcionado en tamaño al sombrero, fistuloso desde joven, fibriloso, cilíndrico, de color blanquecino y en ocasiones recubierto de escamosidades ocráceas.",
+        "flesh": "Carne poco espesa y poco consistente, de color blanquecino o algo grisácea, fácilmente quebradiza, tiene un olor harinoso muy marcado que recuerda a la Calocybe gambosa y un sabor análogo."
+    },
+    "habitat": "Estamos ante una especie de fructificación claramente pratícola, nuestra recolecta se efectuó en campa de pasto con ganado ovino, en zona de baja altitud en la provincia de Bizkaia (España). Crece por regla general en grupos no muy numerosos formando corro o hilera, la hemos visto durante el mes de diciembre. Se trata de una especie considerada como muy rara.",
+    "observations": "Estamos ante una especie más bien pequeña con magnífico olor y sabor pero con una notable cantidad de muscarina en su composición. El aspecto de esta seta recuerda bastante a las especies del género Hygrocybe con las que comparte hábitat, sobre todo al Hygrocybe nitrata=Hygrocybe murinacea, de colores parecidos pero con fuerte olor a lejía o amoniaco. La confusión posible más peligrosa es con el Tricholoma terreum o negrilla, pero esta no tiene el olor tan marcadamente harinoso y su sombrero es gris ratón y piloso.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/dermoloma_cuneifolium/dermoloma_cuneifolium1.jpg",
+        "https://www.fungipedia.org/images/galerias/dermoloma_cuneifolium/dermoloma_cuneifolium2.jpg",
+        "https://www.fungipedia.org/images/galerias/dermoloma_cuneifolium/dermoloma_cuneifolium3.jpg",
+        "https://www.fungipedia.org/images/galerias/dermoloma_cuneifolium/dermoloma_cuneifolium4.jpg",
+        "https://www.fungipedia.org/images/galerias/dermoloma_cuneifolium/dermoloma_cuneifolium5.jpg",
+        "https://www.fungipedia.org/images/galerias/dermoloma_cuneifolium/dermoloma_cuneifolium6.jpg"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "typhula-culmigena",
+    "title": null,
+    "author": "(Mont. & Fr.) Berthier",
+    "additional_info": {
+        "common_name": "Tipula de esporas con forma de corazón.",
+        "synonym": "Pistillaria culmigena Mont. & Fr."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Agaricales",
+        "Familia": "Typhulaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Carpóforo con característica forma de clávula, apreciándose dos partes perfectamente delimitadas, una superior que es la clávula propiamente dicha y una especie de pie. Zona superior claviforme de color blanco puro satinado en ejemplares jóvenes, adoptando tonos más oscuros cuando el ejemplar se aproxima al ocaso, con el ápice generalmente obtuso, nunca terminado en punta, y con un tamaño muy pequeño, esta parte del basidioma no suele exceder de 1´5 mm, el tamaño total del carpóforo en esta especie suele oscilar entre 1´5 y 2´5 mm, lo que dificulta enormemente su localización.",
+        "hymenium": "Himenio inmerso en la superficie de la parte superior o clávula, siendo la zona del pie esteril, produce unas características basidiosporas con forma de corazón (cordiformes), y basidios claviformes con fíbula basal (ver características microscópicas).",
+        "stipe": "Pie generalmente de menor longitud que la clávula o similar en ocasiones, de color blanco más translúcido que esta, e igualmente con tendencia a oscurecer en la madurez. Es cilíndrico, liso y glabro, con la superficie provista de hifas gelificadas, se une directamente al sustrato sin presencia de esclerocio.",
+        "flesh": "Carne totalmente insignificante sin olor o sabor dignos de mención."
+    },
+    "habitat": "El tamaño de este tipo de especies hace que sea complicado encontrarlas, esta en concreto creemos que no es tan inusual como parece, fructifica generalmente en grupos más o menos numerosos sobre diversos tallos herbaceos en descomposición o envejecidos. No creemos que tenga predilección por una época del año concreta para su fructificación, siempre que se reunan las condiciones necesarias para la misma, la hemos localizado tanto en primavera como en otoño. Su comportamiento saprótrofo de la hierba hace que no sea relevante hacer referencia a un tipo determinado de bosque para su localización.",
+    "observations": "Especie de ínfimo tamaño muy difícil de diferenciar macroscópicamente de otras especies de su género, sin embargo al micro esa tarea resulta sencilla debido a sus características esporas en forma de corazón. Se caracteriza así mismo por la ausencia de esclerocio y la presencia de un pie diferenciado provisto de hifas gelificadas. Todas estas características hacen que se pueda diferenciar de especies afines como Typhula quisquillaris o Typhula graminum, en ambos casos con diferente forma esporal, presencia de esclerocio y pelos en el pie.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/typhula_culmigena/typhula_culmigena1.jpg",
+        "https://www.fungipedia.org/images/galerias/typhula_culmigena/typhula_culmigena2.jpg",
+        "https://www.fungipedia.org/images/galerias/typhula_culmigena/typhula_culmigena3.jpg"
+    ]
+}

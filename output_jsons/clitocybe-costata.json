@@ -1,0 +1,31 @@
+{
+    "name": "clitocybe-costata",
+    "title": null,
+    "author": "Kummer & Romagnesi",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Infundibulicybe costata (Kühner & Romagn.) Harmaja"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Tricholomatales",
+        "Familia": "Tricholomataceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero no demasiado grande, de 4 a 8 cm de diámetro como mucho, al principio plano-cóncavo, para adquirir posteriormente forma de embudo, no está umbonado. Es de color ocre o gamuza, bastante uniforme, teniendo como característica diferenciadora el borde del propio sombrero, que posee una especie de ondulaciones, entre medias de las cuales se forman unos costillares apreciables a simple vista. La superficie es lisa o algo sedosa de joven.",
+        "hymenium": "Láminas más bien apretadas, de color blanco, que se muestran muy decurrentes sobre el pie.",
+        "stipe": "Pie central, cilíndrico y alargado, de color similar al sombrero o algo más pálido, fibriloso.",
+        "flesh": "Carne de color blanquecino, no demasiado consistente y tenaz, más fibrosa en el pie, de sabor dulce no desagradable y olor afrutado."
+    },
+    "habitat": "Es una especie básicamente otoñal, que fructifica sobre todo en bosques de coníferas, aunque no es descartable su localización bajo planifolios. Es mucho menos frecuente que otros clitocybes de su grupo.",
+    "observations": "Esta seta se distingue por el borde del sombrero crenulado y con costillares, lo que la separa de otras especies por lo demás muy parecidas, como pueden ser el Clitocybe gibba, más típico de frondosas, la Paralepista flaccida, de sombrero más ocre leonado, o el Bonomyces sinopicus, especie que se localiza habitualmente sobre suelo quemado o restos de hogueras, todos ellos sin valor culinario.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/clitocybe_costata/clitocybe_costata1.jpg",
+        "https://www.fungipedia.org/images/galerias/clitocybe_costata/clitocybe_costata2.jpg",
+        "https://www.fungipedia.org/images/galerias/clitocybe_costata/clitocybe_costata3.jpg"
+    ]
+}

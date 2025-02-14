@@ -1,0 +1,34 @@
+{
+    "name": "xylaria-longipes",
+    "title": null,
+    "author": "Nitschke",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Xylosphaera longipes (Nitschke) Dennis"
+    },
+    "taxonomy": {
+        "División": "Ascomycota",
+        "Subdivisión": "Ascomycotina",
+        "Clase": "Himenoascomycetes",
+        "Subclase": "Pyrenomycetidae",
+        "Orden": "Sphaeriales",
+        "Familia": "Sphaeriaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Carpóforo formado por estromas de color negro, alargados y claramente estipitados. Su altura puede superar sin problemas los 5 cm, siendo más ancho en la zona superior fértil, que tiene forma de clava por lo general, si bien a veces es más irregular. La superficie externa pasa de ser granulosa a arrugarse y agrietarse con la maduración, dejando entrever de alguna manera la carne interior cuyo color contrasta de manera notable.",
+        "hymenium": "Himenio situado en la superficie externa de la zona superior del ascocarpo, granuloso en un principio a causa de los peritecios, nunca liso, con tendencia a agrietarse. Produce ascósporas elipsoidales de color pardo oliva.",
+        "stipe": "Pie alargado generalmente, dato significativo que da nombre a la especie. Es estéril y está perfectamente delimitado de la zona superior fértil. Tiene un color muy oscuro, similar al resto del carpóforo, siendo la base muy negra y marcadamente tomentosa.",
+        "flesh": "Carne de color blanquecino que contrasta totalmente con la superficie externa negruzca. Carece de un olor apreciable y su sabor tampoco es significativo."
+    },
+    "habitat": "Es una especie caracterizada por su hábitat preferencial sobre madera de arce, eminentemente lignícola. Han sido encontradas en el mes de febrero, aunque pueden aparecer en su forma principal desde el otoño, siendo más habitual durante la primavera su forma conidial, imperfecta o anamorfa, que de las tres maneras se la suele denominar. Los especímenes recolectados fueron hallados en bosque mixto con varias especies arbóreas, sobre todo alisos, pero también algún arce. Es mucho menos frecuente que otros congéneres.",
+    "observations": "Esta Xylaria se caracteriza por la presencia de un pie bien delimitado y la tendencia de su superficie externa a arrugarse o agrietarse. En primavera brota una forma conidial que se presenta sin el pie tan claramente delimitado y progresivamente atenuada hacia el ápice, como un asta de toro, recubierta por conidios que le confieren un color grisáceo. La Xylaria polymorpha, al adoptar múltiples formas, también puede presentarse esbelta y ser confundida con esta, pero carece de un pie bien delimitado y su superficie nunca se arruga. La forma principal de Xylaria hypoxylon se diferencia por poseer ostíolos que sobresalen de forma notable de la superficie.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/xylaria_longipes/xylaria_longipes1.jpg",
+        "https://www.fungipedia.org/images/galerias/xylaria_longipes/xylaria_longipes2.jpg",
+        "https://www.fungipedia.org/images/galerias/xylaria_longipes/xylaria_longipes3.jpg",
+        "https://www.fungipedia.org/images/galerias/xylaria_longipes/xylaria_longipes4.jpg",
+        "https://www.fungipedia.org/images/galerias/xylaria_longipes/xylaria_longipes5.jpg",
+        "https://www.fungipedia.org/images/galerias/xylaria_longipes/xylaria_longipes6.jpg"
+    ]
+}

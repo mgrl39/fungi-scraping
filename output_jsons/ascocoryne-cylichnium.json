@@ -1,0 +1,34 @@
+{
+    "name": "ascocoryne-cylichnium",
+    "title": null,
+    "author": "(Tul.) Korf.",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Coryne cylichnium (Tul.) Boud."
+    },
+    "taxonomy": {
+        "División": "Ascomycota",
+        "Subdivisión": "Ascomycotina",
+        "Clase": "Himenoascomycetes",
+        "Subclase": "Pezizomycetidae",
+        "Orden": "Leotiales",
+        "Familia": "Helotiaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Fructificaciones subsésiles o con la presencia de un estípite inmerso en el sustrato. Tienen un color violeta llamativo de jóvenes, luego de un color morado con matiz granate. En su primera etapa tienen una forma de botón de pulsador o discoidal, luego se eleva por el margen adoptando una forma más o menos de cúpula, y finalmente se lobula u ondula irregularmente. Como suelen crecer agrupadas no es inhabitual que interactúen entre ellas formando pliegues.",
+        "hymenium": "Himenio liso y concoloro que se arruga al alcanzar la madurez. Alberga ascas que producen ascósporas elipsoidales que de maduras son multiseptadas.",
+        "stipe": "Pie en la mayor parte de los casos evidente, bien como una simple prolongación del sombrero hacia el sustrato, o incluso como un verdadero pie, lo que ocurre es que la mayoría de las veces está hendido en el sustrato y puede pasar desapercibido. Suele tener el mismo color que el resto del ascocarpo y se atenúa paulatinamente hacia la base.",
+        "flesh": "Carne de consistencia gelatinosa y color prácticamente idéntico a la superficie externa. Su sabor es insípido y carece de un olor que se perciba fácilmente."
+    },
+    "habitat": "Ha sido localizada sobre un tronco caído de haya (Fagus sylvatica), que dicho sea de paso es su hábitat predilecto, aunque puede salir en madera degradada de otros planifolios. Es un hongo que fructifica en el otoño tardío y durante el invierno, siendo muy poco frecuente.",
+    "observations": "Este hongo guarda un notable parecido con el Ascocoryne sarcoides, al punto que macroscópicamente es muy difícil diferenciarlos, sobre todo si son adultos, si bien este último no adopta forma de cúpula. Las diferencias más marcadas son microscópicas, la especie aquí descrita tiene esporas de mayor tamaño, multiseptadas cuando maduran y las paráfisis son filiformes y no ramificadas como sucede en el Ascocoryne sarcoides. Coryne dubia es una forma conidiógena de Ascocoryne más ramificada.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/ascocoryne_cylichnium/ascocoryne_cylichnium1.jpg",
+        "https://www.fungipedia.org/images/galerias/ascocoryne_cylichnium/ascocoryne_cylichnium2.jpg",
+        "https://www.fungipedia.org/images/galerias/ascocoryne_cylichnium/ascocoryne_cylichnium3.jpg",
+        "https://www.fungipedia.org/images/galerias/ascocoryne_cylichnium/ascocoryne_cylichnium4.jpg",
+        "https://www.fungipedia.org/images/galerias/ascocoryne_cylichnium/ascocoryne_cylichnium5.jpg",
+        "https://www.fungipedia.org/images/galerias/ascocoryne_cylichnium/ascocoryne_cylichnium6.jpg"
+    ]
+}

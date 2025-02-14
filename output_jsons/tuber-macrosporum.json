@@ -1,0 +1,34 @@
+{
+    "name": "tuber-macrosporum",
+    "title": null,
+    "author": "Vittad.",
+    "additional_info": {
+        "common_name": "Trufa negra lisa, trufa de grandes esporas.",
+        "synonym": "Tuber rhenanum Fuckel"
+    },
+    "taxonomy": {
+        "División": "Ascomycota",
+        "Subdivisión": "Ascomycotina",
+        "Clase": "Himenoascomycetes",
+        "Subclase": "Pezizomycetidae",
+        "Orden": "Pezizales",
+        "Familia": "Tuberaceae"
+    },
+    "edibility": "excelente-comestible",
+    "characteristics": {
+        "cap": "Carpóforo que suele tener un tamaño más bien pequeño en comparación con otras especies afines, el diámetro no suele exceder de los 6 cm, aunque lo habitual es encontrar ejemplares de entre 1 y 4 cm como sucede en nuestra recolecta. Su forma es la típica de las especies de Tuber, forma tuberculada variable e irregular, a veces subglobosa o incluso esférica y otras mas lobulada o con protuberancias diversas. Suele tener en ocasiones una pequeña hendidura basal que no llega a crear una foseta como en otras especies del género. Su color predominante es el marrón rojizo más o menos oscuro, aunque este también es un aspecto un tanto variable, incluso un mismo ejemplar puede presentar diversos tonos.",
+        "hymenium": "Peridio adherido a la gleba, inseparable por tanto de la misma, formado por placas que no son piramidales, sino totalmente planas, que le confieren al ascoma en un primer vistazo un aspecto como de ser liso y cuarteado que es irreal, dado que lo conforman placas poligonales perfectamente delimitadas. Tiene color marrón oscuro con matices rojizos o herrumbrosos, sin llegar a ser negro.",
+        "stipe": "Gleba compacta, sin cavidades, formada por dos tipos de venas como suele ser habitual, unas venas de color claro, casi blanquecinas, que oscurecen minimamente al corte, y por contra otras de color marrón grisáceo, que van evolucionando según el grado de maduración a tonos púrpuras y finalmente negruzcos.",
+        "flesh": "Carne consistente, que está formada por la propia gleba, con un intenso aroma trufado con claros matices aliáceos bastante agradable si estas acostumbrado al olor de las trufas, su sabor es además análogo, muy interesante desde el punto de vista culinario, a nuestro entender a medio camino entre Tuber magnatum y Tuber borchii."
+    },
+    "habitat": "Estudio realizado en base a 3 recolectas de la especie, dos de ellas en una misma zona en bosque de Quercus robur, y una tercera en otro lugar con presencia de Quercus robur y Corylus avellana, todas ellas en la provincia de Alava. En Italia esta especie suele estar ligada a Tuber magnatum tanto en habitat como en época de aparición, generalmente durante el otoño, aunque Tuber macrosporum suele empezar un poquito antes, en nuestro caso con quien comparte tanto hábitat como época es con Tuber uncinatum, forma otoñal de Tuber aestivum. Especie de crecimiento hipogeo localizada con la ayuda de perros, es una especie muy rara no localizada anteriormente en nuestra zona.",
+    "observations": "Primera cita para el catálogo del Pais Vasco y segunda a nivel estatal de esta rara especie de trufa, que sin embargo es bastante fácil de identificar, macroscópicamente se caracteriza por sus verrugas planas no piramidales y su color marrón rojizo oscuro, lo que la separa de las trufas negras por un lado, y de las especies del grupo Tuber rufum, con peridios areolados o lisos, además el tremendo tamaño de sus ascas y esporas, prácticamente apreciable su presencia con una simple lupa, hace que sea una especie inconfundible. Es un excelente comestible que se empieza a comercializar proveniente de Italia pero con cuentagotas, con un aroma y sabor agradables a trufa con matices de ajo.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/tuber_macrosporum/tuber_macrosporum1.jpg",
+        "https://www.fungipedia.org/images/galerias/tuber_macrosporum/tuber_macrosporum2.jpg",
+        "https://www.fungipedia.org/images/galerias/tuber_macrosporum/tuber_macrosporum3.jpg",
+        "https://www.fungipedia.org/images/galerias/tuber_macrosporum/tuber_macrosporum4.jpg",
+        "https://www.fungipedia.org/images/galerias/tuber_macrosporum/tuber_macrosporum5.jpg",
+        "https://www.fungipedia.org/images/galerias/tuber_macrosporum/tuber_macrosporum6.jpg"
+    ]
+}

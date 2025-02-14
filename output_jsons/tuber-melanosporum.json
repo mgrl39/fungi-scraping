@@ -1,0 +1,31 @@
+{
+    "name": "tuber-melanosporum",
+    "title": null,
+    "author": "(Vittadini)",
+    "additional_info": {
+        "common_name": "Trufa negra, trufa violeta.",
+        "synonym": "Tuber nigrum Bull."
+    },
+    "taxonomy": {
+        "División": "Ascomycota",
+        "Subdivisión": "Ascomycotina",
+        "Clase": "Himenoascomycetes",
+        "Subclase": "Pezizomycetidae",
+        "Orden": "Tuberales",
+        "Familia": "Tuberaceae"
+    },
+    "edibility": "excelente-comestible",
+    "characteristics": {
+        "cap": "Carpóforo globoso cuando el espécimen encontrado es joven y de pequeñas dimensiones, luego se va agrandando de manera irregular, llegando a quedar un tanto amorfo. El tamaño medio de una seta adulta es de 4 o 5 cm de diámetro, pero ocasionalmente se han encontrado piezas de hasta 10 cm. En su nacimiento es de color rojizo oscuro, sin embargo enseguida adopta un color negro muy característico y llamativo.",
+        "hymenium": "Peridio de color negro recubierto de una especie de verrugas separadas entre sí por surcos en su base.",
+        "stipe": "Gleba de color pálido en un principio, después negruzca, recorrida en todo su contexto por venas de color blanquecino fácilmente visibles, compacta.",
+        "flesh": "Carne tierna en el interior, aunque compacta y maciza, de un sabor sumamente agradable y un olor muy intenso y característico que se percibe a varios metros de distancia, y que además es muy agradable."
+    },
+    "habitat": "En algunas zonas de la península ibérica solo nos la encontramos cultivada en micorrizas de Quercus. Es un hongo hipogeo, que sin embargo si sale de forma silvestre bajo encinas y quejigos en otro lugares. Su época de recolección es el invierno y principio de la primavera.",
+    "observations": "Excelente comestible, es además uno de los más cotizados, estando su precio en el entorno de los 700 €/kg. El aroma que desprenden las trufas no es comparable a ninguna otra seta. Puede confundirse con el Tuber brumale, más pequeña y veteada, y con aroma menos intenso, y con el Tuber aestivum, que sale hacia el verano.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/tuber_melanosporum/tuber_melanosporum1.jpg",
+        "https://www.fungipedia.org/images/galerias/tuber_melanosporum/tuber_melanosporum2.jpg",
+        "https://www.fungipedia.org/images/galerias/tuber_melanosporum/tuber_melanosporum3.jpg"
+    ]
+}

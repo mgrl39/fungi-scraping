@@ -1,0 +1,30 @@
+{
+    "name": "auricularia-auricula-judae",
+    "title": null,
+    "author": "(Bull.) Quél.",
+    "additional_info": {
+        "common_name": "Oreja de Judas, Judasen belarri, orella de Judas.",
+        "synonym": "Tremella auricula L."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Phragmobasidiomycetes",
+        "Subclase": "Incertae sedis",
+        "Orden": "Auriculariales",
+        "Familia": "Auriculariaceae"
+    },
+    "edibility": "comestible",
+    "characteristics": {
+        "cap": "Carpóforo típicamente con forma de oreja, si bien puede adoptar formas irregulares un tanto variables, desde forma de copa abierta hasta llegar en ocasiones a ser deforme. Su tamaño oscila mucho, llegándose a encontrar ejemplares de 10 cm de diámetro, y a su lado otro de tan solo 3 perfectamente desarrollado. La superficie externa es estéril, de color pardo oscuro, a veces con matiz oliváceo. Puede poseer alguna vena o ser lisa y es un poco pubescente o tomentosa, además de translúcida.",
+        "hymenium": "Himenio de liso en su primera etapa a plegado o con venas, de color pardo que va evolucionando hacia tonos púrpuras, para finalmente volverse casi negro.",
+        "stipe": "Pie poco significativo, inexistente en la mayor parte de los casos, cuando lo tiene es totalmente lateral.",
+        "flesh": "Carne de consistencia elástica, incluso gelatinosa, sobre todo de joven, sin apenas olor y con un sabor suave."
+    },
+    "habitat": "Es una seta que puede aparecer en cualquier época del año, incluso en invierno, y lo hace siempre sobre tocones o troncos abatidos de árboles planifolios.",
+    "observations": "A pesar de su poco agraciado aspecto resulta que es una seta comestible, incluso llega a ser comida cruda en ensalada. Puede ser confundida con la Auricularia mesenterica, que generalmente tiene la zona superior zonada y con pelos más diferenciados. Una especie más pequeña y con la que también puede confundirse es la Auriculariopsis ampla=Schizophyllum amplum, habitual en ramas caídas de chopo, que microscópicamente es completamente diferente, ya que no pertenece al género y ni siquiera a la clase de esta. La Tremella foliacea tiene color similar pero carece de nervaduras en el himenio.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/auricularia_auricula_judae/auricularia_auricula_judae1.jpg",
+        "https://www.fungipedia.org/images/galerias/auricularia_auricula_judae/auricularia_auricula_judae2.jpg"
+    ]
+}

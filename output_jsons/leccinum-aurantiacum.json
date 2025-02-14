@@ -1,0 +1,34 @@
+{
+    "name": "leccinum-aurantiacum",
+    "title": null,
+    "author": "(Bull.) Gray",
+    "additional_info": {
+        "common_name": "Boleto anaranjado, onddo laranja, abró vermell.",
+        "synonym": "Leccinum quercinum Pilát"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Boletales",
+        "Familia": "Boletaceae"
+    },
+    "edibility": "buen-comestible",
+    "characteristics": {
+        "cap": "Sombrero que puede llegar a alcanzar notables dimensiones, los ejemplares plenamente desarrollados tienen un diámetro que rebasa muchas veces los 20 cm, y un aspecto muy carnoso. Tiene forma hemisférica, pronto convexo, y al final plano-convexo, y una cutícula aterciopelada en especímenes jóvenes, de color variable, pardo rojizo o naranja, en las formas típicas, predomina el componente rojizo. Margen regular y muchas veces excedente.",
+        "hymenium": "Tubos largos de color blanco en sus primeras etapas, evolucionando a tonos grises sucios y en los especímenes viejos prácticamente pardos con matiz vinoso, son fácilmente separables de la carne del sombrero.",
+        "stipe": "Poros pequeños cuyo color sigue una evolución similar a los tubos, redondeados, no azulean al contacto pero si tienden a ensuciarse un poco.",
+        "flesh": "Pie cilíndrico, lleno y consistente, con frecuencia supera los 15 cm de largo, de color blanco de fondo pero recubierto de numerosas granulaciones que al principio pueden ser rojizas o rosadas y más habitualmente marrones o incluso negras. Es habitual hallar ejemplares con la base claramente engrosada."
+    },
+    "habitat": "Carne espesa y consistente en el sombrero, sobre todo en ejemplares jóvenes, y algo más leñosa en el pie, con el tiempo se vuelve más esponjosa. De color blanco y con diferentes virajes al corte, con tonos verdi-azules en la base del pie muchas veces, y virando a gris con matiz violeta en el resto. Tiene sabor dulce y olor agradable.",
+    "observations": "Se trata de una especie frecuente y abundante en nuestros bosques, donde destaca por su colorido y porte. Sale muchas veces en grupos, de forma general en bosques de Quercus, Populus o Betula, también bajo hayas, a finales del verano y durante el otoño.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/leccinum_aurantiacum/leccinum_aurantiacum1.jpg",
+        "https://www.fungipedia.org/images/galerias/leccinum_aurantiacum/leccinum_aurantiacum2.jpg",
+        "https://www.fungipedia.org/images/galerias/leccinum_aurantiacum/leccinum_aurantiacum3.jpg",
+        "https://www.fungipedia.org/images/galerias/leccinum_aurantiacum/leccinum_aurantiacum4.jpg",
+        "https://www.fungipedia.org/images/galerias/leccinum_aurantiacum/leccinum_aurantiacum5.jpg",
+        "https://www.fungipedia.org/images/galerias/leccinum_aurantiacum/leccinum_aurantiacum6.jpg"
+    ]
+}

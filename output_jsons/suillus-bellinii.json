@@ -1,0 +1,34 @@
+{
+    "name": "suillus-bellinii",
+    "title": null,
+    "author": "(Inzenga) Watling",
+    "additional_info": {
+        "common_name": "Boleto pringoso, baboso, Bellini pinudi-onddo, moixí.",
+        "synonym": "Boletus bellinii (Inzenga) Watling"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Boletales",
+        "Familia": "Boletaceae"
+    },
+    "edibility": "comestible",
+    "characteristics": {
+        "cap": "Sombrero con un diámetro en los ejemplares adultos que oscila entre los 5 y los 10 cm, de forma ocasional hasta 15 cm. Tiene una forma hemisférica en su nacimiento, pasando a ser primero globoso, después convexo y finalmente extendido. Su cutícula es fácilmente separable de la carne, lisa, con un color que inicialmente es blanquecino o crema pero que adquiere un color ocráceo de adulto con matices castaños o arcillosos, casi nunca es uniforme de color sino que posee zonas más claras u obscuras de forma alterna, en las zonas donde no les da la luz es casi blanco. Superficie viscídula y pringosa a la que se adhieren hojas o ramitas con facilidad. El margen es regular y generalmente excedente.",
+        "hymenium": "Tubos no separables con facilidad, son cortos y de color amarillo cuando son jóvenes, después se vuelven de color beige oscuro u oliváceo.",
+        "stipe": "Poros más bien pequeños, de redondos a angulosos, al principio casi blancos o amarillo claro, luego más amarillos y de adultos se vuelven de un color beige sucio, exudan gotitas lechosas cuando son jóvenes.",
+        "flesh": "Pie habitualmente corto, algo rechoncho en los ejemplares inmaduros, cilíndrico y más alargado en los adultos, lleno, de color marfil con granulaciones que pueden ser rojizas o de color oscuro."
+    },
+    "habitat": "Carne espesa de color blanco, bajo los tubos es más amarillenta, en los especímenes jóvenes es relativamente prieta pero se vuelve blanda con rapidez. El olor es poco destacado, el sabor dulce y suave.",
+    "observations": "Estamos ante una especie que forma micorriza de manera exclusiva con las coníferas, sobre todo con los pinos, con especial predilección por el Pinus pinaster. Fructifica de manera habitual en grupos más o menos numerosos y puede hacerlo en primavera o sobre todo durante el otoño. Especie común y localmente muy abundante.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/suillus_bellinii/suillus_bellinii1.jpg",
+        "https://www.fungipedia.org/images/galerias/suillus_bellinii/suillus_bellinii2.jpg",
+        "https://www.fungipedia.org/images/galerias/suillus_bellinii/suillus_bellinii3.jpg",
+        "https://www.fungipedia.org/images/galerias/suillus_bellinii/suillus_bellinii4.jpg",
+        "https://www.fungipedia.org/images/galerias/suillus_bellinii/suillus_bellinii5.jpg",
+        "https://www.fungipedia.org/images/galerias/suillus_bellinii/suillus_bellinii6.jpg"
+    ]
+}

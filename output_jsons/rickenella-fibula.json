@@ -1,0 +1,32 @@
+{
+    "name": "rickenella-fibula",
+    "title": null,
+    "author": "(Bull.) Raithelh",
+    "additional_info": {
+        "common_name": "Onfalina alfiler.",
+        "synonym": "Gerronema fibula (Bull.) Singer"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Tricholomatales",
+        "Familia": "Tricholomataceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero muy pequeño, rara vez alcanza 1 cm de diámetro, lo normal es encontrarlas de un tamaño de 0`5 cm o incluso menos. Es acampanado en su primera etapa, para adoptar con posterioridad una forma plano-convexa, manteniendo el centro del mismo umbilicado. El color es bastante llamativo, y si no fuera por eso difícilmente las veríamos dado su pequeño tamaño. Es anaranjada, sobre todo en la zona central, siendo el margen más pálido, amarillento. El borde es estriado por trasparencia, y habitualmente presenta surcos.",
+        "hymenium": "Láminas que pueden considerarse gruesas para lo pequeña que es la seta, espaciadas entre sí, claramente decurrentes sobre el pie. Son de color blanquecino, aunque al estar tan separadas dejan entrever el fondo amarillento de la carne.",
+        "stipe": "Pie esbelto y muy largo, desproporcionado con respecto al sombrero, cilíndrico y con pinta de alfiler. Es del mismo color que el sombrero.",
+        "flesh": "Carne apenas apreciable, de color amarillento, tanto su olor como su sabor son también prácticamente inapreciables."
+    },
+    "habitat": "Se desarrolla fundamentalmente durante el otoño, creciendo de forma gregaria sobre diversas especies de musgo, siempre en zonas muy húmedas. Bastante frecuente.",
+    "observations": "Se trata de una pequeña pero llamativa seta, caracterizada por tener el centro umbilicado, pero no deprimido, y su pie desproporcionadamente largo. Estas características la diferencian macroscópicamente de algunas especies que habitan sobre el musgo, como la Lichenomphalia umbilifera. Por su color pudiera también confundirse con algún pequeño Hygrocybe, sin embargo ninguno de ellos llega a ser tan sumamente pequeño como este especie, la Mycena acicula por su tamaño y color también es confundible con esta especie.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/rickenella_fibula/rickenella_fibula1.jpg",
+        "https://www.fungipedia.org/images/galerias/rickenella_fibula/rickenella_fibula2.jpg",
+        "https://www.fungipedia.org/images/galerias/rickenella_fibula/rickenella_fibula3.jpg",
+        "https://www.fungipedia.org/images/galerias/rickenella_fibula/rickenella_fibula4.jpg"
+    ]
+}

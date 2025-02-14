@@ -1,0 +1,37 @@
+{
+    "name": "galerina-marginata",
+    "title": null,
+    "author": "(Batsch.) Kühner",
+    "additional_info": {
+        "common_name": "Galerina marginada, galera hiltzaile.",
+        "synonym": "Pholiota marginata (Batsch.) Quél."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Cortinariales",
+        "Familia": "Crepidotaceae"
+    },
+    "edibility": "mortal",
+    "characteristics": {
+        "cap": "Sombrero de tamaño notable para el género, algunos ejemplares llegan a alcanzar los 4 cm de diámetro. Tiene en una primera etapa una forma hemisférica, pronto convexo, para acabar por adoptar una forma convexa aplanada, no es habitual que llegue a aplanarse del todo. Se trata de una especie con un cierto grado de higrofaneidad, esto hace que, por un lado, su color varié del ocre leonado habitual a tonos más pálidos en función del grado de humedad del espécimen, y por otro lado, el margen liso o apenas estriado puede volverse más netamente estriado por transparencia.",
+        "hymenium": "Láminas adnatas y sinuosas de color ocre amarillento, evolucionando hacia tonos pardo herrumbre con la maduración esporal, de jóvenes son más apretadas, pero tienden a separarse en los ejemplares maduros.",
+        "stipe": "Pie proporcionado de color similar al sombrero, sobre todo de joven, volviéndose pardo oscuro a partir de la base. Es un tanto fibriloso y con el tiempo tiende a quedarse hueco, posee un anillo membranoso evidente en los ejemplares más jóvenes que muchas veces acaba quedando adpreso.",
+        "flesh": "Carne poco espesa de color ocre amarillento salvo en la base del pie donde es prácticamente parda, tiene un olor harinoso intensificado al frotar la seta y un sabor igualmente harinoso."
+    },
+    "habitat": "Esta especie ha sido considerada durante mucho tiempo como exclusiva de coníferas de manera que juzgamos errónea, de hecho aunque la hemos visto muchas veces en ese hábitat, les presentamos ejemplares localizados en haya. Su comportamiento es generalmente lignícola, pudiendo de forma ocasional aparecer en las proximidades de troncos o tocones. Puede salir en diversas épocas del año pero sobre todo lo hace en otoño, siendo relativamente frecuente.",
+    "observations": "Les presentamos una seta mortal que debe ser reconocida por el aficionado, dado que contiene amatoxinas en cantidad importante, causando un envenenamiento similar al de la Amanita phalloides o \"cicuta verde\". La posición taxonómica de Galerina autumnalis es un tanto controvertida, para algunos es sinónimo de Galerina marginata mientras que otros la separan como especie independiente, creemos que siempre se ha llamado así a las formas de Galerina marginata con hábitat sobre o bajo planifolios, como es el caso de la que les presentamos.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/galerina_marginata/galerina_marginata1.jpg",
+        "https://www.fungipedia.org/images/galerias/galerina_marginata/galerina_marginata2.jpg",
+        "https://www.fungipedia.org/images/galerias/galerina_marginata/galerina_marginata3.jpg",
+        "https://www.fungipedia.org/images/galerias/galerina_marginata/galerina_marginata4.jpg",
+        "https://www.fungipedia.org/images/galerias/galerina_marginata/galerina_marginata5.jpg",
+        "https://www.fungipedia.org/images/galerias/galerina_marginata/galerina_marginata6.jpg",
+        "https://www.fungipedia.org/images/galerias/galerina_marginata/galerina_marginata7.jpg",
+        "https://www.fungipedia.org/images/galerias/galerina_marginata/galerina_marginata8.jpg",
+        "https://www.fungipedia.org/images/galerias/galerina_marginata/galerina_marginata9.jpg"
+    ]
+}

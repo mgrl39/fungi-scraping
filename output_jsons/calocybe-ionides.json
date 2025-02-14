@@ -1,0 +1,32 @@
+{
+    "name": "calocybe-ionides",
+    "title": null,
+    "author": "(Bull.) Donk",
+    "additional_info": {
+        "common_name": "Calocybe violeta, ziza zuri-morea.",
+        "synonym": "Rugosomyces ionides (Bull.) Bon"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Tricholomatales",
+        "Familia": "Tricholomataceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero con un diámetro que oscila en los ejemplares adultos entre los 2 y los 5 cm, en su primera etapa convexo y un tanto giboso, con el centro resaltado, extendiéndose con el desarrollo hasta quedar plano, o incluso algo deprimido en algún ejemplar de nuestra recolecta. Posee un llamativo color, que puede ser desde violeta oscuro hasta un lila claro, bastante uniforme por regla general en ejemplares jóvenes, palideciendo un tanto con el desarrollo, pudiendo tener algún matiz crema de viejo pero manteniendo el predominio de tonos lilas. Cutícula seca y mate, algo fibrilosa o sedosa de joven. Margen incurvado inicialmente, después extendido, liso y bastante regular.",
+        "hymenium": "Láminas bastante apretadas entre sí, de color predominantemente blanco, pero con tendencia a adquirir tonos amarillentos o cremas con el desarrollo, suelen ser crenuladas o incluso aparecer fisuradas aleatoriamente, con disposición irregular con respecto al pie según el ejemplar, muchas veces adnatas, otras se escotan un poco hasta morir en el pie con una ligera decurrencia por un diente.",
+        "stipe": "Pie de longitud proporcionada al diámetro del sombrero, cilíndrico, en los especímenes jóvenes lleno, pero tendente a quedar hueco de viejo, de un color similar al que posee el sombrero o algo más oscuro incluso, fibriloso y finamente estriado longitudinalmente, con una zona de color blanco en la base del pie, que abarca la parte no expuesta al aire.",
+        "flesh": "Carne consistente y más bien espesa, de color blanco, a veces con matices lilas bajo la cutícula, inmutable al corte, con un destacado olor harinoso y un sabor igualmente harinoso, agradable."
+    },
+    "habitat": "Estamos ante una especie rara, dificil de encontrar, para la que apenas conocemos un par de localizaciones, una bajo hayas (Fagus sylvatica), y otra en un jardin con abetos, de hecho es una especie que está considerada en muchos lugares en peligro de extinción, aunque como siempre sucede en otros es más habitual. Si que es cierto, que allá donde sale suele hacerlo generalmente en grupos, rara vez aislada. Bibliograficamente es una especie cosmopolita, sin predilección por un hábitat determinado o tipo de suelo concreto. Aunque no es descabellado encontrarla en otra época, preferentemente sale en otoño.",
+    "observations": "Esta especie se caracteriza macroscópicamente por su bello color lila tanto en el sombrero como en el pie, que contrasta con sus láminas blancas o algo amarillentas, así como por su manifiesto sabor y olor harinosos. Dada su rareza y atendiendo a criterios de protección de las especies debemos considerarla sin valor, a pesar de que puede ser aceptable su sabor no debe ser recolectada. El aficionado poco avezado puede llegar a confundir esta especie con la Lepista nuda por el color, pero esta última nunca tendrá las láminas blancas, si que guarda bastante parecido con la especie montana Calocybe onychina, también con olor harinoso, que no tiene este color lila sino más bien marrón con tintes púrpuras, y cuyas láminas son de un color amarillo muy vivo.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/calocybe_ionides/calocybe_ionides1.jpg",
+        "https://www.fungipedia.org/images/galerias/calocybe_ionides/calocybe_ionides2.jpg",
+        "https://www.fungipedia.org/images/galerias/calocybe_ionides/calocybe_ionides3.jpg",
+        "https://www.fungipedia.org/images/galerias/calocybe_ionides/calocybe_ionides4.jpg"
+    ]
+}

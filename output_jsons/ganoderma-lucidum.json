@@ -1,0 +1,30 @@
+{
+    "name": "ganoderma-lucidum",
+    "title": null,
+    "author": "(Curtis.) P. Karst.",
+    "additional_info": {
+        "common_name": "Reishi, pipa, ardagai pipa.",
+        "synonym": "Polyporus lucidus (Curtis) Fr."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Aphyllophoromycetidae",
+        "Orden": "Ganodermatales",
+        "Familia": "Ganodermataceae"
+    },
+    "edibility": "no-comestible",
+    "characteristics": {
+        "cap": "Carpóforo con forma variable, a veces espatulado, otras con forma de riñón, otras veces flabeliforme o simplemente semicircular. Su tamaño puede superar los 10 cm de diámetro, e incluso de manera ocasional llegar a los 15. Tiene un bonito color caoba que perdura al madurar, lo único que varía es el color del borde, que al principio es amarillento, y en los ejemplares adultos es blanco, aunque cuando es viejo y no crece más acaba por ser totalmente caoba. Superficie lisa y algo ondulada, recubierta de una especie de barniz que le confiere un aspecto brillante.",
+        "hymenium": "Himenio formado por tubos alargados de color blanco que se van oscureciendo paulatinamente a tonos canela, y poros redondos, angulosos de viejos, con un tamaño de unos 5 por mm y concoloros.",
+        "stipe": "Pie de longitud irregular aunque suele ser generalmente largo, cilíndrico o con algún engrosamiento, del mismo color caoba que el sombrero, e igual que este recubierto de una especie de barniz. Es generalmente lateral.",
+        "flesh": "Carne espesa y dura, fibrosa, de color crema más o menos claro según la edad. Carece de olor apreciable."
+    },
+    "habitat": "Crece en cualquier época del año, a la altura de la base de los árboles, o bien unida a tocones o raíces enterradas de diversos planifolios, sobre todo robles. Es un hongo relativamente frecuente.",
+    "observations": "Es una especie medicinal de tradición milenaria en oriente con el nombre de Reishi, actualmente el extracto de este hongo se puede adquirir en cualquier parte del mundo, y se cultiva y comercializa en forma de cápsulas. Estudios recientes han corroborado que se trata de una seta beneficiosa en el tratamiento de numerosas afecciones, de hecho en Japón la medicina no tradicional la ha admitido para el tratamiento del cáncer. La lista de beneficios que tiene es tan larga que merece capítulo aparte. Por sus especiales características macroscópicas entendemos que se trata de un hongo absolutamente inconfundible.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/ganoderma_lucidum/ganoderma_lucidum1.jpg",
+        "https://www.fungipedia.org/images/galerias/ganoderma_lucidum/ganoderma_lucidum2.jpg"
+    ]
+}

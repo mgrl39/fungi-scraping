@@ -1,0 +1,31 @@
+{
+    "name": "microglossum-olivaceum",
+    "title": null,
+    "author": "(Pers.) Gillet",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Geoglossum olivaceum Pers."
+    },
+    "taxonomy": {
+        "División": "Ascomycota",
+        "Subdivisión": "Ascomycotina",
+        "Clase": "Himenoascomycetes",
+        "Subclase": "Pezizomycetidae",
+        "Orden": "Leotiales",
+        "Familia": "Geoglossaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Carpóforo alargado, estipitado, y claviforme, compuesto por dos zonas visualmente diferenciables, pero que no están delimitadas entre sí. La altura total no suele ir más allá de los 5 cm. La parte superior es la zona fértil del carpóforo, es más ancha que el pie, y tiene forma un tanto variable, aplastada, presentando surcos irregulares en muchos ejemplares. Es de color pardo oscuro con claros matices oliváceos, más apreciables en ejemplares jóvenes. Es más bien seca o brillante, pero no viscosa.",
+        "hymenium": "Pie de longitud variable, algunos ejemplares tienen el pie más corto que la cabezuela y en otros es todo lo contrario, de color verde oliva intenso de joven, algo menos vistoso de viejo, pero sin llegar al color oscuro de la cabeza. Es brillante y viscoso con lluvia, sino subseco, lleno.",
+        "stipe": "Carne escasa y frágil de color verde, sin apenas olor ni sabor.",
+        "flesh": "Aparece en el otoño tardío, los ejemplares fotografiados fueron hallados en el mes de Diciembre, entre la hierba de una campa a 200 metros sobre el nivel del mar, se localizaron un grupo razonablemente numeroso de individuos. Entendemos que es una seta rara, poco frecuente."
+    },
+    "habitat": "Es una seta muy difícil de localizar, dado que es verde y sale entre la hierba, que generalmente es más alta que la propia seta. Evidentemente no tiene ningún interés desde el punto de vista culinario, pero si desde el micológico. Existe otra especie en su género más conocida que esta, el Microglossum viride, de color verdoso en todo el carpóforo, y que tiene una especie de surco que delimita la cabeza del pie.",
+    "observations": null,
+    "images": [
+        "https://www.fungipedia.org/images/galerias/microglossum_olivaceum/microglossum_olivaceum1.jpg",
+        "https://www.fungipedia.org/images/galerias/microglossum_olivaceum/microglossum_olivaceum2.jpg",
+        "https://www.fungipedia.org/images/galerias/microglossum_olivaceum/microglossum_olivaceum3.jpg"
+    ]
+}

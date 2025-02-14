@@ -1,0 +1,30 @@
+{
+    "name": "cystodermella-cinnabarina",
+    "title": null,
+    "author": "(Alb.& Schwein) Harmaja",
+    "additional_info": {
+        "common_name": "Cistoderma de color cinabrio, galanperna zinabriokolore.",
+        "synonym": "Cystoderma cinnabarinum (Alb & Schwein) Fayod"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Tricholomatales",
+        "Familia": "Marasmiaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero grande para su género, aun así no alcanza los 10 cm de diámetro, pasando a lo largo de su desarrollo de forma acampanada a convexa, y al final aplanada. Es de color rojo cinabrio, a veces un poco decolorado hacia tonos naranjas, y posee unas pequeñas granulaciones en casi toda su superficie, quizás la excepción sea su zona central, donde ocasionalmente presenta un pequeño mamelón. Borde ondulado, pero no suele tener festones como otras especies de su género.",
+        "hymenium": "Láminas de adnatas a libres, muy estrechas y bastante apretadas, de color fundamentalmente blanco, algo cremas en la vejez.",
+        "stipe": "Pie central y cilíndrico, proporcionado al tamaño del sombrero, lleno y un poco bulboso en la base. Posee un anillo blanco que separa el pie en una parte superior más pálida, y una zona inferior concolora con el sombrero, recubierta de escamas o granulaciones, pero sin llegar a formar armilla.",
+        "flesh": "Carne poco consistente de color blanco, amarilleando en la base del pie, con un olor prácticamente nulo y un sabor poco significativo."
+    },
+    "habitat": "Fructifica en el suelo de diversos bosques, con preferencia por las zonas húmedas y musgosas. Debemos considerarla como una especie poco frecuente o rara, que sale en los meses otoñales.",
+    "observations": "Ningún Cystoderma es aconsejable para su consumo, a pesar de que en este caso la especie es inocua y ni siquiera huele o sabe mal como pasa, por ejemplo, con el Cystoderma amianthinum, de color amarillento. Puede confundirse con relativa facilidad por los gránulos del sombrero con el Cystodermella granulosa, de color más leonado, borde del sombrero con más flecos, y armilla bien definida en el pie. Existe una variedad claricolor más pálida que la especie tipo.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/cystodermella_cinnabarina/cystodermella_cinnabarina1.jpg",
+        "https://www.fungipedia.org/images/galerias/cystodermella_cinnabarina/cystodermella_cinnabarina2.jpg"
+    ]
+}

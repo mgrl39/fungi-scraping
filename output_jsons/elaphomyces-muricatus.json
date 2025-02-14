@@ -1,0 +1,36 @@
+{
+    "name": "elaphomyces-muricatus",
+    "title": null,
+    "author": "Fr.",
+    "additional_info": {
+        "common_name": "Trufa de ciervo espinosa",
+        "synonym": "Elaphomyces reticulatus Vittad."
+    },
+    "taxonomy": {
+        "División": "Ascomycota",
+        "Subdivisión": "Ascomycotina",
+        "Clase": "Plectomycetes",
+        "Subclase": "Plectomycetidae",
+        "Orden": "Plectascales",
+        "Familia": "Elaphomycetaceae"
+    },
+    "edibility": "no-comestible",
+    "characteristics": {
+        "cap": "Carpóforo de aspecto general seco y duro con un recubrimiento espinoso patente, con la forma tuberculada o de pequeña patata que tienen habitualmente los hongos hipogeos, a veces puede llegar a tener forma globosa, pero lo normal es que sea subgloboso, también puede ser algo comprimido, pero en general bastante regular, sin demasiadas protuberancias ni deformidades. El diámetro de los ejemplares adultos oscila entre 1 y 4 cm, y su color es bastante variable, desde el ocre amarillento inicial, hasta adoptar tonos netamente marrones, incluso pueden aparecer tonos ferruginosos de viejo. Es frecuente la presencia externa de restos miceliales blanquecinos a ocraceos a modo de costra.",
+        "hymenium": "Peridio compuesto por dos partes perfectamente diferenciadas al seccionarlo, un exoperidio formado por evidentes verrugas piramidales de color ocre amarillento a marrón, que puede tener algo más de medio milímetro, formadas por hifas entrelazadas entre sí, y un endoperidio que puede superar los 2 mm perfectamente, de aspecto marmoreo, con un color blanquecino de fondo, venoso, en el que a su vez también se diferencian dos zonas, una hacia el exterior que conserva el tono blanquecino, y otra próxima a la gleba, presente en todos los ejemplares recolectados, de un tono negruzco o lilaceo. Todo el peridio en su conjunto es bastante grueso, pudiendo tener 3 mm de grosor, algo por otra parte habitual en el género Elaphomyces.",
+        "stipe": "Gleba compacta en los espécimenes jóvenes, de color blanquecino rosado o algo grisácea, deviniendo con la maduración hasta convertirse en una masa pulverulenta de color marrón o negruzca. Es la parte fértil del carpóforo, y en ella se albergan las ascas subglobosas o piriformes y unas esporas globosas de pared gruesa y ornamentadas, todo ello pueden apreciarlo en nuestro apartado de características microscópicas.",
+        "flesh": "Carne que no es más que la propia gleba, al principio compacta pero que desaparece con la maduración, tiene un olor característico como a gas, al principio tenue, pero que se vuelve bastante desagradable con la maduración."
+    },
+    "habitat": "Estamos ante una especie de crecimiento hipogeo, suele fructificar enterrada a no demasiada profundidad, sin que acostumbre a salir demasiado, pero cuya presencia se delata muchas veces por la acción de los animales del bosque, y por la presencia del hongo parásito Tolypocladium ophioglossoides, que suele  atacar esta especie, y cuyos cuerpos fructíferos si que asoman. Especie habitual bajo caducifolios diversos como el castaño, haya o roble, más rara bajo coníferas, pudiendo aparecer prácticamente en cualqier época del año si las condiciones son favorables. Nuestra recolecta es de Laudio, Llodio, (Alava), fructificando en este caso bajo roble americano, (Quercus rubra).",
+    "observations": "Especie hipogea caracterizada por su peridio ornamentado con espinas o verrugas piramidales, la linea negruzca o violeta del peridio al corte y sus esporas igualmente ornamentadas con verrugas bastante regulares en su disposición. La característica de su peridio hace que se pueda separar con cierta facilidad de Elaphomyces granulatus y Elaphomyces asperulus, de peridio plano. La especie con la que guarda mayor similitud y es más difícil su separación es Elaphomyces decipiens, con escamas más aplanadas en el peridio, ornamentación esporal más irregular, con verrugas o espinas curvadas, y esporas de mayor tamaño. Elaphomyces reticulatus está considerado como una forma de Elaphomyces muricatus, y por tanto está sinonimizado con ella.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/elaphomyces_muricatus/elaphomyces_muricatus1.jpg",
+        "https://www.fungipedia.org/images/galerias/elaphomyces_muricatus/elaphomyces_muricatus2.jpg",
+        "https://www.fungipedia.org/images/galerias/elaphomyces_muricatus/elaphomyces_muricatus3.jpg",
+        "https://www.fungipedia.org/images/galerias/elaphomyces_muricatus/elaphomyces_muricatus4.jpg",
+        "https://www.fungipedia.org/images/galerias/elaphomyces_muricatus/elaphomyces_muricatus5.jpg",
+        "https://www.fungipedia.org/images/galerias/elaphomyces_muricatus/elaphomyces_muricatus6.jpg",
+        "https://www.fungipedia.org/images/galerias/elaphomyces_muricatus/elaphomyces_muricatus7.jpg",
+        "https://www.fungipedia.org/images/galerias/elaphomyces_muricatus/elaphomyces_muricatus8.jpg"
+    ]
+}

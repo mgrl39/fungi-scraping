@@ -1,0 +1,30 @@
+{
+    "name": "amanita-porphyria",
+    "title": null,
+    "author": "(Alb. & Schw.:Fr.) Mlady",
+    "additional_info": {
+        "common_name": "Amanita purpúrea.",
+        "synonym": "Ninguno."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Agaricales",
+        "Familia": "Amanitaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero de buen tamaño, puede superar los 10 cm de diámetro, evoluciona en su forma de globoso en la primera etapa, hasta quedar plano convexo o prácticamente plano al finalizar su desarrollo. De color marrón terroso a pardo púrpura, bastante uniforme en toda la superficie, que es radialmente fibrilosa, y que rara vez posee restos del velo, lo normal es encontrarla sin ellos, aunque si aparecen son de color gris. El borde no es estriado y es bastante regular.",
+        "hymenium": "Láminas más bien apretadas de color blanquecino, libres con respecto al pie, de viejas se vuelven un poco grisáceas.",
+        "stipe": "Pie central y cilíndrico, generalmente alargado y bulboso en la base. Es de color blanco, pero puede estar escamado de marrón con matices grises o púrpuras. Posee una volva friable o circuncisa de dimensiones no muy notables, así como un anillo estriado y membranoso de color blanco grisáceo, que con el tiempo tiende a quedar adpreso.",
+        "flesh": "Carne consistente, de color púrpura o lila bajo la cutícula, en el resto es blanca, con un aroma notable a patata y un sabor un tanto rafanoide."
+    },
+    "habitat": "Es una especie que tiene preferencia por los suelos ácidos, aunque no por un determinado tipo de bosque. Su época de aparición más habitual es el otoño. Para nosotros no es muy frecuente ni abundante.",
+    "observations": "La presencia de anillo, el borde del sombrero no estriado y su notable porte, la distinguen de las especies del subgénero Amanitopsis. Está morfológicamente ligada a la Amanita citrina, sin embargo no se puede confundir con ella debido a que los colores son completamente diferentes. No confundir con la tóxica Amanita pantherina, de sombrero estriado con restos del velo blancos, pie blanco con burletes, y que no huele a patata.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/amanita_porphyria/amanita_porphyria1.jpg",
+        "https://www.fungipedia.org/images/galerias/amanita_porphyria/amanita_porphyria2.jpg"
+    ]
+}

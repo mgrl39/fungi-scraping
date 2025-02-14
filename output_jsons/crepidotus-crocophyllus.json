@@ -1,0 +1,31 @@
+{
+    "name": "crepidotus-crocophyllus",
+    "title": null,
+    "author": "(Berk.) Sacc.",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Crepidotus fulvifibrillosus Murril"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Cortinariales",
+        "Familia": "Crepidotaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero de tamaño grande para su género, puede alcanzar a lo ancho los 5 cm, con una proyección de unos 3 cm aproximadamente y un grosor en la zona más gruesa, que es la zona de unión al sustrato, de medio centímetro. Se proyecta con forma de concha, flabeliforme o reniforme, convexo en un principio y aplanado con posterioridad. Su superficie tiene un fondo blanquecino o algo amarillento, pero predomina el color ocre al estar recubierta de escamas cerradas de ese color y ser además fibriloso, estas fibras son especialmente apreciables junto al margen y más abundantes junto a la unión al sustrato, adquiriendo en esta zona además un color amarillento o azafranado.",
+        "hymenium": "Láminas que como en todos los Crepidotus parten de la zona de unión hacia el margen de forma radial, más bien apretadas y con diferentes longitudes entre ellas. Cuando son jóvenes pueden ser blanquecinas, amarillas o naranjas, pero siempre se vuelven ocres con la maduración esporal, esta variedad de color dio lugar a la creación de diferentes taxones dentro de la sección fulvifibrillosi, que según recientes estudios son sinónimos de esta misma especie.",
+        "stipe": "Pie ausente, se trata de una especie sésil.",
+        "flesh": "Carne blanda y delgada, algo elástica, de color blanquecino, con olor a humedad y con un sabor ligeramente astringente."
+    },
+    "habitat": "Especie que forma carpóforos individuales de crecimiento aislado o gregario en ocasiones. Fructifica sobre madera muerta de árboles diversos, siendo en nuestro radio de acción una especie poco común sobre planifolios y más rara aún sobre madera de coníferas. Nuestra recolecta fue efectuada en el mes de mayo sobre rama caída de encina (Quercus ilex).",
+    "observations": "Especie de Crepidotus de considerable tamaño caracterizada por su cutícula fibrilosa y escamada, así como por la variabilidad del color de sus láminas, que pueden ser blanquecinas, amarillas o naranjas de jóvenes. Crepidotus autochthonus es de tamaño similar, pero su cutícula es lisa y sus láminas no adoptan colores llamativos nunca. Crepidotus mollis es algo más pequeño, con láminas cremas y esporas elípticas.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/crepidotus_crocophyllus/crepidotus_crocophyllus1.jpg",
+        "https://www.fungipedia.org/images/galerias/crepidotus_crocophyllus/crepidotus_crocophyllus2.jpg",
+        "https://www.fungipedia.org/images/galerias/crepidotus_crocophyllus/crepidotus_crocophyllus3.jpg"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "butyriboletus-appendiculatus",
+    "title": null,
+    "author": "(Schaeff.) D. Arora & J.L. Frank",
+    "additional_info": {
+        "common_name": "Onddo hankazorrotz.",
+        "synonym": "Boletus appendiculatus (Schaeffer)"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Boletales",
+        "Familia": "Boletaceae"
+    },
+    "edibility": "buen-comestible",
+    "characteristics": {
+        "cap": "Sombrero de buen tamaño, puede alcanzar los 20 cm de diámetro, aunque lo habitual es encontrarlo de entre 10 y 15 cm. En su primera etapa es hemisférico, para pasar a ser convexo, y finalmente plano-convexo. Su superficie es de color marrón castaño más o menos claro, notablemente seca y finamente tomentosa de joven. Margen excedente, pero no en demasía.",
+        "hymenium": "Tubos adnatos de color amarillo de joven, van evolucionando hacia tonos oliváceos con la edad, al ser presionados con el dedo azulean.",
+        "stipe": "Poros redondos y uniformes, de color amarillo vivo, más bien pequeños, que azulean al roce.",
+        "flesh": "Pie central, grueso o ventrudo en los especímenes jóvenes, luego cilíndrico, atenuado en la base que es casi radicante. Es muy robusto y de color amarillo, aunque la base tiene color ocráceo."
+    },
+    "habitat": "Carne firme y compacta, siendo además gruesa, de color amarillo, a veces más vivo y otras más difuso, que azulea al corte, pero con tonos azul claro. En la base del pie puede volverse rojiza al corte, siendo en esta zona donde la carne es más dura, con textura similar al corcho. Su olor es poco destacado y su sabor dulce y agradable.",
+    "observations": "Esta seta aparece en los meses veraniegos y también durante el otoño, siempre y cuando no haga frío. Es habitual encontrarla, siempre ligada a árboles planifolios, sobre todo a los robles.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/butyriboletus_appendiculatus/butyriboletus_appendiculatus1.jpg",
+        "https://www.fungipedia.org/images/galerias/butyriboletus_appendiculatus/butyriboletus_appendiculatus2.jpg",
+        "https://www.fungipedia.org/images/galerias/butyriboletus_appendiculatus/butyriboletus_appendiculatus3.jpg"
+    ]
+}

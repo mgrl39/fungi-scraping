@@ -1,0 +1,30 @@
+{
+    "name": "hygrocybe-chlorophana",
+    "title": null,
+    "author": "(Fr.) Wünsche",
+    "additional_info": {
+        "common_name": "Hygróforo amarillo, ezko hori.",
+        "synonym": "Hygrophorus chlorophanus (Fr.) Fr."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Tricholomatales",
+        "Familia": "Hygrophoraceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero más bien pequeño, puede alcanzar en ocasiones los 5 cm de diámetro pero no más, con forma de campana en la primera etapa de su desarrollo, después se vuelve convexo, y al final plano-convexo, conservando en el centro del mismo un mamelón obtuso. Es de color amarillo vivo, llamativo, sobre todo de joven, derivando a tonos más pálidos al desecarse o envejecer. Su superficie es claramente viscosa, dato que se acentúa cuando se localiza en un día lluvioso, y el margen es a veces ligeramente estriado, pero no siempre, y muy fino.",
+        "hymenium": "Láminas adnatas o libres con respecto al pie, muy separadas entre sí, de color amarillo más claro que el del sombrero, menos vistoso, tiene además la arista mucho más clara, casi blanca.",
+        "stipe": "Pie cilíndrico y alargado, de color amarillo vivo similar al del sombrero e igualmente viscoso, algo atenuado en la zona basal.",
+        "flesh": "Carne escasa y poco consistente de color amarillo, su olor es apenas apreciable, y su sabor muy suave y dulce."
+    },
+    "habitat": "Es una especie que aparece a veces en grandes grupos sobre la hierba de los prados. Fructifica durante el otoño, sobre todo tardío, siendo uno de los higróforos más frecuente y abundante.",
+    "observations": "La catalogamos sin valor dado que, a pesar de ser una especie inocua, su escasa carne y su escaso sabor hacen que no merezca la pena su consumo. Existen varias especies de su género con las que se puede confundir, muchas de ellas de colores amarillos, como es el caso de la Hygrocybe citrina, Hygrocybe constans, Hygrocybe quieta, etc..., y otros con tonos naranjas como el Hygrocybe persistens que se puede confundir con la var. aurantiaca de la especie descrita. Grupo bastante homogéneo y por lo tanto de difícil catalogación.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/hygrocybe_chlorophana/hygrocybe_chlorophana1.jpg",
+        "https://www.fungipedia.org/images/galerias/hygrocybe_chlorophana/hygrocybe_chlorophana2.jpg"
+    ]
+}

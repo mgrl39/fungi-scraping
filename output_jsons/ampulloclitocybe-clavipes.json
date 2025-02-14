@@ -1,0 +1,31 @@
+{
+    "name": "ampulloclitocybe-clavipes",
+    "title": null,
+    "author": "(Pers.) Redhead, Lutzoni, Moncalvo & Vilgalys",
+    "additional_info": {
+        "common_name": "Clitocibe de pie en forma de clava.",
+        "synonym": "Clitocybe clavipes (Pers.) P. Kumm."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Tricholomatales",
+        "Familia": "Tricholomataceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero que suele rondar los 5 cm de diámetro, plano o algo convexo, en ocasiones obtusamente umbonado, de color variable dentro de los diferentes tonos del gris, palidescente hacia el margen, que se encuentra ligeramente acanalado por trasparencia. Cutícula lisa o sedosa.",
+        "hymenium": "Láminas de color crema que a veces suelen presentar reflejos amarillentos, muy decurrentes sobre el pie y bastante prietas.",
+        "stipe": "Pie en forma de clava, concolor con el sombrero, con la base algodonosa y blanquecina.",
+        "flesh": "Carne de color blanco, blanda, esponjosa, muy poco consistente, al punto que en el centro del sombrero pronto desaparece quedando este hueco."
+    },
+    "habitat": "Fructifica en verano y en el otoño, en pequeños grupos o solitaria, tanto en bosque de coníferas como de planifolios. Frecuente en el norte de la península ibérica.",
+    "observations": "La consistencia fofa de la carne hace que este Ampulloclitocybe carezca de valor culinario. Consideramos que se trata de un taxón fácilmente identificable, el aficionado poco avezado podría confundirlo con el Clitocybe nebularis, que sin embargo tiene más porte y un olor característico. Por la forma del pie pudiera confundirse también con el Infundibulicybe geotropa, que sin embargo puede alcanzar seis veces el tamaño del Ampulloclitocybe clavipes.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/ampulloclitocybe_clavipes/ampulloclitocybe_clavipes1.jpg",
+        "https://www.fungipedia.org/images/galerias/ampulloclitocybe_clavipes/ampulloclitocybe_clavipes2.jpg",
+        "https://www.fungipedia.org/images/galerias/ampulloclitocybe_clavipes/ampulloclitocybe_clavipes3.jpg"
+    ]
+}

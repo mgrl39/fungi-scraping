@@ -1,0 +1,35 @@
+{
+    "name": "descolea-maculata",
+    "title": null,
+    "author": "Bougher",
+    "additional_info": {
+        "common_name": "Descolea de anillo dorado",
+        "synonym": "Descolea maculata var. occidentalis Esteve-Rav., Sánchez Nieto, M. Villarreal & Barrasa"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Agaricales",
+        "Familia": "Bolbitiaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero de pequeño tamaño, el diámetro de los ejemplares adultos suele ser variable y oscilar entre 1 y 4 cm, en las primeras etapas de desarrollo con forma más o menos cónica, abriéndose paulatinamente para pasar a convexo y finalmente aplanado, generalmente resaltado en su zona central de forma obtusa, sin umbón puntiagudo. Es notablemente higrófano, por lo que el color varía en función de la humedad desde un tono pardo oscuro en los ejemplares más hidratados, hasta tonos ocres u ocre amarillentos al irse secando. Tiene aspecto un tanto ruguloso y, sobre todo de joven, puede presentar algún resto de velo amarillento. El margen se presenta marcadamente estriado.",
+        "hymenium": "Láminas adnatas y bastante ventrudas, sobre todo en los ejemplares más desarrollados, con la presencia de laminillas intercaladas, de un color difícilmente definible, cuando son inmaduras de un tono ocraceo claro con matiz incluso grisáceo, al madurar adquieren un color más amarillento u ocre amarillento , incluso con algún matiz ferruginoso. La arista laminar suele tener un color más claro que el resto.",
+        "stipe": "Pie cilíndrico y alargado, pudiendo llegar a rebasar los 5 cm de largo, más bien esbelto, puede ser recto pero es más habitual encontrarlo algo incurvado. Tiene un color que puede variar bastante, a veces parecido al del sombrero y otras mucho más claro, sobre todo en el ápice, y tambien presenta fibrillas de un tono ocre amarillento, posee un anillo membranoso y persistente de un llamativo color amarillo dorado, marcadamente estriado, sobre todo por su cara superior, y en la base puede tener tonos amarillentos en la unión con el micelio.",
+        "flesh": "Carne más bien escasa y bastante tenaz, tiene un olor suave poco significativo, y su sabor es ligeramente amargo."
+    },
+    "habitat": "Estamos ante una especie de origen austral, que ha llegado hasta nuestros lares debido a la masiva plantación de Eucaliptos que se produjo hace un tiempo en muchos lugares de nuestra geografía. Es una especie exclusivamente de este hábitat, donde suele fructificar, generalmente en grupos no demasiado numerosos, rara vez se encuentra de forma aislada, y suele hacerlo sobre todo en los meses otoñales. Los ejemplares que sirven de estudio para la realización de esta ficha han sido localizados en Galdakao, Bizkaia, en una plantación de Eucalyptus globulus, lindando con otra de Quercus rubra, pero micorrizando a los primeros, en el mes de noviembre.",
+    "observations": "Las especies del género Descolea son especies alóctonas traidas a Europa desde Australia a traves de las plantaciones de eucalipto, al igual que sucede con otras especies como los Hydnangium, Descomyces... Esta especie se caracteriza, al margen del hábitat, sobre todo desde el punto de vista macroscópico, por su bello anillo estriado de color amarillo dorado, bastante persistente, y microcóspicamente por las esporas asimétricas, al perfil más abombadas de un lado que de otro, y por sus cistidios cilíndricos o alguno claviforme (veanlo en características microscópicas). Estas características sirven para separarla sin problema de Descolea tenuipes=Setchelliogaster tenuipes-Setchelliogaster rheophyllus, especie sin anillo persistente y con cistidios lecitiformes.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/descolea_maculata/descolea_maculata1.jpg",
+        "https://www.fungipedia.org/images/galerias/descolea_maculata/descolea_maculata2.jpg",
+        "https://www.fungipedia.org/images/galerias/descolea_maculata/descolea_maculata3.jpg",
+        "https://www.fungipedia.org/images/galerias/descolea_maculata/descolea_maculata4.jpg",
+        "https://www.fungipedia.org/images/galerias/descolea_maculata/descolea_maculata5.jpg",
+        "https://www.fungipedia.org/images/galerias/descolea_maculata/descolea_maculata6.jpg",
+        "https://www.fungipedia.org/images/galerias/descolea_maculata/descolea_maculata7.jpg"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "name": "clathrus-archeri",
+    "title": null,
+    "author": "(Berk.) Dring",
+    "additional_info": {
+        "common_name": "Izar gorri.",
+        "synonym": "Anthurus archeri (Berk.) E. Fisch."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Gasteromycetidae",
+        "Orden": "Phallales",
+        "Familia": "Clathraceae"
+    },
+    "edibility": "no-comestible",
+    "characteristics": {
+        "cap": "Carpóforo que de joven se presenta en forma de huevo, este es de consistencia gelatinosa y blando, de unos 3 cm de alto por 4 o 5 de ancho, algo aplanado en la zona superior. Al abrirse por arriba da paso a una estructura formada por varios brazos de color rojo llamativo con algunos puntos negruzcos, que pasan de estar erectos a ir cayendo hacia tierra y separándose, dando aspecto de patas de cangrejo. Estos brazos suelen ser 4 o 5 y terminan en punta.",
+        "hymenium": "Peridio de color blanco sucio y muy gelatinoso, a veces algo rosado, que al desarrollarse los brazos se queda a modo de volva.",
+        "stipe": "Pie rudimentario de color blanquecino que se queda dentro del huevo al abrirse, rosado por la unión con los brazos.",
+        "flesh": "Carne de consistencia mucilaginosa, rosada y con un olor fétido característico, con gleba de color verde oliva, repelente."
+    },
+    "habitat": "Aparece durante el verano y el otoño, sobre todo en bosques de hoja caduca, la vemos frecuentemente en hayedos y robledales. Es una seta que se está extendiendo mucho en los últimos años.",
+    "observations": "Su olor repelente la hace incomestible, aunque algunos autores digan de ella que es comestible en estado de huevo, todas para ellos, nosotros no, gracias. Dicen que es originaria de otros continentes, lo cierto es que está colonizando amplias zonas que antes eran propicias para el hongo negro. En estado de huevo puede parecerse al Clathrus ruber o al Phallus impudicus, siendo necesaria una sección en el mismo para salir de dudas.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/clathrus_archeri/clathrus_archeri1.jpg",
+        "https://www.fungipedia.org/images/galerias/clathrus_archeri/clathrus_archeri2.jpg"
+    ]
+}

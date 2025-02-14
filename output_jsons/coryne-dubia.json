@@ -1,0 +1,32 @@
+{
+    "name": "coryne-dubia",
+    "title": null,
+    "author": "(Pers.) Gray",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Acrospermum dubium Pers."
+    },
+    "taxonomy": {
+        "División": "Ascomycota",
+        "Subdivisión": "Ascomycotina",
+        "Clase": "Himenoascomycetes",
+        "Subclase": "Pezizomycetidae",
+        "Orden": "Leotiales",
+        "Familia": "Helotiaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Esporóforo que brota del sustrato sobre el que se asienta formando una serie de lóbulos irregulares generalmente agrupados y más raramente aislados, poco a poco se va erigiendo formando fructificaciones individuales erectas con forma espatulada. Su superficie es lisa y tiene un color violeta oscuro de adulto, pero de un lila brillante claro cuando los especímenes son más jóvenes. La zona apical posee una especie de lenteja, aunque a veces es más netamente redondeada, y tiene un color similar al resto del esporóforo.",
+        "hymenium": "Himenio liso ubicado en la superficie externa del esporóforo y en la zona superior, del mismo color que el resto. Produce conidios de pequeño tamaño en masa, en número que puede ser espectacular, y que impregnan de alguna manera todo el conjunto. Los conidios, también llamados conidiósporas, son células asexuales inmóviles creadas directamente a partir de las hifas, y están muy presentes en muchos hongos, especialmente y de forma relevante, aunque no única, en los Ascomycetes.",
+        "stipe": "Pie inexistente como tal, si bien es cierto que los ejemplares desarrollados presentan una forma eréctil, entendemos que no se diferencia un pie de forma específica.",
+        "flesh": "Carne en principio de consistencia gelatinosa y luego más dura al secarse, de color violáceo, sin olor específico."
+    },
+    "habitat": "Tiene un hábitat lignícola, ya que aparece sobre madera degradada y tocones de diversos árboles. Ha sido localizada en invierno, no descartando su aparición en otras épocas del año. Creemos que es tan frecuente como las especies heteromorfas de Ascocoryne o más, pero que no ha sido todavía convenientemente estudiada, por lo que bibliográficamente podemos decir que apenas está referenciada.",
+    "observations": "Se trata de una forma conidiógena o anamorfa de Ascocoryne sp., cuyos esporóforos tienen un color similar, pero su forma es diferente, ya que la especie aquí descrita nunca presenta individuos con forma de tapón o cúpula. Esta diferencia morfológica puede ser relevante, pero el análisis microscópico lo es más y no deja lugar a dudas, ya que revela conidiósporas por doquier, un solo ejemplar puede formar miles de ellas. Está por estudiar si es la forma conidial exclusiva de Ascocoryne sarcoides, o por el contrario puede serlo también de otras especies como Ascocoryne cylichnium.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/coryne_dubia/coryne_dubia1.jpg",
+        "https://www.fungipedia.org/images/galerias/coryne_dubia/coryne_dubia2.jpg",
+        "https://www.fungipedia.org/images/galerias/coryne_dubia/coryne_dubia3.jpg",
+        "https://www.fungipedia.org/images/galerias/coryne_dubia/coryne_dubia4.jpg"
+    ]
+}

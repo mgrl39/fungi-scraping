@@ -1,0 +1,32 @@
+{
+    "name": "hydnum-repandum",
+    "title": null,
+    "author": "L.",
+    "additional_info": {
+        "common_name": "Lengua de vaca, gamuza.",
+        "synonym": "Hydnum flavidum Schaeff."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Aphyllophoromycetidae",
+        "Orden": "Cantharellales",
+        "Familia": "Hydnaceae"
+    },
+    "edibility": "buen-comestible",
+    "characteristics": {
+        "cap": "Sombrero de hasta 15 cm, de color variable, desde beige a amarillento, aunque predominantemente de color gamuza. Es carnoso y seco, con la superficie lisa o ligeramente afieltrada, su forma es convexa pero muy irregular, con el margen lobulado en los ejemplares adultos.",
+        "hymenium": "Himenóforo formado por aguijones muy frágiles que se caen con solo tocarlos, de unos 6 mm de largo, de color blanquecino o crema, decurrentes sobre el pie.",
+        "stipe": "Pie normalmente corto y grueso, en ocasiones excéntrico, de color bastante pálido.",
+        "flesh": "Carne quebradiza y blanca, aunque puede amarillear débilmente, de olor fúngico suave y sabor un poco amargo."
+    },
+    "habitat": "Aparece desde finales de verano en bosques de caducifolios, en corros o hileras, en los pinares sin embargo es una seta tardía, que sale con el otoño ya avanzado y que incluso aguanta hasta la llegada de las nieves. Común y abundante.",
+    "observations": "Constituye un buen comestible, más adecuada para acompañar guisos que para comerla sola, aunque para gustos hay colores. Se confunde con el Hydnum rufescens, de sombrero rojizo y mucho más endeble. Se ha separado el Hydnum albidum, especie blanca y frágil exclusiva de pinares, los estudios moleculares están descubriendo nuevos taxones afines.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/hydnum_repandum/hydnum_repandum1.jpg",
+        "https://www.fungipedia.org/images/galerias/hydnum_repandum/hydnum_repandum2.jpg",
+        "https://www.fungipedia.org/images/galerias/hydnum_repandum/hydnum_repandum3.jpg",
+        "https://www.fungipedia.org/images/galerias/hydnum_repandum/hydnum_repandum4.jpg"
+    ]
+}

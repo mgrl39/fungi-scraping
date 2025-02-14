@@ -1,0 +1,30 @@
+{
+    "name": "amanita-fulva",
+    "title": null,
+    "author": "Fr.",
+    "additional_info": {
+        "common_name": "Amanita rojiza, kukumelo marroiska, pentinella rogenca.",
+        "synonym": "Amanitopsis vaginata var. fulva (Fr.) Sacc."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Agaricales",
+        "Familia": "Amanitaceae"
+    },
+    "edibility": "comestible-precaucion",
+    "characteristics": {
+        "cap": "Sombrero de tamaño medio, entre 5 y 8 cm, de un color llamativo pero difícil de describir, pardo rojizo a leonado anaranjado, con el centro más oscuro y palideciendo hacia el margen, que está netamente estriado. Suele conservar un mamelón central no muy pronunciado, y su forma es ovoide al principio, después convexa y al final plana. No suele presentar restos de volva y en época de lluvias es algo viscídulo.",
+        "hymenium": "Láminas densas pero no muy apretadas, de color blanco y libres con respecto al pie.",
+        "stipe": "Pie generalmente blanco, o tiznado de color carne, liso, apenas adornado, largo con respecto al sombrero. Carece de anillo y su volva es blanca pero manchada de pardo rojizo de forma zonal.",
+        "flesh": "Carne blanca y frágil, poco espesa, su sabor es suave y su olor es apenas apreciable."
+    },
+    "habitat": "Aunque aparece también en coníferas, donde se encuentra con más profusión es bajo planifolios diversos, tanto en verano como durante el otoño.",
+    "observations": "A pesar de ser poco carnosa, es comestible si se cuece previamente, ya que en crudo es tóxica. Se parece mucho a la Amanita crocea, de sombrero anaranjado leonado, pie adornado y volva más blanca, así como a otras Amanitas de la sección Amanitopsis, como la Amanita vaginata.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/amanita_fulva/amanita_fulva1.jpg",
+        "https://www.fungipedia.org/images/galerias/amanita_fulva/amanita_fulva2.jpg"
+    ]
+}

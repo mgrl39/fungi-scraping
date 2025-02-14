@@ -1,0 +1,34 @@
+{
+    "name": "gautieria-graveolens",
+    "title": null,
+    "author": "Vittad.",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Gautieria graveolens var. graveolens Vittad."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Gasteromycetidae",
+        "Orden": "Gautieriales",
+        "Familia": "Gautieriaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Carpóforo que adopta unas formas ciertamente irregulares, muchas veces es subgloboso, pero en otras ocasiones presenta abultamientos sin una forma específica. Su tamaño oscila, pudiéndose encontrar ejemplares adultos que en su zona más ancha alcancen los 5 cm de diámetro y otros que apenas lleguen a los 2 o 3 cm. Tiene un color ocre ferruginoso en su conjunto, y en la base presenta cordones miceliales de color blanco agrupados que le sirven de unión con el propio micelio que tiene ese mismo color.",
+        "hymenium": "Peridio compuesto por esferocitos de color claro, blanquecinos en su conjunto, que confieren un aspecto más claro a los especímenes muy jóvenes. Estos esferocitos empiezan a desaparecer muy pronto dejando entrever la gleba, pero no lo hacen de forma uniforme, los especímenes de desarrollo intermedio presentan zonas con peridio y otras en que la gleba es más patente, solo los ejemplares ya maduros carecen por completo de peridio.",
+        "stipe": "Pie inexistente, se unen directamente a través de los cordones miceliales.",
+        "flesh": "Gleba consistente no pulverulenta de aspecto laberíntico, formada por cavidades de color ocre ferruginoso separadas por algunas ramificaciones gelatinosas de color blanco o grisáceas, convergentes hacia la base y que forman la columela. En los ejemplares maduros tras unas horas de ser recolectados se aprecia un intenso olor que se hace desagradable, sobre todo en espacios cerrados, y que es apreciable a una cierta distancia."
+    },
+    "habitat": "Se trata de una especie eminentemente primaveral, que aparece enterrada o semihipogea en los bosques húmedos de coníferas y planifolios del piso submontano. Especie de difícil localización, debe considerarse como rara.",
+    "observations": "Género no muy conocido, Gautieria apenas engloba media docena de especies referenciadas para Europa. Hemos constatado que los ejemplares jóvenes son prácticamente inodoros en su recolección, pero al de un tiempo emanan un olor intenso. Gautieria otthii es macroscópicamente similar a la descrita, al punto que algunos autores tienden a sinonimizarla, sin embargo sus diferencias microscópicas son relevantes, empezando por el tamaño esporal, esporas de 11 a 14 micras, mientras que en la especie que les describimos en esta ficha son predominantes las esporas entre 16 y 19 micras. Gautieria morchelliformis carece de peridio desde joven y sus esporas son aún mayores.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/gautieria_graveolens/gautieria_graveolens1.jpg",
+        "https://www.fungipedia.org/images/galerias/gautieria_graveolens/gautieria_graveolens2.jpg",
+        "https://www.fungipedia.org/images/galerias/gautieria_graveolens/gautieria_graveolens3.jpg",
+        "https://www.fungipedia.org/images/galerias/gautieria_graveolens/gautieria_graveolens4.jpg",
+        "https://www.fungipedia.org/images/galerias/gautieria_graveolens/gautieria_graveolens5.jpg",
+        "https://www.fungipedia.org/images/galerias/gautieria_graveolens/gautieria_graveolens6.jpg"
+    ]
+}

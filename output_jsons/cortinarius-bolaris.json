@@ -1,0 +1,30 @@
+{
+    "name": "cortinarius-bolaris",
+    "title": null,
+    "author": "(Pers.) Fr.",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Agaricus bolaris Pers."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Cortinariales",
+        "Familia": "Cortinariaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero relativamente pequeño para el género, los ejemplares en pleno desarrollo apenas superan los 5 cm de diámetro, inicialmente de forma subglobosa, pronto con forma convexa, para acabar al final por aplanarse e incluso deprimirse en la zona central. Su superficie se halla recubierta en su totalidad por escamas de color rojizo que la adornan sobre un fondo más claro, blanquecino, dando un aspecto general de hallarse cuarteada. Esta superficie amarillea al ser rozada o manipulada. Margen liso e irregular.",
+        "hymenium": "Láminas adnatas o sino subdecurrentes, bastante separadas entre sí y con pocas laminillas, tras la esporulación adoptan tono ferruginoso, pero de jóvenes son de color crema ocráceo.",
+        "stipe": "Pie de color blanco en la zona próxima al himenio, el resto es de color amarillento, en la zona apical pruinoso y en las demás adornado con flocones de color rojo cinabrio. Tiene forma de huso, a veces curvado, y suele estar atenuado en la base, lleno. Su cortina es blanca, tiñéndose de rojizo, y tiende a desaparecer con suma facilidad. Al igual que el sombrero amarillea superficialmente al contacto.",
+        "flesh": "Carne al corte de color blanquecino, salvo bajo la cutícula donde es algo amarilla y en la base, de color amarillo intenso. Como amarillea al contacto con el aire da aspecto de ser de ese color. Su olor es poco destacado y su sabor amarescente."
+    },
+    "habitat": "Esta seta la hemos visto siempre en los hayedos, pero también puede hacer acto de aparición bajo otros planifolios. Le gusta el terreno con el pH ácido, nunca la hemos observado, de hecho, en otro tipo de suelo. Recolectada a finales del verano, aparece también durante el otoño, siendo una especie poco frecuente.",
+    "observations": "Dentro del difícil mundo de los Cortinarius, esta es una de esas pocas especies que se reconocen macroscópicamente con cierta facilidad, a ello ayuda el peculiar aspecto de su sombrero, cuarteado en escamas rojo cinabrio desde muy joven. El único que puede tener cierta similitud con este es el Cortinarius rubicundulus, de hábitat acidófilo también, y de colorido similar, si bien su cutícula no llega nunca a cuartearse de esta manera.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/cortinarius_bolaris/cortinarius_bolaris1.jpg",
+        "https://www.fungipedia.org/images/galerias/cortinarius_bolaris/cortinarius_bolaris2.jpg"
+    ]
+}

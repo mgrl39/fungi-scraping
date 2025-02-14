@@ -1,0 +1,30 @@
+{
+    "name": "amanita-citrina",
+    "title": null,
+    "author": "(Schaeff.) Pers.",
+    "additional_info": {
+        "common_name": "Amanita citrina, oronja limón, lanperna limoi, reig bord groc.",
+        "synonym": "Amanita mappa (Batsch) Bertill."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Agaricales",
+        "Familia": "Amanitaceae"
+    },
+    "edibility": "no-comestible",
+    "characteristics": {
+        "cap": "Sombrero de tamaño medio, su diámetro oscila entre los 5 y los 10 cm, emerge de la tierra con forma globosa, pero pronto se vuelve convexa y al final se aplana un poco, llegando a quedar extendido en su última etapa. Como su propio nombre indica es de color amarillo limón, al menos en la especie tipo, aunque varía mucho de tonos llegando a quedar blanco en ocasiones. Su cutícula es brillante y lubrificada en tiempo lluvioso, y está habitualmente decorada con verrugas de consistencia un tanto harinosa de color blanquecino u ocráceo. Esta cutícula es así mismo separable de la carne del sombrero, y el borde no es estriado.",
+        "hymenium": "Láminas libres con respecto al pie, apretadas y de trazo irregular, de color fundamentalmente blanco, aunque pueden presentar tonos o reflejos amarillentos.",
+        "stipe": "Pie central y cilíndrico, lleno de joven y luego hueco, generalmente más largo que el diámetro del sombrero y por lo tanto esbelto. Es de color blanquecino a amarillo pálido, y está provisto en su parte superior de un anillo concoloro y persistente algo estriado, y en su parte inferior de una volva circuncisa blanquecina que tiende a ensuciarse de ocre con el tiempo.",
+        "flesh": "Carne espesa y consistente de color blanco, salvo bajo la cutícula donde adopta tonos amarillentos. Olor a patata o rafanoide, sabor bastante desagradable."
+    },
+    "habitat": "Es una especie tremendamente abundante que aparece bajo cualquier tipo de árbol. Salvo en invierno quizás, se la puede encontrar en cualquier época del año.",
+    "observations": "Es una seta que durante mucho tiempo ha sido considerada como mortal sin serlo, debido fundamentalmente a su notable parecido con la mortal Amanita phalloides, especie que sin embargo es de color verdoso, no amarillo, con la cutícula con fibrillas, volva envolvente no circuncisa y sin olor a patata, son muchas pues las diferencias entre ambas. Otra especie con la cual se puede confundir es la Amanita gemmata, especie tóxica que se diferencia a primer golpe de vista por su sombrero estriado.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/amanita_citrina/amanita_citrina1.jpg",
+        "https://www.fungipedia.org/images/galerias/amanita_citrina/amanita_citrina2.jpg"
+    ]
+}

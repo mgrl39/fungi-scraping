@@ -1,0 +1,30 @@
+{
+    "name": "amanita-ovoidea",
+    "title": null,
+    "author": "(Bull.) Link",
+    "additional_info": {
+        "common_name": "Amanita ovoide, farinera, kukuma.",
+        "synonym": "Amanita alba Persoon"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Agaricales",
+        "Familia": "Amanitaceae"
+    },
+    "edibility": "comestible",
+    "characteristics": {
+        "cap": "Sombrero de grandes dimensiones, puede llegar a superar los 20 cm de diámetro, globoso a esférico, para pasar después a convexo, no suele llegar a aplanarse hasta que el ejemplar es ya viejo. Su color es el blanco puro, brillante en ocasiones, y su cutícula no acostumbra a presentar restos de volva, sin embargo si tiene restos del velo en el borde.",
+        "hymenium": "Láminas apretadas de color igualmente blanco, con respecto al pie son libres, formando una especie de círculo alrededor del mismo.",
+        "stipe": "Pie central, cilíndrico y grueso, de color blanco, con escamas de consistencia harinosa del mismo color. Posee un anillo poco consistente y harinoso concoloro y fugaz, además de una volva membranosa muy consistente en forma de saco, que puede ser blanca u ocre amarillenta.",
+        "flesh": "Carne blanca, muy espesa y compacta, de sabor suave y un olor apenas perceptible."
+    },
+    "habitat": "Sale de manera más frecuente bajo planifolios diversos, sobre todo en encinares, aunque también puede aparecer bajo coníferas. Es una especie otoñal poco frecuente.",
+    "observations": "A pesar de ser comestible, no recomendamos su consumo por dos razones, no es demasiado buena para la cocina, y además puede confundirse con facilidad con especies tóxicas, e incluso mortales. Mala es su confusión con la mortal Amanita virosa, de sombrero mucho más pequeño y anillo membranoso. La especie a la que más se parece es la Amanita proxima, de anillo membranoso, sin restos de velo en el borde del sombrero, y con la volva anaranjada.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/amanita_ovoidea/amanita_ovoidea1.jpg",
+        "https://www.fungipedia.org/images/galerias/amanita_ovoidea/amanita_ovoidea2.jpg"
+    ]
+}

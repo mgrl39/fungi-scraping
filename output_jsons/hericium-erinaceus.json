@@ -1,0 +1,31 @@
+{
+    "name": "hericium-erinaceus",
+    "title": null,
+    "author": "(Bull.) Pers.",
+    "additional_info": {
+        "common_name": "Melena de león, barba de cabra, ahuntz-bizar, bolet carner.",
+        "synonym": "Dryodon erinaceus (Bull.) P. Karst."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Aphyllophoromycetidae",
+        "Orden": "Hericiales",
+        "Familia": "Hericiaceae"
+    },
+    "edibility": "comestible",
+    "characteristics": {
+        "cap": "Carpóforo formado por una base en forma de lengua o rectangular adherida o asentada a la madera que le sirve de sustrato, de color blanco. De ella parten infinidad de agujas de notable longitud, en algunos casos pueden llegar a medir hasta 5 cm de largo, siendo la más habitual encontrarlas de 2 o 3 cm. Estas agujas son notablemente frágiles y flexibles, pudiéndose soltar de la base con la manipulación del espécimen. Cuando la seta es joven, las agujas son de color blanco, pero al desarrollarse el carpóforo se vuelven cremas, y al final del proceso adoptan tonos ocráceos por envejecimiento.",
+        "hymenium": "Himenio formado por una serie de agujas dispuestas en sentido vertical.",
+        "stipe": "Pie inexistente, es una especie sésil.",
+        "flesh": "Carne espesa y blanca, de consistencia un tanto elástica, con olor fúngico suave y sabor dulce e igualmente suave."
+    },
+    "habitat": "Es una especie que se desarrolla sobre troncos de árboles planifolios vivos. Aparece sobre todo durante el otoño tardío, e incluso a veces en principio del invierno. No es una especie abundante, pero tampoco rara.",
+    "observations": "Dicen de ella que de joven constituye un buen comestible, aunque luego se vuelve un tanto tenaz. Tiene aplicaciones en medicina como protector del sistema gástrico superior. En el capítulo de posibles confusiones mencionaremos al Hericium coralloides, de agujas cortas que se sustentan sobre estructuras ramificadas, y el Hericium cirrhatum, el cual dispone de sombreros bien diferenciados de donde parten las agujas.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/hericium_erinaceus/hericium_erinaceus1.jpg",
+        "https://www.fungipedia.org/images/galerias/hericium_erinaceus/hericium_erinaceus2.jpg",
+        "https://www.fungipedia.org/images/galerias/hericium_erinaceus/hericium_erinaceus3.jpg"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "butyriboletus-pseudoregius",
+    "title": null,
+    "author": "(Heinr. Huber) D. Arora & J.L. Frank",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Boletus pseudoregius (Heinr. Huber) Estadés"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Boletales",
+        "Familia": "Boletaceae"
+    },
+    "edibility": "buen-comestible",
+    "characteristics": {
+        "cap": "Sombrero que en estado adulto tiene entre 10 y 15 cm de diámetro, empieza siendo hemisférico, después convexo, y por último aplanado. Es de color rosa rojizo a pardo rojizo, bastante variable en los tonos. Su cutícula es separable, seca y finamente aterciopelada, sobre rodo en los ejemplares jóvenes. Margen uniforme y no excedente.",
+        "hymenium": "Tubos generalmente adnatos, aunque a veces hacen una especie de círculo alrededor del pie, de color amarillo, algo olivas de viejos, azulean al corte de forma apreciable.",
+        "stipe": "Poros de color amarillo vivo muy llamativo, redondos y estrechos, que apenas azulean a la presión.",
+        "flesh": "Pie robusto y engrosado en la zona central de joven, luego cilíndrico, normalmente más estrecho junto al sombrero y algo radicante en la base, de color amarillo, pero adornado habitualmente por una zona anular rojiza aproximadamente a media altura, aunque no siempre aparece."
+    },
+    "habitat": "Carne espesa y consistente tanto en el sombrero como en el pie, de color amarillo, que azulea con tonos claros en el sombrero, mientras que en el pie o bien permanece inmutable, o se vuelve rojiza. De sabor agradable y olor fúngico suave.",
+    "observations": "Siempre la hemos observado ligada a bosques de caducifolios, fructificando tanto en verano como en otoño. Es una especie poco frecuente, aunque la vemos bastante más que el Boletus regius.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/butyriboletus_pseudoregius/butyriboletus_pseudoregius1.jpg",
+        "https://www.fungipedia.org/images/galerias/butyriboletus_pseudoregius/butyriboletus_pseudoregius2.jpg",
+        "https://www.fungipedia.org/images/galerias/butyriboletus_pseudoregius/butyriboletus_pseudoregius3.jpg"
+    ]
+}

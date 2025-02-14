@@ -1,0 +1,31 @@
+{
+    "name": "tylopilus-felleus",
+    "title": null,
+    "author": "(Bull.) P. Karst.",
+    "additional_info": {
+        "common_name": "Camaleón rojo, chupasangre, onddo mingots, mataparent amarg.",
+        "synonym": "Boletus felleus Bull."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Boletales",
+        "Familia": "Boletaceae"
+    },
+    "edibility": "no-comestible",
+    "characteristics": {
+        "cap": "Sombrero de aspecto carnoso y un diámetro en los ejemplares adultos que puede sobrepasar los 10 cm y aproximarse incluso a los 15 cm. Cuando nace tiene forma hemisférica, después se vuelve convexo, estado en el que permanece buena parte de su desarrollo, al final es plano-convexo, rara vez totalmente aplanado. Su superficie es seca, en un principio algo aterciopelada y posteriormente tomentosa, de un color que puede variar entre diversos matices dentro de los ocres, desde gamuza hasta casi pardo, a veces muy claro. El margen muy regular de joven suele tender a quedar sinuoso en los ejemplares viejos.",
+        "hymenium": "Tubos más bien alargados y sinuosos, de color blanco en los especímenes jóvenes, rosados al madurar y parduzcos en la vejez.",
+        "stipe": "Poros pequeños para el género, en un primer momento redondeados pero pronto se vuelven angulosos de forma irregular, de color blanco en los ejemplares jóvenes, rosados al esporular, al roce se ensucian.",
+        "flesh": "Pie de aspecto macizo, engrosado al nacer pero pronto cilíndrico, lleno, de un color de fondo ocráceo con tonos oliváceos o simplemente marrón, recorrido por una retícula marcada y muy patente que a veces puede llegar a cubrir prácticamente todo el pie."
+    },
+    "habitat": "Carne espesa, consistente en los ejemplares jóvenes y más blanda en los adultos, de color blanco volviéndose un poco rosada de vieja. Tiene un olor fúngico agradable, su sabor es sin embargo muy amargo.",
+    "observations": "Las pocas veces que hemos visto esta especie ha sido bajo coníferas aunque también está citado su crecimiento bajo planifolios, es una especie rara que suele crecer más bien aislada, nunca la hemos visto en grupo. La época predilecta de aparición es el verano y también puede aparecer durante el otoño, es una especie bastante termófila.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/tylopilus_felleus/tylopilus_felleus1.jpg",
+        "https://www.fungipedia.org/images/galerias/tylopilus_felleus/tylopilus_felleus2.jpg",
+        "https://www.fungipedia.org/images/galerias/tylopilus_felleus/tylopilus_felleus3.jpg"
+    ]
+}

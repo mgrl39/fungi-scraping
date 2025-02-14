@@ -1,0 +1,31 @@
+{
+    "name": "crepidotus-variabilis",
+    "title": null,
+    "author": "(Pers.) Kumm.",
+    "additional_info": {
+        "common_name": "Crepidoto variable, txirla arrunt.",
+        "synonym": "Claudopus variabilis (Pers.) Fr."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Cortinariales",
+        "Familia": "Crepidotaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero pequeño, los ejemplares adultos no exceden de los 3 cm de diámetro, con forma propia característica, similar a los abanicos que se abren los 360 grados. Su superficie es de color blanco, con algún matiz crema o gris en ocasiones, siendo ligeramente tomentosa o afieltrada, sobre todo en los ejemplares jóvenes y hacia el margen, más lisa en la vejez. El margen se presenta casi siempre enrollado e irregularmente ondulado. Es típico de esta especie que no forme un círculo perfecto, sino que se aprecia una abertura desde el final del disco hasta la unión con el sustrato.",
+        "hymenium": "Láminas adnatas y ventrudas, de disposición marcadamente radial, partiendo de la zona de unión con el sustrato y hacia el margen. Son poco apretadas y con alguna laminilla, de color blanquecino en los individuos jóvenes, evolucionando hacia tonos ocre claros, casi cárneos, y al final se vuelven totalmente ocres.",
+        "stipe": "Pie lateral y muy rudimentario en los ejemplares jóvenes, después inexistente, cuando aparece es del mismo color que el sombrero.",
+        "flesh": "Carne escasa y poco consistente, menos espesa cuanto más nos acercamos al margen del sombrero, de color blanquecino. Olor fúngico no demasiado agradable y sabor poco significativo."
+    },
+    "habitat": "Especie muy frecuente y extendida que puede aparecer prácticamente en cualquier época del año. Fructifica sobre ramas caídas y, en general, sobre todo tipo de madera muerta, sin especial predilección por un determinado tipo de árbol, incluso aparece sobre madera de especies arbustivas o tallos herbáceos.",
+    "observations": "Se trata de la especie más conocida del género Crepidotus, género caracterizado por presentar especies que se desarrollan sobre la madera, con forma más o menos de abanico, pie prácticamente inexistente, y esporada marrón, que le confiere a las láminas tonos ocres con la maduración. El Crepidotus cesatti es una seta muy parecida, diferenciándose por sus esporas casi redondas y espinosas. También tiene cierto parecido el Crepidotus applanatus, de esporas globosas mucho más pequeñas que las de la especie que describimos en esta ficha.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/crepidotus_variabilis/crepidotus_variabilis1.jpg",
+        "https://www.fungipedia.org/images/galerias/crepidotus_variabilis/crepidotus_variabilis2.jpg",
+        "https://www.fungipedia.org/images/galerias/crepidotus_variabilis/crepidotus_variabilis3.jpg"
+    ]
+}

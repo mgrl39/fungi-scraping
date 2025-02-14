@@ -1,0 +1,31 @@
+{
+    "name": "phellinus-pomaceus",
+    "title": null,
+    "author": "(Pers.) Maire",
+    "additional_info": {
+        "common_name": "Ardagai beltz.",
+        "synonym": "Phellinus tuberculosus Niemelä."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Aphyllophoromycetidae",
+        "Orden": "Hymenochaetales",
+        "Familia": "Hymenochaetaceae"
+    },
+    "edibility": "no-comestible",
+    "characteristics": {
+        "cap": "Carpóforo perenne de forma variable, habitualmente con forma de pezuña o semicircular, a veces con forma de casco, pero como mejor se define es como un tocho pegado a un árbol. La parte superior es de color gris mate, que va tornándose hacia el marrón rojizo, e incluso negruzco al envejecer, y suele estar normalmente agrietada.",
+        "hymenium": "Himenio o parte inferior de la seta, compuesto por varias capas de tubos que se superponen, tubos más o menos de 2 mm de diámetro. Estos tubos son de color marrón, acabando en unos poros muy estrechos de color carne o canela, para hacernos una idea del tamaño diremos que en 1 mm puede haber hasta 5 poros.",
+        "stipe": "Pie inexistente, se adhiere directamente a la madera.",
+        "flesh": "Carne dura como la propia madera, sin olor apreciable, si algún valiente se anima puede intentar probarla y decirnos a que sabe."
+    },
+    "habitat": "Es una seta bastante habitual que se puede encontrar en cualquier época del año, indefectiblemente adherida a los troncos o ramas de árboles frutales.",
+    "observations": "Su hábitat bajo árboles frutales la diferencia de otras especies afines como el Fomitiporia robusta, propio de planifolios. Quizás la especie que más se le parece sea el Phellinus igniarius, que en vez de gris mate es negro brillante. Todas ellas son especies parásitas.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/phellinus_pomaceus/phellinus_pomaceus1.jpg",
+        "https://www.fungipedia.org/images/galerias/phellinus_pomaceus/phellinus_pomaceus2.jpg",
+        "https://www.fungipedia.org/images/galerias/phellinus_pomaceus/phellinus_pomaceus3.jpg"
+    ]
+}

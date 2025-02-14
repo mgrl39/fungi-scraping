@@ -1,0 +1,34 @@
+{
+    "name": "lactarius-pubescens",
+    "title": null,
+    "author": "Fr.",
+    "additional_info": {
+        "common_name": "Lactario peludo.",
+        "synonym": "Lactarius blumii Bon"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Russulales",
+        "Familia": "Russulaceae"
+    },
+    "edibility": "toxica",
+    "characteristics": {
+        "cap": "Sombrero con un diámetro que en los ejemplares adultos puede alcanzar los 10 cm, comúnmente entre 4 y 8 cm. Al principio con forma convexa y el borde muy enrollado, aplanándose con posterioridad, manteniendo el margen involuto bastante tiempo, finalmente deprimido o embudado con el margen recto. Superficie cubierta de densos pelos en su primera etapa, después estos pelos solo permanecen en la zona del margen, en la madurez es lisa o simplemente tomentosa en su conjunto. El color es variable, en la mayor parte de los ejemplares recolectados predomina el color blanquecino o crema, con claros matices rosados o cárneos en muchos ejemplares, en unos pocos predomina el rosado carneo sobre el blanco. Carece por completo de zonas concéntricas.",
+        "hymenium": "Láminas de adnatas a subdecurrentes, densas y apretadas, de color similar al sombrero manchándose al tacto con tonos ocráceos.",
+        "stipe": "Pie generalmente corto, lleno cuando joven quedando hueco de adulto, de color similar al resto y manchándose de color ocráceo sucio al ser manoseado. Es liso, careciendo de los pelos que tiene el sombrero.",
+        "flesh": "Carne consistente y espesa de color blanco, exuda un látex del mismo color, inmutable con el aire pero que amarillea débilmente sobre un pañuelo blanco. Su olor no es desagradable, resulta algo afrutado con matices florales, pero por contra tiene un sabor notablemente acre y desagradable."
+    },
+    "habitat": "Se trata de una especie que localizamos cada año bajo abedules, curiosamente todas las plantaciones que se hacen de estos árboles en jardines públicos vienen micorrizadas con estos hongos, que en algunos casos llegan a salir con profusión. Crece en grupos durante el otoño, no la hemos visto fuera de este hábitat exclusivo.",
+    "observations": "La variabilidad de color de esta especie, a veces blanco y otras rosado carneo o encarnado ha hecho que se creyera que Lactarius blumii o cilicioides eran otra especie distinta, pero se ha demostrado que se trata de la misma especie. También fue considerada por un tiempo como variedad del Lactarius torminosus, que sale también bajo abedules pero en zonas más montañosas, y de la que se distingue por el tono más blanquecino y la ausencia de zonas concéntricas. Lactarius mairei, de distribución más mediterránea bajo planifolios se le parece mucho, así como Lactarius citriolens, con olor a corteza de limón.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/lactarius_pubescens/lactarius_pubescens1.jpg",
+        "https://www.fungipedia.org/images/galerias/lactarius_pubescens/lactarius_pubescens2.jpg",
+        "https://www.fungipedia.org/images/galerias/lactarius_pubescens/lactarius_pubescens3.jpg",
+        "https://www.fungipedia.org/images/galerias/lactarius_pubescens/lactarius_pubescens4.jpg",
+        "https://www.fungipedia.org/images/galerias/lactarius_pubescens/lactarius_pubescens5.jpg",
+        "https://www.fungipedia.org/images/galerias/lactarius_pubescens/lactarius_pubescens6.jpg"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "name": "clavulinopsis-luteoalba",
+    "title": null,
+    "author": "(Rea) Corner",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Clavaria luteoalba Rea"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Aphyllophoromycetidae",
+        "Orden": "Cantharellales",
+        "Familia": "Clavariaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Carpóforo en un primer momento con forma de hilo, conforme se va desarrollando se engrosa algo, sobre todo en su zona central, quedando con forma de clava o de esparrago aplastado. Es uniforme, es decir, no se aprecian en él partes diferenciadas. Su color es el naranja vivo, sobre todo en los ejemplares jóvenes, pudiendo en los individuos plenamente desarrollados tener color más mate, e incluso amarillento. Es de pequeño tamaño, los ejemplares encontrados no excedían de los 4 cm de altura. A veces se presenta comprimido en el centro, pero este es un carácter que hemos observado que resulta aleatorio en toda la familia Clavariaceae. En los ejemplares adultos se suele observar con cierta frecuencia una zona apical blanquecina, carácter distintivo de la especie, pero que no siempre se da. Este ápice es más agudo en los ejemplares jóvenes, pero pronto se redondea.",
+        "hymenium": "Himenio inmerso en la pileipellis del carpóforo. La base es más estrecha y estéril.",
+        "stipe": "Carne escasa y poco significativa de color naranja amarillento, sin olor ni sabor destacables.",
+        "flesh": "Especie eminentemente heliófila, que brota durante el otoño en praderas de pastos y claros herbosos de los bosques. Especie rara y poco referenciada."
+    },
+    "habitat": "Se trata de una pequeña especie, cuya identificación a ciencia cierta precisa del debido análisis microscópico. Macroscópicamente es similar a la Clavulinopsis helvola, que se separa de esta por tener esporas verrugosas. De la Clavulinopsis fusiformis se puede diferenciar mejor, ya que crece en haces y su carne es amarga. Otra especie afín es la Clavulinopsis laeticolor, de esporas elipsoidales con apículo lateral evidente.",
+    "observations": null,
+    "images": [
+        "https://www.fungipedia.org/images/galerias/clavulinopsis_luteoalba/clavulinopsis_luteoalba1.jpg",
+        "https://www.fungipedia.org/images/galerias/clavulinopsis_luteoalba/clavulinopsis_luteoalba2.jpg"
+    ]
+}

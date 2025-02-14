@@ -1,0 +1,30 @@
+{
+    "name": "helvella-dissingii",
+    "title": null,
+    "author": "Korf.",
+    "additional_info": {
+        "common_name": "Helvella vellosa.",
+        "synonym": "Cyathipodia villosa (Hedw.) Boudier"
+    },
+    "taxonomy": {
+        "División": "Ascomycota",
+        "Subdivisión": "Ascomycotina",
+        "Clase": "Himenoascomycetes",
+        "Subclase": "Pezizomycetidae",
+        "Orden": "Pezizales",
+        "Familia": "Helvellaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero en la mayoría de ocasiones con forma de copa, aunque cuando el ejemplar es viejo suele tender a aplanarse. El diámetro habitual de la copa suele ser de 2 o 3 cm, y su superficie inferior está recubierta de una especie de vellosidad visible, aunque la apariencia es de ser furfurácea. Su color varía entre el gris y el marrón grisáceo.",
+        "hymenium": "Himenio que recubre la parte interior de la copa, liso y sin la vellosidad de la parte externa, con un color más pardo grisáceo.",
+        "stipe": "Pie de color crema o blanco sucio, liso generalmente, aunque a veces pueda estar débilmente surcado. Suele ser cilíndrico y es lleno, no hueco. Aproximadamente de 5 cm de altura.",
+        "flesh": "Carne escasa, casi inexistente, algo elástica pero frágil, sin nada reseñable en cuanto a olor o sabor."
+    },
+    "habitat": "Es una especie rara, poco habitual, que sale en el borde de los caminos, generalmente en zonas carentes de vegetación. Puede encontrarse desde la primavera hasta entrado el otoño.",
+    "observations": "Es una especie muy parecida macroscópicamente a la Helvella macropus, sin la ayuda del microscopio la podemos distinguir por tener el sombrero más oscuro y velloso, y porque el pie no es concoloro respecto al sombrero. Por la forma también se parece a Helvella cupuliformis, que tiene tonos ocres en todo el carpóforo.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/helvella_dissingii/helvella_dissingii1.jpg",
+        "https://www.fungipedia.org/images/galerias/helvella_dissingii/helvella_dissingii2.jpg"
+    ]
+}

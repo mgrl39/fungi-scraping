@@ -1,0 +1,34 @@
+{
+    "name": "russula-risigallina",
+    "title": null,
+    "author": "(Batsch.) Sacc.",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Russula chamaeleontina (Lasch.) Fr."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Russulales",
+        "Familia": "Russulaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero de tamaño más bien pequeño para el género, no es frecuente que los ejemplares adultos sobrepasen los 5 cm de diámetro, con forma hemisférica en la primera etapa de su desarrollo, evolucionando a convexo, luego extendido, y finalmente un poco deprimido por la zona central. Cutícula desprendible de la carne del sombrero de color ciertamente variable, su forma típica es amarilla, pero se localizan ejemplares de tonos anaranjados, rojizos, e incluso con matices rosados. Margen liso en los especímenes jóvenes y estriado en los adultos.",
+        "hymenium": "Láminas adnatas o sublibres de color crema de jóvenes, pasando posteriormente a color amarillo con bastante matiz naranja. En los ejemplares adultos son relativamente separadas entre sí, anchas y a veces algo aserradas.",
+        "stipe": "Pie proporcionado al sombrero o algo alargado de color blanco, cilíndrico. De joven es lleno, volviéndose cavernoso de viejo, más endeble de lo que es habitual en las especies de su género.",
+        "flesh": "Carne delgada y escasa, de consistencia frágil y quebradiza, sobre todo en el pie. Tiene sabor dulce y su olor es muy perceptible, aromático, afrutado en el inicio y luego floral."
+    },
+    "habitat": "Se trata de una especie que acostumbra a salir en grupos no muy numerosos durante el verano y también en otoño. Aunque este citada ocasionalmente en coníferas, son los bosques de planifolios su hábitat más habitual, siendo allí donde nosotros las hemos localizado. Es frecuente en algunas zonas y muy escasa en otras.",
+    "observations": "Es una Russula que rompe con el tópico de que todas las Russulas dulces son recolectables, la escasez y fragilidad de su carne la hacen poco recomendable en ese aspecto. Se caracteriza por su pequeño tamaño, su sombrero con cutícula separable de colores variables, su olor aromático y sus láminas amarillo anaranjadas. Hay varias Russulas de sombrero amarillo que se prestan a confusión, algunas como Russula raoultii, Russula fellea o Russula solaris son diferenciables por el color de la esporada, blanca en las dos primeras y amarillo claro en la última, la especie aquí descrita tiene la esporada de color amarillo vivo. Russula acetolens es muy parecida, pero su olor avinagrado la delata. Russula helios también guarda cierto parecido pero su sombrero es viscoso.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/russula_risigallina/russula_risigallina1.jpg",
+        "https://www.fungipedia.org/images/galerias/russula_risigallina/russula_risigallina2.jpg",
+        "https://www.fungipedia.org/images/galerias/russula_risigallina/russula_risigallina3.jpg",
+        "https://www.fungipedia.org/images/galerias/russula_risigallina/russula_risigallina4.jpg",
+        "https://www.fungipedia.org/images/galerias/russula_risigallina/russula_risigallina5.jpg",
+        "https://www.fungipedia.org/images/galerias/russula_risigallina/russula_risigallina6.jpg"
+    ]
+}

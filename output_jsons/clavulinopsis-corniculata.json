@@ -1,0 +1,30 @@
+{
+    "name": "clavulinopsis-corniculata",
+    "title": null,
+    "author": "(Schaeff.) Corner",
+    "additional_info": {
+        "common_name": "Adardun.",
+        "synonym": "Clavaria corniculata Schaeff."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Aphyllophoromycetidae",
+        "Orden": "Cantharellales",
+        "Familia": "Clavariaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Carpóforo ramificado varias veces en forma de arbusto, siendo estas ramitas bifurcadas y acabando algunas de ellas en una especie de cuernecillos. Su tamaño no es excesivamente grande, se puede extender a lo alto en unos 7 cm como mucho, y a lo ancho en no más de 5 cm. Su superficie es claramente viscosa, sobre todo con tiempo lluvioso, y cuando se empieza a secar, las puntas se vuelven ocre rojizas. Es de color amarillo más o menos vivo a naranja, como sucede en todas las Clavulinopsis.",
+        "hymenium": "Himenio inmerso en la superficie del carpóforo.",
+        "stipe": "Pie esbelto y muy delgado en algunos casos, concoloro, otras veces ni siquiera aparece como tal dado que el carpóforo se ramifica desde el suelo.",
+        "flesh": "Carne de consistencia elástica y bastante tenaz, de color amarillento. Su olor es débil y su sabor un poco amargo."
+    },
+    "habitat": "Aunque no sea descartable su aparición en otras épocas del año, es en otoño cuando la encontramos con mayor profusión. Sin embargo, no es una especie muy extendida, localmente frecuente, escasa en otras zonas. La hemos localizado en claros herbosos de los pinares y en campas de pastos.",
+    "observations": "La consistencia elástica de su carne y su sabor ligeramente amargo entendemos que la hacen no apta para el consumo a pesar de resultar inocua. Dentro de Clavulinopsis es fácil de identificar por sus carpóforos ramificados, únicos en su género, pero guarda un notable parecido macroscópico con la Calocera viscosa, especie también viscosa y ramificada, a la que delata su hábitat sobre ramas podridas de coníferas, microscópicamente son completamente diferentes.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/clavulinopsis_corniculata/clavulinopsis_corniculata1.jpg",
+        "https://www.fungipedia.org/images/galerias/clavulinopsis_corniculata/clavulinopsis_corniculata2.jpg"
+    ]
+}

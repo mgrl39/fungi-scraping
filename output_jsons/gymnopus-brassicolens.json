@@ -1,0 +1,34 @@
+{
+    "name": "gymnopus-brassicolens",
+    "title": null,
+    "author": "(Romagn.) Antonín & Noordel.",
+    "additional_info": {
+        "common_name": "Marasmio con olor a berza.",
+        "synonym": "Marasmius brassicolens Romagn."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Tricholomatales",
+        "Familia": "Marasmiaceae"
+    },
+    "edibility": "no-comestible",
+    "characteristics": {
+        "cap": "Sombrero que en los ejemplares adultos apenas llega a alcanzar los 4 cm de diámetro, al principio convexo, pero una de las características de esta especie es que su sombrero se aplana muy rápidamente, hundiéndose un poco por el centro de viejo. Cutícula algo rugosa con un color fundamentalmente ocre, pero al tratarse de una seta higrófana, su tono varía en función del grado de hidratación, teniendo matices rojizos si está húmeda y más pajizos de seca. El margen es muchas veces más claro, y en los ejemplares húmedos se presenta estriado de forma evidente.",
+        "hymenium": "Láminas adnatas o sublibres de color blanquecino de jóvenes, se vuelven de color ocre rosado y pueden presentar manchas rojizas. Son apretadas y de configuración irregular.",
+        "stipe": "Pie más bien alargado y atenuado en la base, a veces lateralmente comprimido. Tiene un color parecido al del sombrero o algo más rojizo si cabe, pero se va volviendo negruzco a partir de la base, al final solo el tercio superior permanece rojizo.",
+        "flesh": "Carne escasa de consistencia gelatinosa en el sombrero, mucho más tenaz en el pie. Tiene un fuerte y característico olor a berza podrida que resulta repelente y que no invita precisamente a probarla."
+    },
+    "habitat": "Se trata de una especie no demasiado frecuente en nuestro entorno, localizada en una campa con repoblación de pinos pequeños, donde aparecía de forma gregaria en grupos relativamente numerosos. Está referenciada bibliográficamente tanto bajo coníferas como planifolios, y también se menciona la posibilidad de crecer de forma fasciculada. La hemos localizado en primavera, si bien puede aparecer también durante el otoño.",
+    "observations": "Es una seta que se caracteriza por su pequeño tamaño, sus tonos rojizos, y sobre todo por su inconfundible y desagradable olor a berza podrida. Otra especie que posee ese característico olor es el Micromphale foetidum, especie cuyo sombrero presenta surcos en el margen y que tiene un comportamiento algo más lignícola, fructificando sobre residuos leñosos o ramas de planifolios diversos. Micromphale rufocarneum es muy similar, pero es totalmente inodoro.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/gymnopus_brassicolens/gymnopus_brassicolens1.jpg",
+        "https://www.fungipedia.org/images/galerias/gymnopus_brassicolens/gymnopus_brassicolens2.jpg",
+        "https://www.fungipedia.org/images/galerias/gymnopus_brassicolens/gymnopus_brassicolens3.jpg",
+        "https://www.fungipedia.org/images/galerias/gymnopus_brassicolens/gymnopus_brassicolens4.jpg",
+        "https://www.fungipedia.org/images/galerias/gymnopus_brassicolens/gymnopus_brassicolens5.jpg",
+        "https://www.fungipedia.org/images/galerias/gymnopus_brassicolens/gymnopus_brassicolens6.jpg"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "name": "tremellodendropsis-tuberosa",
+    "title": null,
+    "author": "(Grev.) D.A. Crawford",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Merisma tuberosum Grev."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Himenoascomycetes",
+        "Subclase": "Incertae sedis",
+        "Orden": "Tremellodendropsidales",
+        "Familia": "Tremellodendropsidaceae"
+    },
+    "edibility": "no-comestible",
+    "characteristics": {
+        "cap": "Carpóforo de tamaño más bien pequeño, con una altura que en nuestra recolecta no sobrepasaba los 3 cm de alto, aunque se referencia que pueden llegar a los 6 ocasionalmente, y una anchura máxima de 1 a 3 cm. Tiene una forma coralloide ramificada, con un aspecto general que recuerda bastante a las especies del género Clavaria, aunque en algunos aspectos también al género Telephora. De una especie de pie común surgen ramificaciones, 2 o 3 como mucho de cada rama, no es densamente ramificada, generalmente en forma de V, aunque no siempre, que derivan en un ápice al principio un poco en punta, pero que suele redondearse bastante y aplanarse con la maduración. Tiene un color claro, blanquecino o crema, oscureciéndose desde el ápice a tonos más marronáceos o grises.",
+        "hymenium": "Himenio instalado de forma exógena sobre las ramificaciones del carpóforo, cabe destacar que tanto el pie como la zona del ápice son estériles, todo el resto es fértil. De color variable según indicamos en el apartado anterior, superficie un poco rugosa, forma una esporada en masa de color blanco, con esporas finamente granulosas y típicos basidios comprimidos longitudinalmente hasta parecer septados, difícilmente apreciable al micro (ver características microscópicas).",
+        "stipe": "Pie más o menos apreciable en la zona inferior, entendiendo como tal la zona que va desde la base al comienzo de las ramificaciones, de color claro y más bien cilíndrico, longitud variable pero generalmente corto, si se arranca se observan restos de micelio blanco en la base del mismo.",
+        "flesh": "Carne de consistencia bien distinta a las Clavarias, especies que suelen ser frágiles, esta tiene más tenacidad, no se quiebra tan fácil, es más fibrosa. Es una especie insípida, pero que si tiene un olor destacado bastante acídulo. No cambia de color ni al corte ni al ser manipulada."
+    },
+    "habitat": "Tremellodendropsis tuberosa es una especie que podemos catalogar como poco común, o al menos poco referenciada en nuestro entorno, suele fructificar habitualmente en grupos allá donde sale, raro es verla de forma aislada, si bien es cierto que no tiene una predilección por un tipo de bosque concreto para fructificar, ya que ha sido hallada tanto en planifolios como en coníferas. La recolecta que sirve de base a esta ficha se realizó gracias a la gentileza de Joseba Arnedo, y corresponde a la localidad alavesa de Amurrio, fructificando bajo cipreses,(Cupressus sempervirens). Especie de aparición tardía, suele verse al final del otoño, también en invierno o principios de primavera.",
+    "observations": "Estamos ante una especie con aspecto a caballo entre Clavaria y Telephora, dado que visualmente es más próxima a las primeras, pero se puede diferenciar de ellas de visu si observamos la consistencia tenaz y fibrosa de su carne, muy diferente a otros géneros de aspecto similar. No tenemos constancia de la aparición de otras especies del género en nuestro territorio, de hecho creemos que es la única referenciada a nivel europeo, aunque esto nunca se sabe en una ciencia en constante evolución. Microscópicamente se caracteriza por sus basidios septados longitudinalmente y por tener sistema hifal monomítico y esporas finamente granulosas con disposición un tanto oblicua de la apícula. Podríamos confundirla a primera vista con las Ramariopsis de tonos claros, como Ramariopsis Kunzei, aunque su carne es más frágil, como ya hemos mencionado, y microscópicamente es bastante diferente.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/tremellodendropsis_tuberosa/tremellodendropsis_tuberosa1.jpg",
+        "https://www.fungipedia.org/images/galerias/tremellodendropsis_tuberosa/tremellodendropsis_tuberosa2.jpg",
+        "https://www.fungipedia.org/images/galerias/tremellodendropsis_tuberosa/tremellodendropsis_tuberosa3.jpg",
+        "https://www.fungipedia.org/images/galerias/tremellodendropsis_tuberosa/tremellodendropsis_tuberosa4.jpg",
+        "https://www.fungipedia.org/images/galerias/tremellodendropsis_tuberosa/tremellodendropsis_tuberosa5.jpg"
+    ]
+}

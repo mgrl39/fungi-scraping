@@ -1,0 +1,31 @@
+{
+    "name": "gyromitra-infula",
+    "title": null,
+    "author": "(Schaeff.) Quél.",
+    "additional_info": {
+        "common_name": "Helvella en forma de mitra, Mitra marroi, orella de gat.",
+        "synonym": "Helvella infula Schaeff."
+    },
+    "taxonomy": {
+        "División": "Ascomycota",
+        "Subdivisión": "Ascomycotina",
+        "Clase": "Himenoascomycetes",
+        "Subclase": "Pezizomycetidae",
+        "Orden": "Pezizales",
+        "Familia": "Helvellaceae"
+    },
+    "edibility": "toxica",
+    "characteristics": {
+        "cap": "Sombrero en forma de mitra o de silla de montar, en ocasiones arrugado y deforme, lobulado irregularmente, según el grado de humedad se presenta pardo rojizo o netamente pardo, tiene un tamaño considerable, pudiendo sobrepasar los 10 cm.",
+        "hymenium": "Himenio que ocupa la cara interna del sombrero y es completamente liso, de color pardo.",
+        "stipe": "Pie más bien corto, aparentemente blanquecino al estar recubierto de una especie de pruina que le confiere este aspecto, pero si la limpiamos observamos que es de color similar al del sombrero, pardo rojizo. En ocasiones, no siempre, presenta algún tipo de pliegue longitudinal, y es además hueco.",
+        "flesh": "Carne frágil, sobre todo en el sombrero, la del pie es algo más tenaz, de color ocre claro, sin que podamos destacar nada en cuanto a olores o sabores."
+    },
+    "habitat": "Es una seta bastante cosmopolita, aparece en cualquier tipo de bosque, sobre todo durante el otoño.",
+    "observations": "Es una especie tóxica en estado crudo, aunque algunos autores la dan como comestible previa desecación nosotros no recomendamos su consumo, no merece la pena, por todo ello preferimos clasificarla como seta tóxica. Puede parecerse a otras Gyromitras como la Gyromitra Esculenta o la Gyromitra Gigas, ambas primaverales y con el sombrero mucho más plegado.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/gyromitra_infula/gyromitra_infula1.jpg",
+        "https://www.fungipedia.org/images/galerias/gyromitra_infula/gyromitra_infula2.jpg",
+        "https://www.fungipedia.org/images/galerias/gyromitra_infula/gyromitra_infula3.jpg"
+    ]
+}

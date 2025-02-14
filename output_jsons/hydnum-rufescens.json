@@ -1,0 +1,31 @@
+{
+    "name": "hydnum-rufescens",
+    "title": null,
+    "author": "Pers.",
+    "additional_info": {
+        "common_name": "Lengua de gato, tripaki gorriska, picornell de pi.",
+        "synonym": "Hydnum carnosum Batsch."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Aphyllophoromycetidae",
+        "Orden": "Cantharellales",
+        "Familia": "Hydnaceae"
+    },
+    "edibility": "comestible",
+    "characteristics": {
+        "cap": "Sombrero de poco porte y aspecto poco carnoso, el diámetro de los ejemplares más desarrollados apenas supera los 5 cm en el mejor de los casos. Tiene una forma convexa en sus primeras etapas y aplanada al desarrollarse plenamente, con la zona central umbilicada o resaltada según las diferentes formas o variedades. Su superficie es de color ocre anaranjado, lisa y no separable de la carne, aunque puede tener tonalidades diferentes según su estado, los matices anaranjados están siempre presentes. El margen es regular y tiende a ondularse en los ejemplares viejos.",
+        "hymenium": "Láminas formado por aguijones frágiles y quebradizos que se desprenden con facilidad al menor roce, estos aguijones no decurren sobre el pie de forma habitual aunque este es un carácter un tanto inconstante y en ejemplares viejos con sombrero ondulado si pueden decurrir. Tienen un color blanquecino de jóvenes que se torna en la madurez asalmonado o concolor con el sombrero.",
+        "stipe": "Pie generalmente delgado, alargado o proporcionado al sombrero, de color que va del blanquecino inicial a tonos ocráceo anaranjados claros o rosados, ensuciándose un tanto al ser manipulado, es lleno y de consistencia quebradiza.",
+        "flesh": "Carne no demasiado espesa de color blanquecino o crema, al corte tiende a teñirse de anaranjado claro, quebradiza. Su olor es suave, poco perceptible, y su sabor inicialmente es dulce pero al de un rato de masticación puede resultar algo amargo."
+    },
+    "habitat": "Se trata de una especie bastante frecuente en muchas zonas de la península ibérica, puede brotar tanto en bosques de planifolios como bajo diversas coníferas, nosotros la vemos con frecuencia en hayedos donde brota durante el otoño y puede llegar a permanecer hasta avanzado el invierno. Es una especie que suele fructificar en grupos, muchas veces en corros o hileras.",
+    "observations": "Esta especie es comestible aunque de calidad inferior al Hydnum repandum, especie más carnosa que no suele tener tonos naranjas en el sombrero (excepto Hydnum repandum f. amarum que si tiene tonos naranjas). Actualmente los estudios moleculares han descubierto que la especie que les presentamos no es una única especie sino la representante de un grupo de especies muy similares entre sí que inicialmente eran consideradas como simples formas o variedades de la presente, en esa línea de investigación se identifican Hydnum umbilicatum, Hydnum elisosporum, Hydnum ovoidesporum o Hydnum vesterholtii, aunque todo esto sigue en estudio y tampoco es descartable que al final no resulten ser tantas especies distintas.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/hydnum_rufescens/hydnum_rufescens1.jpg",
+        "https://www.fungipedia.org/images/galerias/hydnum_rufescens/hydnum_rufescens2.jpg",
+        "https://www.fungipedia.org/images/galerias/hydnum_rufescens/hydnum_rufescens3.jpg"
+    ]
+}

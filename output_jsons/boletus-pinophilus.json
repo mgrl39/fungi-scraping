@@ -1,0 +1,31 @@
+{
+    "name": "boletus-pinophilus",
+    "title": null,
+    "author": "Pilát & Dermek",
+    "additional_info": {
+        "common_name": "Boleto de pino, kaskabeltz, cep vermellós, cep rogent.",
+        "synonym": "Boletus pinicola (Vittad.) Venturi"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Boletales",
+        "Familia": "Boletaceae"
+    },
+    "edibility": "excelente-comestible",
+    "characteristics": {
+        "cap": "Sombrero grande y carnoso, es habitual ver ejemplares cuyo diámetro supere los 20 cm, de forma hemisférica durante buena parte de su desarrollo, adoptando con posterioridad forma plano convexo. Está sujeto a una cierta variabilidad en su color, pero siempre tiene tonos rojizos o su característico tono caoba. Su superficie es lisa y seca, si bien con la lluvia se vuelve algo brillante, aunque apenas es viscosa, difícilmente separable de la carne del sombrero. Margen regular con tendencia a exceder en los individuos ya viejos.",
+        "hymenium": "Tubos alargados, adnatos, en la primera etapa de color blanco, después se vuelven amarillentos, para finalmente adoptar color oliváceo. Son bastante apretados y permanecen inmutables tanto al corte como al tacto.",
+        "stipe": "Poros igualmente apretados y redondos, pero de tamaño desigual, la evolución de su color es idéntica a la de los tubos, siendo también inmutables al roce.",
+        "flesh": "Pie ventrudo cuando es joven, algo más alargado en los especímenes adultos, a veces puede llegar a tener más diámetro que el propio sombrero. Su color de fondo es el blanquecino o amarillento, pero está manchado o reticulado de rojo, a veces en su totalidad, de viejo suele ser algo más ocráceo. Destaca de forma notable su apariencia carnosa."
+    },
+    "habitat": "Carne espesa y firme, muy consistente, de color blanco salvo bajo la cutícula, donde es un poco rojiza. Su olor es muy agradable, y su sabor no lo es menos.",
+    "observations": "Aunque su nombre la ligue exclusivamente a los pinos, también sale bajo hayas o robles, dando un primer brote en primavera y apareciendo de nuevo en otoño. Es una especie especialmente abundante en algunas zonas, no así en otras, si bien está muy extendida por toda la península ibérica.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/boletus_pinophilus/boletus_pinophilus1.jpg",
+        "https://www.fungipedia.org/images/galerias/boletus_pinophilus/boletus_pinophilus2.jpg",
+        "https://www.fungipedia.org/images/galerias/boletus_pinophilus/boletus_pinophilus3.jpg"
+    ]
+}

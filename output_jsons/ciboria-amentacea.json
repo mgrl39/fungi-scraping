@@ -1,0 +1,34 @@
+{
+    "name": "ciboria-amentacea",
+    "title": null,
+    "author": "(Balb.) Fuckel",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Peziza amentacea Balb."
+    },
+    "taxonomy": {
+        "División": "Ascomycota",
+        "Subdivisión": "Ascomycotina",
+        "Clase": "Himenoascomycetes",
+        "Subclase": "Pezizomycetidae",
+        "Orden": "Leotiales",
+        "Familia": "Sclerotiniaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero de tamaño muy pequeño, en el mejor de los casos apenas alcanza 1 cm de diámetro. La forma típica en la que se presenta es de cáliz o copa más o menos abierta, sobre todo si son apotecios jóvenes, pero con la edad tiene cierta tendencia a aplanarse hasta quedar prácticamente discoidal y con el centro un tanto umbilicado. El color en fresco de su superficie externa es el beige, aclarándose al perder cierto grado de humedad llegando a veces a ser crema blanquecino, siendo además finamente furfurácea. El margen se presenta de manera habitual muy finamente dentado, aunque en los ejemplares muy jóvenes puede ser liso.",
+        "hymenium": "Himenio liso ubicado en el interior de la copa, de color ocre, más claro u oscuro dependiendo de la humedad del espécimen.",
+        "stipe": "Pie más largo o más corto en función de donde se halle el sustrato sobre el que fructifica, sobre amentos superficiales el pie es corto y si crece sobre amentos muy enterrados se han llegado a ver ejemplares cuyo pie se aproxima a los 5 cm de largo. El color es similar al de la superficie externa, más claro que el himenio.",
+        "flesh": "Carne poco significativa de aspecto ceroso, sin que podamos apreciar un olor o sabor característico digno de mención."
+    },
+    "habitat": "Este Ascomycete fructifica generalmente agrupada sobre viejos amentos de alisos, a veces aparentemente sobre la tierra al encontrarse estos enterrados. Su época de aparición varía en función de la climatología, puede aparecer en inviernos muy suaves ya por el mes de febrero o esperar hasta abril. No es una especie rara, pero su hábitat y época de aparición son exclusivos.",
+    "observations": "Sobre amentos de chopo fructifica una especie similar, la Ciboria caucus, considerada por algún autor como sinónimo de la presente. Otra especie de similares características, ligada en este caso a los árboles del género Quercus, es la Ciborinia candolleana, que brota desde un minúsculo esclerocio. También es más típica la Ciboria batschiana, sobre frutos de roble o castaño o bajo avellanos la Ciboria coryli. Otros géneros también pueden confundirse con la especie aquí descrita como Sclerotinia o Rustroemia.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/ciboria_amentacea/ciboria_amentacea1.jpg",
+        "https://www.fungipedia.org/images/galerias/ciboria_amentacea/ciboria_amentacea2.jpg",
+        "https://www.fungipedia.org/images/galerias/ciboria_amentacea/ciboria_amentacea3.jpg",
+        "https://www.fungipedia.org/images/galerias/ciboria_amentacea/ciboria_amentacea4.jpg",
+        "https://www.fungipedia.org/images/galerias/ciboria_amentacea/ciboria_amentacea5.jpg",
+        "https://www.fungipedia.org/images/galerias/ciboria_amentacea/ciboria_amentacea6.jpg"
+    ]
+}

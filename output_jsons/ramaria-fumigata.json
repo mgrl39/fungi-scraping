@@ -1,0 +1,30 @@
+{
+    "name": "ramaria-fumigata",
+    "title": null,
+    "author": "(Peck.) Corner",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Clavaria fumigata Peck."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Aphyllophoromycetidae",
+        "Orden": "Gomphales",
+        "Familia": "Ramariaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Carpóforo formado por una base sólida de la que parten dos o tres brazos, que a su vez se separan en múltiples ramificaciones. Estas ramificaciones mueren en un ápice formado por dos o tres puntas. El tamaño de todo el conjunto puede llegar a más de 10 cm de altura por otro tanto de ancho en la zona superior. Las ramas de esta especie cuando son jóvenes poseen un bello color lila muy llamativo, este color se ve difuminando con el tiempo a tonos más grisáceos, y con la esporulación acaban por ser ocres.",
+        "hymenium": "Himenio instalado en la superficie externa de las ramificaciones de forma anfígena, por tanto, solo el pie es estéril. Es totalmente liso.",
+        "stipe": "Pie que en realidad es un engrosamiento basal del que parten luego ramificaciones y que tiene color blanco, siendo grueso y lleno, macizo y más carnoso de lo habitual para el género. Puede llegar a tener hasta 4 cm de grueso y otro tanto de alto.",
+        "flesh": "Carne blanca y espesa para su género, inmutable al corte o al rozamiento. Su olor es fúngico y muy suave, y su sabor suave de joven se va volviendo con el tiempo ligeramente amargo."
+    },
+    "habitat": "Nuestra recolecta se ha efectuado en un claro boscoso de Pinus silvestris cerca del cual se observaba un par de robles, aunque la bibliografía nos marca que es de hayedos. La época en la que se tomaron las fotografías fue el otoño, concretamente en el mes de octubre. Se trata de una especie rara.",
+    "observations": "Existe cierta controversia con respecto a este taxón, sinonimizado por algunos autores con la Ramaria fennica, o una variedad de esta, nosotros hemos optado por no incluirla como sinónimo. Es una seta llamativa y hermosa de ver por su color lila que contrasta con el pie blanco. De este mismo color es la Clavaria amethystina o la Clavaria zollingeri, que no poseen el tocho blanco en la base del que parten las ramas, característica diferenciadora entre ambos géneros.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/ramaria_fumigata/ramaria_fumigata1.jpg",
+        "https://www.fungipedia.org/images/galerias/ramaria_fumigata/ramaria_fumigata2.jpg"
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "name": "helvella-crispa",
+    "title": null,
+    "author": "(Scop.) Fr.",
+    "additional_info": {
+        "common_name": "Oreja de gato, mitra zuri, barretet.",
+        "synonym": "Helvella nigricans Schaeff."
+    },
+    "taxonomy": {
+        "División": "Ascomycota",
+        "Subdivisión": "Ascomycotina",
+        "Clase": "Himenoascomycetes",
+        "Subclase": "Pezizomycetidae",
+        "Orden": "Pezizales",
+        "Familia": "Helvellaceae"
+    },
+    "edibility": "comestible-precaucion",
+    "characteristics": {
+        "cap": "Sombrero crispado, con forma de bonete o de silla de montar, compuesto por una serie de lóbulos plegados de manera irregular, puede alcanzar en estado adulto los 5 cm de ancho y es de color blanquecino o blanco crema.",
+        "hymenium": "Himenio constituido por una de las caras del sombrero, que está tan plegado que resulta difícil discernir si se trata de la cara interna o la externa. Es totalmente liso, carente de cualquier tipo de pliegue o lámina, y de color más ocre que la otra cara.",
+        "stipe": "Pie de color blanco, algo pruinoso, suele ser bastante largo, pudiendo alcanzar los 10 cm, se halla surcado longitudinalmente por una especie de nervaduras que lo recorren en su totalidad, confiriéndole un aspecto de costillar muy característico.",
+        "flesh": "Carne bastante frágil, algo más tenaz en el pie, correosa. De joven no tiene ningún olor especial pero al madurar adquiere un olor penetrante aunque no excesivamente desagradable, nada que destacar en cuanto al sabor."
+    },
+    "habitat": "Se encuentra por igual en bosques de coníferas o en caducifolios, normalmente en zonas ruderales, no en el interior del bosque. Sale en primavera y también durante el otoño. Especie frecuente.",
+    "observations": "Es una seta comestible previa cocción, ya que en crudo resulta tóxica, como la mayoría de sus congéneres, el color blanquecino del sombrero la distingue de otras Helvellas como la Helvella fusca o la Helvella lacunosa, de tonos mucho más oscuros, aunque también con costillares en el pie.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/helvella_crispa/helvella_crispa1.jpg",
+        "https://www.fungipedia.org/images/galerias/helvella_crispa/helvella_crispa2.jpg",
+        "https://www.fungipedia.org/images/galerias/helvella_crispa/helvella_crispa3.jpg",
+        "https://www.fungipedia.org/images/galerias/helvella_crispa/helvella_crispa4.jpg",
+        "https://www.fungipedia.org/images/galerias/helvella_crispa/helvella_crispa5.jpg",
+        "https://www.fungipedia.org/images/galerias/helvella_crispa/helvella_crispa6.jpg"
+    ]
+}

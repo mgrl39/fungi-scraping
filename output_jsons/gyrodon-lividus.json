@@ -1,0 +1,31 @@
+{
+    "name": "gyrodon-lividus",
+    "title": null,
+    "author": "(Bull.) Sacc.",
+    "additional_info": {
+        "common_name": "Boleto livido, haltza-onddo, bolet livid.",
+        "synonym": "Boletus lividus Bull."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Boletales",
+        "Familia": "Gyrodontaceae"
+    },
+    "edibility": "comestible",
+    "characteristics": {
+        "cap": "Sombrero de tamaño que oscila entre los 5 y los 12 cm de diámetro, en un principio de forma subglobosa, luego plano-convexo y finalmente aplanado, manteniendo de joven el borde involuto. Su color fundamental es el ocre, aunque si es manipulado se vuelve pardo en las partes presionadas. Su superficie está recubierta, sobre todo de joven, de una especie de fibrillas lanosas, que le dan un aspecto seco y afieltrado, sin embargo cuando se hace grande y le llueve encima se vuelve viscoso. Cutícula separable de la carne.",
+        "hymenium": "Tubos extremadamente cortos y muy decurrentes, de un color amarillo vivo cuando el espécimen es joven, se vuelven oliváceos con el tiempo, y muy oscuros de viejos. Azulean notablemente al menor contacto. Un detalle característico es que no tienen la misma sección en toda su longitud, se estrechan.",
+        "stipe": "Poros pequeñísimos, al punto que de jóvenes apenas son visibles a simple vista, del mismo color que los tubos, e igualmente azulean al ser presionados.",
+        "flesh": "Pie más bien corto, lleno y duro, de color ocre parduzco y revestido de fibrillas del color del sombrero, central o un poco excéntrico en ocasiones. Es habitual encontrarlo curvado, y la base adopta con el tiempo un color pardo vinoso."
+    },
+    "habitat": "Carne amarillenta y espesa en el sombrero, que al corte azulea de manera débil, es consistente de joven, luego se vuelve esponjosa. En el pie es dura y más fibrosa, y al corte vira al de un rato a tonos rojizos o rosas, menos en la base donde es pardo vinosa.",
+    "observations": "Esta es una especie que forma micorriza exclusivamente con los alisos y que aparece preferentemente durante el otoño. Se puede considerar una especie rara y a proteger.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/gyrodon_lividus/gyrodon_lividus1.jpg",
+        "https://www.fungipedia.org/images/galerias/gyrodon_lividus/gyrodon_lividus2.jpg",
+        "https://www.fungipedia.org/images/galerias/gyrodon_lividus/gyrodon_lividus3.jpg"
+    ]
+}

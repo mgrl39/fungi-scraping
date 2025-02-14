@@ -1,0 +1,33 @@
+{
+    "name": "gymnopilus-junonius",
+    "title": null,
+    "author": "(Fr.) P. D. Orton",
+    "additional_info": {
+        "common_name": "Seta de la risa, foliota anaranjada, egur-ziza bikain.",
+        "synonym": "Gymnopilus spectabilis (Fr.) Singer"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Cortinariales",
+        "Familia": "Crepidotaceae"
+    },
+    "edibility": "toxica",
+    "characteristics": {
+        "cap": "Sombrero de un porte considerable, se han encontrado ejemplares que llegaban a los 20 cm de diámetro, aunque lo habitual es encontrarlos entre 10 y 15 cm. Tiene forma hemisférica al principio, pasando después a convexa, siendo obtusamente mamelonado de forma ocasional. Es de color ocre leonado, a veces con claros matices rojizos, y su superficie es finamente escamosa o fibrilosa, pero carece de gruesas escamas remarcadas. Borde no estriado e involuto en los ejemplares jóvenes.",
+        "hymenium": "Láminas adnatas o más típicamente escotadas, no demasiado apretadas y regulares. Su color varía del amarillo cuando son jóvenes al pardo ferruginoso por efecto de la esporulación, manchándose de color rojizo al ser rozadas.",
+        "stipe": "Pie alargado y frecuentemente curvado, a veces en forma de huso, otras cilíndrico y atenuado en la base. Su color es ocre amarillento, fibriloso y rojizo a partir de la base. Está provisto de un anillo membranoso concoloro perfectamente definido, que con el tiempo se vuelve de color herrumbre y tiende a quedar adpreso.",
+        "flesh": "Carne espesa y consistente de color blanquecino o amarillo pálido, de olor algo rafanoide pero suave, no desagradable, y sabor marcadamente amargo."
+    },
+    "habitat": "Es una especie relativamente frecuente, que aparece muchas veces de forma cespitosa sobre tocones de árboles planifolios y coníferas. Aparece a finales del verano y durante el otoño.",
+    "observations": "Esta especie posee sustancias alucinógenas, que provocan en el individuo estados próximos al de la conocida borrachera. Sin embargo, no están convenientemente estudiadas todas las sustancias que posee, por lo que puede resultar peligrosa. Es difícil confundirla con otros Gymnopilus, ya que son mucho más pequeños que esta especie, sin embargo si se confunde habitualmente con algunas Pholiotas, cuyo sombrero suele estar provisto de escamas piramidales y remarcadas.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/gymnopilus_junonius/gymnopilus_junonius1.jpg",
+        "https://www.fungipedia.org/images/galerias/gymnopilus_junonius/gymnopilus_junonius2.jpg",
+        "https://www.fungipedia.org/images/galerias/gymnopilus_junonius/gymnopilus_junonius3.jpg",
+        "https://www.fungipedia.org/images/galerias/gymnopilus_junonius/gymnopilus_junonius4.jpg",
+        "https://www.fungipedia.org/images/galerias/gymnopilus_junonius/gymnopilus_junonius5.jpg"
+    ]
+}

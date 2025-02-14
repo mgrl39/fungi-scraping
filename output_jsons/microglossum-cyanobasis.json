@@ -1,0 +1,35 @@
+{
+    "name": "microglossum-cyanobasis",
+    "title": null,
+    "author": "P. Iglesias & S. Arauzo",
+    "additional_info": {
+        "common_name": "ninguno",
+        "synonym": "ninguno"
+    },
+    "taxonomy": {
+        "División": "Ascomycota",
+        "Subdivisión": "Ascomycotina",
+        "Clase": "Himenoascomycetes",
+        "Subclase": "Pezizomycetidae",
+        "Orden": "Leotiales",
+        "Familia": "Geoglossaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Carpóforo con la forma habitual de las llamadas \"lenguas de tierra\", estilizado en la mayor parte de los ejemplares recolectados, si bien alguno de ellos presenta formas más variables, como retorcidas, con una altura que oscila entre los 3 y los 6 cm, pudiendo de forma ocasional ser algo más altos. Tiene por lo general un color ocre claro, con aspecto casi translúcido, con dos partes perfectamente diferenciadas, una zona superior o clávula, parte fértil del carpóforo, más engrosada, a veces solo ligeramente, y una zona inferior o pie, diferenciable y con tonos más claros. La clávula suele ser lisa y solo en ejemplares maduros puede presentarse hendida longitudinalmente.",
+        "hymenium": "Himenio liso, insertado en la zona superior del carpóforo o clávula, de color ocre claro, produce ascas octospóricas amiloides y con croziers y esporas fusiformes gutuladas (ver características microscópicas).",
+        "stipe": "Pie igualmente liso y cilíndrico, ocupa hasta 3/5 partes de la altura total del carpóforo, estéril, generalmente de color más claro que la zona fértil, a veces llegando a ser casi blanquecino, con la base tiznada indefectiblemente de color verde azulado, a veces otras zonas del mismo pueden teñirse de este color.",
+        "flesh": "Carne escasa y frágil, algo quebradiza, sin olor o sabor destacables dignos de mención, de color similar al resto del carpóforo."
+    },
+    "habitat": "Ejemplares localizados en Oriñon (Cantabria), en la misma zona de referencia de los autores de este taxón de reciente creación, Placido Iglesias y Sabino Arauzo, a quienes agradecemos la posibilidad brindada de poder localizar esta nueva especie para la ciencia descrita y publicada por ellos en 2013. Crece gregaria, en pequeños grupos, sobre todo a finales del otoño y principio del invierno, en zona húmeda al nivel del mar, con presencia de Laurus nobilis, Corylus avellana y Eucaliptus globulus. Especie rara y por lo tanto a proteger.",
+    "observations": "Taxón de reciente creación, localizada por primera vez por los autores en diciembre del 2009, y publicada 4 años más tarde. Se caracteriza por ser una especie más bien pequeña y frágil, de color ocre claro y por la presencia de manchas de color verde azulado en la base del pie de todos los ejemplares. Existe algún taxón con cierto parecido, como la igualmente rara Microglossum fuscorubens, especie de tonos más ocre rojizos, pie más oscuro y sin las manchas verdiazules de la base, además de tener clávula hendida desde joven y diferencias microscópicas en las paráfisis y tamaño esporal.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/microglossum_cyanobasis/microglossum_cyanobasis1.jpg",
+        "https://www.fungipedia.org/images/galerias/microglossum_cyanobasis/microglossum_cyanobasis2.jpg",
+        "https://www.fungipedia.org/images/galerias/microglossum_cyanobasis/microglossum_cyanobasis3.jpg",
+        "https://www.fungipedia.org/images/galerias/microglossum_cyanobasis/microglossum_cyanobasis4.jpg",
+        "https://www.fungipedia.org/images/galerias/microglossum_cyanobasis/microglossum_cyanobasis5.jpg",
+        "https://www.fungipedia.org/images/galerias/microglossum_cyanobasis/microglossum_cyanobasis6.jpg",
+        "https://www.fungipedia.org/images/galerias/microglossum_cyanobasis/microglossum_cyanobasis7.jpg"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "bovista-plumbea",
+    "title": null,
+    "author": "Pers.",
+    "additional_info": {
+        "common_name": "Bejín plomizo, astaputz berunkara, pet de llop gris.",
+        "synonym": "Bovista suberosa Fr."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Gasteromycetidae",
+        "Orden": "Lycoperdales",
+        "Familia": "Lycoperdaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Carpóforo con característica forma globosa, hendido a veces en la zona de unión con el sustrato pero sin pie ni zona basal estéril, con un diámetro que puede oscilar entre los 2 y los 4 (5) cm, y un llamativo color blanco en los especímenes jóvenes que contrasta de forma notable con el entorno en el que se desarrolla.",
+        "hymenium": "Peridio formado por dos capas perfectamente diferenciadas, la capa externa o exoperidio es lisa y de color blanco, relativamente gruesa para el tamaño de la especie a la par que frágil, resquebrajándose en forma de placas con cierta facilidad y dejando entrever el endoperidio. Este endoperidio es de color gris plomo, lo que da de alguna manera nombre a la especie, y tiene una consistencia muy diferente al exoperidio, no se resquebraja y al tacto parece como el papel.",
+        "stipe": "Gleba que en los especímenes jóvenes es de color blanco y consistencia esponjosa, evoluciona volviéndose amarillenta y finalmente es de color pardo y consistencia pulverulenta al madurar las esporas. La dehiscencia se produce por un poro apical.",
+        "flesh": "Carne realmente inexistente, solo la gleba cuando es blanca aparenta ser carne."
+    },
+    "habitat": "Se trata de una especie eminentemente heliófila, su fructificación está ligada a las campas y claros de los bosques, entre la hierba. No tiene especial predilección por una altura determinada, sale por igual en zonas de montaña y en campas costeras, tampoco por un tipo de terreno determinado o zona geográfica, está muy extendida, es muy común y además abundante. Fructifica generalmente en grupos colonizando amplias zonas, rara vez aislada.",
+    "observations": "Aunque algunos autores consideran que es comestible cuando la gleba está blanca, entendemos que carece por completo de valor culinario. Esta especie se caracteriza por su aspecto globoso, sus dos capas perfectamente diferenciables, y su endoperidio gris plomo de consistencia papirácea. Puede confundirse con facilidad con la Bovista nigrescens, especie mucho menos abundante, de exoperidio más delgado y endoperidio de color marrón en vez de gris plomo, también por su hábitat con Lycoperdon pratense, de mayor tamaño y con una especie de pie o base estéril.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/bovista_plumbea/bovista_plumbea1.jpg",
+        "https://www.fungipedia.org/images/galerias/bovista_plumbea/bovista_plumbea2.jpg",
+        "https://www.fungipedia.org/images/galerias/bovista_plumbea/bovista_plumbea3.jpg"
+    ]
+}

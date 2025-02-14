@@ -1,0 +1,34 @@
+{
+    "name": "russula-sanguinea",
+    "title": null,
+    "author": "Fr.",
+    "additional_info": {
+        "common_name": "Rusula de sangre, pinudi-gibelgorri, cualgra sanguinea",
+        "synonym": "Russula sanguinaria (Schumach.) Rauschert"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Himenoascomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Russulales",
+        "Familia": "Russulaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero de buen tamaño y aspecto más bien carnoso, con un diámetro que suele oscilar en ejemplares desarrollados entre los 5 y los 10 cm, con forma convexa en sus primeras etapas de desarrollo, posteriormente extendido y ligeramente deprimido por la zona central, es muy raro encontrar ejemplares embudados. Cutícula suavemente rugosa u ondulada con poca variedad cromática, rojo sangre o rojo carmín bastante saturado y uniforme, poco o nada separable de la carne, algo brillante con lluvia pero nada viscosa, más bien seca y mate en la mayoría de los casos. Margen decurvado y regular en ejemplares jóvenes, no estriado, en los viejos más extendido y ondulado pudiendo tener un débil estriamiento sutil.",
+        "hymenium": "Láminas subdecurrentes, algo arqueadas y más bien apretadas, sobre todo en especímenes jóvenes, muy desiguales en disposición, pudiendo presentar bifurcaciones o ser anastomosadas de forma totalmente aleatoria. Cromáticamente van del blanco inicial al crema y finalmente son de color crema ocráceo, con la arista concolora aunque de forma ocasional puede presentar manchas de color carmín.",
+        "stipe": "Pie de tamaño proporcionado con el diámetro del sombrero, central y cilíndrico, a veces atenuado en la base, ruguloso, de color de fondo blanco pero tiznado en sus rugosidades de rojo carmín, color que predomina en la mayor parte de los ejemplares. Es lleno y frecuentemente adquiere tonos amarillentos al frotamiento.",
+        "flesh": "Carne espesa y consistente de color blanco, inmutable al corte aunque algo tiznada bajo la cutícula, tiene un olor suave poco significativo, su sabor es acre aunque no excesivamente intenso."
+    },
+    "habitat": "Es una especie que forma micorrizas de manera exclusiva con las coníferas, sobre todo con los pinos, la hemos localizado bajo diferentes especies de pinos, en algunos casos fructificando en grupos de forma muy numerosa. Entendemos por tanto que es una especie muy común y abundante, que aparece sobre todo durante el otoño, aunque es factible su aparición en otras épocas del año.",
+    "observations": "Se trata de una especie común en nuestros pinares, caracterizada por su color uniforme rojizo sin demasiadas variaciones de color, también en el pie, su olor suave y la acritud soportable de su carne. Suele aparecer en la misma época y lugares que algunas especies de Lactarius de la sección dapetes, los conocidos níscalos, hemos llegado a ver ejemplares de ambas especies tocándose unos con otros. Puede confundirse con facilidad con varias Russulas, por el color uniforme rojo quizás con Russula nobilis, más propia de planifolios, de esporada blanca y pie blanco también.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/russula_sanguinea/russula_sanguinea1.jpg",
+        "https://www.fungipedia.org/images/galerias/russula_sanguinea/russula_sanguinea2.jpg",
+        "https://www.fungipedia.org/images/galerias/russula_sanguinea/russula_sanguinea3.jpg",
+        "https://www.fungipedia.org/images/galerias/russula_sanguinea/russula_sanguinea4.jpg",
+        "https://www.fungipedia.org/images/galerias/russula_sanguinea/russula_sanguinea5.jpg",
+        "https://www.fungipedia.org/images/galerias/russula_sanguinea/russula_sanguinea6.jpg"
+    ]
+}

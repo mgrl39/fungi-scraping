@@ -1,0 +1,31 @@
+{
+    "name": "armillaria-tabescens",
+    "title": null,
+    "author": "(Scop.) Emel.",
+    "additional_info": {
+        "common_name": "Armillaria sin anillo.",
+        "synonym": "Clitocybe tabescens (Scop) Bres."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Tricholomatales",
+        "Familia": "Tricholomataceae"
+    },
+    "edibility": "comestible-precaucion",
+    "characteristics": {
+        "cap": "Sombrero que cuando está desarrollado tiene un diámetro aproximado de unos 5 cm, de forma convexa en las primeras fases de su desarrollo, luego se aplana bastante, pero mantiene en el centro un umbo obtuso. Su superficie es de color ocráceo, o incluso de color miel, recubierta en su totalidad por escamas más oscuras que el resto, cerradas en la zona central y escasas hacia el margen. Margen regular o un poco ondulado sin resto alguno de velo y liso.",
+        "hymenium": "Láminas adnatas o un poco decurrentes de color claro, entre blanquecino y crema, un poco ventricosas o arqueadas y no muy apretadas.",
+        "stipe": "Pie carente de anillo, cilíndrico y alargado o proporcionado al tamaño del sombrero. Es de color más claro que la superficie del propio sombrero y liso.",
+        "flesh": "Carne espesa y consistente de color blanco, más fibrosa en el pie, su olor es fuerte y desagradable, y su sabor acorde al olor que posee."
+    },
+    "habitat": "Es una especie rara, muy poco habitual, que fructifica sobre la madera de diversos Quercus, la hemos localizado sobre robles y encinas exclusivamente. Crece de forma cespitosa durante el otoño, también se la puede encontrar en verano.",
+    "observations": "Esta especie ha sido considerada dentro de los Clitocybes debido a la ausencia del anillo típico en Armillaria, sin embargo actualmente se la incluye en Armillaria, que entendemos es lo apropiado. Por su color y forma de crecimiento es fácilmente confundible con la Armillaria mellea, especie más común que posee un anillo manifiesto. También se la puede confundir con otras Armillarias, pero todas ellas tienen anillo.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/armillaria_tabescens/armillaria_tabescens1.jpg",
+        "https://www.fungipedia.org/images/galerias/armillaria_tabescens/armillaria_tabescens2.jpg",
+        "https://www.fungipedia.org/images/galerias/armillaria_tabescens/armillaria_tabescens3.jpg"
+    ]
+}

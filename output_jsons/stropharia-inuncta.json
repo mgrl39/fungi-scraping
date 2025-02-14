@@ -1,0 +1,34 @@
+{
+    "name": "stropharia-inuncta",
+    "title": null,
+    "author": "(Fr.) Quél.",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Psilocybe inuncta (Fr.) Kühner"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Cortinariales",
+        "Familia": "Strophariaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero que en los ejemplares desarrollados suele tener un diámetro que oscila entre los 2 y los 4 cm, al principio convexo-campanulado, pronto netamente convexo y al final aplanado, manteniendo la zona central resaltada u obtusamente umbonada. Cutícula glutinosa en época lluviosa, manteniendo una cierta viscosidad aun sin agua, de un color grisáceo fundamentalmente, pero con claros matices lilas o violetas, siendo la zona central umbonada de un color ocráceo más oscuro que el resto, es separable con facilidad de la carne. Margen regular que aparenta exceder a causa del revestimiento glutinoso.",
+        "hymenium": "Láminas adnatas de disposición media, ni muy prietas ni muy separadas, más bien anchas y con distintas longitudes, en la primera etapa de su desarrollo con un color bastante claro, blanquecino o crema, pero adoptando tonos más oscuros con el tiempo debido a la esporulación, marrones o netamente pardos. La arista laminar suele ser más clara, blanquecina.",
+        "stipe": "Pie cilíndrico y alargado, pudiendo duplicar en longitud el diámetro del sombrero, de color claro, casi blanco, poco adornado, de lleno a hueco con el tiempo, tendente a mostrarse sinuoso en el tercio inferior. Suele tener en el tercio superior un anillo adpreso evidente pero que suele acabar quedando como simple zona anular.",
+        "flesh": "Carne delgada de color blanquecino, no demasiado consistente, con un olor agradable afrutado y sabor dulce."
+    },
+    "habitat": "Especie muy poco referenciada que aparece en zonas herbosas junto a los bosques, esta ficha está realizada en base a dos recolectas, la primera de ellas en Navarra en el mes de noviembre de 2016, gentileza de nuestro amigo y colaborador Hector, al borde de un pinar calcáreo, y que creemos fue la primera vez que se citó en la península, y una segunda recolecta, gentileza de Koldobika y Floren, de Micolosa, en diciembre de ese mismo año en Alava, junto a un encinar calcáreo. Entendemos por tanto que se trata de una especie de tendencia heliófila y que fructifica en suelos con pH básico. En ambos casos se observaron un pequeño grupo de ejemplares.",
+    "observations": "Estamos ante una especie muy poco común caracterizada por su cutícula glutinosa o viscosa de color gris con claros tonos violacéos, su pie blanquecino poco decorado y con anillo adpreso, y su hábitat heliófilo y calcáreo. Dadas estas peculiaridades resulta una especie difícilmente confundible con cualquier otra, Stropharia albonitens puede tener cierto parecido debido a su cutícula glutinosa, pero se puede diferenciar bien por carecer de tonos violáceos y ser más acidófila.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/stropharia_inuncta/stropharia_inuncta1.jpg",
+        "https://www.fungipedia.org/images/galerias/stropharia_inuncta/stropharia_inuncta2.jpg",
+        "https://www.fungipedia.org/images/galerias/stropharia_inuncta/stropharia_inuncta3.jpg",
+        "https://www.fungipedia.org/images/galerias/stropharia_inuncta/stropharia_inuncta4.jpg",
+        "https://www.fungipedia.org/images/galerias/stropharia_inuncta/stropharia_inuncta5.jpg",
+        "https://www.fungipedia.org/images/galerias/stropharia_inuncta/stropharia_inuncta6.jpg"
+    ]
+}

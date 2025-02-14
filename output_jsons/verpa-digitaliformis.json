@@ -1,0 +1,31 @@
+{
+    "name": "verpa-digitaliformis",
+    "title": null,
+    "author": "(Persoon)",
+    "additional_info": {
+        "common_name": "Verpa en forma de dedo, karraspina ditare.",
+        "synonym": "Verpa conica (O. F.Mull.) Sw."
+    },
+    "taxonomy": {
+        "División": "Ascomycota",
+        "Subdivisión": "Ascomycotina",
+        "Clase": "Himenoascomycetes",
+        "Subclase": "Pezizomycetidae",
+        "Orden": "Pezizales",
+        "Familia": "Morchellaceae"
+    },
+    "edibility": "comestible-precaucion",
+    "characteristics": {
+        "cap": "Sombrero dispuesto en la parte superior del carpóforo como si fuera una capucha colocada encima, de tamaño muy reducido, como mucho alcanza 3 cm de ancho por otro tanto de alto. Es de color marrón más o menos brillante por toda la superficie externa, mucho más claro, casi gris, por la parte interna. Es colgante, es decir, no se adhiere al pie por la parte de abajo.",
+        "hymenium": "Himenio que ocupa la cara externa del sombrero, no es alveolado como las Morchellas, tan solo un poco arrugado o plisado.",
+        "stipe": "Pie excepcionalmente largo en proporción al sombrero, supera con facilidad los 10 cm, de color blanco o crema, cilíndrico y muchas veces curvado. Suele estar adornado con escamitas y es hueco.",
+        "flesh": "Carne escasa, delgada y frágil, sin olor destacado y de sabor suave."
+    },
+    "habitat": "Se trata de una especie exclusivamente primaveral y de difícil localización, ya que no es muy común. Suele salir en árboles de ribera como los olmos, aunque no exclusivamente.",
+    "observations": "Les presentamos aquí otra especie primaveral comestible poco conocida por los aficionados, tóxica en crudo como todos sus congéneres, sin embargo es poco carnosa y no alcanza ni por asomo el nivel de excelencia de las Morchellas. Puede confundirse con la Verpa bohemica, que tiene costillares en el sombrero.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/verpa_digitaliformis/verpa_digitaliformis1.jpg",
+        "https://www.fungipedia.org/images/galerias/verpa_digitaliformis/verpa_digitaliformis2.jpg",
+        "https://www.fungipedia.org/images/galerias/verpa_digitaliformis/verpa_digitaliformis3.jpg"
+    ]
+}

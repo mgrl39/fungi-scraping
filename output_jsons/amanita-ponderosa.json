@@ -1,0 +1,34 @@
+{
+    "name": "amanita-ponderosa",
+    "title": null,
+    "author": "(MALENÇON & HEIM)",
+    "additional_info": {
+        "common_name": "Gurumelo.",
+        "synonym": "Ninguno."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Agaricales",
+        "Familia": "Amanitaceae"
+    },
+    "edibility": "buen-comestible",
+    "characteristics": {
+        "cap": "Sombrero que puede superar los 10 cm, en un principio hemisférico, después convexo, y por último aplanado, bastante carnoso. Su cutícula es lisa y seca, y su color varía según su estado de desarrollo, al emerger de la volva es de color blanquecino, después va pasando a tonos ocre-rosados, para definitivamente volverse pardo rojiza. El margen no es acanalado.",
+        "hymenium": "Láminas en un principio blancas, pero es una de esas pocas Amanitas en las que el color de las láminas no es permanentemente blanco, sino que tienden a volverse cremas. Son algo apretadas y libres con respecto al pie.",
+        "stipe": "Pie grueso, macizo y lleno, en definitiva, consistente. Suele ser bulboso hacia la base y su color varía entre el blanco y tonos más rosados, pero siempre más claro que el sombrero. Posee un anillo blanco pero muy fugaz y una volva amplia, persistente y membranosa, de color blanco aunque no lo parezca, pues está siempre manchada de tierra.",
+        "flesh": "Carne blanca, ligeramente rosada al contacto con el aire, gruesa y consistente, de sabor suave y olor a tierra."
+    },
+    "habitat": "Especie que aparece en los meses invernales, desde enero hasta marzo, habitualmente ligada a los encinares y alcornocales, especie endémica del sur de España y norte de Africa.",
+    "observations": "Es una especie comestible, de consumo habitual en algunas regiones del sur de España, donde llega incluso a venderse en los mercados. Especie muy afín es la Amanita curtipes, que no alcanza las dimensiones de la especie aquí descrita. Muy peligrosa la confusión con la mortal Amanita verna, que aparece en la misma época y lugares, causando múltiples envenenamientos en los últimos años, especie que no tiene el característico olor terroso de la ponderosa ni oxida su carne al contacto con el aire.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/amanita_ponderosa/amanita_ponderosa1.jpg",
+        "https://www.fungipedia.org/images/galerias/amanita_ponderosa/amanita_ponderosa2.jpg",
+        "https://www.fungipedia.org/images/galerias/amanita_ponderosa/amanita_ponderosa3.jpg",
+        "https://www.fungipedia.org/images/galerias/amanita_ponderosa/amanita_ponderosa4.jpg",
+        "https://www.fungipedia.org/images/galerias/amanita_ponderosa/amanita_ponderosa5.jpg",
+        "https://www.fungipedia.org/images/galerias/amanita_ponderosa/amanita_ponderosa6.jpg"
+    ]
+}

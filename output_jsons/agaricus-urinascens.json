@@ -1,0 +1,32 @@
+{
+    "name": "agaricus-urinascens",
+    "title": null,
+    "author": "(F. H. Möller & Jul. Schäff.) Singer",
+    "additional_info": {
+        "common_name": "Champiñón gigante, bola de nieve, elur bola.",
+        "synonym": "Agaricus macrosporus (Jul. Schäff & F. H. Möller) Pilát"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Agaricales",
+        "Familia": "Agaricaceae"
+    },
+    "edibility": "buen-comestible",
+    "characteristics": {
+        "cap": "Sombrero al principio globoso, como una bola, se va abriendo de forma paulatina pasando a ser primero convexo y finalmente extendido. En estado de bola su diámetro puede sobrepasar sin problemas los 10 cm, mientras que una vez extendido puede tener un diámetro de hasta 40 cm. Su cutícula es de color blanco brillante y está recubierta de escamas floconosas concolores, con la edad estas escamas tienden a volverse un tanto ocráceas y la cutícula se cuartea de forma notable en tiempo seco. Si frotamos el sombrero observaremos por un lado que se tiñe de un color amarillo sucio, y por otro que desprende un olor perceptible como de almendras amargas que no se aprecia en otras zonas de la seta. Margen regular con flocones en los especímenes jóvenes que luego desaparecen.",
+        "hymenium": "Láminas adnatas y bastante apretadas, mientras la seta está en estado de bola permanecen blanquecinas o gris claro, luego se vuelven rosadas y al final del ciclo vital marrón muy oscuro. La arista laminar es estéril, por lo que permanece blanquecina tras la maduración.",
+        "stipe": "Pie corto y macizo, cilíndrico y lleno, de color blanco. Desde la base hasta el anillo se presenta recubierto de flocones, siendo liso en la zona superior. Posee un anillo persistente de color blanco, floconoso y finamente dentado por la parte superior.",
+        "flesh": "Carne gruesa y compacta de color blanco, al corte apenas se tiñe de amarillo, pero si rosea algo en la base del pie, sin embargo es una especie que reacciona al frotamiento a tonos amarillo sucios que posteriormente se vuelven ocráceos. Su sabor es dulce y agradable, su olor es levemente anisado en la recolección, complejo después pero igualmente agradable, solo en los ejemplares viejos no recolectables se vuelve más fuerte y un tanto desagradable."
+    },
+    "habitat": "Especie exclusiva de praderas de montaña o páramos, siempre la hemos observado en alturas superiores a los 800 metros, donde brota en hileras o \"corros de brujas\" a veces espectaculares, rara vez aislada. Suele dar un brote importante allá por el mes de mayo, en plena primavera, pero también brota durante los meses otoñales. Especie frecuente en su hábitat.",
+    "observations": "Su hábitat exclusivo en praderas o páramos de montaña, su porte ciertamente espectacular, y el tamaño de sus esporas, más grandes que las de otros Agaricus, hacen que sea una especie poco menos que inconfundible. Como comestible es bastante aceptable si recolectamos únicamente los especímenes jóvenes en perfecto estado. Agaricus arvensis es similar y puede compartir hábitat, pero es algo menos grande, su cutícula es lisa, sus láminas desiguales y sus esporas más pequeñas. La especie tóxica Agaricus xanthodermus es más pequeña, de olor a tinta y con la base del pie que se torna amarillo vivo al roce.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/agaricus_urinascens/agaricus_urinascens1.jpg",
+        "https://www.fungipedia.org/images/galerias/agaricus_urinascens/agaricus_urinascens2.jpg",
+        "https://www.fungipedia.org/images/galerias/agaricus_urinascens/agaricus_urinascens3.jpg",
+        "https://www.fungipedia.org/images/galerias/agaricus_urinascens/agaricus_urinascens4.jpg"
+    ]
+}

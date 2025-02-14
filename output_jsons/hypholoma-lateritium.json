@@ -1,0 +1,33 @@
+{
+    "name": "hypholoma-lateritium",
+    "title": null,
+    "author": "(Schaeff.) P. Kumm.",
+    "additional_info": {
+        "common_name": "Hifoloma color ladrillo, suge-ziza teilakolore, bolet de pi rogent.",
+        "synonym": "Hypholoma sublateritium (Fr.) Quél."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Cortinariales",
+        "Familia": "Strophariaceae"
+    },
+    "edibility": "toxica",
+    "characteristics": {
+        "cap": "Sombrero que en estado adulto supera con frecuencia los 5 cm de diámetro, de forma globosa en un principio, evolucionando luego de hemisférica a convexa y por último plano-convexa. Su superficie es de un color rojo ladrillo llamativo en la zona central, palideciendo hacia el margen a tonos más amarillentos o blanquecinos. Cutícula lisa o en ocasiones escamosa, de tacto aterciopelado en los ejemplares jóvenes, luego glabra. El margen es excedente y bastante regular, sin grandes ondulaciones ni tampoco estrías, es habitual la presencia de restos de velo amarillento no solo en el margen, sino también en el resto del sombrero en forma de copos, sobre todo en los individuos más jóvenes.",
+        "hymenium": "Láminas adnatas y bastante apretadas, en su primera etapa tienen un color claro, después son de color gris violáceo, tras la esporulación se vuelven de color pardo púrpura. En esta última etapa suelen tener la arista de color más claro que el resto.",
+        "stipe": "Pie alargado, cilíndrico y de aspecto robusto, tiene un color amarillento, sin embargo se va volviendo pardo a partir de la base. Es fistuloso y un poco fibriloso, suele poseer restos cortiniformes de velo amarillento que tienden a desaparecer o a teñirse del color de las esporas.",
+        "flesh": "Carne más espesa que el resto de sus congéneres, de color amarillento salvo en la base del pie donde es ocrácea. Su olor no es muy fuerte pero si resulta un tanto desagradable, y su sabor es ligeramente amargo, un amargor en ocasiones tardío y débil."
+    },
+    "habitat": "Es una especie que fructifica sobre madera de diversos árboles o tocones, la vemos con mucha frecuencia sobre madera de planifolios, tanto haya como roble, es mucho más rara sobre madera de coníferas donde nosotros no la hemos visto nunca. Suele ser más habitual durante el otoño pero también puede brotar de forma ocasional en otras estaciones. Crece casi siempre en grupos numerosos fasciculados.",
+    "observations": "Conforma junto a Hypholoma fasciculare e Hypholoma capnoides la trilogía de los hifolomas fasciculados comunes. Es sin duda alguna el más robusto de los tres, y se caracteriza por el color rojo ladrillo del centro del sombrero y su velo amarillento. Se diferencia de las especies mencionadas en que la primera de ellas tiene las láminas verdosas y carne muy amarga, siendo algo más difícil diferenciarlo de la segunda, de tonos más amarillentos y hábitat preferencial sobre madera de coníferas. Hemos constatado que el amargor de la carne de esta especie es un carácter variable condicionado, a veces amarga de manera clara y otras la carne es subdulce aunque de mal sabor.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/hypholoma_lateritium/hypholoma_lateritium1.jpg",
+        "https://www.fungipedia.org/images/galerias/hypholoma_lateritium/hypholoma_lateritium2.jpg",
+        "https://www.fungipedia.org/images/galerias/hypholoma_lateritium/hypholoma_lateritium3.jpg",
+        "https://www.fungipedia.org/images/galerias/hypholoma_lateritium/hypholoma_lateritium4.jpg",
+        "https://www.fungipedia.org/images/galerias/hypholoma_lateritium/hypholoma_lateritium5.jpg"
+    ]
+}

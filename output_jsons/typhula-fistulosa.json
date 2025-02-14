@@ -1,0 +1,34 @@
+{
+    "name": "typhula-fistulosa",
+    "title": null,
+    "author": "(Holmsk.) Olariaga",
+    "additional_info": {
+        "common_name": "Clavaria hueca.",
+        "synonym": "Macrotyphula fistulosa (Holmsk.) R.H. Petersen"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Agaricales",
+        "Familia": "Typhulaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Carpóforo hueco de forma muy variable dando lugar algunas variedades, si bien su aspecto típico es el de porra estilizada y alargada. Su tamaño en este estado puede alcanzar hasta 20 cm de largo, sin embargo es estrecho, en su zona superior, la más ancha, apenas alcanza un grosor de medio centímetro. Es de color ocre claro, a veces con matiz amarillento, con la base algo más oscura, si bien la unión micelial es blanquecina. El ápice es por lo general redondeado u obtuso, aunque existen formas hasta bifurcadas (f. brachiata), y otras más irregulares (f. contorta), actualmente taxón propio como Typhula contorta.",
+        "hymenium": "Himenio liso y concoloro, si acaso algo pulverulento, inmerso en la superficie externa del carpóforo, ocupando prácticamente los dos tercios superiores, siendo la zona basal estéril.",
+        "stipe": "Pie inexistente como tal, si bien es cierto que la zona próxima a la base es estéril y de color algo más oscuro que el resto. Además esa zona es también más estrecha, dado que el carpóforo se va estrechando paulatinamente desde el ápice hacia la base.",
+        "flesh": "Carne poco significativa dado que es hueco, de color ocre amarillento. Los cuerpos fructíferos de este hongo son tiesos de jóvenes, pero se ablandan con la edad. Ni su olor ni su sabor son dignos de mención."
+    },
+    "habitat": "Fructifica sobre la madera, ramas caídas o restos leñosos de árboles planifolios diversos. Nosotros la hemos fotografiado sobre restos leñosos de Quercus petraea, en el mes de octubre, saliendo de forma gregaria. No es una especie demasiado frecuente.",
+    "observations": "Especie caracterizada por su fructificación lignícola, su altura importante y su peculiar forma. La Macrotyphula juncea es parecida, pero de tamaño muy inferior, y carece de ese comportamiento lignícola, sale sobre hojas. Pudiera ser confundida con la Clavariadelphus pistillaris por su forma, pero esta última es muchísimo más gruesa y de carne amarga.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/typhula_fistulosa/typhula_fistulosa1.jpg",
+        "https://www.fungipedia.org/images/galerias/typhula_fistulosa/typhula_fistulosa2.jpg",
+        "https://www.fungipedia.org/images/galerias/typhula_fistulosa/typhula_fistulosa3.jpg",
+        "https://www.fungipedia.org/images/galerias/typhula_fistulosa/typhula_fistulosa4.jpg",
+        "https://www.fungipedia.org/images/galerias/typhula_fistulosa/typhula_fistulosa5.jpg",
+        "https://www.fungipedia.org/images/galerias/typhula_fistulosa/typhula_fistulosa6.jpg"
+    ]
+}

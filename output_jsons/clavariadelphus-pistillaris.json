@@ -1,0 +1,31 @@
+{
+    "name": "clavariadelphus-pistillaris",
+    "title": null,
+    "author": "(L.) Donk",
+    "additional_info": {
+        "common_name": "Porra, mano de mortero, joiki arrunt, bossa.",
+        "synonym": "Clavaria pistillaris L."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Aphyllophoromycetidae",
+        "Orden": "Cantharellales",
+        "Familia": "Clavariadelphaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Carpóforo que tiene siempre una curiosa forma de porra de troglodita o de maza de mortero, con un tamaño que puede alcanzar los 20 cm de altura, teniendo una anchura en la zona superior que puede exceder de los 5 cm. Es de color pálido en sus comienzos, amarillento, pero rápidamente adquiere su típico color ocre anaranjado por el que se la conoce, con zonas de diferente intensidad de color. La parte superior suele ser lisa, poco o nada truncada, mientras que en el estrechamiento paulatino que va hasta la base, tiene casi siempre arrugas o deformaciones, siendo esa zona incluso acanalada en ocasiones.",
+        "hymenium": "Himenio inmerso en la superficie del carpóforo, solo la zona de la base se muestra estéril.",
+        "stipe": "Pie no diferenciable del resto del carpóforo, por lo que no podemos considerar como tal al estrechamiento que posee hacia la base.",
+        "flesh": "Carne consistente en los ejemplares jóvenes, después se vuelve un tanto esponjosa y fofa, de color blanco. Al corte vira a diversos tonos, desde ocres o vinosos hasta liláceos a veces. Su olor es suave, poco significativo, y su sabor en crudo es bastante amargo."
+    },
+    "habitat": "Esta especie fructifica en bosques de planifolios, con especial predilección por las hayas, muchas veces de forma gregaria. Su época de aparición es el otoño, siendo difícil encontrarla en otras estaciones. Hace muchos años era una especie muy frecuente e incluso abundante, sin embargo cada temporada la vemos menos, por lo que entendemos que pueda estar en recesión.",
+    "observations": "Su peculiar forma de maza o porra y su color ocre anaranjado más o menos leonado entendemos que le hacen poco menos que inconfundible. No es comestible debido al amargor de su carne, que se atenúa al cocer y tirar el agua después, pero así y todo no creemos que merezca la pena recolectarla con fines culinarios. Existe una especie que puede tener cierto parecido, la Clavariadelphus truncatus, con la parte superior claramente truncada y con un ensanchamiento muy brusco, además su carne es muy dulce. La Clavariadelphus ligula es una especie de miniatura de la pistillaris con hábitat bajo coníferas.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/clavariadelphus_pistillaris/clavariadelphus_pistillaris1.jpg",
+        "https://www.fungipedia.org/images/galerias/clavariadelphus_pistillaris/clavariadelphus_pistillaris2.jpg",
+        "https://www.fungipedia.org/images/galerias/clavariadelphus_pistillaris/clavariadelphus_pistillaris3.jpg"
+    ]
+}

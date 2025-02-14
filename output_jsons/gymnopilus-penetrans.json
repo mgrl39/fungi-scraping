@@ -1,0 +1,36 @@
+{
+    "name": "gymnopilus-penetrans",
+    "title": null,
+    "author": "(Fr.) Murrill",
+    "additional_info": {
+        "common_name": "Gymnopilo penetrante, egur ziza zola-zuri, foliota pequeña dos pineiros",
+        "synonym": "Flammula penetrans (Fr.) Quél."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Cortinariales",
+        "Familia": "Crepidotaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero que puede alcanzar un tamaño aceptable, pero muy variable, hemos localizado ejemplares desarrollados de apenas 3 cm de diámetro junto a otros que llegan a los 6 o 7, de forma convexa durante las primeras etapas, después aplanado, con la zona central resaltada u obtusamente umbonada. Cutícula radialmente fibrilosa de forma sucinta, de color ocráceo amarillento o leonado, a veces casi amarilla por desecación, palidescente hacia la zona marginal y separable en dos tercios de la carne. Margen regular y fino, ligeramente ondulado en ejemplares viejos.",
+        "hymenium": "Láminas adnatas y relativamente apretadas, sobre todo en especímenes jóvenes, después algo más separadas, de color amarillento mate, pero tiznadas aleatoriamente de manchas herrumbrosas. Arista laminar irregularmente aserrada con un color algo más pálido que el resto.",
+        "stipe": "Pie central y cilíndrico, proporcionado al tamaño del sombrero o más típicamente alargado, de color similar al mismo, de fibriloso a liso con el desarrollo, ocasionalmente puede presentar una zona anuliforme pero en la mayoría de casos carece de ella, con la unión micelial blanquecina.",
+        "flesh": "Carne poco espesa y bastante fibrosa, de color amarillento pálido, casi blanca en el pie y ocrácea de vieja, posee un olor más bien débil, fúngico, su sabor sin embargo es bastante amargo."
+    },
+    "habitat": "Estamos ante una especie muy frecuente y abundante en nuestros bosques de coníferas, bajo Pinus radiata llega a formar verdaderas alfombras. Fructifica sobre madera o residuos leñosos en descomposición, se comporta de forma saprófita por lo tanto, ya que no sale sobre árboles vivos, muchas veces aparenta estar sobre el suelo. Puede aparecer en cualquier época del año si el tiempo acompaña, de hecho hay ocasiones en que en el bosque solo vemos esta especie en toda la mañana.",
+    "observations": "Especie muy abundante caracterizada por los tonos amarillentos o leonados de todo el carpóforo, su hábitat lignícola sobre coníferas y su sabor amargo. Es una especie que se puede identificar con cierta facilidad de forma macroscópica, se puede confundir con Gymnopilus suberis, muy parecido pero que aparece sobre madera de alcornoque(Quercus suber), o con otras especie lignícolas con las que comparte hábitat como Flammula pinicola, que suele salir en ramilletes sobre tocones, o con la mortal Galerina marginata. Es muy difícil confundirla con especies comestibles, y por su sabor amargo carece de todo valor culinario.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/gymnopilus_penetrans/gymnopilus_penetrans1.jpg",
+        "https://www.fungipedia.org/images/galerias/gymnopilus_penetrans/gymnopilus_penetrans2.jpg",
+        "https://www.fungipedia.org/images/galerias/gymnopilus_penetrans/gymnopilus_penetrans3.jpg",
+        "https://www.fungipedia.org/images/galerias/gymnopilus_penetrans/gymnopilus_penetrans4.jpg",
+        "https://www.fungipedia.org/images/galerias/gymnopilus_penetrans/gymnopilus_penetrans5.jpg",
+        "https://www.fungipedia.org/images/galerias/gymnopilus_penetrans/gymnopilus_penetrans6.jpg",
+        "https://www.fungipedia.org/images/galerias/gymnopilus_penetrans/gymnopilus_penetrans7.jpg",
+        "https://www.fungipedia.org/images/galerias/gymnopilus_penetrans/gymnopilus_penetrans8.jpg"
+    ]
+}

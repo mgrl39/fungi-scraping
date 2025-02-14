@@ -1,0 +1,34 @@
+{
+    "name": "peziza-arvernensis",
+    "title": null,
+    "author": "Roze & Boud.",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Peziza silvestris (Boud.) Sacc. & Traverso"
+    },
+    "taxonomy": {
+        "División": "Ascomycota",
+        "Subdivisión": "Ascomycotina",
+        "Clase": "Himenoascomycetes",
+        "Subclase": "Pezizomycetidae",
+        "Orden": "Pezizales",
+        "Familia": "Pezizaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Carpóforo con forma de copa en las primeras etapas de su desarrollo, posteriormente se abre bastante y se ondula, pudiéndose encontrar ejemplares viejos prácticamente aplanados. Su tamaño es muy variable, a veces apenas alcanza los 3 o 4 cm, pero es factible hallar ejemplares de más de 10 cm de diámetro. El margen es regular de joven, luego se involuta y ondula de forma irregular, y la superficie externa es de color ocráceo claro, finamente furfurácea hidratada pero que se vuelve más claramente furfurácea e incluso pruinosa al secarse, en este estado es mucho más clara, prácticamente blanquecina.",
+        "hymenium": "Himenio situado en la superficie interna del carpóforo, es liso y de joven de un color similar al de la superficie externa, ocre claro, con el tiempo y la maduración esporal va oscureciéndose paulatinamente adoptando unas tonalidades pardas.",
+        "stipe": "Pie inexistente, por regla general es una especie sésil, si bien algunos ejemplares poseen una especie de pseudoestipite formado por la unión de cordones miceliales.",
+        "flesh": "Carne frágil y quebradiza como la mayoría de las especies de su género, de color ocre claro, apenas tiene olor y su sabor es muy suave."
+    },
+    "habitat": "Esta Peziza no es demasiado abundante pero sí que es frecuente en su hábitat, crece, eso sí, prácticamente en cualquier época del año, nosotros la hemos observado en invierno y primavera. Suele aparecer aislada o formando pequeños grupos en bosques de planifolios, sobre todo en hayedos, en zonas de claros y musgosas, también junto a los caminos.",
+    "observations": "Su hábitat preferente en hayedos y su aparición incluso en invierno nos dan la pista para su identificación, además del hecho de llegar a alcanzar un notable tamaño. Macroscópicamente hay mucha semejanza con otras Pezizas por su color, como Peziza varia que apenas alcanza los 5 cm en el mejor de los casos y tiene un hábitat más ruderal. Peziza repanda es también similar, pero no posee las esporas verrucosas de esta sino que las tiene lisas.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/peziza_arvernensis/peziza_arvernensis1.jpg",
+        "https://www.fungipedia.org/images/galerias/peziza_arvernensis/peziza_arvernensis2.jpg",
+        "https://www.fungipedia.org/images/galerias/peziza_arvernensis/peziza_arvernensis3.jpg",
+        "https://www.fungipedia.org/images/galerias/peziza_arvernensis/peziza_arvernensis4.jpg",
+        "https://www.fungipedia.org/images/galerias/peziza_arvernensis/peziza_arvernensis5.jpg",
+        "https://www.fungipedia.org/images/galerias/peziza_arvernensis/peziza_arvernensis6.jpg"
+    ]
+}

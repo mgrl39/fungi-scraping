@@ -1,0 +1,31 @@
+{
+    "name": "morchella-costata",
+    "title": null,
+    "author": "(Vent.) Pers.",
+    "additional_info": {
+        "common_name": "Colmenilla, morilla, karraspina.",
+        "synonym": "Ninguno."
+    },
+    "taxonomy": {
+        "División": "Ascomycota",
+        "Subdivisión": "Ascomycotina",
+        "Clase": "Himenoascomycetes",
+        "Subclase": "Pezizomycetidae",
+        "Orden": "Pezizales",
+        "Familia": "Morchellaceae"
+    },
+    "edibility": "excelente-comestible-precaucion",
+    "characteristics": {
+        "cap": "Sombrero de forma netamente cónica, de 3 o 4 cm de anchura en la base por 5 o 6 de alto, de color marrón grisáceo con tonos púrpuras u oliváceos. Es totalmente hueco, siendo su parte superior obtusa, no puntiaguda. Está recubierto de forma vertical por unos costillares negruzcos bastante prominentes, entrecruzados por otros formando alvéolos.",
+        "hymenium": "Himenio que recubre la zona interior de los alvéolos, siendo los costillares exteriores estériles.",
+        "stipe": "Pie de color rosado, algo furfuráceo, hueco y cilíndrico.",
+        "flesh": "Carne frágil y quebradiza, con un olor agradable afrutado y sabor suave."
+    },
+    "habitat": "Especie primaveral y poco frecuente, que crece en los claros de los bosques de coníferas, así como bajo árboles de ribera.",
+    "observations": "Es de igual entidad culinaria que otras especies de su género, por lo tanto hay que cocinarla muy bien o desecarla pues resulta tóxica en crudo. Es afín a la Morchella conica, de la que se distingue de forma notable por su pie de tonos rosados. Entendemos que ambas tienden a ennegrecer con el tiempo, pero no tan rápido como lo hace la Morchella elata, otra especie afín a la aquí descrita.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/morchella_costata/morchella_costata1.jpg",
+        "https://www.fungipedia.org/images/galerias/morchella_costata/morchella_costata2.jpg",
+        "https://www.fungipedia.org/images/galerias/morchella_costata/morchella_costata3.jpg"
+    ]
+}

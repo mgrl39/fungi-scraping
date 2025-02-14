@@ -1,0 +1,31 @@
+{
+    "name": "ganoderma-applanatum",
+    "title": null,
+    "author": "(Pers.) Pat.",
+    "additional_info": {
+        "common_name": "Yesquero aplanado, ardagai zapal.",
+        "synonym": "Ganoderma incrassatum (Berk.) Bres."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Aphyllophoromycetidae",
+        "Orden": "Ganodermatales",
+        "Familia": "Ganodermataceae"
+    },
+    "edibility": "no-comestible",
+    "characteristics": {
+        "cap": "Carpóforo de dimensiones extraordinarias, es común que alcance los 50 cm de anchura, con una proyección de más de 25 cm, y un espesor de 10 cm. Tiene forma de consola o semicircular, y es plano, pero su superficie está recorrida por una especie de surcos concéntricos, y se abulta o abolla de forma irregular. Además posee un revestimiento lacado que puede tener hasta medio centímetro de espesor, que le da un color marrón rojizo, con el tiempo se vuelve de color marrón oscuro. Durante la fase de crecimiento el borde del sombrero es blanquecino, pero cuando deja de crecer se vuelve del mismo color que el resto.",
+        "hymenium": "Himenio formado por varias capas de tubos dispuestas en estratos, debido a que el carpóforo es perenne, pero los tubos se renuevan anualmente, formando una capa de carne que separa con exactitud los tubos de cada año. Estos tubos son largos, de más de 1cm, quedando de color marrón rojizo, mientras que los poros son muy pequeños y redondeados, 5 a 7 por mm, de color blanco de jóvenes, luego concoloros.",
+        "stipe": "Pie inexistente.",
+        "flesh": "Carne suberosa, de consistencia similar al corcho o a la propia madera, menos espesa de lo que pudiera parecer, de color marrón, suele tener unas incrustaciones blanquecinas típicas de esta especie."
+    },
+    "habitat": "Fructifica sobre la madera de árboles de hoja caduca, sobre todo robles y hayas, pudiendo comportarse de forma parásita o saprófita. Como se trata de carpóforos perennes, es obvio que se la puede encontrar en cualquier época del año, siendo una especie frecuente en nuestros bosques.",
+    "observations": "Se caracteriza este hongo por su gran tamaño, su forma aplanada, y las incrustaciones blancas en la carne, entre otras cosas. Para que se hagan una idea de sus dimensiones, en los años 90, cuando acudíamos a concursos micológicos teníamos un Ganoderma applanatum que lo teníamos que meter en la furgoneta entre varias personas. El Ganoderma adpersum es muy parecido, pero su corteza es el doble de gruesa que este, no teniendo una forma tan aplanada, el Ganoderma pfeifferi se diferencia porque no tiene capa de separación entre los diversos estratos de tubos.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/ganoderma_applanatum/ganoderma_applanatum1.jpg",
+        "https://www.fungipedia.org/images/galerias/ganoderma_applanatum/ganoderma_applanatum2.jpg",
+        "https://www.fungipedia.org/images/galerias/ganoderma_applanatum/ganoderma_applanatum3.jpg"
+    ]
+}

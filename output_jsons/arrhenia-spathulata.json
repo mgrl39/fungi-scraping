@@ -1,0 +1,33 @@
+{
+    "name": "arrhenia-spathulata",
+    "title": null,
+    "author": "(Fr.) Redhead",
+    "additional_info": {
+        "common_name": "Seta con forma de espatula",
+        "synonym": "Arrhenia muscigena (Bull.) Kühner & Lamoure"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Agaricales",
+        "Familia": "Tricholomataceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero de reducidas dimensiones, el diámetro de esta especie oscila entre los 5 y los 20 mm, con una forma bastante heterogénea a lo largo de su desarrollo, flabeliforme o con forma aconchada, típicamente espatulada en su conjunto. Cutícula de aspecto seco y ligeramente afieltrada en los especímenes jóvenes, después totalmente glabra, de color variable, ocrácea cuando es joven y está hidratado, o más típicamente de color grisáceo a gris muy claro al secarse, suele estar zonada concéntricamente. Margen regular en individuos jóvenes y marcadamente lobulado en los adultos.",
+        "hymenium": "Láminas pliciformes, más que láminas son como pliegues, en algunos especímenes poco desarrolladas, sobre todo de jóvenes, y en la mayoría bien patentes y anastomosadas, de color gris similar al del sombrero, por lo general se muestran bastante decurrentes sobre el pie.",
+        "stipe": "Pie rudimentario y muy corto, excentrico o de forma más habitual lateral, a veces como una mera prolongación del sombrero, de color similar al resto del carpóforo y algo tomentoso, sobre todo en la base.",
+        "flesh": "Carne prácticamente inapreciable, es una especie de apenas porte, tampoco se aprecian olor o sabor dignos de mención, es totalmente insípida."
+    },
+    "habitat": "Estamos sin duda ante una especie de hábitat claramente muscícola, fructifica sobre musgos de diferentes géneros, no es exclusiva de un tipo de musgo en concreto. Puede pasar desapercibida por su pequeño tamaño pero no es ni mucho menos una especie rara sino más bien frecuente, suele fructificar en grupos, rara vez aislada, sobre los musgos que tapizan los bosques, siendo muy abundante sobre Tortula sp en zonas litorales. Puede aparecer en cualquier época del año si las condiciones climáticas son benévolas, de hecho en zonas costeras es más frecuente en invierno.",
+    "observations": "Esta especie de pequeño tamaño es relativamente fácil de reconocer macroscópicamente, se caracteriza por su sombrero flabeliforme, la forma espatulada de su carpóforo, con un pie excéntrico rudimentario, sus láminas pliciformes anastomosadas y su hábitat sobre musgos diversos. La especie con la que guarda más parecido es la Arrhenia lobata, especie de consistencia gelatinosa más propia de turberas de montaña, también puede ser confundida con especies parásitas del musgo del género Rimbachia, que son aún más pequeñas y sin pliegues tan evidentes en el himenio.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/arrhenia_spathulata/arrhenia_spathulata1.jpg",
+        "https://www.fungipedia.org/images/galerias/arrhenia_spathulata/arrhenia_spathulata2.jpg",
+        "https://www.fungipedia.org/images/galerias/arrhenia_spathulata/arrhenia_spathulata3.jpg",
+        "https://www.fungipedia.org/images/galerias/arrhenia_spathulata/arrhenia_spathulata4.jpg",
+        "https://www.fungipedia.org/images/galerias/arrhenia_spathulata/arrhenia_spathulata5.jpg"
+    ]
+}

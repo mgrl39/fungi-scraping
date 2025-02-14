@@ -1,0 +1,37 @@
+{
+    "name": "tuber-aestivum",
+    "title": null,
+    "author": "Vittad.",
+    "additional_info": {
+        "common_name": "Trufa de verano, udako boilur, tófona blanca.",
+        "synonym": "Tuber mesentericum Vittad."
+    },
+    "taxonomy": {
+        "División": "Ascomycota",
+        "Subdivisión": "Ascomycotina",
+        "Clase": "Himenoascomycetes",
+        "Subclase": "Pezizomycetidae",
+        "Orden": "Tuberales",
+        "Familia": "Tuberaceae"
+    },
+    "edibility": "excelente-comestible",
+    "characteristics": {
+        "cap": "Carpóforo de tamaño muy variable, se pueden localizar ejemplares adultos de apenas un par de centímetros de diámetro y otros cuyo diámetro llegue a los 7 u 8 cm. Inicialmente tiene una forma globosa, pero al ir creciendo va adoptando formas un tanto irregulares y dispares, pudiendo llegar a ser un tanto amorfo.",
+        "hymenium": "Peridio o supeficie externa, tiene un color que por regla general suele ser negro, a veces marrón muy oscuro, y está recubierto en su totalidad por verrugas de base piramidal que suelen acabar en punta por el ápice. Estas verrugas tienen la particularidad de estar muy separadas entre ellas y tener una altura que en algunos casos puede superar los 5 mm.",
+        "stipe": "Gleba compacta y no pulverulenta, de joven de color blanquecino, después se vuelve amarronada. Esta veteada totalmente por venas de color blanco que le confieren un aspecto laberíntico.",
+        "flesh": "Carne firme y compacta, aunque tierna, con un característico y aromático olor fuerte y un sabor sumamente agradable."
+    },
+    "habitat": "Es una especie de crecimiento hipogeo, fructifica enterrada a no demasiada profundidad, y lo hace bajo árboles muy diversos, tanto planifolios como pinos. Se recolecta de forma silvestre en la mayoría de las ocasiones, si bien también existen plantaciones de encina micorrizada con este hongo. Su época de aparición es el verano, pero según la climatología reinante la temporada se puede adelantar al mes de mayo.",
+    "observations": "Esta trufa de verano tiene un notable aroma y agradable sabor, pero no se cotiza a precio tan alto como la trufa de invierno, Tuber melanosporum, cuyo valor en el mercado cuadruplica a la presente, esto hace que los que se dedican a cultivarlas opten generalmente por la de invierno. Macroscópicamente se diferencian, aparte de por su época de aparición, por la gleba negra que presenta Tuber melanosporum, y por las escamas del peridio que no tienen base piramidal. La trufa blanca del Piamonte, Tuber magnatum, es la que alcanza los precios más desorbitados. Estos ejemplares han sido fotografiados gracias a la gentileza de Ángel Sáenz Fernández prestigioso truficultor de La Rioja.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/tuber_aestivum/tuber_aestivum1.jpg",
+        "https://www.fungipedia.org/images/galerias/tuber_aestivum/tuber_aestivum2.jpg",
+        "https://www.fungipedia.org/images/galerias/tuber_aestivum/tuber_aestivum3.jpg",
+        "https://www.fungipedia.org/images/galerias/tuber_aestivum/tuber_aestivum4.jpg",
+        "https://www.fungipedia.org/images/galerias/tuber_aestivum/tuber_aestivum5.jpg",
+        "https://www.fungipedia.org/images/galerias/tuber_aestivum/tuber_aestivum6.jpg",
+        "https://www.fungipedia.org/images/galerias/tuber_aestivum/tuber_aestivum7.jpg",
+        "https://www.fungipedia.org/images/galerias/tuber_aestivum/tuber_aestivum8.jpg",
+        "https://www.fungipedia.org/images/galerias/tuber_aestivum/tuber_aestivum9.jpg"
+    ]
+}

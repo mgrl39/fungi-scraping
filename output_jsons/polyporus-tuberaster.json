@@ -1,0 +1,30 @@
+{
+    "name": "polyporus-tuberaster",
+    "title": null,
+    "author": "(Jacq. ex Pers.) Fr.",
+    "additional_info": {
+        "common_name": "Poliporo de forquignon.",
+        "synonym": "Polyporus forquignonii Quél."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Aphyllophoromycetidae",
+        "Orden": "Poriales",
+        "Familia": "Polyporaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero que puede sobrepasar los 5 cm pero difícilmente llega a los 10, de color variable entre el crema-ocre y tonos más pardos, recubierto de escamas de color más oscuro que el fondo dispuestas radialmente. La forma habitual en la que encontramos esta especie es con el sombrero deprimido, aunque ocasionalmente aparece extendido.",
+        "hymenium": "Tubos muy cortos, de color blanco, decurrentes sobre el pie.",
+        "stipe": "Poros blanquecinos, poligonales, y cuando el espécimen está maduro amplios y angulosos.",
+        "flesh": "Pie más bien corto, de color blanquecino que se va volviendo ocre a partir de la base. Central y cilíndrico pero atenuado en la base, presenta a veces en la parte superior una especie de retículo formado por los poros al decurrir sobre el mismo."
+    },
+    "habitat": "Carne de color blanco, de joven es tierna pero se va volviendo coriácea con el tiempo, bastante gruesa, de olor y sabor suaves, poco apreciables.",
+    "observations": "Crece sobre ramas de caducifolios en verano y otoño, nosotros la hemos localizado sobre robles y hayas, y aunque algún autor dice que solo sale en las ramas que están en contacto con el suelo, podemos asegurar por experiencia que no necesariamente es así.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/polyporus_tuberaster/polyporus_tuberaster1.jpg",
+        "https://www.fungipedia.org/images/galerias/polyporus_tuberaster/polyporus_tuberaster2.jpg"
+    ]
+}

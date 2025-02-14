@@ -1,0 +1,32 @@
+{
+    "name": "sarcoscypha-coccinea",
+    "title": null,
+    "author": "(Gray) Boud.",
+    "additional_info": {
+        "common_name": "Peziza escarlata, txanogorritxu, cassoleta vermella.",
+        "synonym": "Peziza coccinea (Scop.) Pers."
+    },
+    "taxonomy": {
+        "División": "Ascomycota",
+        "Subdivisión": "Ascomycotina",
+        "Clase": "Himenoascomycetes",
+        "Subclase": "Pezizomycetidae",
+        "Orden": "Pezizales",
+        "Familia": "Sarcoscyphaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Carpóforo en forma de copa, de 2 a 5 cm, a veces algo aplanado si el ejemplar es muy maduro. El color de la superficie externa es rojo anaranjado en su primera etapa, para volverse rápidamente de color blanquecino, granuloso a la vista y tomentoso al tacto. El borde de la \"copa\" suele ser sinuoso y con tendencia a amarillear en los especímenes viejos.",
+        "hymenium": "Himenio que recubre la superficie interna del carpóforo, de un color rojo vivo muy llamativo, liso.",
+        "stipe": "Pie muy corto aunque diferenciable, de apenas 1 cm o poco más, con la parte basal vellosa.",
+        "flesh": "Carne poco consistente, muy delgada, sin olor ni sabor especialmente reseñables."
+    },
+    "habitat": "Fructifica sobre ramas caídas de diversos árboles, generalmente planifolios, aunque nos consta que también lo hace sobre algunas coníferas. Lo peculiar de esta seta es su época de aparición, ya que sale durante el invierno y principio de la primavera, algo poco usual.",
+    "observations": "Esta preciosa seta invernal no tiene valor culinario, aunque puede degustarse sin contratiempos. Suele crecer de forma gregaria, a veces incluso semicubierta de nieve, a pesar del contraste cromático no es fácil localizarla. Las especies de este género no pueden ser diferenciadas sin un análisis microscópico, Sarcoscypha austriaca y Sarcoscypha jurana son especies prácticamente idénticas también citadas en la península ibérica.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/sarcoscypha_coccinea/sarcoscypha_coccinea1.jpg",
+        "https://www.fungipedia.org/images/galerias/sarcoscypha_coccinea/sarcoscypha_coccinea2.jpg",
+        "https://www.fungipedia.org/images/galerias/sarcoscypha_coccinea/sarcoscypha_coccinea3.jpg",
+        "https://www.fungipedia.org/images/galerias/sarcoscypha_coccinea/sarcoscypha_coccinea4.jpg"
+    ]
+}

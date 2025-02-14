@@ -1,0 +1,30 @@
+{
+    "name": "suillellus-satanas",
+    "title": null,
+    "author": "(Lenz) Blanco-Dios",
+    "additional_info": {
+        "common_name": "Boleto de Satanás, Satan onddo, matagent.",
+        "synonym": "Boletus satanas (Lenz)"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Boletales",
+        "Familia": "Boletaceae"
+    },
+    "edibility": "toxica",
+    "characteristics": {
+        "cap": "Sombrero de tamaño espectacular, quizás sea el boleto de porte más potente que hay, puede alcanzar los 30 cm de diámetro y es carnoso y robusto. Es hemisférico de joven para después adoptar forma convexa, sin llegar nunca a aplanarse. Es de color blanco sucio, a veces manchado de color tierra, pero nunca tiene tonos rojos o rosados en su superficie, que es lisa y seca. Margen ligeramente excedente y enrolladlo en los ejemplares jóvenes.",
+        "hymenium": "Tubos largos, amarillentos a oliváceos, al corte se tiñen de azul claro muy lentamente.",
+        "stipe": "Poros de color rojo, a veces anaranjados zonalmente, redondos y pequeños, viraje al azul escaso y lento.",
+        "flesh": "Pie por norma general más corto que el diámetro del sombrero, obtuso y rechoncho, no reticulado. Es de color amarillo en la parte superior y rojo en el resto, pero con el tiempo el rojo va extendiéndose hasta abarcar la práctica totalidad del mismo."
+    },
+    "habitat": "Carne gruesa y compacta, de color fundamentalmente blanco, algo tiznada de amarillo por zonas, azulea lenta y débilmente al corte. Su olor no es muy agradable, y su sabor, por contra, si es dulce y agradable.",
+    "observations": "Siempre la hemos localizado bajo planifolios, sobre todo robles, en verano y principios del otoño. Es una especie termófila que desaparece con la llegada del frío. Es más bien escasa y a proteger.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/suillellus_satanas/suillellus_satanas1.jpg",
+        "https://www.fungipedia.org/images/galerias/suillellus_satanas/suillellus_satanas2.jpg"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "name": "tricholoma-portentosum",
+    "title": null,
+    "author": "(Fr.) Quél.",
+    "additional_info": {
+        "common_name": "Capuchina.",
+        "synonym": "Ninguno."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Tricholomatales",
+        "Familia": "Tricholomataceae"
+    },
+    "edibility": "excelente-comestible",
+    "characteristics": {
+        "cap": "Sombrero que puede llegar a superar los 10 cm, cónico y puntiagudo en su nacimiento, después convexo y finalmente aplanado, conservando un mamelón amplio. Su cutícula es brillante y viscosa en época lluviosa, siendo además fácilmente separable del sombrero, está recubierta de fibrillas radiales de color gris oscuro con matices plateados sobre un fondo de tonos oliváceos.",
+        "hymenium": "Láminas escotadas y blancas, que adoptan en la vejez tintes amarillos, más bien separadas, no prietas.",
+        "stipe": "Pie central y cilíndrico, de tamaño proporcionado con respecto al sombrero, blanco, aunque frecuentemente tiznado de amarillo, a menudo muy enterrado bajo las acículas de los pinos.",
+        "flesh": "Carne bastante endeble, de color blanco, con olor y sabor harinosos pero suaves."
+    },
+    "habitat": "Es otra de esas especies a las que el calor no les va, aparece habitualmente en el mes de noviembre, pudiéndose encontrar ejemplares incluso al principio del invierno, ya que aguanta muy bien las heladas. Habitualmente la encontramos en pinares, en corros de numerosos ejemplares, muchas veces semienterrados, aunque ocasionalmente sale también bajo hayas.",
+    "observations": "Excelente comestible, de sabor agradable, habitualmente pasada por alto por los recolectadores de Boletus. Puede confundirse con el Tricholoma sejunctum, con tonos amarillos en la cutícula y sabor amargo que la hace incomestible, así mismo con otros Tricholomas de tonos grises no comestibles más propios de bosques de planifolios, como el virgatum o sciodes.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/tricholoma_portentosum/tricholoma_portentosum1.jpg",
+        "https://www.fungipedia.org/images/galerias/tricholoma_portentosum/tricholoma_portentosum2.jpg",
+        "https://www.fungipedia.org/images/galerias/tricholoma_portentosum/tricholoma_portentosum3.jpg",
+        "https://www.fungipedia.org/images/galerias/tricholoma_portentosum/tricholoma_portentosum4.jpg"
+    ]
+}

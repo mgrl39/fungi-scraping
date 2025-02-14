@@ -1,0 +1,31 @@
+{
+    "name": "terfezia-leptoderma",
+    "title": null,
+    "author": "Tul. & C. Tul.",
+    "additional_info": {
+        "common_name": "Criadilla de tierra.",
+        "synonym": "Terfezia fanfani Matt."
+    },
+    "taxonomy": {
+        "División": "Ascomycota",
+        "Subdivisión": "Ascomycotina",
+        "Clase": "Himenoascomycetes",
+        "Subclase": "Pezizomycetidae",
+        "Orden": "Tuberales",
+        "Familia": "Terfeziaceae"
+    },
+    "edibility": "comestible",
+    "characteristics": {
+        "cap": "Carpóforo que se muestra con forma de trufa, muchas veces globoso y otras con formas más irregulares, con posible presencia de protuberancias varias, pero por regla general es una especie que suele ser bastante regular en forma y los especímenes globosos predominan sobre otras formas. Su diámetro es variable, le media podría ser entre 2 y 5 cm, encontrándose excepcionalmente ejemplares de hasta 8 cm de diámetro. Al tener crecimiento hipogeo o semihipogeo se encuentran frecuentemente tiznados del color de la propia tierra, limpiando esta observamos el peridio.",
+        "hymenium": "Peridio extremadamente fino, con solo rascar con una uña accedemos a la gleba, esto es debido a que apenas tiene endoperidio, tan solo un revestimiento externo. Es de color ocráceo de joven pasando a pardo rojizo, lo habitual es encontrar siempre matices rojizos o granas sobre un color de base ocre o pardo. En las zonas dañadas o manipuladas tiende a ennegrecer de forma perceptible.",
+        "stipe": "Gleba compacta e intervenada con un color que varía según el grado de maduración del ejemplar, blanquecina en un primer momento con venas rosadas que son la parte fértil de la misma, oscurece con el tiempo a tonos grisáceos en la parte no fértil y verdosos, o incluso al final negruzcos, en la fértil.",
+        "flesh": "Carne compacta y consistente, dura, sin olor destacable y con un sabor agradable en crudo que asemeja a los frutos secos."
+    },
+    "habitat": "Se trata de una especie de crecimiento semihipogeo que nace de forma hipogea y asoma al exterior sucintamente, no siendo sencillo verla a simple vista. Los ejemplares recolectados fueron hallados en Hinojosa del Valle y Monesterio, provincia de Badajoz (España), en dehesa de encinas con amplia presencia de Tuberaria guttata a la que llaman la madre de la criadilla. Es una especie eminentemente primaveral que acostumbra a salir en grupos asociada a diversas cistáceas, no solo a la mencionada.",
+    "observations": "Especie ampliamente recolectada en algunas zonas del sur peninsular bajo el nombre de criadilla, en el sur de Badajoz es la Terfezia más común y abundante. Macroscópicamente se diferencia de sus congéneres por los tonos más rojizos que posee y la marcada tendencia a ennegrecer en zonas picadas o sobadas. Terfezia arenaria=Terfezia leonis es una especie mucho más conocida e igualmente recolectada para uso culinario, es más blanquecina de joven y no ennegrece, tiene más olor y el peridio es notablemente más grueso. Terfezia claveryi tiene la gleba rosada con la zona fértil pardo rojiza, externamente quizás sea la especie más parecida a la que les mostramos en esta ficha, es un buen comestible en todo caso.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/terfezia_leptoderma/terfezia_leptoderma1.jpg",
+        "https://www.fungipedia.org/images/galerias/terfezia_leptoderma/terfezia_leptoderma2.jpg",
+        "https://www.fungipedia.org/images/galerias/terfezia_leptoderma/terfezia_leptoderma3.jpg"
+    ]
+}

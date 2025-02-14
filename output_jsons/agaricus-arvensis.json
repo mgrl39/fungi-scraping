@@ -1,0 +1,31 @@
+{
+    "name": "agaricus-arvensis",
+    "title": null,
+    "author": "(Schaeff.)",
+    "additional_info": {
+        "common_name": "Bola de nieve.",
+        "synonym": "Psalliota arvensis (Schaeff.) Gillet"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Agaricales",
+        "Familia": "Agaricaceae"
+    },
+    "edibility": "buen-comestible",
+    "characteristics": {
+        "cap": "Sombrero globoso en un principio, después convexo y finalmente extendido, en este estado puede llegar a medir hasta 25 cm de diámetro. Es liso o finamente escamado, sobre todo en el margen, de color blanco pero amarilleando tanto al contacto como cuando envejece, incluso adoptando al final tonos ocres. Cutícula separable.",
+        "hymenium": "Láminas de color blanquecino si el ejemplar es joven, pasando después al rosa, y al madurar al marrón chocolate. Son libres y bastante densas, irregulares en su disposición, más bien anchas.",
+        "stipe": "Pie cilíndrico, grueso y macizo, engrosado hacia la base, floconoso bajo el anillo y por lo demás liso. El anillo es grande, doble y dentado, bastante persistente. Amarillea débilmente en la base.",
+        "flesh": "Carne espesa y consistente, blanca, pero amarilleando en el sombrero al rozarla con una uña. Su sabor es suave, de frutos secos, aunque se hace un poco desagradable si el ejemplar es viejo, y el olor es anisado en el momento de la recolección, después tiende a desaparecer este olor, quedando un olor fúngico un tanto penetrante."
+    },
+    "habitat": "Suele dar un primer brote en primavera, en el otoño vuelve a aparecer de nuevo, ligada normalmente a los pastizales y campas, aunque también la hemos visto en claros herbosos de pinares.",
+    "observations": "Constituye un buen comestible esta seta habitual en las campas de nuestra geografía, recolectable solo en estado joven, cuando las láminas no se han puesto todavía marrones. Es ciertamente parecida la especie, también comestible, Agaricus urinascens, propia de pastizales de montaña y páramos, de tamaño aún más grande y con la cutícula netamente agrietada. Puede confundirse con Agaricus xanthodermus, con olor a tinta y cuya base del pie se torna amarillo vivo al rozarla con la uña.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/agaricus_arvensis/agaricus_arvensis1.jpg",
+        "https://www.fungipedia.org/images/galerias/agaricus_arvensis/agaricus_arvensis2.jpg",
+        "https://www.fungipedia.org/images/galerias/agaricus_arvensis/agaricus_arvensis3.jpg"
+    ]
+}

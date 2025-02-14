@@ -1,0 +1,31 @@
+{
+    "name": "terfezia-magnusii",
+    "title": null,
+    "author": "Mattir.",
+    "additional_info": {
+        "common_name": "Turma, criadilla jarera.",
+        "synonym": "Choiromyces magnusii (Mattir.) Paol."
+    },
+    "taxonomy": {
+        "División": "Ascomycota",
+        "Subdivisión": "Ascomycotina",
+        "Clase": "Himenoascomycetes",
+        "Subclase": "Pezizomycetidae",
+        "Orden": "Tuberales",
+        "Familia": "Terfeziaceae"
+    },
+    "edibility": "comestible",
+    "characteristics": {
+        "cap": "Carpóforo con un tamaño más reducido que su pariente el Choiromyces meandriformis, por regla general su diámetro puede oscilar entre los 3 y los 6 cm. Tiene una forma muy irregular, globosa o con forma de tubérculo, pero nunca se presenta redondo, sino con numerosas prominencias a modo de gibas que muchas veces le dan un aspecto deforme.",
+        "hymenium": "Peridio liso no dehiscente que rara vez deja entrever la gleba, solo se agrieta en los ejemplares viejos y maduros de forma menos patente que el Choiromyces meandriformis. Puede tener un color crema cuando es muy joven, pero pronto se vuelve del color de la tierra, ocre, e incluso adopta tonos ferruginosos en los ejemplares más avanzados en su desarrollo.",
+        "stipe": "Pie inexistente.",
+        "flesh": "Gleba compacta y maciza de color blanquecino o crema en los ejemplares jóvenes, con el tiempo se vuelve de color carne a pardo rojiza. Está recorrida en todo su contexto por venas blanquecinas simples que se anchan en la madurez y que se hacen más evidentes con la desecación del ejemplar. El sabor de este hongo es dulce, suave, y de joven resulta prácticamente inodoro, aunque adopta un olor algo más patente y no muy agradable en los ejemplares viejos."
+    },
+    "habitat": "Se trata de un Ascomycete hipogeo o semihipogeo, ya que muchas veces asoma al exterior parte de su carpóforo o produce abultamientos en el terreno dada su proximidad a la superficie. Es una especie eminentemente primaveral que fructifica en terrenos abiertos y baldíos con tierra roja y muchas veces presencia de ganado, en la proximidad de las jaras (Cistus sp.). Es una especie rara por ser muy localizada y por lo tanto poco extendida. Ha sido recolectada en la comarca de la Serena, provincia de Badajoz (España).",
+    "observations": "Estamos ante una especie comestible que es recolectada en algunas provincias del sur de España bajo el nombre común de turma o criadilla jarera. Su confusión con el Choiromyces meandriformis es peligrosa dado que se trata de una especie tóxica con claros efectos purgantes, las diferencias de la especie que les presentamos con ella son, por un lado el hábitat, las venas que en esta no tienen forma de meandros, su menor tamaño, y de forma muy clara su ornamentación esporal.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/terfezia_magnusii/terfezia_magnusii1.jpg",
+        "https://www.fungipedia.org/images/galerias/terfezia_magnusii/terfezia_magnusii2.jpg",
+        "https://www.fungipedia.org/images/galerias/terfezia_magnusii/terfezia_magnusii3.jpg"
+    ]
+}

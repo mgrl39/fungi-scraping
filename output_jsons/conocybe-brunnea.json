@@ -1,0 +1,34 @@
+{
+    "name": "conocybe-brunnea",
+    "title": null,
+    "author": "J.E. Lange & Kühner ex Watling",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Pholiotina brunnea (J.E. Lange & Kühner ex Watling) Singer"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Agaricales",
+        "Familia": "Bolbitiaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero de tamaño medio para el género, el diámetro de los ejemplares adultos suele estar generalmente entre los 2 y los 3 cm, esporádicamente algo más grandes, de forma hemisférica en sus primeros estados de desarrollo, pronto convexo y finalmente casi aplanado, con la zona central resaltada. Cutícula un tanto rugulosa de color ocráceo con diferente tono según madurez o desecación, muchas veces con el centro algo más oscuro que el resto, de aspecto brillante con lluvia, sino seco y mate. Margen que puede presentar en ejemplares jóvenes restos apendiculados del velo que tienden a desaparecer con el tiempo, estriado por transparencia de joven, en ejemplares más secos no aparecen estrias.",
+        "hymenium": "Láminas adnatas o un tanto escotadas, de color ocráceo claro a ocre ferruginoso, subespaciadas y algo ventrudas, con la arista irregular y concolora, pero que puede presentar escamosidad de aspecto blanquecino.",
+        "stipe": "Pie cilíndrico y normalmente alargado con respecto al sombrero, pruinoso sobre todo en el ápice, fibriloso en su totalidad, pudiendo presentar estrías longitudinales poco perceptibles. Su color es muy variable, tiene un fondo claro, pero se va oscureciendo paulatinamente a partir de la base con tonos marrón rojizos, el ápice al final suele quedar algo más claro que el resto, es fistuloso y carece de anillo.",
+        "flesh": "Carne delgada de color ocre claro, tiene un olor débil poco perceptible y un sabor análogo, dulce y suave."
+    },
+    "habitat": "Se trata de una especie saprófita que puede aparecer sobre la tierra, sobre el humus de los bosques o residuos leñosos diversos, o también directamente sobre la madera de diversos árboles. Crece habitualmente durante los meses otoñales, nuestra recolecta se efectuó en el otoño tardío, en un camino que flanquea un pinar de Pinus sylvestris con suelo básico, aparentemente sobre la tierra. Especie que hemos de considerar rara o poco frecuente.",
+    "observations": "Especie pequeña caracterizada por su sombrero higrófano que presenta estriaciones o no en función de la humedad, los restos apendiculados del velo en el margen del sombrero de los especímenes jóvenes, y su pie que va oscureciendo desde la base. Se precisa un estudio microscópico para certificar la especie dentro del género Conocybe, además de guardar parecidos notables con sus congéneres, sobre todo con los que poseen también restos apendiculados como Conocybe vestita, también puede ser confundida con la mortal Galerina marginata, más netamente lignícola y con anillo evidente del que carece la especie aquí descrita.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/conocybe_brunnea/conocybe_brunnea1.jpg",
+        "https://www.fungipedia.org/images/galerias/conocybe_brunnea/conocybe_brunnea2.jpg",
+        "https://www.fungipedia.org/images/galerias/conocybe_brunnea/conocybe_brunnea3.jpg",
+        "https://www.fungipedia.org/images/galerias/conocybe_brunnea/conocybe_brunnea4.jpg",
+        "https://www.fungipedia.org/images/galerias/conocybe_brunnea/conocybe_brunnea5.jpg",
+        "https://www.fungipedia.org/images/galerias/conocybe_brunnea/conocybe_brunnea6.jpg"
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "name": "pluteus-cervinus",
+    "title": null,
+    "author": "(Schaeff.) P. Kumm.",
+    "additional_info": {
+        "common_name": "Plúteo cervino, pluteo marroi, bolet de soca rosat",
+        "synonym": "Pluteus atricapillus (Batsch) Fayod"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Pluteales",
+        "Familia": "Pluteaceae"
+    },
+    "edibility": "comestible",
+    "characteristics": {
+        "cap": "Sombrero de tamaño muy variable, su diámetro puede oscilar entre los 5 y los 15 cm, con forma cónico-campanulada en su nacimiento, pronto se vuelve convexo y finalmente aplanado, en muchos ejemplares con el centro resaltado u obtusamente umbonado. Cutícula lisa y mate, solo un poco brillante en tiempo lluvioso, algo sedosa al principio y después glabra, de color variable dentro de los marrones y pardos, desde el marrón claro al pardo negruzco, muchas veces con el centro muy oscuro, radialmente fibrilosa. Margen bastante regular y muy poco ondulado, además no es para nada estriado.",
+        "hymenium": "Láminas generalmente libres, aunque ocasionalmente se encuentran ejemplares que las tienen casi adnatas, de color blanco cuando el espécimen es joven, adquieren tonos grises claros para al final volverse rosadas con la esporulación. Son apretadas y contienen numerosas laminillas, redondeadas o ventrudas, la arista con la maduración suele permanecer en el color blanco primigenio.",
+        "stipe": "Pie central y cilíndrico, muchas veces con la base engrosada, alargado, pudiendo superar los 10 cm, de aspecto carnoso pero a la par frágil, tiene un color de fondo blanquecino, pero suele estar recubierto de fibrillas longitudinales de color grisáceo o incluso negruzcas en ocasiones.",
+        "flesh": "Carne más bien delgada de color blanco, siendo más fibrosa en el pie, no excesivamente consistente, volviéndose blanda con la edad. Tiene un sabor dulce al principio con un trasfondo ligeramente amargo, su olor es rafanoide aunque no tan acusado como por ejemplo los Hebelomas."
+    },
+    "habitat": "Es una especie de comportamiento saprófito y lignícola, se nutre de la madera en descomposición, apareciendo por tanto sobre viejos tocones o árboles muertos, así como sobre el serrín o restos madereros en general, sin especial predilección por un tipo de árbol en concreto, sale por igual tanto en coníferas como en planifolios diversos. Suele aparecer aislada o en pequeños grupos, en cualquier época del año si las condiciones son óptimas para su reproducción.",
+    "observations": "A pesar de ser considerada como comestible, tiene poca carne y de escasa consistencia, además su olor rafanoide y su sabor con trasfondo amargo nos dan ya la pista de que no es de buena calidad. Una especie que puede compartir hábitat y con la que no debemos confundirnos es el Pluteus salicinus, que contiene gran cantidad de psilocybina, su aspecto es menos robusto, el color de su sombrero más claro, grisáceo con matices oliváceos o azulados, y las fibrillas del pie son blanquecinas. Al margen de esto existen muchas especies de Pluteus inocuas con las que se puede confundir, por ejemplo Pluteus atromarginatus, de arista laminar negruzca.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/pluteus_cervinus/pluteus_cervinus1.jpg",
+        "https://www.fungipedia.org/images/galerias/pluteus_cervinus/pluteus_cervinus2.jpg",
+        "https://www.fungipedia.org/images/galerias/pluteus_cervinus/pluteus_cervinus3.jpg",
+        "https://www.fungipedia.org/images/galerias/pluteus_cervinus/pluteus_cervinus4.jpg",
+        "https://www.fungipedia.org/images/galerias/pluteus_cervinus/pluteus_cervinus5.jpg",
+        "https://www.fungipedia.org/images/galerias/pluteus_cervinus/pluteus_cervinus6.jpg",
+        "https://www.fungipedia.org/images/galerias/pluteus_cervinus/pluteus_cervinus7.jpg",
+        "https://www.fungipedia.org/images/galerias/pluteus_cervinus/pluteus_cervinus8.jpg"
+    ]
+}

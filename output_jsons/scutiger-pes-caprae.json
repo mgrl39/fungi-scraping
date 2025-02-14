@@ -1,0 +1,32 @@
+{
+    "name": "scutiger-pes-caprae",
+    "title": null,
+    "author": "(Pers) Bondartsev & Singer",
+    "additional_info": {
+        "common_name": "Pie de cabra, ahuntz-apo.",
+        "synonym": "Polyporus pes-caprae Pers."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Aphyllophoromycetidae",
+        "Orden": "Cantharellales",
+        "Familia": "Scutigeraceae"
+    },
+    "edibility": "excelente-comestible",
+    "characteristics": {
+        "cap": "Sombrero que puede alcanzar dimensiones notables, pudiendo sobrepasar los 10 cm de diámetro, con forma de pezuña de cabra o de riñón, a veces simplemente semicircular. Es de color pardo bastante uniforme, y su superficie es muy seca y escamada en los ejemplares jóvenes, pero con el tiempo se va agrietando de forma paulatina, hasta dejar entrever el color de la carne que está bajo la superficie pileica. Este agrietamiento suele ser por placas y afecta a toda la superficie excepto quizás el borde. Este borde es incurvado de joven y luego fino, no excesivamente ondulado.",
+        "hymenium": "Himenio formado por tubos y poros, los primeros son muy cortos y de color blanco, aunque con la edad se van tiñendo de color amarillento, decurrentes de forma notable sobre el pie. Los poros son amplios, hexagonales casi siempre, fácilmente visibles, de 1 a 2 mm cada poro, lo cual es un tamaño grande, no habitual en especies con poros. Son de color blanco inicialmente, después amarillentos, y algo ocres de viejos.",
+        "stipe": "Pie excéntrico o más típicamente lateral, proporcionado o más corto que el diámetro del sombrero, con forma muy irregular, torcido y con deformaciones, por regla general más grueso en la zona de la base. Es duro y lleno aun de viejo, y aunque es blanquecino de joven, pronto se vuelve ocráceo amarillento, netamente marrón en la prolongación lateral del sombrero.",
+        "flesh": "Carne espesa de color blanco o amarillento, fibrosa y algo dura pero quebradiza. Tiene un olor agradable poco acentuado, y su sabor es dulce, como de frutos secos."
+    },
+    "habitat": "Es una especie poco frecuente que hace su aparición sobre todo a finales del verano y principio del otoño. Al contrario que la mayoría de los Polyporus, es una especie terrestre, no lignícola, y la solemos localizar siempre en bosques de hayas, y siempre en zonas abruptas.",
+    "observations": "Por desgracia se trata de un excelente comestible, diferente en cuanto a textura de cualquier otra seta, y decimos por desgracia porque esta especie está en la lista roja de especies en serio peligro de extinción en prácticamente toda Europa, por lo que no recomendamos su consumo. Por lo demás entendemos que es una especie fácilmente reconocible, caracterizada por su peculiar forma de pie de cabra y los tonos amarillentos de poros y pie. Otras especies con poros y terrestres son completamente distintas, como el Albatrellus subrubescens, blanco por arriba, o el Albatrellus ovinus, de color verdoso.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/scutiger_pes_caprae/scutiger_pes_caprae1.jpg",
+        "https://www.fungipedia.org/images/galerias/scutiger_pes_caprae/scutiger_pes_caprae2.jpg",
+        "https://www.fungipedia.org/images/galerias/scutiger_pes_caprae/scutiger_pes_caprae3.jpg",
+        "https://www.fungipedia.org/images/galerias/scutiger_pes_caprae/scutiger_pes_caprae4.jpg"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "cantharellus-subpruinosus",
+    "title": null,
+    "author": "Eyssartier & Buyck",
+    "additional_info": {
+        "common_name": "Seta amarilla, rebozuelo, zizahori, rosignol.",
+        "synonym": "Ninguno."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Aphyllophoromycetidae",
+        "Orden": "Cantharellales",
+        "Familia": "Cantharellaceae"
+    },
+    "edibility": "buen-comestible",
+    "characteristics": {
+        "cap": "Sombrero de entre 5 y 10 cm de diámetro, de forma plano-convexa cuando es joven, después se va deprimiendo por la zona central, pudiendo llegar a quedar infundibuliforme de viejo. Aparentemente es de color blanco, ya que suele estar recubierto por una pruina blanquecina, aunque el color de fondo es el amarillo anaranjado, que aparece en cuanto le rascamos con una uña y quitamos así la pruina. Margen irregularmente lobulado.",
+        "hymenium": "Láminas que son realmente una especie de pliegues, bifurcados de forma apreciable, del mismo color amarillo anaranjado que el sombrero. Con respecto al pie son muy decurrentes.",
+        "stipe": "Pie más bien corto, cilíndrico o atenuado en la base, lleno y macizo, de color similar al resto de las partes. A veces es también pruinoso.",
+        "flesh": "Carne espesa, sobre todo en el centro del sombrero, más delgada en el borde, de color amarillento, olor afrutado muy agradable y sabor ligeramente picante."
+    },
+    "habitat": "Se localiza en hábitats muy diferentes, hayedos, pinares, encinares, e incluso bajo jaras. Es una especie de finales de primavera a principios del otoño. Localmente frecuente y abundante.",
+    "observations": "A pesar del pequeño picor de su carne en crudo es una seta de amplio espectro culinario, con ella se preparan desde ensaladas hasta postres. Recientemente separada del Cantharellus cibarius, especie afín que carece de pruina y que tiene varias variedades (ver ficha correspondiente). Notable parecido con Cantharellus friesii, más pequeño y de color butano, también comestible. Peligrosa es la confusión con Omphalotus olearius, especie lignícola de pie alargado y verdaderas láminas.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/cantharellus_subpruinosus/cantharellus_subpruinosus1.jpg",
+        "https://www.fungipedia.org/images/galerias/cantharellus_subpruinosus/cantharellus_subpruinosus2.jpg",
+        "https://www.fungipedia.org/images/galerias/cantharellus_subpruinosus/cantharellus_subpruinosus3.jpg"
+    ]
+}

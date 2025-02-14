@@ -1,0 +1,34 @@
+{
+    "name": "lentinellus-cochleatus",
+    "title": null,
+    "author": "(Pers.) P. Karst.",
+    "additional_info": {
+        "common_name": "Lentinelo anisado, anis-belarri, flota anisada.",
+        "synonym": "Lentinus cochleatus (Pers.) Fr."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Tricholomatales",
+        "Familia": "Pleurotaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero de un tamaño que puede alcanzar en los ejemplares adultos los 8 cm de diámetro, habitualmente rondando los 5 cm. Su forma es un tanto irregular, asemeja a una concha en sus primeras etapas, pero pronto tiende a deprimirse y finalmente es embudado. Su superficie es lisa, de color fundamentalmente ocráceo leonado, pero a veces con algún matiz rojizo y de viejo puede tener un tono más vinoso, aunque tiende a prevalecer el ocre. El margen es flexuoso y muy enrollado en los ejemplares jóvenes, suele permanecer involuto de forma menos acusada de adulto, en algunos ejemplares se extiende pero no es habitual.",
+        "hymenium": "Láminas muy decurrentes y apretadas, de jóvenes de color blanquecino adoptando con posterioridad unos tonos rosado sucio, podemos decir que se ponen feas de adultas. La arista laminar destaca por ser fuertemente denticulada o aserrada de forma muy irregular.",
+        "stipe": "Pie generalmente excéntrico y a veces lateral, casi nunca es central, más bien corto en proporción al sombrero excepto cuando tiene que sobrepasar la corteza, de color carneo a pardo rojizo, más claro junto al sombrero y más oscuro en la base. Suele ser duro y fibroso, además siempre es incurvado debido fundamentalmente a su forma de crecimiento.",
+        "flesh": "Carne poco espesa de color claro, blanda en los ejemplares jóvenes pero pronto coriácea, bastante tenaz y algo elástica, fibrosa en el pie. Desprende un fuerte olor anisado que perdura incluso días después de ser recolectada, siendo su sabor igualmente anisado."
+    },
+    "habitat": "Se trata de una especie lignícola, ha sido recolectada sobre tocón de roble en la provincia de Álava, hallándose varios grupos de numerosos ejemplares con crecimiento cespitoso alrededor del tocón, unidos a este en la base, por la zona más próxima a la tierra. Es fundamentalmente otoñal y muy poco frecuente.",
+    "observations": "Pese a que los ejemplares jóvenes son considerados por algunos autores como comestibles, no recomendamos su consumo dado que se vuelve coriácea rápidamente, además es una seta poco frecuente que debe ser protegida. A pesar de su rareza no es una especie difícil de clasificar, su crecimiento cespitoso sobre tocones, sus láminas fuertemente aserradas y sobre todo su fuerte olor y sabor anisados le delatan. Existe una variedad inolens que carece de este olor característico, además el Lentinellus micheneri tiene cierta similitud, pero es más pequeña, de sabor picante y no huele a anís.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/lentinellus_cochleatus/lentinellus_cochleatus1.jpg",
+        "https://www.fungipedia.org/images/galerias/lentinellus_cochleatus/lentinellus_cochleatus2.jpg",
+        "https://www.fungipedia.org/images/galerias/lentinellus_cochleatus/lentinellus_cochleatus3.jpg",
+        "https://www.fungipedia.org/images/galerias/lentinellus_cochleatus/lentinellus_cochleatus4.jpg",
+        "https://www.fungipedia.org/images/galerias/lentinellus_cochleatus/lentinellus_cochleatus5.jpg",
+        "https://www.fungipedia.org/images/galerias/lentinellus_cochleatus/lentinellus_cochleatus6.jpg"
+    ]
+}

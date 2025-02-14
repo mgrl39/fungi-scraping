@@ -1,0 +1,31 @@
+{
+    "name": "lactarius-quieticolor",
+    "title": null,
+    "author": "(Romagnesi)",
+    "additional_info": {
+        "common_name": "Níscalo.",
+        "synonym": "Ninguno."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Russulales",
+        "Familia": "Russulaceae"
+    },
+    "edibility": "comestible",
+    "characteristics": {
+        "cap": "Sombrero de hasta 10 cm de diámetro, convexo y con el borde enrollado cuando joven, después plano e infundibuliforme en la vejez, de color naranja pálido, mate y seco, recubierto de una especie de pruina blanquecina en los ejemplares jóvenes. Débilmente zonado o algo satinado.",
+        "hymenium": "Láminas de color naranja pero más apagado que en el lactarius deliciosus, de adnatas a decurrentes, se manchan de verde en las zonas dañadas o manoseadas, son por lo general apretadas y poseen algunas laminillas intercaladas.",
+        "stipe": "Pie central, cilíndrico, de color similar al del sombrero o incluso de un tono más apagado, que tiende a volverse hueco rápidamente, poco o nada escrobiculado.",
+        "flesh": "Carne firme, de color naranja pálido, casi amarillenta, exuda un látex de color naranja que en la desecación se torna rojo vinoso. Se tiñe de verde en las partes dañadas, su olor es agradable y su sabor en crudo es algo acre."
+    },
+    "habitat": "Especie exclusiva de pinares, sale con profusión bajo Pinus radiata y se recolecta habitualmente confundiéndola con el \"deliciosus\". Nos consta que suele ser el primero de los \"níscalos\" que suele hacer acto de aparición, allá por el mes de septiembre.",
+    "observations": "Es comestible aunque de peor calidad que el Lactarius deliciosus. Todos los Lactarius de la sección dapetes son recolectados por igual como níscalos, pero las diferencias entre ellos son evidentes si te paras a estudiarlas, por fortuna, todos ellos son comestibles.No confundirla con los Lactarius tóxicos como Lactarius torminosus o Lactarius pubescens, ambos de látex blanco.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/lactarius_quieticolor/lactarius_quieticolor1.jpg",
+        "https://www.fungipedia.org/images/galerias/lactarius_quieticolor/lactarius_quieticolor2.jpg",
+        "https://www.fungipedia.org/images/galerias/lactarius_quieticolor/lactarius_quieticolor3.jpg"
+    ]
+}

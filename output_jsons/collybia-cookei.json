@@ -1,0 +1,34 @@
+{
+    "name": "collybia-cookei",
+    "title": null,
+    "author": "(Bres.) J. D. Arnold",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Collybia cirrhata var. cookei Bres."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Tricholomatales",
+        "Familia": "Marasmiaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero de pequeño tamaño, el diámetro de los ejemplares adultos rara vez alcanza 1 cm, suele oscilar entre 0`5 y 0´8 cm. De forma campanulada en sus comienzos, pronto se vuelve convexo y finalmente aplanado, tiene un color predominante blanco o algo crema, manteniendo la zona central un tono ocráceo en ocasiones. Su superficie es seca y algo sedosa de joven, volviéndose lisa y glabra con la edad y la lluvia, el margen es liso, poco o nada estriado e irregularmente ondulado en los ejemplares viejos.",
+        "hymenium": "Láminas adnatas de color blanco, cremas con la edad, bastante apretadas entre sí, llama la atención el hecho de poseer muchas láminas para ser una seta tan sumamente pequeña.",
+        "stipe": "Pie desproporcionadamente alargado con respecto al sombrero, cilíndrico y muchas veces curvado. Su superficie es furfurácea, de un color blanquecino sucio con matices cárneos que se acentúan con la manipulación. Presenta en la base un esclerocio de color amarillento con cierto matiz ocráceo, pero nunca pardo ni mucho menos negro. No es infrecuente que el tamaño del esclerocio se asemeje al diámetro del sombrero del espécimen.",
+        "flesh": "Carne escasa, insignificante, de color blanco, una vez separada del sustrato sobre el que sale no se aprecia olor o sabor dignos de mención."
+    },
+    "habitat": "Esta especie debe ser considerada como rara o muy rara, ha sido localizada durante el otoño en pequeño grupo de varios ejemplares, sobre restos leñosos en putrefacción de madera de haya (Fagus sylvatica), e igualmente sobre restos leñosos de pino. También se describe para esta especie un hábitat sobre viejos carpóforos de hongos en putrefacción, e incluso puede salir sobre el suelo directamente.",
+    "observations": "Dentro del género Collybia y del subgénero del mismo nombre existen 4 especies a cada cual más interesante, Collybia cirrhata es la más común de todas ellas, fructifica en grandes grupos sobre viejas Russulas putrefactas o restos leñosos descompuestos y carece de esclerocio. Collybia tuberosa brota de un esclerocio de color pardo negruzco o negro, Collybia racemosa, por último, es de color grisáceo y su pie está adornado con unas excrecencias muy vistosas.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/collybia_cookei/collybia_cookei1.jpg",
+        "https://www.fungipedia.org/images/galerias/collybia_cookei/collybia_cookei2.jpg",
+        "https://www.fungipedia.org/images/galerias/collybia_cookei/collybia_cookei3.jpg",
+        "https://www.fungipedia.org/images/galerias/collybia_cookei/collybia_cookei4.jpg",
+        "https://www.fungipedia.org/images/galerias/collybia_cookei/collybia_cookei5.jpg",
+        "https://www.fungipedia.org/images/galerias/collybia_cookei/collybia_cookei6.jpg"
+    ]
+}

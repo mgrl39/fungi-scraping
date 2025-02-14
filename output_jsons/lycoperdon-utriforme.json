@@ -1,0 +1,31 @@
+{
+    "name": "lycoperdon-utriforme",
+    "title": null,
+    "author": "Bull.",
+    "additional_info": {
+        "common_name": "Bejín areolado.",
+        "synonym": "Calvatia utriformis (Bull.) Jaap"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Gasteromycetidae",
+        "Orden": "Lycoperdales",
+        "Familia": "Lycoperdaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Carpóforo que puede alcanzar los 15 cm de ancho y más de 10 de altura, de forma abombada o globosa en la parte superior, se va estrechando hacia la base, que es estéril.",
+        "hymenium": "Exoperidio constituido por la parte exterior de la seta, es simple, de color blanco cuando la seta es joven y de consistencia tomentosa, aunque se resquebraja formando una especie de verrugas piramidales que dejan entrever la parte interior más oscura.",
+        "stipe": "Endoperidio algo más oscuro, se va volviendo gris y encierra en su interior la gleba, se abre de forma irregular liberando las esporas.",
+        "flesh": "Gleba al principio de color blanco, dura, aunque se va ablandando con el tiempo hasta volverse esponjosa y amarillo verdosa, después de color pardo. Cuando desaparece queda un casquete marrón."
+    },
+    "habitat": "Se la encuentra por igual tanto en primavera como en otoño, en praderas de montaña, brezales y en los claros de los pinares, es una especie muy frecuente y abundante.",
+    "observations": "Puede consumirse cuando la seta es joven y la gleba está blanca, aunque su calidad es limitada, es con mucho el más grande de los llamados \"pedos de lobo\", a excepción de la Calvatia gigantea, que puede llegar a pesar hasta 25 kilos. Calvatia cyathiformis tiene la gleba de color violáceo al madurar, es la especie que más parecido tiene con la aquí descrita.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/lycoperdon_utriforme/lycoperdon_utriforme1.jpg",
+        "https://www.fungipedia.org/images/galerias/lycoperdon_utriforme/lycoperdon_utriforme2.jpg",
+        "https://www.fungipedia.org/images/galerias/lycoperdon_utriforme/lycoperdon_utriforme3.jpg"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "chroogomphus-rutilus",
+    "title": null,
+    "author": "(Schaeff.) O. K. Mill.",
+    "additional_info": {
+        "common_name": "Pata de perdiz, seta reluciente, pinu-ziza arrunt, cama de perdiu.",
+        "synonym": "Gomphidius viscidus L. ex Fr."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Boletales",
+        "Familia": "Gomphidiaceae"
+    },
+    "edibility": "comestible",
+    "characteristics": {
+        "cap": "Sombrero que en los ejemplares adultos tiene un diámetro que puede llegar a los 10 cm, siendo lo habitual hallarlos entre 5 y 8 cm. Cuando son jóvenes su forma es cónica o acampanada, provistos de un mamelón que resulta más o menos agudo en esa etapa, y unido al pie por la presencia de un velo filamentoso evidente. Con la madurez su forma es más extendida, conservando en muchos casos el mamelón ahora no tan pronunciado, e incluso apenas mamelonado en ejemplares aislados. El color va del ocre con matiz rojizo a tonos más pardos o cobrizos, y la superficie es marcadamente viscosa, sobre todo con lluvia, sin llegar a ser glutinosa. El margen permanece involuto durante los primeros estadios del espécimen extendiéndose con posterioridad.",
+        "hymenium": "Láminas muy decurrentes, muy espaciadas y notablemente gruesas, con aspecto un tanto ceroso, de jóvenes de color amarillento, oscureciéndose paulatinamente hasta ser de color marrón oscuro e incluso negruzcas en la vejez. Tienen la particularidad de ser fácilmente separables de la carne del sombrero, en los ejemplares más jóvenes se presentan arqueadas.",
+        "stipe": "Pie generalmente más largo que el diámetro del sombrero, muchas veces incurvado, cilíndrico o más típicamente atenuado en la base. Tiene un color ocráceo algo más claro que el sombrero, a veces con algún matiz canela, siendo además fibriloso y viscoso, esto último sobre todo con lluvia. En la parte superior dispone de una zona anular cortiniforme, evidente en los especímenes jóvenes, que con el tiempo suele desaparecer.",
+        "flesh": "Carne espesa y compacta, firme, de color amarillento claro salvo en la base del pie, donde es de un color amarillo azafranado más vivo que en el resto del carpóforo. Tiene cierta tendencia a oscurecer en tonos algo rojizos en las zonas manipuladas, su olor es casi nulo y su sabor es dulce."
+    },
+    "habitat": "Especie micorriza con los pinos, bajo los cuales suele aparecer en pequeños grupos. Se trata de una especie eminentemente otoñal que de forma puntual pudiera aparecer en otras épocas del año, siendo además una especie bastante frecuente y abundante en algunas zonas.",
+    "observations": "Especie comestible de escasa entidad perteneciente a las boletáceas con láminas caracterizada por sus láminas separables y muy decurrentes, tener el sombrero mamelonado, y por el aspecto viscoso de todo el carpóforo. Existen otros congéneres con los que pudiera confundirse, destacaremos el Chroogomphus fulmineus, de colores más vivos y menos viscoso, el Chroogomphus helveticus, de sombrero seco y piloso de joven, carente de mamelón y de color ocre anaranjado uniforme. El Gomphidius glutinosus puede tener también cierto parecido, pero tiene la cutícula recubierta de una capa gelatinosa y su pie es amarillo desde la zona anular a la base.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/chroogomphus_rutilus/chroogomphus_rutilus1.jpg",
+        "https://www.fungipedia.org/images/galerias/chroogomphus_rutilus/chroogomphus_rutilus2.jpg",
+        "https://www.fungipedia.org/images/galerias/chroogomphus_rutilus/chroogomphus_rutilus3.jpg"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "laccaria-amethystina",
+    "title": null,
+    "author": "Cooke",
+    "additional_info": {
+        "common_name": "Lacaria amatista.",
+        "synonym": "Laccaria amethystea (Bull.) Murr."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Tricholomatales",
+        "Familia": "Tricholomataceae"
+    },
+    "edibility": "comestible",
+    "characteristics": {
+        "cap": "Sombrero que puede llegar a los 5 cm de diámetro, de un llamativo color violeta. Es un poco higrófano, circunstancia que hace que al secarse su color palidezca al punto de volverse blanquecino. En su desarrollo pasa de convexo a plano, llegando incluso a deprimirse en la vejez, su borde está irregularmente lobulado.",
+        "hymenium": "Láminas adnatas o algo decurrentes, concoloras o de un violeta más llamativo si cabe que el sombrero, separadas entre sí y a veces algo ventrudas.",
+        "stipe": "Pie central, cilíndrico y alargado, igualmente de color violeta, aunque suele ser algo más pálido que el sombrero, sobre todo en la zona cercana a las láminas. Está estriado longitudinalmente de forma a veces no muy perceptible.",
+        "flesh": "Carne violeta, como el resto de la seta, bastante fibrosa y delgada, con olor fúngico suave y sabor dulce."
+    },
+    "habitat": "Es una especie que sale en zonas musgosas y húmedas de los bosques, tanto bajo coníferas como planifolios, muchas veces en grandes grupos. Frecuente y abundante.",
+    "observations": "Es un comestible mediocre esta, por otra parte, bella especie, que llama la atención por su color violeta homogéneo, hecho este que la distingue de otras especies afines como son la Laccaria laccata, Laccaria proxima, o Laccaria bicolor, esta última tiene las láminas también violetas pero el resto del carpóforo tiene tonos ocres. Mycena pura es una especie de color azulado, pero con las láminas blancas, no lilas.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/laccaria_amethystina/laccaria_amethystina1.jpg",
+        "https://www.fungipedia.org/images/galerias/laccaria_amethystina/laccaria_amethystina2.jpg",
+        "https://www.fungipedia.org/images/galerias/laccaria_amethystina/laccaria_amethystina3.jpg"
+    ]
+}

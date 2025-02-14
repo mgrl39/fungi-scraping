@@ -1,0 +1,31 @@
+{
+    "name": "cortinarius-tubarius",
+    "title": null,
+    "author": "Ammirati & A. H. Sm.",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Alnicola sphagneti (M.M.Moser) Romagn."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Cortinariales",
+        "Familia": "Cortinariaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero de pequeño tamaño, su diámetro no suele alcanzar ni tan siquiera los 5 cm, oscilando por regla general entre 1 y 4 cm. Tiene forma hemisférica en su nacimiento, pronto convexo y finalmente aplanado, con el centro resaltado en los ejemplares más jóvenes y paradójicamente algo umbilicado en los más viejos. Su cutícula es de color ocráceo, con el centro más oscuro y palideciendo hacia el margen, pruinosa e incluso fibrilosa, sobre todo de joven. El margen es notablemente estriado, a veces llega a estriarse casi hasta el centro por transparencia debido a que es una especie higrófana.",
+        "hymenium": "Láminas adnatas y muy separadas, algo ventrudas, de color amarillento en los ejemplares más jóvenes, pronto teñidas de color marrón con algún matiz ferruginoso, muy regulares en su disposición.",
+        "stipe": "Pie alargado o proporcionado, frecuentemente incurvado y cilíndrico, tenaz, de color ocre pero oscureciendo con el tiempo a partir de la base a tonos pardo negruzcos. Está recubierto por fibrillas blanquecinas en su totalidad que pueden llegar a desaparecer por efecto de la lluvia, y su zona cortiniforme es muy escasa y fugaz.",
+        "flesh": "Carne escasa e inconsistente, blanda en el sombrero y tenaz en el pie, prácticamente inodora y de poco sabor dado que absorbe mucho el agua."
+    },
+    "habitat": "Especie que parece ser más ubicuista de lo que se creía en un principio, pudiendo ser localizada en hábitats diferentes, nuestra recolecta ha sido efectuada a la orilla de un arroyo proveniente de una cercana presa, con presencia cercana de alisos. Crecía en pequeño grupo y fue localizada en otoño, es una especie rara por ser poco estudiada como sucede con todas las especies afines al género Alnicola.",
+    "observations": "Compleja posición taxonómica la de esta especie que ha pasado en su larga existencia por diversos géneros, Naucoria, Tubaria, Alnicola, y ahora Cortinarius, no sabemos si de forma definitiva o transitoria. Su carácter ubicuista la diferencia de las especies exclusivas de alisos como son las Alnicola, de Alnus (aliso), sin embargo es su hábitat más frecuente y donde la hemos encontrado. La diferenciación de estas especies solo es factible tras un minucioso análisis microscópico, siendo imposible clasificarlas macroscópicamente, esta dificultad añadida hace que exista una cierta aversión hacia estos géneros. Puede confundirse con cualquier Alnicola, cualquier Tubaria o cualquier Naucoria.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/cortinarius_tubarius/cortinarius_tubarius1.jpg",
+        "https://www.fungipedia.org/images/galerias/cortinarius_tubarius/cortinarius_tubarius2.jpg",
+        "https://www.fungipedia.org/images/galerias/cortinarius_tubarius/cortinarius_tubarius3.jpg"
+    ]
+}

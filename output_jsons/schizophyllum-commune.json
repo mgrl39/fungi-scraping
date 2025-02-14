@@ -1,0 +1,31 @@
+{
+    "name": "schizophyllum-commune",
+    "title": null,
+    "author": "Fries",
+    "additional_info": {
+        "common_name": "Esquizófilo común, ardagaitxo.",
+        "synonym": "Schizophyllum multifidum (Batsch) Fr."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Aphyllophoromycetidae",
+        "Orden": "Poriales",
+        "Familia": "Schizophyllaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Carpóforo de pequeñas dimensiones, generalmente no supera los 3 cm en su zona más ancha, con forma de concha o de abanico. Es cespitoso o agrupado normalmente, aunque a veces desarrolla carpóforos individuales. Superficie vellosa, recubierta de pelos erizados que le dan un tacto aterciopelado, de color blanquecino grisáceo. A veces está débilmente zonado con tonos ocres, y su margen permanece involuto bastante tiempo, además de ser floconoso.",
+        "hymenium": "Láminas de color rosa carneo cuando son jóvenes, volviéndose más oscuras con la edad, casi marrones. Tienen prácticamente más pinta de pliegues que de láminas, y están dispuestas de forma radial a partir de la inserción que está en la zona proxima al sustrato. Su arista es afilada doblemente, y al secarse se retraen longitudinalmente de forma característica.",
+        "stipe": "Pie inexistente o si acaso muy corto, por regla general se une lateralmente al sustrato.",
+        "flesh": "Carne elástica y coriácea de color ocre. Olor poco definido y sabor suave."
+    },
+    "habitat": "Como indica su propio nombre es una de las setas más comunes y abundantes que hay. Fructifica sobre madera o restos leñosos de todo tipo de árboles, y es capaz de hacerlo en cualquier época del año.",
+    "observations": "Como economía de subsistencia ha sido incluso vendida en mercados en alguna zona de recursos económicos limitados, sobre todo en Centroamérica. Lo cierto es que no tiene ningún valor desde el punto de vista culinario, ya que su carne, a pesar de ser dulce, es muy elástica y coriácea. Por sus especiales características consideramos que es una seta inconfundible.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/schizophyllum_commune/schizophyllum_commune1.jpg",
+        "https://www.fungipedia.org/images/galerias/schizophyllum_commune/schizophyllum_commune2.jpg",
+        "https://www.fungipedia.org/images/galerias/schizophyllum_commune/schizophyllum_commune3.jpg"
+    ]
+}

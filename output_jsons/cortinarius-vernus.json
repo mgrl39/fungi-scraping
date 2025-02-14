@@ -1,0 +1,30 @@
+{
+    "name": "cortinarius-vernus",
+    "title": null,
+    "author": "Lindstr. & Melot",
+    "additional_info": {
+        "common_name": "Cortinario primaveral.",
+        "synonym": "Cortinarius erythrinus Ricken"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Cortinariales",
+        "Familia": "Cortinariaceae"
+    },
+    "edibility": "no-comestible",
+    "characteristics": {
+        "cap": "Sombrero más bien pequeño para el género, supera los 5 cm de diámetro sin llegar a los 10 en ningún caso, de forma cónico-campanulado de joven, con el tiempo tiende a aplanarse, pero suele conservar en el centro un mamelón característico. De joven tiene el centro de color marrón y el borde algo grisáceo, luego el borde queda de color más claro, pero igualmente marrón. Su superficie es fibrilosa, y de viejo tiende a rajarse radialmente.",
+        "hymenium": "Láminas adnatas de color marrón, que tienden a teñirse de color ocre ferruginoso por efecto de la esporada. Son ventrudas y poco apretadas.",
+        "stipe": "Pie alargado y central, de color similar al sombrero o algo más claro, netamente fibriloso. Habitualmente se muestra curvado, y es generalmente lleno.",
+        "flesh": "Carne ocrácea y embebida, poco espesa, fibrosa sobre todo en el pie, de olor espermático y sabor dulce no desagradable que contrasta con su olor."
+    },
+    "habitat": "Como su propio nombre indica es primaveral, aparece ligada a diversos árboles, tanto piceas como planifolios, pero indefectiblemente sobre el musgo. Poco frecuente, aunque donde sale suele hacerlo de forma incluso gregaria.",
+    "observations": "Interesante especie de reciente clasificación, que quizás sea el primer cortinario que hace acto de aparición tras derretirse la nieve del invierno, con la llegada de la primavera. Nos llama la atención el hecho de que siempre aparezca en zonas musgosas, puede haber una relación entre los micelios de esta especie y el musgo, ya que los árboles del entorno si suelen variar, a estudiar.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/cortinarius_vernus/cortinarius_vernus1.jpg",
+        "https://www.fungipedia.org/images/galerias/cortinarius_vernus/cortinarius_vernus2.jpg"
+    ]
+}

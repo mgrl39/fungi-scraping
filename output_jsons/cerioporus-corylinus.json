@@ -1,0 +1,37 @@
+{
+    "name": "cerioporus-corylinus",
+    "title": null,
+    "author": "(Mauri) Zmitr. & Kovalenko",
+    "additional_info": {
+        "common_name": "Seta de borto, seta de quemada.",
+        "synonym": "Polyporus corylinus Mauri"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Aphyllophoromycetidae",
+        "Orden": "Poriales",
+        "Familia": "Polyporaceae"
+    },
+    "edibility": "comestible",
+    "characteristics": {
+        "cap": "Sombrero variable en cuanto a tamaño y color, algunos ejemplares adultos apenas alcanzan 3 o 4 cm de diámetro y otros pueden duplicar este dato. Durante la primera etapa de su desarrollo tienen un color muy claro, blanquecino o crema, pero se vuelven ocres de forma paulatina. Su forma es bastante regular, convexa al principio pero pronto aplanada y finalmente se deprime por el centro. Los ejemplares viejos suelen tener la superficie agrietada formando escamas repartidas de forma irregular, los jóvenes la tienen lisa. El margen es muy fino e incurvado.",
+        "hymenium": "Himenio formado por unos tubos muy cortos, no más de 4mm de largo, de color blanco y claramente decurrentes, y por unos poros poligonales de igual color que son muy pequeños en los ejemplares jóvenes e inmaduros, pero que con la maduración esporal se amplían de forma notable.",
+        "stipe": "Pie de tamaño proporcionado al sombrero, blanquecino con tendencia a volverse ocre como sucede con el sombrero, completamente liso y glabro. Su disposición con respecto al sombrero es absolutamente arbitraria, predominando los ejemplares con pie central, pero pudiéndose encontrar excéntrico e incluso de forma ocasional lateral.",
+        "flesh": "Carne poco espesa y de consistencia un tanto elástica, de color blanco. Sucede que en los ejemplares más jóvenes esta carne es tierna, pero en los viejos se vuelve mucho más dura, incluso coriácea, algo similar pasa con el sabor, suave y dulce al principio y un tanto amargo en los individuos viejos, el olor es en todo caso agradable."
+    },
+    "habitat": "Fructifica sobre las raíces de diversas especies arbustivas o arbóreas que han padecido un incendio, el nombre actual de la especie alude a Corylus sp, pero nosotros la conocemos y hemos recolectado sobre las raíces quemadas de Arbustus unedo, conocido comúnmente como madroño o borto. Aparece en grupos más bien numerosos, nunca aislada, aunque en ejemplares individuales no arracimados. Brota tras las lluvias sobre la quemada, nosotros la hemos visto en otoño pero puede aparecer en otras épocas del año. Especie rara y muy localizada.",
+    "observations": "Los ejemplares jóvenes de esta especie constituyen un comestible bastante bueno, sin embargo de viejos son poco menos que incomibles. Apreciándola en su hábitat natural, esta especie es inconfundible al ser el único Cerioporus que sale con profusión sobre la quemada, pero sí que existen otras especies en su género con similitudes morfológicas. La especie más parecida quizás sea Cerioporus rhizophilus, que brota sobre raíces de gramíneas, pero no es una especie pirófila.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/cerioporus_corylinus/cerioporus_corylinus1.jpg",
+        "https://www.fungipedia.org/images/galerias/cerioporus_corylinus/cerioporus_corylinus2.jpg",
+        "https://www.fungipedia.org/images/galerias/cerioporus_corylinus/cerioporus_corylinus3.jpg",
+        "https://www.fungipedia.org/images/galerias/cerioporus_corylinus/cerioporus_corylinus4.jpg",
+        "https://www.fungipedia.org/images/galerias/cerioporus_corylinus/cerioporus_corylinus5.jpg",
+        "https://www.fungipedia.org/images/galerias/cerioporus_corylinus/cerioporus_corylinus6.jpg",
+        "https://www.fungipedia.org/images/galerias/cerioporus_corylinus/cerioporus_corylinus7.jpg",
+        "https://www.fungipedia.org/images/galerias/cerioporus_corylinus/cerioporus_corylinus8.jpg",
+        "https://www.fungipedia.org/images/galerias/cerioporus_corylinus/cerioporus_corylinus9.jpg"
+    ]
+}

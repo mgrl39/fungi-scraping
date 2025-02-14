@@ -1,0 +1,33 @@
+{
+    "name": "postia-stiptica",
+    "title": null,
+    "author": "(Pers.) Jülich",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Spongiporus stipticus (Pers.) A. David"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Aphyllophoromycetidae",
+        "Orden": "Poriales",
+        "Familia": "Coriolaceae"
+    },
+    "edibility": "no-comestible",
+    "characteristics": {
+        "cap": "Carpóforo de formas un tanto variables, en muchas ocasiones formando un semicírculo y con crecimiento individual, otras veces formando verdaderas consolas con varios individuos creciendo juntos e interconectados. El tamaño de cada individuo puede aproximarse a los 10 cm de anchura, con una proyección de unos 5 cm y un grosor en la zona de unión con el sustrato de 2 o 3 cm. La superficie pileica es de un color blanco puro y permanece inalterable al roce o presión, aunque tiende de vieja a volverse sucia, algo ocrácea. Esta superficie es mate, finamente aterciopelada de joven y lisa después, y el margen es afilado en los ejemplares más jóvenes, algo más obtuso en los viejos.",
+        "hymenium": "Himenio formado por tubos cortos de color blanco terminados en unos poros redondos del mismo color, con un tamaño aproximado de 3 o 4 por mm. Al igual que la superficie del sombrero permanecen inmutables al rozamiento.",
+        "stipe": "Carne de consistencia blanda en los individuos jóvenes, siendo esta una característica diferenciadora de este género con respecto a otros de crecimiento saprófito. Con el tiempo se vuelve coriácea esta carne de color blanco que al secarse tiende a volverse un poco gris.",
+        "flesh": "Se trata de una especie sésil que se une al sustrato leñoso sobre el que crece por buena parte de su anchura total. Fructifica sobre madera muerta de diversas coníferas, siendo muy rara bajo planifolios, en este caso nuestros ejemplares se hallaban sobre madera de Pseudotsuga menziesii (Abeto de Douglas). No es una especie que deba ser considerada como rara, y su época de aparición no se puede concretar dado que si las condiciones son favorables puede aparecer prácticamente en cualquier época del año."
+    },
+    "habitat": "El género engloba una serie de especies saprófitas que generan pudrición parda, con esporóforos de color blanco con reflejos de otros colores. La especie que les presentamos se caracteriza por su crecimiento bajo coníferas y la inmutabilidad de su superficie a la presión. La Tyromyces lacteus es muy parecida, es amarga y de crecimiento sobre madera de planifolios. Postia fragilis también se asemeja mucho, pero su sombrero se tiñe de pardo rápidamente al menor rozamiento.",
+    "observations": null,
+    "images": [
+        "https://www.fungipedia.org/images/galerias/postia_stiptica/postia_stiptica1.jpg",
+        "https://www.fungipedia.org/images/galerias/postia_stiptica/postia_stiptica2.jpg",
+        "https://www.fungipedia.org/images/galerias/postia_stiptica/postia_stiptica3.jpg",
+        "https://www.fungipedia.org/images/galerias/postia_stiptica/postia_stiptica4.jpg",
+        "https://www.fungipedia.org/images/galerias/postia_stiptica/postia_stiptica5.jpg"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "name": "russula-olivacea",
+    "title": null,
+    "author": "(Schaeff.) Fr.",
+    "additional_info": {
+        "common_name": "Rúsula oliva, gibeloliba.",
+        "synonym": "Agaricus olivaceus Schaeff."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Russulales",
+        "Familia": "Russulaceae"
+    },
+    "edibility": "buen-comestible",
+    "characteristics": {
+        "cap": "Sombrero de apariencia carnosa y notable tamaño, es frecuente recolectar ejemplares de hasta 15 cm de diámetro, aunque la mayor parte de los ejemplares oscilan entre 6 y 12 cm. Tiene forma convexa, de adulto plano-convexa, sin llegar a aplanarse del todo a pesar de deprimirse un tanto por el centro. En lo que se refiere al color, hay que decir que jamás hemos encontrado un solo ejemplar que no tuviera varios colores diferentes, verde oliva, vinoso, púrpura, marrón, y muchos matices más, siendo precisamente esta multiplicidad de colorido lo que la hace identificable. Superficie seca y borde incurvado durante mucho tiempo.",
+        "hymenium": "Láminas sublibres de color crema, un poco ocre amarillentas en la madurez, más apretadas cuando son jóvenes, luego espaciadas, muchas veces intervenadas. Son anchas y más bien gruesas.",
+        "stipe": "Pie grueso y robusto, de tamaño proporcionado al sombrero, cilíndrico, de color blanco con difumaciones rosas o púrpura rojizas. Es lleno y duro de joven, luego esponjoso.",
+        "flesh": "Carne espesa y consistente de color blanco, que puede mancharse de ocre o de amarillo, quebradiza. Olor afrutado agradable y sabor dulce."
+    },
+    "habitat": "Es una especie típica de los bosques de hayas, donde crece, a veces con profusión, tanto en verano como en otoño, sin ser descartable su presencia bajo otros planifolios.",
+    "observations": "Esta seta puede resultar un poco indigesta para estómagos delicados, lo que ha contribuido a que su comestibilidad sea puesta en entredicho, nosotros la catalogamos como buen comestible porque la hemos degustado en múltiples ocasiones sin contratiempo alguno. Comparte hábitat con la Russula romellii, algo más pequeña, de pie blanco, y que tiene el sombrero oliváceo en el centro y lila hacia el borde. Por su porte puede confundirse con Russula faginea, de sombrero rojizo menos coloreado.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/russula_olivacea/russula_olivacea1.jpg",
+        "https://www.fungipedia.org/images/galerias/russula_olivacea/russula_olivacea2.jpg"
+    ]
+}

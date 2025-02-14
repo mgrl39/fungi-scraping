@@ -1,0 +1,31 @@
+{
+    "name": "macrotyphula-juncea",
+    "title": null,
+    "author": "(Alb. & Schwein.) Berthier",
+    "additional_info": {
+        "common_name": "Clavaria en forma de junco.",
+        "synonym": "Clavaria juncea (Alb. & Schwein.) Fr."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Agaricales",
+        "Familia": "Typhulaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Carpóforo que puede alcanzar como mucho los 7 cm de altura, con forma de hilo y una anchura en la zona más ancha de apenas 3 mm. Tiene un color ocráceo claro en los dos tercios superiores, incluyendo el ápice, que por lo general suele ser redondeado, siendo menos frecuente que acabe en punta. En la primera etapa de su desarrollo es lleno, pero queda hueco con prontitud, y la zona superior suele ser algo más ancha, atenuándose hacia la base.",
+        "hymenium": "Himenio liso situado en la superficie externa del carpóforo, ocupando toda la zona superior, siendo la base estéril.",
+        "stipe": "Pie constituido por la zona estéril del carpóforo, de color ocráceo más oscuro que la zona himenial, es también más delgado. A simple vista se aprecia el cambio de color, pero no es óbice para que pueda ser considerado como una simple prolongación, y no como un verdadero pie.",
+        "flesh": "Carne delgada, poco significativa, tengamos en cuenta que el carpóforo se vuelve hueco pronto, de color ocre muy claro o crema, sin olor o sabor dignos de mención."
+    },
+    "habitat": "Localizadas sobre hojas en descomposición de roble albar durante el otoño, puede, sin embargo, salir también en encinares, tanto sobre hojas como en cortezas, y así mismo puede aparecer de forma más ocasional durante la primavera. Además de ser rara, su pequeño tamaño y delgadez la hacen difícilmente localizable.",
+    "observations": "Es una especie filiforme de tamaño reducido, que crece de forma gregaria formando en ocasiones grandes colonias a pesar de su rareza. La Typhula phacorrhiza es muy similar en forma y tamaño, pero brota de un esclerocio y carece de fíbulas. Otra especie de similar forma pero mucho más grande es la Typhula fistulosa, que puede alcanzar hasta 20 cm de altura y tiene esporas más grandes.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/macrotyphula_juncea/macrotyphula_juncea1.jpg",
+        "https://www.fungipedia.org/images/galerias/macrotyphula_juncea/macrotyphula_juncea2.jpg",
+        "https://www.fungipedia.org/images/galerias/macrotyphula_juncea/macrotyphula_juncea3.jpg"
+    ]
+}

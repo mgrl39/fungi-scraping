@@ -1,0 +1,33 @@
+{
+    "name": "lentinus-tigrinus",
+    "title": null,
+    "author": "(Bull.) Fr.",
+    "additional_info": {
+        "common_name": "Katamotz-belarri.",
+        "synonym": "Panus tigrinus (Bull.) Sing."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Tricholomatales",
+        "Familia": "Pleurotaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero de dimensiones variables, algunos ejemplares adultos no llegan a los 5 cm de diámetro, mientras otros se aproximan a los 10, de forma convexa en un primer momento, en seguida con el centro deprimido y umbilicado, finalmente infundibuliforme. Cuando el espécimen es muy joven es totalmente gris, pero se va escamando rápidamente, agrietándose y dejando entrever la carne como fondo, de esta manera los ejemplares adultos presentan un aspecto muy escamado, atigrado, con escamas pardo grisáceas sobre fondo blanquecino, estas escamas son más cerradas en el centro. Margen involuto de joven, después incurvado y fino.",
+        "hymenium": "Láminas marcadamente decurrentes sobre el pie, densas y apretadas aunque no son anchas, de color blanquecino en un principio, tendentes al crema amarillento. La arista está finamente denticulada, característica propia del género.",
+        "stipe": "Pie cilíndrico y de disposición central o un poco excéntrico, muchas veces se muestra curvado. Es lleno y alargado, de color blanquecino de fondo, pero recubierto de pequeñas escamitas del mismo color que las del sombrero.",
+        "flesh": "Carne elástica y coriácea en los ejemplares viejos, más bien espesa y de color blanquecino. Su olor es agradable, pero su sabor deja bastante que desear, es fuerte e incluso a pesar de ser dulce en un principio, tiene un trasfondo ligeramente amargo."
+    },
+    "habitat": "Es una especie que aparece ya desde la primavera, asociada a los tocones, ramas, e incluso árboles vivos en decadencia. Suele salir sobre árboles de ribera como el sauce, el chopo o el aliso, y puede aparecer también durante el otoño. Es una especie poco frecuente en nuestro entorno cercano.",
+    "observations": "En algunos tratados de micología aparece como comestibles los ejemplares jóvenes, sin embargo su sabor es muy fuerte y su textura excesivamente tiesa. El género Lentinus y el cercano Lentinellus se caracterizan por tener especies que fructifican generalmente sobre madera o bien restos leñosos en descomposición, así como por sus láminas aserradas o denticuladas, característica en que se lleva la palma el Lentinellus micheneri=Lentinellus omphalodes. Esta especie que les presentamos creemos que por su cutícula atigrada resulta ciertamente inconfundible.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/lentinus_tigrinus/lentinus_tigrinus1.jpg",
+        "https://www.fungipedia.org/images/galerias/lentinus_tigrinus/lentinus_tigrinus2.jpg",
+        "https://www.fungipedia.org/images/galerias/lentinus_tigrinus/lentinus_tigrinus3.jpg",
+        "https://www.fungipedia.org/images/galerias/lentinus_tigrinus/lentinus_tigrinus4.jpg",
+        "https://www.fungipedia.org/images/galerias/lentinus_tigrinus/lentinus_tigrinus5.jpg"
+    ]
+}

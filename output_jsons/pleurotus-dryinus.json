@@ -1,0 +1,31 @@
+{
+    "name": "pleurotus-dryinus",
+    "title": null,
+    "author": "(Pers.) P. Kumm.",
+    "additional_info": {
+        "common_name": "Pleuroto del roble, pipa-belarri.",
+        "synonym": "Pleurotus corticatus (Fr.) P. Kumm."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Tricholomatales",
+        "Familia": "Pleurotaceae"
+    },
+    "edibility": "comestible",
+    "characteristics": {
+        "cap": "Sombrero que puede alcanzar grandes dimensiones si bien es un carácter inconstante, algunos ejemplares pueden superar los 20 cm de diámetro mientras que otros apenas alcanzan 7 u 8 cm. Su forma es convexa o de concha en sus primeras etapas, después se extiende e incluso puede llegar a deprimirse un tanto por la zona central. Su superficie es seca, solo brillante con lluvia, lisa y tomentosa en la juventud, recubierta de escamas en la madurez, estas escamas adquieren un color ocráceo. La cutícula es separable y de color blanco, a veces algo grisácea, y el margen es involuto durante buena parte de su desarrollo, al final extendido y no estriado.",
+        "hymenium": "Láminas muy decurrentes, no son ni muy apretadas ni separadas, un término medio, a veces pueden ser anastomosadas en la inserción con el pie, de color blanco durante la mayor parte de su crecimiento, al final adquieren tonos cremas o amarillentos.",
+        "stipe": "Pie excéntrico o lateral, lleno y macizo, generalmente curvado, corto, de color blanquecino. Los ejemplares jóvenes suelen presentar una zona anular que no es sino los restos del velo universal, es fugaz, desapareciendo con celeridad, por lo que no está presente en ejemplares maduros.",
+        "flesh": "Carne espesa, gruesa, en los ejemplares jóvenes es más blanda, pero se vuelve coriácea con el tiempo, de color blanco. Su olor es fúngico y su sabor dulce, agradable en los especímenes jóvenes y no tanto en los adultos."
+    },
+    "habitat": "Se trata de una especie de comportamiento lignícola, fructifica sobre viejos troncos o tocones de diversos árboles planifolios, solemos verla sobre madera de robles o hayas aunque está citada en maderas de otros árboles como álamos o también olmos. Es una especie más bien rara o al menos poco frecuente que hace acto de aparición sobre todo en otoño.",
+    "observations": "Dentro de un género repleto de especies que son consideradas buenas comestibles esta que les presentamos no se distingue por su calidad culinaria, de hecho los ejemplares viejos son prácticamente incomestibles. La única especie con cierta toxicidad con la que se puede confundir es la Pleurocybella porrigens, del mismo color y forma, las diferencias son que carece de pie, es más pequeña y tiene las láminas más apretadas. Otros Pleurotus comestibles tienen también cierto parecido como Pleurotus ostreatus, pero ninguna de ellas tiene escamas en el sombrero.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/pleurotus_dryinus/pleurotus_dryinus1.jpg",
+        "https://www.fungipedia.org/images/galerias/pleurotus_dryinus/pleurotus_dryinus2.jpg",
+        "https://www.fungipedia.org/images/galerias/pleurotus_dryinus/pleurotus_dryinus3.jpg"
+    ]
+}

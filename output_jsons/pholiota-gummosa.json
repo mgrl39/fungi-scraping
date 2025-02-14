@@ -1,0 +1,32 @@
+{
+    "name": "pholiota-gummosa",
+    "title": null,
+    "author": "(Lasch) Singer",
+    "additional_info": {
+        "common_name": "Foliota gomosa, egur-ziza bidaiari.",
+        "synonym": "Dryophila gummosa (Lasch) Quél."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Cortinariales",
+        "Familia": "Strophariaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero cuyo diámetro puede alcanzar como mucho los 5 cm, siendo por tanto una seta de porte más bien pequeño, al principio con forma hemisférica, abriéndose hasta quedar convexa, finalmente algo deprimida, pero manteniendo en su zona central un mamelón obtuso en muchos ejemplares. Su cutícula es viscosa en tiempo lluvioso, de color amarillento o pajizo con notable matiz verdoso, y recubierta por escamas ocráceas dispuestas de forma más o menos concéntrica, estas escamas pueden desaparecer por efecto de la lluvia intensa. El margen suele ser algo más claro y menos escamoso, con restos de velo en los ejemplares muy jóvenes que pronto desaparecen.",
+        "hymenium": "Láminas por lo general adnatas y bastante apretadas, de jóvenes de color claro, blanquecino con matiz amarillento, luego se vuelven de color crema y con la esporulación adquieren un tono ocre herrumbre.",
+        "stipe": "Pie alargado y cilíndrico, algo atenuado en la base, de joven lleno y luego hueco, tiene un color de fondo blanquecino, a veces con matiz amarillento, volviéndose ocre a partir de la base con la madurez. Suele presentar escamas irregulares y una zona cortiniforme que se tiñe del color de las esporas.",
+        "flesh": "Carne delgada y un tanto elástica de color crema amarillento, su olor es débil, poco perceptible, y su sabor suave."
+    },
+    "habitat": "Especie común durante el otoño que puede hacer acto de aparición también en otras épocas del año. Fructifica normalmente de forma fasciculada, sobre residuos leñosos enterrados dando apariencia de estar sobre la tierra, o directamente sobre la madera, sin especial predilección por un tipo de árbol en concreto.",
+    "observations": "Esta seta común es fácilmente identificable por su crecimiento fasciculado, el escamado característico y su color verdoso, cuando estas escamas desaparecen se puede parecer a otras especies. Flammula pinicola es similar, saliendo sobre madera de pino y con la cutícula más pardo amarillenta y lisa. Pholiota lenta es más grande y sale individualmente, su cutícula llega a ser glutinosa con lluvia. Por su forma de crecimiento también se pudiera confundir con el Hypholoma fasciculare de láminas verdosas.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/pholiota_gummosa/pholiota_gummosa1.jpg",
+        "https://www.fungipedia.org/images/galerias/pholiota_gummosa/pholiota_gummosa2.jpg",
+        "https://www.fungipedia.org/images/galerias/pholiota_gummosa/pholiota_gummosa3.jpg",
+        "https://www.fungipedia.org/images/galerias/pholiota_gummosa/pholiota_gummosa4.jpg"
+    ]
+}

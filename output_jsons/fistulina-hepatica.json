@@ -1,0 +1,32 @@
+{
+    "name": "fistulina-hepatica",
+    "title": null,
+    "author": "(Schaeff.) With.",
+    "additional_info": {
+        "common_name": "Lengua de buey, hígado de buey.",
+        "synonym": "Fistulina sarcoides St.-Amans"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Aphyllophoromycetidae",
+        "Orden": "Fistulinales",
+        "Familia": "Fistulinaceae"
+    },
+    "edibility": "comestible",
+    "characteristics": {
+        "cap": "Carpóforo que puede llegar a alcanzar los 20 cm de anchura, al principio en forma de lengua sobre la madera, para después abrirse y ancharse hasta adoptar la forma de un riñón. La parte superior está formada por unas papilas de color rojo sangre, que se oscurecen con el tiempo hasta el color del hígado, fácilmente separables de la carne. Es brillante y de consistencia viscosa.",
+        "hymenium": "Tubos finos, delgados y cortos, al principio blancos, se vuelven amarillentos con el tiempo.",
+        "stipe": "Poros muy pequeños y redondeados, de color crema rosáceo. 2 o 3 poros por mm, enrojecen al tacto.",
+        "flesh": "Pie muy corto, lateral y rudimentario, a veces tan inmerso en la madera que no se aprecia a simple vista, bastante grueso y de color crema ocre."
+    },
+    "habitat": "Carne gruesa y espesa, aunque bastante fibrosa, de color rojo que segrega al corte un líquido de color sangre, sobre todo en los ejemplares jóvenes. Su sabor en crudo es bastante ácido, y su olor es suave, poco destacado.",
+    "observations": "Aparece a finales del verano y durante el otoño, indefectiblemente adherida a la madera de árboles vivos de los géneros Quercus y Castanea. Es frecuente su localización aunque no es excesivamente abundante.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/fistulina_hepatica/fistulina_hepatica1.jpg",
+        "https://www.fungipedia.org/images/galerias/fistulina_hepatica/fistulina_hepatica2.jpg",
+        "https://www.fungipedia.org/images/galerias/fistulina_hepatica/fistulina_hepatica3.jpg",
+        "https://www.fungipedia.org/images/galerias/fistulina_hepatica/fistulina_hepatica4.jpg"
+    ]
+}

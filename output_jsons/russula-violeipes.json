@@ -1,0 +1,31 @@
+{
+    "name": "russula-violeipes",
+    "title": null,
+    "author": "Quél.",
+    "additional_info": {
+        "common_name": "Rúsula de pie violeta, gibel hori-ubela.",
+        "synonym": "Russula violeipes f. citrina (Quél.) Maire"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Russulales",
+        "Familia": "Russulaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero cuyo tamaño puede aproximarse en su pleno desarrollo a los 10 cm de diámetro, de forma subglobosa en su nacimiento, pronto adopta forma convexa para acaba aplanándose, manteniendo el centro un poco deprimido. En su primera etapa es de color amarillo mate o amarillo verdoso, variando a lo largo de su ciclo vital hacia tonos netamente verdosos en la zona central y más violáceos hacia el margen. Cutícula seca y margen liso en los especímenes jóvenes, débilmente estriado al final.",
+        "hymenium": "Láminas adnatas o subdecurrentes de color blanquecino, crema claro tras le esporulación, más bien apretadas e intervenadas, con la arista del mismo color.",
+        "stipe": "Pie de tamaño proporcionado al sombrero o algo corto. Es de color blanco, pero se va difuminando de violeta con el tiempo. Cilíndrico y ligeramente atenuado en la base, es lleno cuando la seta es joven, volviéndose cavernoso con el tiempo.",
+        "flesh": "Carne espesa y quebradiza de color blanco, más esponjosa en el pie de vieja. Su sabor es dulce pero no demasiado apetecible, y el olor recuerda al de la Russula amoena, pero menos acentuado."
+    },
+    "habitat": "Se trata de una especie que no tiene predilección por un tipo de árbol, sale por igual en coníferas y planifolios. Los ejemplares fotografiados fueron encontrados en verano bajo robles, pero es más habitual localizarla durante el otoño. Es una seta poco común, más bien rara.",
+    "observations": "Catalogada como comestible en algún tratado por el hecho de no picar su carne, sin embargo su consumo no merece la pena por su mal sabor. Los ejemplares amarillos son catalogados en algunos tratados como Russula violeipes f. citrina, aunque la tendencia actual es agruparlos todos dentro del taxón que les presentamos. En este estado se puede parecer a otras como la Russula solaris o Russula acetolens, la primera viscosa y estriada y la segunda con olor característico. Las formas violetas o verdosas se parecen a otras Russulas del grupo de la Russula amoena, si bien esta tiene el pie violeta siempre y su olor es más acentuado.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/russula_violeipes/russula_violeipes1.jpg",
+        "https://www.fungipedia.org/images/galerias/russula_violeipes/russula_violeipes2.jpg",
+        "https://www.fungipedia.org/images/galerias/russula_violeipes/russula_violeipes3.jpg"
+    ]
+}

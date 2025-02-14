@@ -1,0 +1,31 @@
+{
+    "name": "helvella-elastica",
+    "title": null,
+    "author": "(Bull.)",
+    "additional_info": {
+        "common_name": "Mitra malgu, moraga elástica.",
+        "synonym": "Leptopodia elastica (Bull.) Boud."
+    },
+    "taxonomy": {
+        "División": "Ascomycota",
+        "Subdivisión": "Ascomycotina",
+        "Clase": "Himenoascomycetes",
+        "Subclase": "Pezizomycetidae",
+        "Orden": "Pezizales",
+        "Familia": "Helvellaceae"
+    },
+    "edibility": "comestible-precaucion",
+    "characteristics": {
+        "cap": "Sombrero de pequeño tamaño, apenas 2 o 3 cm de largo, que puede tener forma de gorro de los gnomos o de silla de montar, lobulado irregularmente, pero con no más de 2 o 3 lóbulos. El margen suele estar envuelto hacia adentro. Su color es muy variable, por lo que no constituye una característica diferenciadora, pudiendo ser desde blanco grisáceo hasta ocre parduzco.",
+        "hymenium": "Himenio completamente liso e involuto hacia arriba, constituido por una de las caras del sombrero, de color crema a ocre pálido.",
+        "stipe": "Pie hueco de color blanco o crema, relativamente largo con respecto al tamaño del sombrero. La característica principal es que no tiene ni atisbo de costilla o surco, es completamente liso y un poco velloso.",
+        "flesh": "Carne de consistencia elástica como anuncia el nombre de la especie, sin olor ni sabor destacable."
+    },
+    "habitat": "Fructifica en verano y en otoño, sin especial exigencia en cuanto al tipo de bosque o suelo. A pesar de estar bastante extendida no es una especie muy frecuente.",
+    "observations": "Es comestible mediocre y solo previa cocción, tóxica en crudo. Se distingue con facilidad de otras Helvellas como la Helvella lacunosa por su pie liso, no surcado. Otra especie del grupo de pie liso es el famoso bonete, o Helvella leucopus, que sin embargo es mucho más oscura que la aquí descrita.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/helvella_elastica/helvella_elastica1.jpg",
+        "https://www.fungipedia.org/images/galerias/helvella_elastica/helvella_elastica2.jpg",
+        "https://www.fungipedia.org/images/galerias/helvella_elastica/helvella_elastica3.jpg"
+    ]
+}

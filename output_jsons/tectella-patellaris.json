@@ -1,0 +1,37 @@
+{
+    "name": "tectella-patellaris",
+    "title": null,
+    "author": "(Fr.) Murrill",
+    "additional_info": {
+        "common_name": "Panellus velado",
+        "synonym": "Panellus patellaris (Fr.) Konrad & Maubl."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Agaricales",
+        "Familia": "Mycenaceae"
+    },
+    "edibility": "no-comestible",
+    "characteristics": {
+        "cap": "Sombrero de pequeño tamaño, su diámetro medio no va más allá de los 2 cm, los ejemplares de nuestra recolecta llegaban a un máximo de 3 cm, con forma concava en su primera etapa, pronto con forma de copa o cyphelliforme. Su superficie tiene un color ocráceo bastante uniforme, por lo general más bien pálido, sobre todo al secarse, a pesar de contener una capa gelificada, al tacto resulta tomentosa y suave, si acaso es algo furfurácea. Puede tener restos de velo, sobre todo junto al margen, este es regular e incurvado, sobre todo de joven, y puede tener flocones, siendo además poco a nada estriado.",
+        "hymenium": "Láminas radiales, partiendo de un punto situado en el centro se extienden radialmente hacia la periferia, muy apretadas, densas, de color fundamentalmente ocre pero con reflejos o matices diferentes, amarillentos cuando son jóvenes o rojizos después, al final pardas, a pesar de que su esporada es de color blanco con matiz grisáceo. Los especímenes muy jóvenes contienen una membrana que las protege totalmente, esta se va rasgando y al final desaparece o queda como algún flocón adherido al margen de sombrero.",
+        "stipe": "Pie lateral y muy rudimentario, corto, mas bien es un pseudoestipite dado que también puede ser considerado como una mera prolongación del sombrero que se adhiere al sustrato, sin diferencias cromáticas entre ambas partes.",
+        "flesh": "Carne delgada de color similar al sombrero o algo más amarillenta, de consistencia un tanto tenaz de joven y extremadamente dura al secarse, como si quedara el carpóforo momificado. Carece de olor significativo y su sabor es bastante fuerte, no es agradable."
+    },
+    "habitat": "Especie de hábitat claramente lignícola, fructifica sobre madera muerta de diversos árboles, siendo una especie rara y a proteger, rara sobre planifolios y más aún sobre restos de coníferas. A pesar de su rareza, donde sale suele hacerlo en grupos más o menos numerosos colonizando la madera, nuestra recolecta se efectuó en Navarra, sobre ramas caídas de Corylus avellana, compartiendo colonización con Plicaturopsis crispa, grupo de numerosos ejemplares, todos ellos maduros y sin velo cerrando las láminas, en el mes de marzo.",
+    "observations": "Interesante especie que debemos considerar como rara o poco habitual, caracterizada por su hábitat lignícola, sus láminas radiales protegidas por un velo que tiende a desaparecer y su esporada en masa blanca. Por la especial configuración de sus láminas puede ser confundida con las especies del género Crepidotus, pero estas tienen esporada ocre en lugar de blanca, más difícil es separarla de algunos Panellus cuando, como en nuestro caso, te encuentras todos los ejemplares sin velo, sobre todo con Panellus ringens, muy similar, macroscópicamente se puede separar por ser este último mucho más estriado, pero sus pequeñas diferencias son más bien micro como la ausencia de cistidios o una pequeña desviación en el tamaño esporal.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/tectella_patellaris/tectella_patellaris1.jpg",
+        "https://www.fungipedia.org/images/galerias/tectella_patellaris/tectella_patellaris2.jpg",
+        "https://www.fungipedia.org/images/galerias/tectella_patellaris/tectella_patellaris3.jpg",
+        "https://www.fungipedia.org/images/galerias/tectella_patellaris/tectella_patellaris4.jpg",
+        "https://www.fungipedia.org/images/galerias/tectella_patellaris/tectella_patellaris5.jpg",
+        "https://www.fungipedia.org/images/galerias/tectella_patellaris/tectella_patellaris6.jpg",
+        "https://www.fungipedia.org/images/galerias/tectella_patellaris/tectella_patellaris7.jpg",
+        "https://www.fungipedia.org/images/galerias/tectella_patellaris/tectella_patellaris8.jpg",
+        "https://www.fungipedia.org/images/galerias/tectella_patellaris/tectella_patellaris9.jpg"
+    ]
+}

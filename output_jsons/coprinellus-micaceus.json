@@ -1,0 +1,31 @@
+{
+    "name": "coprinellus-micaceus",
+    "title": null,
+    "author": "(Bull.) Vilgalys, Hopple & Jacq. Johnson",
+    "additional_info": {
+        "common_name": "Coprino micado, urbeltz mikadun, bolet de fermer (micaci).",
+        "synonym": "Coprinus micaceus (Bull.) Fr."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Agaricales",
+        "Familia": "Coprinaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero cuyo diámetro no supera en ningún caso los 5 cm, durante un tiempo de forma ovoidal, posteriormente campanulado, estado en el que permanece hasta su fase de degradación, sin llegar nunca a aplanarse. Su superficie es de color ocre, a veces con algún matiz amarillento, con diversos tonos en cada ejemplar, siendo la zona central más oscura y palideciendo hacia el margen. Toda esta superficie se encuentra estriada y radialmente surcada, prácticamente en su totalidad, y posee, sobre todo en los especímenes jóvenes, unos copos o gránulos blanquecinos, esféricos y cristalinos al microscopio, que recuerdan a la mica, hecho diferencial que da nombre a la especie. Estos copos desaparecen con la lluvia.",
+        "hymenium": "Láminas adnatas o libres, ascendentes, de color blanco en la primera fase de crecimiento, luego grises y finalmente negruzcas. Suelen ser más bien apretadas y estrechas, y no son particularmente delicuescentes si las comparamos con las de especies afines.",
+        "stipe": "Pie central y cilíndrico, blancuzco o concoloro en los ejemplares viejos, finamente sedoso o liso, a veces ligeramente engrosado en la unión con el sustrato.",
+        "flesh": "Carne escasa y poco consistente de color blanco, su olor es apenas perceptible, y su sabor suave e intrascendente."
+    },
+    "habitat": "Sobre tocones o restos leñosos de árboles planifolios, a veces aparentemente sobre el suelo, forma grupos de numerosos individuos con crecimiento cespitoso. Salvo en la parte más dura del invierno se la puede encontrar en cualquier época del año, siendo una especie frecuente y abundante.",
+    "observations": "Es una especie caracterizada por su sombrero estriado y surcado, su recubrimiento micáceo, y su crecimiento cespitoso o fasciculado sobre madera a veces enterrada. Existen muchos Coprinus similares como el Coprinellus domesticus, diferenciado de este por la estructura de la pileipellis con hifas alargadas, el Coprinellus radians, de crecimiento individual, o el Coprinellus silvaticus, de esporas con verrugas apreciables al microscopio, entre otros. Se precisa del análisis microscópico para la correcta determinación de la especies de este género.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/coprinellus_micaceus/coprinellus_micaceus1.jpg",
+        "https://www.fungipedia.org/images/galerias/coprinellus_micaceus/coprinellus_micaceus2.jpg",
+        "https://www.fungipedia.org/images/galerias/coprinellus_micaceus/coprinellus_micaceus3.jpg"
+    ]
+}

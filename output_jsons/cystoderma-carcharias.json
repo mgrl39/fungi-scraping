@@ -1,0 +1,30 @@
+{
+    "name": "cystoderma-carcharias",
+    "title": null,
+    "author": "(Pers.:Fr.) Fayod",
+    "additional_info": {
+        "common_name": "Cistoderma denticulado, galanperna arrosa.",
+        "synonym": "Lepiota carcharias Karsten"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Tricholomatales",
+        "Familia": "Marasmiaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero de pequeñas dimensiones, apenas llega a sobrepasar los 5 cm de diámetro, de forma de campana inicialmente, pronto convexo y finalmente aplanado, conservando en el centro un mamelón más o menos obtuso en la mayoría de los casos. De color blanquecino a rosa pálido y provisto de unas granulaciones poco evidentes de aspecto harinoso. El borde acostumbra a aparecer provisto de flecos harinosos del mismo color, que a veces desaparecen por efecto de la lluvia.",
+        "hymenium": "Láminas adnatas o decurrentes por un diente, de color blanco, aunque en la vejez se manchan de crema o amarillento, un tanto desiguales y apretadas.",
+        "stipe": "Pie cilíndrico, algo más largo que el diámetro del sombrero. De color blanco y liso por encima del anillo, este es membranoso y embudado, blanco por arriba y algo más ensuciado por debajo. Desde el anillo hasta la base está adornado con granulaciones del mismo color que el sombrero. La base suele ser ligeramente bulbosa.",
+        "flesh": "Carne apenas espesa y poco consistente de color blanquecino. Olor no muy fuerte pero desagradable y sabor también desagradable."
+    },
+    "habitat": "Es una especie poco frecuente que suele aparecer de forma preferente en bosques de coníferas, aunque también puede aparecer con menos profusión en otro tipo de bosques. Su época de aparición más habitual es el otoño.",
+    "observations": "Entendemos que esta especie se separa con relativa facilidad de otras de su género por el color blanco rosado de todo el basidioma, solo el raro Cystodermella ambrosii es de color blanco, pero es mucho más adornado que este. Mucho más complicado es diferenciarla de algunas pequeñas Lepiotas, como la Lepiota erminea o la Lepiota oreadiformis, también puede confundirse con alguna Cystolepiota.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/cystoderma_carcharias/cystoderma_carcharias1.jpg",
+        "https://www.fungipedia.org/images/galerias/cystoderma_carcharias/cystoderma_carcharias2.jpg"
+    ]
+}

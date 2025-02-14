@@ -1,0 +1,30 @@
+{
+    "name": "cortinarius-impolitus",
+    "title": null,
+    "author": "Kauffman",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Cortinarius incisus (Pers.) Fr."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Cortinariales",
+        "Familia": "Cortinariaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero de pequeño tamaño para el género, ni tan siquiera llega a alcanzar los 5 cm de diámetro, con forma de campana en la primera etapa de su desarrollo, pronto convexo, y cuando la seta es adulta prácticamente aplanado. En la mayor parte de los ejemplares recolectados se observa un mamelón obtuso, nunca puntiagudo, en su zona central. Cuando el espécimen está convenientemente hidratado la superficie pileica es de color pardo rojizo, pero al ser una seta higrófana, con la desecación deviene a tonos más ocráceos. Cutícula fibrilosa, sobre todo de joven, y margen regular con marcada tendencia a abrirse formando fisuras.",
+        "hymenium": "Láminas adnatas del mismo color que el sombrero, si bien se vuelven ocre ferruginosas con la esporulación, anchas y separadas entre sí, con la arista del mismo color también.",
+        "stipe": "Pie cilíndrico y de tamaño proporcionado al sombrero, concoloro salvo en la zona próxima al sombrero donde suele ser más claro. En los especímenes jóvenes tiene aspecto fibriloso como consecuencia de los restos de cortina depositados sobre él, pero estos tienden a desaparecer con el tiempo.",
+        "flesh": "Carne no demasiado espesa ni consistente, del mismo color que el resto del carpóforo, absorbe bastante agua. Apenas tiene olor reseñable y su sabor es poco significativo."
+    },
+    "habitat": "A pesar de que esporádicamente puede aparecer en otoño, es en primavera cuando es más factible su localización. Debe considerarse como poco frecuente por ser una especie muy localizada en un hábitat y tipo de suelo concretos. Tiene preferencia por los suelos ácidos y los bosques de pinos, en nuestro caso, ha sido localizada bajo Pinus sylvestris a 1050 metros de altitud, en el mes de mayo. Sin embargo, hemos de destacar que donde sale no lo hace en solitario, en una mañana observamos más de 100 ejemplares.",
+    "observations": "Es una especie que se presta a cierta confusión, debido a que la cortina prácticamente desaparece en los individuos adultos, lo cual te hace dudar macroscópicamente de que se trate de un Cortinarius, la observación de ejemplares jóvenes es esencial en este caso para llegar al rango de género sin micro. Esta seta compartía hábitat y época con algún Inocybe adeaquata=Inocybe jurana, de color similar, pero que dobla el tamaño de la especie aquí descrita.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/cortinarius_impolitus/cortinarius_impolitus1.jpg",
+        "https://www.fungipedia.org/images/galerias/cortinarius_impolitus/cortinarius_impolitus2.jpg"
+    ]
+}

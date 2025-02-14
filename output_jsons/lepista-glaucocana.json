@@ -1,0 +1,35 @@
+{
+    "name": "lepista-glaucocana",
+    "title": null,
+    "author": "(Bres.) Singer",
+    "additional_info": {
+        "common_name": "Lepista blanquiazul, ziza zuri-urdin,",
+        "synonym": "Rhodopaxillus glaucocanus (Bres.) Métrod"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Tricholomatales",
+        "Familia": "Tricholomataceae"
+    },
+    "edibility": "comestible",
+    "characteristics": {
+        "cap": "Sombrero de bastante buen tamaño y porte, similar a otras especies afines de su género, el diámetro de los especímenes adultos suele oscilar entre los 6 y los 12 cm. Tiene una forma hemisférica en los primeros estados de desarrollo, pronto convexo, y finalmente aplanado, con el centro resaltado u obtusamente umbonado. Cutícula separable, lisa y mate, glabra y de color blanco o crema con un claro matiz lilacino, que se manifiesta más cuanto más joven es el ejemplar, con el desarrollo suele perder bastante este tono, y el centro tiende a adquirir un tono ocráceo. Margen involuto durante bastante tiempo, liso y apenas estriado salvo con humedad extrema.",
+        "hymenium": "Láminas típicamente emarginadas, a veces simplemente adnatas, que se separan con cierta facilidad de la carne del sombrero, notablemente apretadas entre sí, no demasiado gruesas y bastante rectas, con laminillas intercaladas. Tienen un color similar al del sombrero, blanco lilacino en la juventud y después con un matiz más rosado al depositarse las esporas que son en masa de color rosado claro. La arista es entera y concolora con la cara laminar.",
+        "stipe": "Pie cilíndrico, centrado en la inserción con el sombrero, de tamaño proporcionado al diámetro del mismo, habitualmente ensanchado en la base, aunque este carácter es un tanto aleatorio, de buen grosor y porte. Tiene un color similar al resto del basidioma, si bien es cierto que en ocasiones adquiere un matiz más grisáceo, suele presentarse fibriloso en general, a veces con disposición longitudinal de las fibras.",
+        "flesh": "Carne más bien espesa y consistente, fibrosa en general, pero sobre todo en el pie, de color blanquecino o crema como el resto del carpóforo, con algún leve matiz lilacino de joven, tiene un olor intenso propio e inconfundible, dentro de los afrutados, pero con muchos matices, es una de esas especies que se puede identificar por su olor característico, su sabor en crudo pasa del dulce a amargar algo al de un rato."
+    },
+    "habitat": "Los ejemplares recolectados para este estudio los encontramos en Galdakao, Bizkaia, zona del vivero, Monte Ganguren, fructificando en el borde de una pista con la presencia próxima tanto de pinos como de robles, bibliograficamente está referenciada sobre todo en frondosas y más rara bajo coníferas, en terrenos ricos o nitrogenados. Aunque está considerada como poco frecuente o poco abundante, nosotros la vemos cada año con relativa frecuencia, suele salir además en setales de varios ejemplares, nunca la hemos visto aislada. Su época del año predilecta para hacer acto de aparición es el otoño, aunque a veces también sale en primaveras muy lluviosas y frescas, no es una especie afín al frio como sucede con otras del género Lepista.",
+    "observations": "Estamos ante una especie considerada como un comestible más bien mediocre, dado que si bien su textura no es mala, su sabor algo amargo deja mucho que desear. Se caracteriza por el color uniforme blanco o crema lilacino de todo el basidioma, y por su olor característico y propio que la hace ser reconocible con cierta facilidad. El aficionado poco experto podría confundirla con otras especies afines como Lepista nuda o lepista sordida, de tonalidades lilas mucho más evidentes y con otro olor y sabor, mucho más parecida es la Lepista irina, que no posee ningún matiz lilacino, y que tiene un olor floral muy intenso e igualmente característico.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/lepista_glaucocana/lepista_glaucocana1.jpg",
+        "https://www.fungipedia.org/images/galerias/lepista_glaucocana/lepista_glaucocana2.jpg",
+        "https://www.fungipedia.org/images/galerias/lepista_glaucocana/lepista_glaucocana3.jpg",
+        "https://www.fungipedia.org/images/galerias/lepista_glaucocana/lepista_glaucocana4.jpg",
+        "https://www.fungipedia.org/images/galerias/lepista_glaucocana/lepista_glaucocana5.jpg",
+        "https://www.fungipedia.org/images/galerias/lepista_glaucocana/lepista_glaucocana6.jpg",
+        "https://www.fungipedia.org/images/galerias/lepista_glaucocana/lepista_glaucocana7.jpg"
+    ]
+}

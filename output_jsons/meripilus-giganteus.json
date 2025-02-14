@@ -1,0 +1,31 @@
+{
+    "name": "meripilus-giganteus",
+    "title": null,
+    "author": "(Pers.) P.Karst.",
+    "additional_info": {
+        "common_name": "Poliporo gigante, ardagai erraldoi, gamarús.",
+        "synonym": "Polyporus giganteus (Pers.) Fr."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Aphyllophoromycetidae",
+        "Orden": "Poriales",
+        "Familia": "Coriolaceae"
+    },
+    "edibility": "no-comestible",
+    "characteristics": {
+        "cap": "Carpóforo anual formado por una sucesión de sombreros superpuestos o imbricados, cada uno de los cuales puede llegar a superar los 25 cm de anchura por 15 cm de proyección. Todo el conjunto puede llegar a alcanzar un metro de anchura por 50 cm de proyección, medidas espectaculares. Es de color ocre claro con el borde más crema, volviéndose de color marrón más oscuro con el tiempo. Su superficie es finamente aterciopelada de joven, después es glabra, arrugada radialmente por regla general, pudiendo estar en ocasiones algo zonada concéntricamente. Margen ondulado, redondeado en su nacimiento y fino en los ejemplares plenamente desarrollados.",
+        "hymenium": "Himenio liso durante la mayor parte de su desarrollo, de color blanquecino o crema, solo tardíamente aparecen unos poros pequeños, 3 a 5 por mm, con un color que va del blanquecino sucio al negruzco que adoptan con la vejez o el roce.",
+        "stipe": "Pie prácticamente inexistente, los carpóforos crecen a partir de una base común situada lateralmente con respecto a los sombreros.",
+        "flesh": "Carne fibrosa y coriácea, de joven más blanda y luego algo más dura, pero manteniendo siempre una cierta elasticidad. Es de color blanco, y al corte se vuelve rojiza en ocasiones, y siempre ennegrece. Apenas tiene olor y su sabor es muy suave."
+    },
+    "habitat": "Este hongo crece sobre madera de árboles planifolios, generalmente sobre tocones, aunque a veces lo hace sobre árboles erectos, siendo un signo inequívoco de muerte o decadencia del árbol. Lo solemos localizar sobre todo durante el otoño, siendo en la península ibérica frecuente pero no abundante.",
+    "observations": "Las espectaculares dimensiones de los carpóforos de este hongo, su himenio liso, tardíamente porado, y el ennegrecimiento de su carne al corte, hacen que sea una especie fácil de clasificar para cualquier aficionado a las setas. Existe, sin embargo, una forma típica de abetos clasificada como Bondarzewia mesenterica, cuyos carpóforos no ennegrecen al secarse ni al corte. La Grifola frondosa o el Polyporus umbellatus son especies más pequeñas y con carpóforos estipitados.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/meripilus_giganteus/meripilus_giganteus1.jpg",
+        "https://www.fungipedia.org/images/galerias/meripilus_giganteus/meripilus_giganteus2.jpg",
+        "https://www.fungipedia.org/images/galerias/meripilus_giganteus/meripilus_giganteus3.jpg"
+    ]
+}

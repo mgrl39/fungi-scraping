@@ -1,0 +1,37 @@
+{
+    "name": "dactylosporina-kuehneri",
+    "title": null,
+    "author": "(Romagn.) R.H. Petersen",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Xerula kuehneri (Romagn.) Bas & Boekhout"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Tricholomatales",
+        "Familia": "Physalacriaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero de reducidas dimensiones, su diámetro oscila entre 0`5 y 1`5 (2) cm, en el caso de nuestra recolecta era de 9 mm. Tiene color oscuro, netamente pardo en el centro y marrón más o menos oscuro en el resto, con forma campanulada al principio, después convexo y al final aplanado, manteniendo la zona central resaltada con un umbo no agudo. Es velutino y está recubierto en su totalidad por pelos blancos hialinos de densidad variable según la zona, mucho más densos y largos en el margen y menos en el centro. Margen incurvado en los especímenes jóvenes y no estriado, dado que no es una especie higrófana.",
+        "hymenium": "Láminas adnatas de color blanquecino, netamente separadas y con laminillas, alguna de ellas bifurcada en nuestra recolecta, mas habitualmente anastomosadas e intervenadas, más bien anchas para lo pequeña que es la especie y algo ventrudas. La esporada en masa es de color blanco.",
+        "stipe": "Pie cilíndrico pero acabado en una pseudo raíz, de color algo más claro que el sombrero, marrón grisáceo, recubierto al igual que este de pelos blanquecinos hialinos en toda la superficie expuesta, no así en la pseudo raíz. Es desproporcionalmente alargado con respecto al diámetro del sombrero.",
+        "flesh": "Carne insignificante, es una especie endeble sin apenas carne, tampoco tiene un sabor apreciable ni olor destacado digno de mención."
+    },
+    "habitat": "Se trata de una especie muy rara y difícilmente localizable para la que se referencia un hábitat en zonas húmedas arenosas bajo árboles de hoja caduca o diferentes especies arbustivas, no existe un nexo común en este sentido entre las diferentes y escasas citas, tan solo el terreno arenoso o cenagoso. En nuestro caso, se encontraba adherida a una piedra con barro, en zona muy húmeda y pedregosa cercana al cauce de un río, donde predomina Alnus glutinosa. Se localizó un solo ejemplar, como sucede en todas las citas habidas hasta la fecha de publicación de esta ficha.",
+    "observations": "Primera cita publicada para esta especie en el País Vasco y probablemente también para España, se conocen muy pocas citas a nivel europeo, una en Austria, una en Alemania, dos en Holanda y tres en Francia que hayan sido publicadas. Obviamente es una especie muy rara que siempre sale solitaria, descrita como Mycenella por Romagnesi por primera vez en 1941, y que ha pasado por varios géneros, Oudemansiella, Xerula, y finalmente Dactylosporina, separado de Xerula para las especies con esporas tuberculadas. Muy parecida macroscópicamente a Xerula caussei, que sin embargo tiene esporas elipsoidales no tuberculadas.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/dactylosporina_kuehneri/dactylosporina_kuehneri1.jpg",
+        "https://www.fungipedia.org/images/galerias/dactylosporina_kuehneri/dactylosporina_kuehneri2.jpg",
+        "https://www.fungipedia.org/images/galerias/dactylosporina_kuehneri/dactylosporina_kuehneri3.jpg",
+        "https://www.fungipedia.org/images/galerias/dactylosporina_kuehneri/dactylosporina_kuehneri4.jpg",
+        "https://www.fungipedia.org/images/galerias/dactylosporina_kuehneri/dactylosporina_kuehneri5.jpg",
+        "https://www.fungipedia.org/images/galerias/dactylosporina_kuehneri/dactylosporina_kuehneri6.jpg",
+        "https://www.fungipedia.org/images/galerias/dactylosporina_kuehneri/dactylosporina_kuehneri7.jpg",
+        "https://www.fungipedia.org/images/galerias/dactylosporina_kuehneri/dactylosporina_kuehneri8.jpg",
+        "https://www.fungipedia.org/images/galerias/dactylosporina_kuehneri/dactylosporina_kuehneri9.jpg"
+    ]
+}

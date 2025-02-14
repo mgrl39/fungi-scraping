@@ -1,0 +1,30 @@
+{
+    "name": "hebeloma-sinapizans",
+    "title": null,
+    "author": "(Paulet) Gillet",
+    "additional_info": {
+        "common_name": "Hebeloma con olor a rábano, arbiki falkadun.",
+        "synonym": "Hypophyllum sinapizans Paulet"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Cortinariales",
+        "Familia": "Cortinariaceae"
+    },
+    "edibility": "toxica",
+    "characteristics": {
+        "cap": "Sombrero de buen tamaño, es una de las especies más grandes de su género, pudiendo superar el diámetro los 10 cm en multitud de ocasiones. Su forma evoluciona de hemisférica a convexa y posteriormente plano convexa, siendo bastante habitual que el centro esté resaltado, además algunas veces es ondulado, con resaltes varios, siendo este un carácter variable. Su cutícula, lubrificada en tiempo lluvioso y por lo demás satinada, tiene un color que va del ocre gamuza claro al marrón rojizo. El margen es incurvado en los especímenes jóvenes, después queda algo ondulado.",
+        "hymenium": "Láminas de escotadas a sublibres con laminillas, relativamente apretadas y de anchura irregular. De jóvenes son de color pálido, luego se vuelven de color café con leche y finalmente marrones. La arista laminar es en ocasiones algo más pálida que el resto y no presenta ningún tipo de exudación.",
+        "stipe": "Pie cilíndrico o ligeramente claviforme de tamaño proporcional al sombrero, de color crema y recubierto de flocones ligeros que se tiñen del color de las esporas. Pronto se vuelve hueco o cavernoso, y efectuando un corte longitudinal apreciaremos siempre en la zona de unión con el sombrero la presencia de una lengüeta característica de forma triangular.",
+        "flesh": "Carne espesa y fibrosa de color blanquecino. Tiene un fuerte olor rafanoide y sabor desagradable."
+    },
+    "habitat": "Esta especie aparece por igual en bosques de coníferas o de planifolios, siendo su época de aparición predilecta el otoño, constatando también su presencia a finales de verano e incluso puede perdurar a principio del invierno. Es una seta frecuente y localmente abundante que suele crecer en grupos pequeños.",
+    "observations": "Se trata de un Hebeloma susceptible de provocar trastornos gastrointestinales, aunque esté todavía poco estudiado este aspecto. Su notable tamaño y la característica lengüeta triangular que presenta en la zona superior del pie ayudan a la clasificación de esta especie, siendo necesario un corte longitudinal para ello. Hebeloma crustuliniforme es muy parecido, pero no tiene esa lengüeta, es más blanquecino y exuda muchas veces unas gotitas lechosas. No está muy claro si el taxón que les presentamos es único o son varias especies unificadas, se ha separado como taxón independiente Hebeloma laterinum para los especímenes rojizos con olor dulzón.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/hebeloma_sinapizans/hebeloma_sinapizans1.jpg",
+        "https://www.fungipedia.org/images/galerias/hebeloma_sinapizans/hebeloma_sinapizans2.jpg"
+    ]
+}

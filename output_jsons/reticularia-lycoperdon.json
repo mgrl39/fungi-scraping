@@ -1,0 +1,31 @@
+{
+    "name": "reticularia-lycoperdon",
+    "title": null,
+    "author": "Bull.",
+    "additional_info": {
+        "common_name": "Hongo de luna.",
+        "synonym": "Enteridium lycoperdon (Bull.) M. L. Farr."
+    },
+    "taxonomy": {
+        "División": "Myxomycota",
+        "Subdivisión": "Myxomycotina",
+        "Clase": "Myxomycetes",
+        "Subclase": "Myxogasteromycetidae",
+        "Orden": "Liceales",
+        "Familia": "Reticulariaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Plasmodio simple más o menos homogéneo y microscópico, de corriente plasmódica lenta aunque irreversible, se alimenta de pequeñas bacterias o microorganismos. Al desarrollarse forma fructificaciones únicas llamadas etalios.",
+        "hymenium": "Etalios grandes para el tipo de organismo al que nos referimos, pueden llegar a alcanzar los 10 cm de largo por 3 o 4 de ancho, sobresaliendo del sustrato en un par de centímetros. De jóvenes son de color blancuzco, volviéndose luego plateados, para acabar por resquebrajarse y volverse pardos. Son de forma almohadillada, y su consistencia más bien blanda sirve para diferenciarla de los hongos que crecen en su mismo hábitat.",
+        "stipe": "Pie inexistente, se adhiere directamente al sustrato.",
+        "flesh": "Carne inexistente como tal, en el interior, bajo la capa superficial, alberga una masa mucilaginosa de color café con leche. Al madurar, se convierte en una masa pulverulenta de color pardo. Cuando la capa superficial se rompe las esporas se liberan de modo similar a como lo hacen las de los Lycoperdones, este hecho diferencial a dado nombre a la especie en cuestión."
+    },
+    "habitat": "Esta especie es bastante frecuente en nuestro radio de acción, si bien no abundante. Aparece desde la primavera hasta finales del otoño, fructificando sobre madera de diversos árboles, por regla general árboles muertos o tocones.",
+    "observations": "Es uno de los Myxomycetes que forma etalios únicos más grande que conocemos, es habitual encontrar varios individuos en un mismo tronco, pero separados, nunca interrelacionados. Es difícil confundirla con otro Myxomycete, sin embargo si se confunde macroscópicamente con primordios de ciertos hongos de la madera, como algún Oligoporus, Trametes o similar, de los que se distingue por su consistencia más blanda.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/reticularia_lycoperdon/reticularia_lycoperdon1.jpg",
+        "https://www.fungipedia.org/images/galerias/reticularia_lycoperdon/reticularia_lycoperdon2.jpg",
+        "https://www.fungipedia.org/images/galerias/reticularia_lycoperdon/reticularia_lycoperdon3.jpg"
+    ]
+}

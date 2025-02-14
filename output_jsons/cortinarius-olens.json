@@ -1,0 +1,33 @@
+{
+    "name": "cortinarius-olens",
+    "title": null,
+    "author": "Gasparini",
+    "additional_info": {
+        "common_name": "Cortinario aromático",
+        "synonym": "Hymenogaster aromaticus Velen."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Cortinariales",
+        "Familia": "Cortinariaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Carpóforo con la habitual forma tuberculada o de patata de los hongos hipogeos o semihipogeos, como es el caso, pudiendo ser prácticamente globoso, subgloboso o algo más oblongo y comprimido, sin demasiadas protuberancias, a veces reniforme o como se muestra en nuestras fotografías ligeramente turbinado. Su tamaño es aceptable, en los ejemplares adultos el diámetro oscila entre los 3 y 6 cm generalmente, con un color que es bastante variable en función del grado de maduración del ejemplar, inicialmente blanquecino con algún matiz plateado o lilacino, deviniendo posteriormente a tonos más ocres. El aspecto general del basidioma es algo brillante pero seco, y de consistencia más bien blanda.",
+        "hymenium": "Peridio bastante fino, en un principio de color blanco argenteo, adquiriendo tonos ocraceos con el tiempo, pero manteniendo al corte el color blanquecino. Liso y brillante pero no viscoso, sin presencia de pelos, y formado por una estructura de hifas filametosas.",
+        "stipe": "Gleba laberíntica, formada por celdillas irregulares, pero generalmente bastante pequeñas o cerradas, ampliándose un poco en la madurez, pero de tamaño en general muy variable, redondeadas o aplastadas, de un color beige en los primeros estados de desarrollo de los ejemplares, posteriormente de un tono ocre fuerte con algún matiz rosado o rojizo. Tiene una consistencia más bien elástica, y al contrario de lo que sucede en la mayoría de especies o géneros hipogeos, carece de venas estériles, y tampoco tiene columela. Posee esporas papilladas de un tamaño muy pequeño en comparación a las especies del género Hymenogaster, en el que estuvo enclavada, con una forma que nos recuerda mucho a las semillas de las manzanas, así como basidios tanto bispóricos como tetraspóricos (ver características microscópicas)",
+        "flesh": "Carne que no es más que la propia gleba, elástica y no dura, con un característico olor afrutado que no es desagradable en los ejemplares jóvenes, pero que si se vuelve demasiado fuerte en la maduración."
+    },
+    "habitat": "Es esta una especie que fructifica de forma hipogea, aunque cerca de la superficie, asomando en ocasiones con la maduración, aunque es más factible encontrarla gracias a la acción de los animales del bosque que la sacan muchas veces al exterior, así como con perros adiestrados. Suele aparecer en los meses primaverales, no hemos obtenido ninguna recolecta fuera de esa época, y tiene especial predilección por los pinares de montaña. Localizada en la Sierra de Cameros, (La Rioja), mes de mayo, bajo Pinus sylvestris,a una altura entre 1000 y 1500 m.s.n.m. Nunca la hemos encontrado gregaria, siempre uno o dos ejemplares a lo sumo.",
+    "observations": "Especie caracterizada por su color blanquecino de joven, su gleba laberíntica apretada sin venas estériles, y por su olor característico afrutado. Resulta un tanto extraño recovertir una especie hipogea al género Cortinarius, pero tanto su microscopía como los pertinentes análisis moleculares así lo atestiguan. Estuvo enclavada dentro de los géneros Hymenogaster y Protoglossum, con los que guarda evidentes similitudes, sobre todo morfológicas, pero estos géneros es cierto, que por regla general, poseen especies cuyas esporas son mucho más grandes. Protoglossum niveum es una especie muy parecida con la que se puede confundir, más pequeña de tamaño y con esporas prácticamente el doble de grandes.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/cortinarius_olens/cortinarius_olens1.jpg",
+        "https://www.fungipedia.org/images/galerias/cortinarius_olens/cortinarius_olens2.jpg",
+        "https://www.fungipedia.org/images/galerias/cortinarius_olens/cortinarius_olens3.jpg",
+        "https://www.fungipedia.org/images/galerias/cortinarius_olens/cortinarius_olens4.jpg",
+        "https://www.fungipedia.org/images/galerias/cortinarius_olens/cortinarius_olens5.jpg"
+    ]
+}

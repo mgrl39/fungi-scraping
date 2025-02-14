@@ -1,0 +1,31 @@
+{
+    "name": "psathyrella-spadiceogrisea",
+    "title": null,
+    "author": "(Schaeff.) Maire",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Drosophila spadiceogrisea (Schaeff.) Quélet"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Agaricales",
+        "Familia": "Psathyrellaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero cuyo tamaño en la plenitud de su desarrollo puede rondar los 5 cm de diámetro, con forma acampanada en los individuos jóvenes, finalizando por ser plano-convexo, manteniendo siempre un mamelón no muy destacado. Es de color ocráceo cuando está convenientemente hidratado, volviéndose gris con la desecación, es además higrófano. Cutícula fibrilosa o débilmente rugosa y margen fino, regular u ondulado.",
+        "hymenium": "Láminas adnatas y bastante apretadas de color claro en su juventud, después derivan a tonos grisáceos, para acabar siendo de color marrón púrpura. En algunos ejemplares pueden llegar a decurrir un poco sobre el pie.",
+        "stipe": "Pie alargado, su longitud puede llegar a duplicar el tamaño del sombrero, de color blanquecino. La zona superior suele ser estriada y el resto liso, pudiendo llegar a tener una flocosidad en la base. Es hueco desde joven y muy endeble.",
+        "flesh": "Carne escasa y poco consistente, además absorbe mucha agua, de color blanquecino. Su olor apenas es perceptible, y su sabor es suave."
+    },
+    "habitat": "Es una especie habitual durante la primavera, algo menos frecuente en otoño, pero también se la puede encontrar en esta estación. Crece generalmente sobre el suelo, rara vez sobre madera, en zonas con mucho humus o restos leñosos en descomposición, a veces de forma gregaria, pero nunca fasciculada.",
+    "observations": "Es una seta que macroscópicamente no tiene un rango diferenciador claro, por ese motivo puede llegar a confundirse con multitud de congéneres. Entre las más parecidas destacaremos la Psathyrella phegophila, casi idéntica a esta, pero que carece por completo de mamelón, la Psathyrella subnuda es igualmente muy parecida, pero suele presentar restos de velo en el margen del sombrero.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/psathyrella_spadiceogrisea/psathyrella_spadiceogrisea1.jpg",
+        "https://www.fungipedia.org/images/galerias/psathyrella_spadiceogrisea/psathyrella_spadiceogrisea2.jpg",
+        "https://www.fungipedia.org/images/galerias/psathyrella_spadiceogrisea/psathyrella_spadiceogrisea3.jpg"
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "name": "morchella-esculenta",
+    "title": null,
+    "author": "(L.) Pers.",
+    "additional_info": {
+        "common_name": "Colmenilla, morilla, karraspina, múrgola.",
+        "synonym": "Morchella rotunda (Fr.) Boud."
+    },
+    "taxonomy": {
+        "División": "Ascomycota",
+        "Subdivisión": "Ascomycotina",
+        "Clase": "Himenoascomycetes",
+        "Subclase": "Pezizomycetidae",
+        "Orden": "Pezizales",
+        "Familia": "Morchellaceae"
+    },
+    "edibility": "excelente-comestible-precaucion",
+    "characteristics": {
+        "cap": "Sombrero de color ocre amarillento uniforme, la mayor parte de las veces de forma globosa, aunque puede ser también ovoide. Puede superar los 10 cm de altura y está formado por alvéolos muy amplios, dispuestos de manera un tanto desordenada, sin seguir una pauta concreta. Es hueco y tiene el margen inferior soldado al pie. Borde flexuoso.",
+        "hymenium": "Himenio que como en las demás especies de su género, está inmerso en el interior de las cavidades alveolares, siendo los bordes exteriores estériles.",
+        "stipe": "Pie generalmente blanquecino, ocasionalmente algo ocráceo, hueco como el sombrero. La base suele estar surcada, siendo el resto liso y algo pruinoso.",
+        "flesh": "Carne frágil y quebradiza, de olor destacable, fuerte aunque no desagradable. Sin embargo su sabor es suave."
+    },
+    "habitat": "Es una de las colmenillas más habituales, crece en primavera generalmente en las orillas de los ríos, junto a árboles de ribera como el fresno o el olmo.",
+    "observations": "Es un comestible excelente, de sabor fino, siempre y cuando se tenga la precaución de cocerla previamente, ya que como todos sus congéneres es tóxica en crudo. Su color ocre amarillento la distingue de otras especies, así como su tendencia a mostrarse con forma globosa, algo poco habitual en el género.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/morchella_esculenta/morchella_esculenta1.jpg",
+        "https://www.fungipedia.org/images/galerias/morchella_esculenta/morchella_esculenta2.jpg",
+        "https://www.fungipedia.org/images/galerias/morchella_esculenta/morchella_esculenta3.jpg",
+        "https://www.fungipedia.org/images/galerias/morchella_esculenta/morchella_esculenta4.jpg",
+        "https://www.fungipedia.org/images/galerias/morchella_esculenta/morchella_esculenta5.jpg",
+        "https://www.fungipedia.org/images/galerias/morchella_esculenta/morchella_esculenta6.jpg"
+    ]
+}

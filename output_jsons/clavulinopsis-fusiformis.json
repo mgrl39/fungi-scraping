@@ -1,0 +1,37 @@
+{
+    "name": "clavulinopsis-fusiformis",
+    "title": null,
+    "author": "(Sowerby) Corner",
+    "additional_info": {
+        "common_name": "Clavaria en forma de huso, txitxardin hori.",
+        "synonym": "Clavaria fusiformis Sowerby"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Aphyllophoromycetidae",
+        "Orden": "Cantharellales",
+        "Familia": "Clavariaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Carpóforo de color amarillo azufre más o menos vivo en función del estado de los especímenes, los ejemplares jóvenes bien hidratados tienen un color llamativo, por contra los viejos y secos adquieren tonos mates e incluso ocráceos. Se presenta en individuos independientes dispuestos en haces, cada uno de ellos con una altura que oscila entre los 5 y los 10 cm, y con un grosor que puede alcanzar medio centímetro. Tienen forma de huso alargado, generalmente cilíndricos o lateralmente comprimidos, pero no suelen ser surcados. Superficie lisa y glabra que puede ser algo brillante con lluvia, pero que destaca por no ser viscosa en absoluto. En la mayor parte de los ejemplares el ápice es redondeado, si bien puede ser algo más en punta en algún caso.",
+        "hymenium": "Himenio liso dispuesto a lo largo de la superficie externa del carpóforo, de igual color que el resto.",
+        "stipe": "Carne de color amarillento y consistencia un tanto elástica aunque escasa dado que los carpóforos son huecos, no es tan quebradiza como la de otras especies afines. Es prácticamente inodora y su sabor es más bien amargo.",
+        "flesh": "Se trata de una especie que aparece formando haces de individuos independientes no ramificados durante el otoño. Es más propia de claros herbosos de diversos bosques que de campa pura, fructifica en haces aislados, en zonas húmedas y a veces en musgos. Es una especie rara, poco común y nada abundante."
+    },
+    "habitat": "Consideramos que se trata de una especie cuya identificación es relativamente sencilla a pesar de su rareza, por su forma de salir en haces, su color amarillo y su notable tamaño para el género. Clavaria fragilis es similar en forma de crecimiento y tamaño, pero es blanca. Otras Clavulinopsis amarillas como Clavulinopsis luteoalba o Clavulinopsis helvola son mucho más pequeñas.",
+    "observations": null,
+    "images": [
+        "https://www.fungipedia.org/images/galerias/clavulinopsis_fusiformis/clavulinopsis_fusiformis1.jpg",
+        "https://www.fungipedia.org/images/galerias/clavulinopsis_fusiformis/clavulinopsis_fusiformis2.jpg",
+        "https://www.fungipedia.org/images/galerias/clavulinopsis_fusiformis/clavulinopsis_fusiformis3.jpg",
+        "https://www.fungipedia.org/images/galerias/clavulinopsis_fusiformis/clavulinopsis_fusiformis4.jpg",
+        "https://www.fungipedia.org/images/galerias/clavulinopsis_fusiformis/clavulinopsis_fusiformis5.jpg",
+        "https://www.fungipedia.org/images/galerias/clavulinopsis_fusiformis/clavulinopsis_fusiformis6.jpg",
+        "https://www.fungipedia.org/images/galerias/clavulinopsis_fusiformis/clavulinopsis_fusiformis7.jpg",
+        "https://www.fungipedia.org/images/galerias/clavulinopsis_fusiformis/clavulinopsis_fusiformis8.jpg",
+        "https://www.fungipedia.org/images/galerias/clavulinopsis_fusiformis/clavulinopsis_fusiformis9.jpg"
+    ]
+}

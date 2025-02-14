@@ -1,0 +1,31 @@
+{
+    "name": "hymenoscyphus-fructigenus",
+    "title": null,
+    "author": "(Bull.) Gray",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Peziza fructigena Bull."
+    },
+    "taxonomy": {
+        "División": "Ascomycota",
+        "Subdivisión": "Ascomycotina",
+        "Clase": "Himenoascomycetes",
+        "Subclase": "Pezizomycetidae",
+        "Orden": "Leotiales",
+        "Familia": "Helotiaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Carpóforo de tamaño muy reducido, formado por un sombrerillo y un pie, el primero de ellos apenas llega a alcanzar los 5 mm de diámetro como mucho. Tienen forma más o menos acopada, sobre todo en su nacimiento, llegando prácticamente a aplanarse con el tiempo. Son de color un tanto variable, comúnmente blanquecinos, pero también pueden ser amarillo sucio o crema amarillento acuoso, dependiendo del estado de humedad en que se hallen. Su superficie es totalmente lisa, carente de pelos.",
+        "hymenium": "Himenio liso, sin pelos, del mismo color que el resto del ascocarpo, aunque a veces es más netamente crema. Produce ascosporas gutuladas cuyo tamaño puede llegar a las 20 micras por 5.",
+        "stipe": "Pie desproporcionadamente alargado, de color similar al resto e igualmente liso.",
+        "flesh": "Carne insignificante, es tan pequeña que apenas tiene carne, su olor es poco apreciable y su sabor no destaca."
+    },
+    "habitat": "Se destaca de esta especie precisamente este apartado, ya que fructifica sobre frutos o cúpulas de diversos árboles. Nosotros solemos verla sobre los hayucos, pero sale también sobre frutos del roble o de los avellanos. Puede verse en primavera, pero es más frecuente durante el otoño, siendo una especie, por lo general, relativamente frecuente.",
+    "observations": "No es difícil reconocer este Ascomycete debido a su peculiar hábitat, la mayor parte de las especies enclavadas dentro de este género fructifican sobre tallos o ramas, además el color blanquecino tampoco es habitual en el género. La carencia de pelos diferencia los Hymenoscyphus de otras especies macroscópicamente similares como puede ser la Dasyscyphella nivea. La Cudoniella aciculare se parece mucho, pero sale sobre madera descompuesta de haya, no sobre los hayucos y posee también diferencias microscópicas.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/hymenoscyphus_fructigenus/hymenoscyphus_fructigenus1.jpg",
+        "https://www.fungipedia.org/images/galerias/hymenoscyphus_fructigenus/hymenoscyphus_fructigenus2.jpg",
+        "https://www.fungipedia.org/images/galerias/hymenoscyphus_fructigenus/hymenoscyphus_fructigenus3.jpg"
+    ]
+}

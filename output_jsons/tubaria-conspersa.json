@@ -1,0 +1,33 @@
+{
+    "name": "tubaria-conspersa",
+    "title": null,
+    "author": "(Pers.) Fayod",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Naucoria conspersa (Pers.) P. Kumm."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Cortinariales",
+        "Familia": "Tubariaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero de pequeño tamaño, en el mejor de los casos no llega a alcanzar los 3 cm de diámetro, en su nacimiento de forma globosa, luego convexa, y finalmente aplanada, con una pequeña depresión central a modo de ombligo que se presenta en algunos ejemplares adultos. Superficie de color ocre más o menos claro con matices rojizos en ocasiones, recubierta de flocones de color claro, que le confieren un aspecto sedoso. No es una seta higrófana, por lo que el borde es liso y no estriado.",
+        "hymenium": "Láminas adnatas, o como mucho subdecurrentes, de color ocre. Relativamente apretadas entre sí y con laminillas intercaladas.",
+        "stipe": "Pie largo con respecto al diámetro del sombrero, de color similar a este, cilíndrico y fistuloso. Es pruinoso en la zona próxima al sombrero y floconoso en el resto. La base suele poseer con frecuencia un pequeño engrosamiento, algo parecido a un pequeño bulbo.",
+        "flesh": "Carne de muy poco espesor y apenas consistencia, tremendamente frágil, de color ocráceo. Su olor es prácticamente nulo y su sabor poco significativo."
+    },
+    "habitat": "Es una especie de comportamiento saprófito, que contribuye de alguna manera a la descomposición de materia orgánica, generalmente restos leñosos de árboles planifolios y residuos leñosos vegetales. Los especímenes recolectados fueron encontrados sobre residuos herbáceos. Es otoñal y relativamente frecuente en algunas comarcas, rara en otras.",
+    "observations": "El género Tubaria lo componen especies de pequeño tamaño, por regla general saprófitas. Esta en concreto, se caracteriza por poseer flocones blanquecinos tanto en el sombrero como en el pie, además de por el hecho de tener el borde del sombrero no estriado. La Tubaria furfuracea, similar a esta, carece de los flocones y tiene pequeñas diferencias microscópicas.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/tubaria_conspersa/tubaria_conspersa1.jpg",
+        "https://www.fungipedia.org/images/galerias/tubaria_conspersa/tubaria_conspersa2.jpg",
+        "https://www.fungipedia.org/images/galerias/tubaria_conspersa/tubaria_conspersa3.jpg",
+        "https://www.fungipedia.org/images/galerias/tubaria_conspersa/tubaria_conspersa4.jpg",
+        "https://www.fungipedia.org/images/galerias/tubaria_conspersa/tubaria_conspersa5.jpg"
+    ]
+}

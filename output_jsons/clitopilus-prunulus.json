@@ -1,0 +1,33 @@
+{
+    "name": "clitopilus-prunulus",
+    "title": null,
+    "author": "(Scop.) P. Kumm.",
+    "additional_info": {
+        "common_name": "Molinera, errotari, moixernó blanc, chivata.",
+        "synonym": "Agaricus prunulus Scop."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Pluteales",
+        "Familia": "Entolomataceae"
+    },
+    "edibility": "excelente-comestible",
+    "characteristics": {
+        "cap": "Sombrero de 5 a 12 cm, generalmente de color blanco, aunque a veces un poco gris, con el borde enrollado cuando la seta es joven, después extendido, algo viscoso en tiempo lluvioso, sino mate o afieltrado, de forma convexa a aplanada, quizás algo embudado en la vejez.",
+        "hymenium": "Láminas muy decurrentes sobre el pie, de color blanco que se torna rosa por efecto de la esporada, que es de ese color. Bastante prietas.",
+        "stipe": "Pie estrecho y corto, muchas veces curvado y algo excéntrico, de color blanco, pruinoso y ligeramente ensanchado en la base que es algodonosa.",
+        "flesh": "Carne espesa en el centro del sombrero, más fina en el resto, muy frágil, al punto que se rompe casi con solo tocarla, con un fuerte olor harinoso y sabor suave."
+    },
+    "habitat": "Especie frecuente y bastante extendida que sale por igual en bosques de coníferas y de caducifolios. Su época de aparición es el verano y el otoño.",
+    "observations": "Es un excelente comestible, de sabor fino y delicado, cuya recolección está reservada solamente a los expertos, ya que se puede confundir con facilidad con varios Clitocybes blancos muy tóxicos, como por ejemplo el Clitocybe rivulosa, candicans, phyllophila etc…, que no tienen el marcado olor harinoso, y su esporada tampoco es rosa. También se conoce a esta especie como la \"chivata\", por salir en los mismos lugares que los codiciados Boletus.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/clitopilus_prunulus/clitopilus_prunulus1.jpg",
+        "https://www.fungipedia.org/images/galerias/clitopilus_prunulus/clitopilus_prunulus2.jpg",
+        "https://www.fungipedia.org/images/galerias/clitopilus_prunulus/clitopilus_prunulus3.jpg",
+        "https://www.fungipedia.org/images/galerias/clitopilus_prunulus/clitopilus_prunulus4.jpg",
+        "https://www.fungipedia.org/images/galerias/clitopilus_prunulus/clitopilus_prunulus5.jpg"
+    ]
+}

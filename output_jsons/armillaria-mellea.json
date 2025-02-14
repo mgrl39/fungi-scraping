@@ -1,0 +1,31 @@
+{
+    "name": "armillaria-mellea",
+    "title": null,
+    "author": "(Vahl.) P. Kumm.",
+    "additional_info": {
+        "common_name": "Armilaria de color miel.",
+        "synonym": "Clitocybe mellea (Vahl.) Ricken."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Tricholomatales",
+        "Familia": "Tricholomataceae"
+    },
+    "edibility": "comestible-precaucion",
+    "characteristics": {
+        "cap": "Sombrero que en su máximo esplendor puede alcanzar los 15 cm, de convexo a aplanado u ondulado, algo deprimido en la vejez y ligeramente mamelonado, de color miel aunque a veces con tonos amarillentos, suele estar recubierto de pequeñas escamas parduzcas que tienden a veces a desaparecer por causa de la lluvia.",
+        "hymenium": "Láminas un tanto decurrentes, de color claro cuando la seta es joven, después amarillentas, manchándose de pardo o rojizo en la vejez.",
+        "stipe": "Pie por lo general muy largo, curvado e incluso fusiforme, de color ocre amarillento, que se va volviendo marrón con el tiempo. Posee un anillo amplio, membranoso y persistente de color amarillento.",
+        "flesh": "Carne blanquecina y firme en el sombrero, leñosa y fibrosa en el pie, de sabor suave en los ejemplares jóvenes, amargo y desagradable en los ejemplares adultos, y de olor fuerte no muy agradable."
+    },
+    "habitat": "Suele encontrarse desde septiembre hasta principios del invierno. Crece de forma cespitosa en grupos de numerosos individuos sobre tocones de diversos árboles.",
+    "observations": "No existe por estos lares una tradición culinaria con esta especie, aunque nos consta que si la hay en otros países europeos, los sombreros jóvenes pueden degustarse hervidos previamente. Es una especie parásita que produce daños irreparables en los arboles y acaba comportándose como saprófita. Se confunde con facilidad con la Armillaria ostoyae, de color más pardo y anillo blanco.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/armillaria_mellea/armillaria_mellea1.jpg",
+        "https://www.fungipedia.org/images/galerias/armillaria_mellea/armillaria_mellea2.jpg",
+        "https://www.fungipedia.org/images/galerias/armillaria_mellea/armillaria_mellea3.jpg"
+    ]
+}

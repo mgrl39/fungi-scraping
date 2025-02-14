@@ -1,0 +1,34 @@
+{
+    "name": "lactarius-violascens",
+    "title": null,
+    "author": "(J. Otto) Fr.",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Lactarius uvidus var. violascens (J. Otto) Quél."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Russulales",
+        "Familia": "Russulaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero con un diámetro que en los ejemplares adultos puede llegar a superar los 10 cm, de forma convexa durante los primeros estadios, se extiende y aplana bastante rápido formando una depresión central que hace que los ejemplares viejos puedan ser algo embudados. Su cutícula es lisa, no viscosa y zonada, a veces vagamente y en otros casos de manera más evidente, de un color pardo u ocre oscuro con matices violetas que se manifiestan más claramente hacia el margen o en las zonas dañadas. Margen ondulado de forma irregular, involuto al principio pero pronto extendido.",
+        "hymenium": "Láminas adnatas o un poco decurrentes, sobre todo en los individuos viejos, más bien apretadas y de color pálido cuando jóvenes, después de un tono crema ocráceo. El látex que segrega la carne al secarse sobre ellas les transfiere un color violeta que se manifiesta en todas las zonas dañadas.",
+        "stipe": "Pie por lo general más corto que el diámetro del sombrero pero de aspecto macizo, lleno, al menos de joven, algo atenuado en la base en algunos ejemplares, puede ser liso o tener algún pequeño escrobículo poco resaltado. Presenta zonas manchadas de ocre y de violeta oscuro tras ser manipulado.",
+        "flesh": "Carne espesa y compacta, de color blanquecino que al corte se tiñe de violeta o lila en el sombrero y amarillea algo en el pie. Segrega un látex blanco que al secarse sobre las diferentes partes se vuelve violeta. Su olor es poco significativo y su sabor es amarescente y un poco picante al de un rato de masticación."
+    },
+    "habitat": "Esta especie fructifica en hábitats diversos con tendencia a salir más en planifolios o bosques mixtos, nuestra recolecta fue efectuada en bosque mixto de pinos y robles. Se trata de una especie poco frecuente que sale en grupos pequeños o aislada. Especie eminentemente otoñal, aunque también puede aparecer en otras épocas del año.",
+    "observations": "Esta especie pertenece a un grupo de Lactarius que se caracterizan por tener un látex blanco que al secarse se vuelve violeta. A esta sección Uvidini pertenecen Lactarius uvidus, de color beige y pie alargado, Lactarius luridus, de sombrero viscoso, Lactarius cistophilus, asociado a jaras, y varios más. A diferencia de los mencionados, la especie que describimos en esta ficha tiene el sombrero zonado.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/lactarius_violascens/lactarius_violascens1.jpg",
+        "https://www.fungipedia.org/images/galerias/lactarius_violascens/lactarius_violascens2.jpg",
+        "https://www.fungipedia.org/images/galerias/lactarius_violascens/lactarius_violascens3.jpg",
+        "https://www.fungipedia.org/images/galerias/lactarius_violascens/lactarius_violascens4.jpg",
+        "https://www.fungipedia.org/images/galerias/lactarius_violascens/lactarius_violascens5.jpg",
+        "https://www.fungipedia.org/images/galerias/lactarius_violascens/lactarius_violascens6.jpg"
+    ]
+}

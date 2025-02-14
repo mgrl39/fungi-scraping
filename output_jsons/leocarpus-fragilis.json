@@ -1,0 +1,33 @@
+{
+    "name": "leocarpus-fragilis",
+    "title": null,
+    "author": "(Dicks.) Rostaf.",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Leocarpus vernicosus (Pers.) Link"
+    },
+    "taxonomy": {
+        "División": "Myxomycota",
+        "Subdivisión": "Myxomycotina",
+        "Clase": "Myxomycetes",
+        "Subclase": "Myxogasteromycetidae",
+        "Orden": "Physarales",
+        "Familia": "Physaraceae"
+    },
+    "edibility": "no-comestible",
+    "characteristics": {
+        "cap": "Esporóforo que de manera individual es muy pequeño, apenas un par de milímetros de diámetro por otro tanto de altura, pero que forma asociaciones de múltiples individuos de tamaño y número variable. Suele tener forma de pera o más netamente ovoidal, y su color varía mucho en función del grado de humedad ambiental y la etapa de desarrollo en que se encuentre. Al principio es de color amarillo vivo, después se vuelve rojo, finalmente pardo rojizo, y en situaciones de sequía totalmente pardo. Su superficie es lisa y brillante salvo en la última etapa descrita.",
+        "hymenium": "Pie a veces inexistente pero cuando aparece es blanquecino o translúcido, además de muy corto, apenas de 1 mm o poco más.",
+        "stipe": "Carne insignificante, podemos decir que carece de ella.",
+        "flesh": "Este Myxomycete está muy extendido, es abundante y frecuente. Puede aparecer prácticamente en cualquier época del año, aunque es más frecuente en otoño. Fructifica sobre restos herbáceos diversos, acículas, madera, excrementos o sobre los tallos de las plantas."
+    },
+    "habitat": "Es una de las especies de Myxomycetes más conocida, perteneciente al orden Physarales, caracterizado por tener faneroplasmodios, poseer carbonato cálcico en su composición y por el pigmento que tienen sus esporas. Es habitualmente confundida con la Fuligo septica, de color amarillo, pero que no tiene esporóforos individuales apreciable con la vista, sino una especie de masa mucilaginosa.",
+    "observations": null,
+    "images": [
+        "https://www.fungipedia.org/images/galerias/leocarpus_fragilis/leocarpus_fragilis1.jpg",
+        "https://www.fungipedia.org/images/galerias/leocarpus_fragilis/leocarpus_fragilis2.jpg",
+        "https://www.fungipedia.org/images/galerias/leocarpus_fragilis/leocarpus_fragilis3.jpg",
+        "https://www.fungipedia.org/images/galerias/leocarpus_fragilis/leocarpus_fragilis4.jpg",
+        "https://www.fungipedia.org/images/galerias/leocarpus_fragilis/leocarpus_fragilis5.jpg"
+    ]
+}

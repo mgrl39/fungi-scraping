@@ -1,0 +1,32 @@
+{
+    "name": "leucocortinarius-bulbiger",
+    "title": null,
+    "author": "(Alb. & Schwein.) Singer",
+    "additional_info": {
+        "common_name": "Cortinario de láminas blancas",
+        "synonym": "Cortinarius bulbiger (Alb. & Schwein.) J.E. Lange"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Agaricales",
+        "Familia": "Tricholomataceae"
+    },
+    "edibility": "comestible",
+    "characteristics": {
+        "cap": "Sombrero cuyo diámetro oscila en los ejemplares adultos entre los 5 y los 10 cm, de forma hemisférica en la primera etapa de desarrollo, pronto convexo y finalmente bastante aplanado, siendo habitual que tenga un mamelón obtuso apenas pronunciado. Su cutícula es ligeramente viscosa con lluvia aunque tiende a secarse, de color fundamentalmente ocre, con algún matiz anaranjado hacia el centro y palidescente hacia tonos beige en el margen. Superficie lisa en los individuos desarrollados y algo más escamosa de joven, sobre todo hacia el margen, que puede llegar a presentar flocones en los primeros estadios. Este margen es incurvado y posteriormente liso.",
+        "hymenium": "Láminas escotadas generalmente aunque muchas veces con un diente de unión con el pie, de color blanco durante la mayor parte de su desarrollo, solo se oscurecen a tonos cremas en la vejez. Algo más juntas de jóvenes y poco apretadas de adultas, con pocas laminillas o prácticamente ninguna en la zona de inserción.",
+        "stipe": "Pie lleno y cilíndrico, carnoso, de color blanquecino y tamaño proporcionado al sombrero, de aspecto fibriloso. Presenta en la zona superior una cortina blanca persistente y apreciable que en los ejemplares jóvenes une el pie con el margen del sombrero, en la base posee un bulbo marginado evidente y concolor.",
+        "flesh": "Carne espesa y consistente, de color blanquecino a crema e inmutable al corte, su olor es poco significativo y su sabor es dulce."
+    },
+    "habitat": "Especie ligada a las coníferas, algo más rara en otros hábitats, solemos verla con frecuencia en bosque mixto de Pseudotsuga menziesii con Picea abies, aunque también la estamos viendo bajo robles o alerces. A pesar de ser una especie un tanto rara y localizada hemos constatado estos últimos años una proliferación de la misma. Crece fundamentalmente durante el otoño en pequeños grupos o solitaria.",
+    "observations": "Está considerada por algunos autores como comestible, no recomendamos recolectarla con tal fin dada su rareza y escaso valor. Esta especie tiene una posición taxonómica incierta, su esporada blanca la separa del género Cortinarius, cuyas especies tienen por lo general esporadas ocres u oscuras, sin embargo su morfología y la evidente presencia de cortina le confiere un asombroso parecido con ese género. Cortinarius multiformis es su hermano gemelo, incluso tiene las láminas blancas de joven, pero la esporada en masa es ocre como Cortinarius que es, no blanca. En general todos los Cortinarius de esa subsección tienen cierto parecido con la especie aquí descrita.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/leucocortinarius_bulbiger/leucocortinarius_bulbiger1.jpg",
+        "https://www.fungipedia.org/images/galerias/leucocortinarius_bulbiger/leucocortinarius_bulbiger2.jpg",
+        "https://www.fungipedia.org/images/galerias/leucocortinarius_bulbiger/leucocortinarius_bulbiger3.jpg",
+        "https://www.fungipedia.org/images/galerias/leucocortinarius_bulbiger/leucocortinarius_bulbiger4.jpg"
+    ]
+}

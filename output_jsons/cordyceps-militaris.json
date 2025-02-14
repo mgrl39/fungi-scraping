@@ -1,0 +1,31 @@
+{
+    "name": "cordyceps-militaris",
+    "title": null,
+    "author": "(L.) Fr.",
+    "additional_info": {
+        "common_name": "Beldar-mazo.",
+        "synonym": "Clavaria militaris Linné"
+    },
+    "taxonomy": {
+        "División": "Ascomycota",
+        "Subdivisión": "Ascomycotina",
+        "Clase": "Himenoascomycetes",
+        "Subclase": "Pyrenomycetidae",
+        "Orden": "Clavicipetales",
+        "Familia": "Clavicipetaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Carpóforo esbelto y estipitado de no más de 5 cm de altura, y de 2 a 5 mm de anchura. Cuando el espécimen es joven el pie y la cabeza son difícilmente diferenciables, pero poco a poco se van definiendo. La parte superior o cabezuela es de color naranja vivo y está provista de granulaciones prominentes, estas no son otra cosa que los peritecios, que le dan al carpóforo un aspecto áspero y punteado por los ostiolos. Suele tener forma de clava esta cabeza, o más típicamente aplastada.",
+        "hymenium": "Himenio inserto en la superficie de la zona superior o cabezuela, de color naranja, liso o punteado en la maduración.",
+        "stipe": "Pie de color naranja pálido o amarillento, punteado o furfuráceo.",
+        "flesh": "Carne insignificante dado el pequeño tamaño del hongo, sin olor ni sabor apreciables."
+    },
+    "habitat": "Se trata de una especie parásita de varios lepidópteros, en nuestro radio de acción es habitual encontrarla parasitando crisálidas de la procesionaria del pino (Thaumetopoea pytiocampa). Sobre todo a finales del otoño en taludes musgosos y húmedos.",
+    "observations": "Cuando las orugas de la procesionaria se entierran para formar las crisálidas de las que en verano brotaran las mariposas de bellos colores, algunas de ellas portan esporas de este hongo. En las debidas condiciones medioambientales el hongo fructifica, envolviendo con su micelio la crisálida (ver foto) y acabando con ella, de esa crisálida ya no brotará mariposa alguna, sino el cuerpo fructífero del Cordyceps militaris. Otro hongo parásito de lepidópteros es el Cordyceps gracilis, diferenciable del presente por sus colores más pálidos y su cabeza prominente que nos recuerda al Elaphocordyceps capitata.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/cordyceps_militaris/cordyceps_militaris1.jpg",
+        "https://www.fungipedia.org/images/galerias/cordyceps_militaris/cordyceps_militaris2.jpg",
+        "https://www.fungipedia.org/images/galerias/cordyceps_militaris/cordyceps_militaris3.jpg"
+    ]
+}

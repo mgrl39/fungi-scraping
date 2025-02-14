@@ -1,0 +1,31 @@
+{
+    "name": "strobilurus-esculentus",
+    "title": null,
+    "author": "(Wulfen) Singer",
+    "additional_info": {
+        "common_name": "Collibia comestible.",
+        "synonym": "Collybia esculenta (Wulfen) P. Kumm."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Tricholomatales",
+        "Familia": "Marasmiaceae"
+    },
+    "edibility": "comestible",
+    "characteristics": {
+        "cap": "Sombrero de reducidas dimensiones, en su máximo apogeo no pasa de los 3 o 4 cm de diámetro. Su forma es convexa, pero tiende a aplanarse con el tiempo. Su cutícula es lisa o algo rugosa y su color es el ocre o pardo claro, a veces con un pequeño mamelón poco perceptible, pero la mayoría de las veces sin él. El borde del sombrero no es estriado y suele estar incurvado.",
+        "hymenium": "Láminas de color blanco, algo más cremas en la madurez, adherentes al pie o ligeramente decurrentes, no se muestran apretadas entre sí, más bien espaciadas.",
+        "stipe": "Pie largo en proporción al sombrero, de ocre a rojizo en la parte inferior, más pálido hacia el sombrero, un poco radicante en su unión con el micelio.",
+        "flesh": "Carne escasa de color blanquecino, bastante tenaz, de olor fúngico suave y sabor dulce."
+    },
+    "habitat": "La mayoría de las veces aparenta estar sobre la tierra, pero en realidad fructifica sobre conos de diversas piceas en descomposición, o simplemente enterrados, incluso semienterrados. En nuestro caso la encontramos sobre conos de Picea abies. Es una especie exclusivamente primaveral.",
+    "observations": "Se trata de una especie comestible primaveral poco conocida por los aficionados que aparece de forma gregaria. Su hábitat sobre piceas la diferencia de otras especies similares, como la Strobilurus tenacellus, que fructifica sobre piñas de pinos y tiene un sabor amargo al de un rato de masticación, o la Strobilurus stephanocystis, de color marrón rojizo, sabor dulce y hábitat también sobre piñas.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/strobilurus_esculentus/strobilurus_esculentus1.jpg",
+        "https://www.fungipedia.org/images/galerias/strobilurus_esculentus/strobilurus_esculentus2.jpg",
+        "https://www.fungipedia.org/images/galerias/strobilurus_esculentus/strobilurus_esculentus3.jpg"
+    ]
+}

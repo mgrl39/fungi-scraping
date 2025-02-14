@@ -1,0 +1,31 @@
+{
+    "name": "hypholoma-fasciculare",
+    "title": null,
+    "author": "(Huds.) P. Kumm.",
+    "additional_info": {
+        "common_name": "Seta fasciculada, hifoloma de láminas verdes, suge-ziza mingots, bolet de pi.",
+        "synonym": "Agaricus fascicularis Huds."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Cortinariales",
+        "Familia": "Strophariaceae"
+    },
+    "edibility": "toxica",
+    "characteristics": {
+        "cap": "Sombrero cuyo diámetro en estado adulto puede superar los 5 cm, pero que no es habitual que alcance los 10. En la primera etapa de su crecimiento tiene una forma globosa, pero pronto adopta forma convexa y finalmente plano-convexa, solo los ejemplares muy viejos pueden llegar a aplanarse. Su superficie tiene un color ocre amarillento en la zona central, aclarándose hacia el margen a tonos más azufrados, es lisa y glabra. Margen de curvado a liso, bastante regular, los ejemplares jóvenes suelen presentar restos de velo en el mismo, que por efecto de la lluvia tienden a desaparecer rápidamente.",
+        "hymenium": "Láminas adnatas y muy apretadas, su color es pálido en la primera etapa, pero adopta un color verdoso que prevalece durante buena parte de su desarrollo, por último, por efecto de la esporulación se vuelven de color pardo púrpura.",
+        "stipe": "Pie cilíndrico y muy alargado, al crecer en forma fasciculada lo normal es que sea curvo. Es hueco y de color amarillento, oscureciendo con la edad, y presenta por regla general restos de cortina blanquecina o amarillenta sobre la que se depositan las esporas con la maduración tiñéndola de pardo púrpura.",
+        "flesh": "Carne poco espesa de color amarillento, tiene consistencia elástica, sobre todo en el pie que es muy flexible por esa circunstancia. Su olor es complejo pero bastante desagradable, y su sabor es muy amargo, incluso persistiría ese amargor tras una prolongada e hipotética cocción."
+    },
+    "habitat": "Es una de las especies más frecuente y abundante en nuestros bosques, donde crece de forma fasciculada, ligada indefectiblemente a los tocones o raíces de diversos árboles, sin especial predilección por un determinado tipo de arbolado. Aunque sale con mayor profusión durante el otoño, es factible encontrarla prácticamente en cualquier época del año.",
+    "observations": "Es una especie que causa trastornos gastrointestinales, pero es muy difícil que se produzca una intoxicación con esta seta debido a que es tremendamente amarga, amargor que se mantiene si por error alguien la cocina. Guarda un notable parecido con el Hypholoma capnoides, de crecimiento igualmente fasciculado, pero este último tiene la carne blanca y dulce, y sus láminas no son verdes sino grisáceas. Hypholoma lateritium es de color ladrillo en el centro del sombrero.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/hypholoma_fasciculare/hypholoma_fasciculare1.jpg",
+        "https://www.fungipedia.org/images/galerias/hypholoma_fasciculare/hypholoma_fasciculare2.jpg",
+        "https://www.fungipedia.org/images/galerias/hypholoma_fasciculare/hypholoma_fasciculare3.jpg"
+    ]
+}

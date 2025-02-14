@@ -1,0 +1,31 @@
+{
+    "name": "resupinatus-applicatus",
+    "title": null,
+    "author": "(Batsch.) Gray",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Acanthocystis applicatus (Batsch.) Kühner"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Tricholomatales",
+        "Familia": "Pleurotaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero cuyo diámetro no suele rebasar casi nunca el centímetro, con forma similar a la que tienen las especies del género Crepidotus, unida al sustrato por el ápice del sombrero y proyectándose con las láminas hacia arriba con forma concoide, siendo más inhabitual que sea flabeliforme. Tiene un color gris más o menos oscuro según la edad y la hidratación, llegando de viejos a ser casi negros. Su cutícula es afieltrada en los ejemplares jóvenes, luego lisa o tomentosa, con el margen regular, liso y sin estrías.",
+        "hymenium": "Láminas convergentes desde el margen hacia el punto de unión con el sustrato, de color gris. Son gruesas y separadas, con diferentes longitudes, unas pocas son largas y ocupan todo la longitud del sombrero, otras, la mayoría, ocupan dos tercios aproximadamente, y además tienen laminillas más pequeñas.",
+        "stipe": "Pie inexistente, se adhiere directamente al sustrato por el sombrero.",
+        "flesh": "Carne escasa de textura gelatinosa, sin olor apreciable y sabor poco reseñable."
+    },
+    "habitat": "Se trata de una especie eminentemente lignícola que fructifica sobre madera en estado de degradación, a veces en tocones podridos, pero también en el reverso de corteza o ramas caídas. Es más habitual en madera de planifolios, pero también sale sobre coníferas. Crece durante el otoño y en el invierno, siendo una especie bastante frecuente y abundante.",
+    "observations": "Las especies del género Resupinatus se caracterizan por adherirse al sustrato por el sombrero y adoptar forma concoide o flabeliforme, son especies por lo general de pequeño tamaño. De dudosa entidad propia es el Resupinatus trichotis, al que diferencian por su color más negro y la presencia de pelos alargados en la zona próxima a la unión con el sustrato. Otra especie similar es Hohenbuehelia silvana, bien diferenciable al micro por sus esporas arqueadas y de mayor tamaño.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/resupinatus_applicatus/resupinatus_applicatus1.jpg",
+        "https://www.fungipedia.org/images/galerias/resupinatus_applicatus/resupinatus_applicatus2.jpg",
+        "https://www.fungipedia.org/images/galerias/resupinatus_applicatus/resupinatus_applicatus3.jpg"
+    ]
+}

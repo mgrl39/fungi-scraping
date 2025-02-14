@@ -1,0 +1,36 @@
+{
+    "name": "hydnocystis-bombycina",
+    "title": null,
+    "author": "(Vittad.) Healy & M.E. Sm.",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Stephensia bombycina (Vittad.) Tul. & C. Tul."
+    },
+    "taxonomy": {
+        "División": "Ascomycota",
+        "Subdivisión": "Ascomycotina",
+        "Clase": "Himenoascomycetes",
+        "Subclase": "Pezizomycetidae",
+        "Orden": "Pezizales",
+        "Familia": "Pyronemataceae"
+    },
+    "edibility": "no-comestible",
+    "characteristics": {
+        "cap": "Carpóforo con el aspecto tuberculado típico de los hongos hipogeos, pero bastante irregular, presentando en numerosas ocasiones una cavidad basal, también puede presentar hendiduras laterales de forma irregular, e incluso ser simplemente subgloboso, muy variable en su forma en definitiva. Aspecto tomentoso en ejemplares jóvenes que luego desaparece, con un tamaño ciertamente pequeño, entre 0´5 y 2´5 cm de diámetro la totalidad de los ejemplares recolectados. Color variable también en función del grado de maduración del especimen, desde crema a ocre rojizo o pardo rojizo de viejos.",
+        "hymenium": "Peridio claramente tomentoso en su primera etapa por la presencia manifiesta de pelos que tienden a desaparecer con el tiempo, después liso, sin dehiscencia, más bien fino, menos de 0´5 mm, pseudoparenquimatoso, con la variabilidad de color expuesta en el anterior apartado.",
+        "stipe": "Gleba blanquecina o crema, laberíntica y llena, sin presentar prácticamente cavidades o huecos, con las venosidades concoloras o de color paja, constituye la parte fértil del carpóforo, produciendo ascas hialinas y frágiles y esporas lisas (ver características microscópicas).",
+        "flesh": "Carne compacta de color blanquecino, con un marcado olor a cebolla en la recolección, que con la evolución se vuelve muy desagradable, como de coles o materia orgánica podrida. Su sabor es ligeramente picante, tampoco es agradable."
+    },
+    "habitat": "Estudio efectuado en base a varias recolectas de la especie, efectuadas en diferentes provincias, tres en Alava, otra en Navarra, y otra recolecta en Burgos, en todos los casos con un denominador común, haber sido realizadas bajo hayas (Fagus sylvatica), si bien existen referencias en otros árboles, generalmente caducifolios. Se trata de una especie de crecimiento hipogeo, lo que dificulta su localización, esto hace quizás que sea considerada como especie rara en la Península ibérica, si bien hemos podido constatar que en nuestro radio de acción aparece con relativa frecuencia. No tenemos constancia de que fructifique en una época del año determinada, dado que hay referencias de ella durante todo el año, en nuestro caso son de Septiembre y Octubre.",
+    "observations": "Especie de hongo hipogeo caracterizado por su pequeño tamaño, su perido tomentoso provisto de pelos, sus esporas lisas y esféricas, y su olor a cebolla en ejemplares jóvenes que se torna de coles podridas después. Por todas estas características es un hongo relativamente fácil de reconocer, es la especie de las incluidas antes en Stephensia que más se deja ver en Europa, Hydnocystis colomboi se parece, sobre todo microscópicamente, pero es una especie epigea que sale sobre madera y que no huele mal, Barssia peyronelii es otra de las especies con la que se pudiera confundir, aunque al micro se diferencia bien por poseer esporas elípticas en lugar de redondas.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/hydnocystis_bombycina/hydnocystis_bombycina1.jpg",
+        "https://www.fungipedia.org/images/galerias/hydnocystis_bombycina/hydnocystis_bombycina2.jpg",
+        "https://www.fungipedia.org/images/galerias/hydnocystis_bombycina/hydnocystis_bombycina3.jpg",
+        "https://www.fungipedia.org/images/galerias/hydnocystis_bombycina/hydnocystis_bombycina4.jpg",
+        "https://www.fungipedia.org/images/galerias/hydnocystis_bombycina/hydnocystis_bombycina5.jpg",
+        "https://www.fungipedia.org/images/galerias/hydnocystis_bombycina/hydnocystis_bombycina6.jpg",
+        "https://www.fungipedia.org/images/galerias/hydnocystis_bombycina/hydnocystis_bombycina7.jpg",
+        "https://www.fungipedia.org/images/galerias/hydnocystis_bombycina/hydnocystis_bombycina8.jpg"
+    ]
+}

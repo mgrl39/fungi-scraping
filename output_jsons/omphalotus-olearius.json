@@ -1,0 +1,31 @@
+{
+    "name": "omphalotus-olearius",
+    "title": null,
+    "author": "(DC.) Singer",
+    "additional_info": {
+        "common_name": "Seta de olivo.",
+        "synonym": "Clitocybe olearia (DC.) Maire"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Boletales",
+        "Familia": "Omphalotaceae"
+    },
+    "edibility": "toxica",
+    "characteristics": {
+        "cap": "Sombrero grande, puede llegar a alcanzar en ocasiones los 15 cm, de color anaranjado brillante, de viejo algo más parduzco. Convexo cuando joven, acaba siendo embudado, manteniendo el margen muy delgado.",
+        "hymenium": "Láminas de color igualmente anaranjado, marcadamente decurrentes sobre el pie, apretadas y bastante delgadas.",
+        "stipe": "Pie cilíndrico y alargado, con frecuencia excéntrico y atenuado en la base, concoloro o algo más pálido que el sombrero.",
+        "flesh": "Carne de color anaranjado, bastante fibrosa y firme, sin tener ningún olor especialmente destacable y de sabor suave."
+    },
+    "habitat": "Aunque se creyó que era exclusiva de los olivos, donde crece de forma habitual, también lo hace de manera cespitosa y abundante en los tocones de diversos planifolios, nosotros la hemos localizado en tocones de roble, haya y encina. Su época de aparición es el verano y el otoño.",
+    "observations": "Es una especie muy tóxica, provoca trastornos digestivos con vómitos y diarreas. Se puede confundir con el Cantharellus Cibarius, que tiene pliegues en vez de láminas, y sale en la tierra, no sobre madera. Asimismo se confunde con la Hygrophoropsis aurantiaca, también terrícola y de menor porte. Muy parecido es el Omphalotus illudens, que tiene el mismo hábitat, pero es más amarillo y con el sombrero moteado.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/omphalotus_olearius/omphalotus_olearius1.jpg",
+        "https://www.fungipedia.org/images/galerias/omphalotus_olearius/omphalotus_olearius2.jpg",
+        "https://www.fungipedia.org/images/galerias/omphalotus_olearius/omphalotus_olearius3.jpg"
+    ]
+}

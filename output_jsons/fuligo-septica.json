@@ -1,0 +1,30 @@
+{
+    "name": "fuligo-septica",
+    "title": null,
+    "author": "(L.) F.H.Wigg.",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Aethalium septicum (L.) Fr."
+    },
+    "taxonomy": {
+        "División": "Myxomycota",
+        "Subdivisión": "Myxomycotina",
+        "Clase": "Myxomycetes",
+        "Subclase": "Myxogasteromycetidae",
+        "Orden": "Physarales",
+        "Familia": "Physaraceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Plasmodio ameboide de color blanco o amarillo, formado tras múltiples divisiones celulares. Es reptante y de corriente reversible, pudiendo moverse a través del sustrato fagocitando bacterias y pequeños organismos a la vez que va creciendo. En condiciones de mucha humedad se forman células flageladas. Durante su desplazamiento va dejando un rastro llamado hipotalo, de color blanco, que en numerosas ocasiones se aprecia perfectamente cuando se localiza en el monte esta llamativa especie. Esta forma de plasmodio con protoplasma granuloso se denomina faneroplasmodio, y en las debidas condiciones fructifica dando lugar a los cuerpos reproductores llamados etalios.",
+        "hymenium": "Etalios compuestos por una masa mucilaginosa de color amarillo vivo. Puede levantarse 2 o 3 cm por encima de sustrato, y expandirse a lo largo y ancho por bastantes más centímetros, sin adoptar en ningún momento una forma concreta, más bien adaptan su forma a la del sustrato sobre el que se hallan. Cuando se produce el proceso de maduración, esta masa se endurece notablemente y adopta un color ocráceo, al romperse el peridio membranoso que lo envuelve libera las esporas en forma de una masa pulverulenta. Las esporas se liberan a través de una columela insertada en el capilicio, con nódulos de carbonato cálcico.",
+        "stipe": "Es una especie bastante común en nuestros bosques, fructifica en primavera y a lo largo del otoño. Sale sobre madera muerta, hojas, acículas, e incluso sobre la hierba, sin predilección por un tipo de bosque concreto.",
+        "flesh": "Especie de los llamados Mixomycetes, caracterizada por su aspecto de masa mucilaginosa informe, su color amarillo vivo, y su expansión adaptada al sustrato sobre el que se halla. Suele confundirse mucho con otro Mixomycete, el Leocarpus fragilis, cuando este se halla de color amarillo, pero una vista detallada nos sacará del error, ya que este último no está formado por una masa mucilaginosa, sino por carpóforos arracimados. Salvo esto, es una especie prácticamente inconfundible."
+    },
+    "habitat": null,
+    "observations": null,
+    "images": [
+        "https://www.fungipedia.org/images/galerias/fuligo_septica/fuligo_septica1.jpg",
+        "https://www.fungipedia.org/images/galerias/fuligo_septica/fuligo_septica2.jpg"
+    ]
+}

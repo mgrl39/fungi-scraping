@@ -1,0 +1,32 @@
+{
+    "name": "onygena-equina",
+    "title": null,
+    "author": "(Willd.) Pers.",
+    "additional_info": {
+        "common_name": "Onigena del caballo.",
+        "synonym": "Ninguno."
+    },
+    "taxonomy": {
+        "División": "Ascomycota",
+        "Subdivisión": "Ascomycotina",
+        "Clase": "Plectomycetes",
+        "Subclase": "Plectomycetidae",
+        "Orden": "Plectascales",
+        "Familia": "Onygenaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Carpóforo formado por pequeñas fructificaciones con pie y cabeza perfectamente diferenciables. La forma que tienen las mismas es la de fósforos o \"cerillas\", eso sí, con una pequeñísima cabeza que apenas alcanza los 2 mm de diámetro. Al principio la cabezuela es de color blanco, pero se vuelve marrón con la maduración y su forma es globosa.",
+        "hymenium": "Himenio incrustado en la cabeza del carpóforo, formado por ascas que se van liberando a partir del centro hasta llegar a deshacer por completo la propia cabeza.",
+        "stipe": "Pie cilíndrico de apenas 5 mm de largo de color blanco sucio.",
+        "flesh": "Carne prácticamente inexistente."
+    },
+    "habitat": "Puede encontrarse en cualquier época del año, de forma gregaria, adherida siempre a restos óseos tanto de ganado bovino como equino, cuernos, pezuñas, y otras lindezas son su hábitat natural.",
+    "observations": "Evidentemente carece de todo valor culinario esta pequeña seta, es una de esas curiosidades micológicas que te puedes encontrar cuando paseas allá por donde los buitres han terminado su festín. Muy parecida es la Onygena corvina, que solo se diferencia microscópicamente y por el hábitat sobre tejidos animales o plumas.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/onygena_equina/onygena_equina1.jpg",
+        "https://www.fungipedia.org/images/galerias/onygena_equina/onygena_equina2.jpg",
+        "https://www.fungipedia.org/images/galerias/onygena_equina/onygena_equina3.jpg",
+        "https://www.fungipedia.org/images/galerias/onygena_equina/onygena_equina4.jpg"
+    ]
+}

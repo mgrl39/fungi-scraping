@@ -1,0 +1,34 @@
+{
+    "name": "parasola-conopilus",
+    "title": null,
+    "author": "(Fr.) Örstadius & E. Larss.",
+    "additional_info": {
+        "common_name": "Satirela conópila",
+        "synonym": "Psathyrella conopilus (Fr.) A. Pearson & Dennis"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Agaricales",
+        "Familia": "Psathyrellaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero con un diámetro que suele oscilar por regla general entre los 2 y los 4 cm, inicialmente con forma cónica, evolucionando a formas campanuladas, al final en la vejez tiende a extenderse un tanto pero sin ser de todo aplanado pues siempre mantiene el centro resaltado o umbonado. Cutícula brillante de color pardo rojizo cuando el ejemplar está hidratado, suele acabar secándose hasta adquirir tonos beige o casi blanquecinos, se trata por tanto de una especie higrófana. Margen bastante regular, ligeramente estriado por transperencia, sin extenderse ese estriamiento en demasía hacia el centro.",
+        "hymenium": "Láminas adnatas, en los especímenes jóvenes ascendentes, bastante largas y medianamente apretadas, de color marrón grisáceo cuando están inmaduras y posteriormente marrón púrpura como consecuencia de la esporulación, con la arista laminar de color blanco.",
+        "stipe": "Pie en la mayoría de las ocasiones desproporcionadamente alargado con respecto al sombrero, de color claro, blanquecino o crema, cilíndrico, con el ápice generalmente bastante pruinoso, la base suele contener restos miceliales, es hueco desde joven.",
+        "flesh": "Carne escasa y delgada de color crema, salvo bajo la cutícula donde es más marrón, de sabor dulce aunque un tanto insípida, sin olor apreciable."
+    },
+    "habitat": "Estamos ante una especie de comportamiento saprófito que no tiene una especial predilección por un tipo de bosque en concreto, fructifica sobre restos vegetales muy diversos, así como sobre astillas de madera, nuestra recolecta se efectuó en este segundo hábitat, sobre las astillas de madera típicas dentro de un jardín público. Se trata de una especie relativamente común o al menos bastante extendida, que sale de forma habitual en grupos más o menos numerosos, y que puede aparecer prácticamente en cualquier época del año si las condiciones son favorables, nuestra recolecta es de marzo.",
+    "observations": "Especie integrada recientemente dentro de Parasola debido en gran medida a la presencia de esclerocistidios y gracias a los nuevos estudios moleculares, aunque comúnmente es más conocida como Psathyrella conopilus. Existen algunas especies similares con las que comparte hábitat y que fácilmente podrían ser confundidas como Psathyrella corrugis, diferenciable macroscópicamente de la especie aquí descrita por los tonos rojizos o rosados que presenta la arista laminar, de todas maneras en estos géneros se hace imprescindible un estudio microscópico de los diferentes taxones.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/parasola_conopilus/parasola_conopilus1.jpg",
+        "https://www.fungipedia.org/images/galerias/parasola_conopilus/parasola_conopilus2.jpg",
+        "https://www.fungipedia.org/images/galerias/parasola_conopilus/parasola_conopilus3.jpg",
+        "https://www.fungipedia.org/images/galerias/parasola_conopilus/parasola_conopilus4.jpg",
+        "https://www.fungipedia.org/images/galerias/parasola_conopilus/parasola_conopilus5.jpg",
+        "https://www.fungipedia.org/images/galerias/parasola_conopilus/parasola_conopilus6.jpg"
+    ]
+}

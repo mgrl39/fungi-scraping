@@ -1,0 +1,30 @@
+{
+    "name": "suillus-luteus",
+    "title": null,
+    "author": "(L.) Roussel",
+    "additional_info": {
+        "common_name": "Boleto anillado, pinudi-onddo likin, pinetell de calceta.",
+        "synonym": "Boletus luteus L."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Boletales",
+        "Familia": "Boletaceae"
+    },
+    "edibility": "buen-comestible",
+    "characteristics": {
+        "cap": "Sombrero que puede llegar a superar los 10 cm de diámetro, de forma inicialmente convexa, forma en la que permanece largo tiempo, al final se acaba aplanando. Es de color pardo oscuro, sobre todo de joven, aunque cuando se seca adquiere tonos ocre-amarillentos. Su superficie es muy viscosa, debido a un revestimiento mucilaginoso que posee, y que le da a veces un tono púrpura, siendo además fácilmente separable de la carne del sombrero. El borde es bastante regular y de joven es frecuente encontrarlo con restos del velo parcial.",
+        "hymenium": "Tubos adnatos o un poco decurrentes, bastante largos, de color amarillo pálido, que se oscurecen de viejos hacia tonos oliváceos. Inmutables como todos los Suillus.",
+        "stipe": "Poros pequeños y angulosos de color amarillo algo más vivo que los tubos.",
+        "flesh": "Pie cilíndrico y habitualmente corto o proporcionado al tamaño del sombrero, de color amarillento pálido y granulado por encima del anillo, más pardo en la parte inferior. Su anillo es blanco por arriba y violáceo por debajo, con el tiempo queda adpreso en el pie o tiende a desaparecer."
+    },
+    "habitat": "Carne espesa pero tierna, blanda, algo más fibrosa en el pie, de color amarillo pálido, inmutable. No podemos reseñar nada significativo en cuanto a olor o sabor.",
+    "observations": "Es una especie muy común en nuestros pinares, donde hay años que forma verdaderas alfombras, sobre todo durante el otoño.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/suillus_luteus/suillus_luteus1.jpg",
+        "https://www.fungipedia.org/images/galerias/suillus_luteus/suillus_luteus2.jpg"
+    ]
+}

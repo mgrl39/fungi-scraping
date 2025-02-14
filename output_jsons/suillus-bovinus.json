@@ -1,0 +1,31 @@
+{
+    "name": "suillus-bovinus",
+    "title": null,
+    "author": "(L.) Roussel",
+    "additional_info": {
+        "common_name": "Boleto bovino, pinudietako behi-onddo, molleric.",
+        "synonym": "Boletus bovinus L."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Boletales",
+        "Familia": "Boletaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero normalmente de entre 5 y 10 cm de diámetro, ocasionalmente algo más, de forma convexa a plano-convexa, solo en su última etapa permanece plano. Su color es el ocre dentro de una gama de matices que a veces se aproxima a los amarillos, pero nunca obscurece hacia tonos pardos. Su cutícula es solo brillante en tiempo seco, pero se vuelve un poco viscosa con la lluvia, siendo además difícilmente separable de la carne del sombrero. Margen involuto y excedente en los ejemplares jóvenes, además de ser fino y de color más claro que el resto del sombrero.",
+        "hymenium": "Tubos decurrentes y cortos, subdivididos y tabicados, de consistencia un tanto elástica e inseparables de la carne del sombrero. Son de color amarillo pálido mate de jóvenes, después se vuelven de un tono ocre oliváceo bastante feo.",
+        "stipe": "Poros anchos y angulosos, de color oliváceo con matiz pardo u ocre.",
+        "flesh": "Pie lleno y sólido, de tamaño proporcionado al sombrero, cilíndrico aunque en la base se atenúa mucho. Es de color similar al del sombrero salvo en la base que es rojiza, en la mayoría de las ocasiones se muestra curvado."
+    },
+    "habitat": "Carne espesa pero fofa, esponjosa y demasiado tierna, de color amarillento por lo general, a veces algo ocrácea. Su sabor es dulce y suave, poco destacado, así como su olor.",
+    "observations": "Es una especie muy frecuente y abundante que fructifica durante el otoño. Forma micorriza con diversos tipos de pino, sobre todo Pinus silvestris y Pinus radiata. A veces puede llegar a formar setales con gran número de ejemplares.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/suillus_bovinus/suillus_bovinus1.jpg",
+        "https://www.fungipedia.org/images/galerias/suillus_bovinus/suillus_bovinus2.jpg",
+        "https://www.fungipedia.org/images/galerias/suillus_bovinus/suillus_bovinus3.jpg"
+    ]
+}

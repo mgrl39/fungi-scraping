@@ -1,0 +1,31 @@
+{
+    "name": "hygrophorus-latitabundus",
+    "title": null,
+    "author": "Britzelm.",
+    "additional_info": {
+        "common_name": "Llenega gris, llenega negra.",
+        "synonym": "Higrophorus limacinus (Scop.) Fr."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Tricholomatales",
+        "Familia": "Hygrophoraceae"
+    },
+    "edibility": "excelente-comestible",
+    "characteristics": {
+        "cap": "Sombrero de 5 a 15 cm, con un umbo obtuso, de color gris oscuro en el centro que se va aclarando hacia el margen. Muy viscoso, sobre todo en época de lluvias y con el borde fuertemente enrollado. Cutícula separable.",
+        "hymenium": "Láminas bastante gruesas y separadas entre sí, ligeramente decurrentes, muy blancas de joven, adquieren tonos más cremas cuando la seta es adulta.",
+        "stipe": "Pie blanco en la parte superior, con una zona bien delimitada a partir de la cual presenta tonos gris bistre debido a su viscosidad. Subradicante, ventrudo en la zona central y algo más atenuado junto a las láminas, puede llegar a medir hasta 13 cm de largo.",
+        "flesh": "Carne espesa, firme y muy blanca, olor fúngico suave y buen sabor."
+    },
+    "habitat": "Exclusivo de pinares calcáreos donde suele aparecer durante el otoño en grupos generalmente reducidos. Es una especie frecuente pero no demasiado abundante.",
+    "observations": "Una vez pelada la cutícula y raspado el pie (recomendado por su viscosidad), esta \"llenega gris\" constituye un excelente comestible, de sabor suave y textura similar a los codiciados Boletus. Puede confundirse con facilidad con el Hygrophorus agathosmus, que sin embargo posee un granulado característico en la cutícula y un inconfundible olor a almendras amargas. También pudiera confundirse con otros Hygrophorus como el olivaceoalbus o el persoonii que nunca alcanzan el porte robusto del latitabundus.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/hygrophorus_latitabundus/hygrophorus_latitabundus1.jpg",
+        "https://www.fungipedia.org/images/galerias/hygrophorus_latitabundus/hygrophorus_latitabundus2.jpg",
+        "https://www.fungipedia.org/images/galerias/hygrophorus_latitabundus/hygrophorus_latitabundus3.jpg"
+    ]
+}

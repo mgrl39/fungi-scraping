@@ -1,0 +1,30 @@
+{
+    "name": "clitocybe-rivulosa",
+    "title": null,
+    "author": "(Pers.) P. Kumm.",
+    "additional_info": {
+        "common_name": "Clitocibe blanco, bideetako klitozibe zuri.",
+        "synonym": "Clitocybe dealbata var rivulosa (Pers.) P. Kumm."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Tricholomatales",
+        "Familia": "Tricholomataceae"
+    },
+    "edibility": "toxica",
+    "characteristics": {
+        "cap": "Sombrero de pequeño tamaño, la mayoría de las veces no llega a los 5 cm de diámetro, algo convexo de joven, pero pronto adopta forma aplanada, para al final deprimirse. Es de color blanco fundamentalmente, pero suele estar manchado zonalmente de encarnado de forma irregular. Su superficie está recubierta de una pruina blanquecina, que al secarse se resquebraja un tanto. En los especímenes jóvenes el margen es incurvado, después es ondulado irregularmente, siendo el borde bastante fino.",
+        "hymenium": "Láminas adnatas o tan solo ligeramente decurrentes, de color blanco, ocasionalmente tiznadas de encarnado, pero no es habitual que lo estén. Bastante apretadas.",
+        "stipe": "Pie generalmente corto y en la mayoría de las ocasiones curvado, lleno y tenaz, provisto de un tomento blanquecino en la base. Es de color blanco, aunque suele ensuciarse de un tono ocre rosáceo.",
+        "flesh": "Carne tenaz y poco espesa de color blanco, un poco rosada bajo la cutícula, de sabor dulce y suave, olor fúngico poco destacado."
+    },
+    "habitat": "Sale sobre todo en el otoño, formando corros o hileras, pero casi siempre agrupado. Lo hemos visto en lugares abiertos, bordes de las campas y zonas herbosas, pero también en los claros junto a los caminos en algunos pinares. Es una especie que debe considerarse frecuente.",
+    "observations": "Pertenece al amplio grupo de los Clitocybes blancos tóxicos, con un alto contenido de muscarina. No confundir con el Clitopilus prunulus o molinera, excelente comestible de aspecto muy parecido, pero cuya carne es frágil, no tenaz, y su esporada es rosa, no blanca. Existen una serie de Clitocybes blancos, todos ellos tóxicos, muy afines a esta especie, tal es el caso de Clitocybe candicans o Clitocybe phyllophila, por mencionar alguno de ellos, pero hay más.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/clitocybe_rivulosa/clitocybe_rivulosa1.jpg",
+        "https://www.fungipedia.org/images/galerias/clitocybe_rivulosa/clitocybe_rivulosa2.jpg"
+    ]
+}

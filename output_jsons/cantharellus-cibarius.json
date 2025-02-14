@@ -1,0 +1,31 @@
+{
+    "name": "cantharellus-cibarius",
+    "title": null,
+    "author": "(Fries)",
+    "additional_info": {
+        "common_name": "Rebozuelo, saltzaperretxico, zizahori, rosignol.",
+        "synonym": "Cantharellus edulis Sacc."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Aphyllophoromycetidae",
+        "Orden": "Cantharellales",
+        "Familia": "Cantharellaceae"
+    },
+    "edibility": "buen-comestible",
+    "characteristics": {
+        "cap": "Sombrero que puede superar los 5 cm de diámetro, de color fundamentalmente amarillo, a veces muy pálido y otras casi naranja, lo que da pie a la existencia de unas cuantas variedades. Su forma es plano-convexa de joven, pero se va deprimiendo y hundiendo por el centro con el tiempo. Su cutícula es lisa y el margen suele estar enrollado y lobulado irregularmente.",
+        "hymenium": "Láminas que en realidad no son tales, sino pliegues bifurcados y muy decurrentes, también de un color amarillo muy llamativo, prácticamente concolores con el sombrero.",
+        "stipe": "Pie lleno y macizo, atenuado hacia la base, más bien corto, de color amarillo, concolor o algo más pálido que el resto del carpóforo.",
+        "flesh": "Carne espesa en la zona central del sombrero, más delgada hacia el borde, de color amarillento, olor agradable afrutado y sabor suave."
+    },
+    "habitat": "Cuando más aparece es en los veranos lluviosos, pero también se encuentra en el otoño, suele preferir los bosques de planifolios, aunque con menos profusión sale también en coníferas. La var. amethysteus suele salir bajo alerces.",
+    "observations": "Buen comestible, la masiva recolección la está poniendo en peligro en algunos países centroeuropeos, por lo que recomendamos su consumo moderado. Se parece mucho al Cantharellus friesii, algo más pequeño y de color butano, existen asimismo múltiples variedades: var. amethysteus, con pintas lilas en el sombrero, var. bicolor, con sombrero blanco y pliegues amarillos, var. neglectus, completamente blanca y con difumaciones verdosas en el sombrero etc. Actualmente en estudio por la aparición de nuevos taxones como Cantharellus subpruinosus. Puede confundirse con el Omphalotus olearius, especie tóxica de comportamiento lignícola, o con Hygrophoropsis aurantiaca, que tiene láminas en lugar de pliegues y es poco carnosa.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/cantharellus_cibarius/cantharellus_cibarius1.jpg",
+        "https://www.fungipedia.org/images/galerias/cantharellus_cibarius/cantharellus_cibarius2.jpg",
+        "https://www.fungipedia.org/images/galerias/cantharellus_cibarius/cantharellus_cibarius3.jpg"
+    ]
+}

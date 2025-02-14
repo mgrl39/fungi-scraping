@@ -1,0 +1,32 @@
+{
+    "name": "xylaria-polymorpha",
+    "title": null,
+    "author": "(Pers.) Grev.",
+    "additional_info": {
+        "common_name": "Xilaria polimorfa, kimo formanitz.",
+        "synonym": "Sphaeria polymorpha Pers."
+    },
+    "taxonomy": {
+        "División": "Ascomycota",
+        "Subdivisión": "Ascomycotina",
+        "Clase": "Himenoascomycetes",
+        "Subclase": "Pyrenomycetidae",
+        "Orden": "Sphaeriales",
+        "Familia": "Sphaeriaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Carpóforo formado por estromas de color negruzco de tamaño y forma ciertamente variable, los ejemplares más desarrollados pueden aproximarse en altura a los 10 cm y en grosor a los 3 cm en su zona más ancha, siendo más habitual encontrar individuos de tamaños más reducidos. Su nombre alude a la capacidad de adoptar múltiples formas, desde formas abombadas o cilíndricas hasta otras más alargadas o esbeltas, si bien a veces puede ser un tanto deforme, con protuberancias varias. Superficie externa de lisa a rugosa que no se agrieta.",
+        "hymenium": "Himenio de color negro inserto en la superficie externa del ascocarpo, de hecho las posibles rugosidades que presenta la zona son causadas por los peritecios.",
+        "stipe": "Pie inexistente como tal, suele presentar un estrechamiento hacia la zona basal, pero como una simple prolongación del resto, sin que exista separación alguna que indique que se trate de un verdadero pie.",
+        "flesh": "Carne de textura suberosa y un llamativo color blanco que contrasta de forma notable con la superficie externa negra. Al corte se aprecia una disposición interna en forma espigada característica."
+    },
+    "habitat": "Es una especie habitual en el interior de tocones podridos de haya, y en general sobre madera degradada de planifolios diversos, si bien hemos de recalcar que su hábitat predilecto es el haya y es en él donde nosotros la localizamos sin problemas cada año. Es muy frecuente que crezca en grupos más o menos numerosos, rara vez aislada, prácticamente en cualquier época del año.",
+    "observations": "Se caracteriza este Ascomycete por su porte robusto en comparación con otras especies de su género, su carne gruesa y blanca con disposición interna en forma de espiga, y la ausencia de un verdadero pie. Xylaria longipes, de esporas más pequeñas, si posee un verdadero pie, y su superficie tiende a agrietarse con el tiempo, además su hábitat predilecto es la madera de arce. Otras especies de su género son mucho más pequeñas e incluso filiformes, por lo que entendemos que es más difícil confundirlas con la presente.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/xylaria_polymorpha/xylaria_polymorpha1.jpg",
+        "https://www.fungipedia.org/images/galerias/xylaria_polymorpha/xylaria_polymorpha2.jpg",
+        "https://www.fungipedia.org/images/galerias/xylaria_polymorpha/xylaria_polymorpha3.jpg",
+        "https://www.fungipedia.org/images/galerias/xylaria_polymorpha/xylaria_polymorpha4.jpg"
+    ]
+}

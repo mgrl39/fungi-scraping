@@ -1,0 +1,30 @@
+{
+    "name": "scleroderma-citrinum",
+    "title": null,
+    "author": "Pers.",
+    "additional_info": {
+        "common_name": "Escleroderma amarillo, astaputz izar, pota de cavall (groga).",
+        "synonym": "Scleroderma vulgare Hornem."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Gasteromycetidae",
+        "Orden": "Sclerodermatales",
+        "Familia": "Sclerodermataceae"
+    },
+    "edibility": "no-comestible",
+    "characteristics": {
+        "cap": "Carpóforo de tamaño variable, se pueden encontrar ejemplares desarrollados de 3 cm de diámetro y otro a su lado de más de 10, de forma generalmente esférica o globosa, pero un tanto imperfecta, pues a veces se aplana en la zona apical. Superficie externa de color amarillo citrino mate u ocre amarillento.",
+        "hymenium": "Peridio bastante grueso, hasta 3 mm de ancho, de color pálido, recubierto externamente por escamas amarillentas remarcadas que tienden a volverse ocres con la edad y la desecación, de consistencia dura y algo elástica. Se abre por el ápice para liberar las esporas producidas en la gleba.",
+        "stipe": "Pie Prácticamente inexistente, se une al sustrato por una serie de hilos miceliales que a veces parecen un pseudoestípite.",
+        "flesh": "Gleba solo al principio blancuzca o rosada, pronto se vuelve gris y luego negruzca con la maduración de las esporas. Es de consistencia dura de joven, luego pulverulenta. Su olor es penetrante y desagradable."
+    },
+    "habitat": "Especie epigea, es decir, desarrolla sus cuerpos fructíferos sobre la tierra. Es muy común y abundante sobre terrenos arenosos, sin especial predilección por ningún tipo de árbol.",
+    "observations": "Especie incomestible e incluso ligeramente tóxica. Se caracteriza por su carpóforo amarillento escamado en su totalidad, su peridio grueso, y sus esporas reticuladas no verrucosas, lo que le separa de otros congéneres. El más parecido a él es el Scleroderma cepa, menos escamado y menos amarillento, y también guardan cierta similitud el Scleroderma verrucosum, con una especie de pie bien marcado, y el Scleroderma areolatum, de peridio muy fino, todos ellos tienen esporas verrucosas.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/scleroderma_citrinum/scleroderma_citrinum1.jpg",
+        "https://www.fungipedia.org/images/galerias/scleroderma_citrinum/scleroderma_citrinum2.jpg"
+    ]
+}

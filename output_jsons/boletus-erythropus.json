@@ -1,0 +1,34 @@
+{
+    "name": "boletus-erythropus",
+    "title": null,
+    "author": "Pers.",
+    "additional_info": {
+        "common_name": "Pie rojo, onddo hankagorri, mataparent de peu vermell.",
+        "synonym": "Boletus luridus var. erythropus (Pers.) Fr."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Boletales",
+        "Familia": "Boletaceae"
+    },
+    "edibility": "buen-comestible",
+    "characteristics": {
+        "cap": "Sombrero de 5 a 15 cm de diámetro, ocasionalmente algo más, de forma hemisférica en un principio, pasando a convexa y al final plano convexo. Aunque puede tener matices rojizos esporádicamente, es de color pardo oscuro o castaño, siendo su cutícula aterciopelada en los ejemplares inmaduros, después seca y tomentosa. El margen suele ser excedente.",
+        "hymenium": "Tubos de color amarillento, bastante numerosos y por lo tanto prietos, que azulean al corte. Se separan con facilidad de la carne del sombrero.",
+        "stipe": "Poros de color granate en los especímenes jóvenes, rápidamente rojos, redondos y no demasiado grandes, que azulean ostensiblemente a la menor presión que se ejerza sobre ellos.",
+        "flesh": "Pie grueso, ventrudo de joven, pero alargándose con el tiempo, suele ser más estrecho en la unión con el sombrero. De color de fondo amarillo, aunque punteado en toda su superficie de rojo vivo, que es a la postre el color que prevalece. Carece de retícula."
+    },
+    "habitat": "Carne de un llamativo color amarillo verdoso, que en cuanto se corta se tiñe de un azul intenso. Es espesa y consistente, y más blanda en el sombrero que en el pie. Tiene un olor muy suave apenas perceptible y un sabor dulzón.",
+    "observations": "Puede encontrarse ya en el mes de mayo hasta bien entrado el otoño. Es una especie muy común y abundante que fructifica por igual bajo pinos que bajo árboles de hoja caduca.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/boletus_erythropus/boletus_erythropus1.jpg",
+        "https://www.fungipedia.org/images/galerias/boletus_erythropus/boletus_erythropus2.jpg",
+        "https://www.fungipedia.org/images/galerias/boletus_erythropus/boletus_erythropus3.jpg",
+        "https://www.fungipedia.org/images/galerias/boletus_erythropus/boletus_erythropus4.jpg",
+        "https://www.fungipedia.org/images/galerias/boletus_erythropus/boletus_erythropus5.jpg",
+        "https://www.fungipedia.org/images/galerias/boletus_erythropus/boletus_erythropus6.jpg"
+    ]
+}

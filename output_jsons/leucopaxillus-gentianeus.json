@@ -1,0 +1,34 @@
+{
+    "name": "leucopaxillus-gentianeus",
+    "title": null,
+    "author": "(Quél.) Kotl.",
+    "additional_info": {
+        "common_name": "Seta amarga, bitigar mingots.",
+        "synonym": "Leucopaxillus amarus (Alb. & Schw.) Kühn."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Tricholomatales",
+        "Familia": "Tricholomataceae"
+    },
+    "edibility": "no-comestible",
+    "characteristics": {
+        "cap": "Sombrero que puede superar los 10 cm de diámetro, siendo lo más común encontrarlas entre 5 y 10 cm cuando son adultas. Tiene forma convexa durante buena parte de su desarrollo, después plano-convexa y los ejemplares viejos pueden llegar a ser algo deprimidos. La cutícula es afieltrada en los especímenes jóvenes y posteriormente lisa, de color marrón rojizo a marrón pálido bastante uniforme, sin grandes diferencias de color en un mismo ejemplar. Margen involuto al principio y luego recto, suele presentar estrías o ser acanalado, pero este es un carácter variable dado que en algunos ejemplares el margen es liso.",
+        "hymenium": "Láminas adnatas y bastante apretadas, ligeramente sinuosas en ocasiones, de un llamativo color blanco puro a lo largo de la mayor parte de su desarrollo, solo al final se vuelven cremas. Se separan de la carne del sombrero con mucha facilidad.",
+        "stipe": "Pie generalmente cilíndrico aunque en algunos casos se ensancha hacia la base, incluso puede llegar a ser claviforme en algún ejemplar. Es lleno y macizo, de color blanquecino no tan puro como el de las láminas.",
+        "flesh": "Carne espesa y consistente de color blanco e inmutable, tiene un olor ligeramente harinoso y un sabor muy amargo, incluso extremadamente amargo en la cutícula."
+    },
+    "habitat": "Esta especie es muy común y abundante, crece formando \"corros de bruja\" o hileras. En algunos pinares llega a formar verdaderas alfombras durante el otoño, también aparece con menos profusión en bosques de planifolios y en otras coníferas distintas del pino, como por ejemplo abetos o cedros.",
+    "observations": "Se trata de una especie de aspecto carnoso y apetecible, incluso su olor resulta agradable, pero lamentablemente es muy amarga, solo con poner la lengua sobre la cutícula se comprueba rápidamente. Con respecto a otras especies de su género entendemos que se trata de una especie inconfundible, el contraste de color entre la cutícula y las láminas de color blanco puro y su amargor extremo la delatan. El aficionado poco experto sí que la puede confundir con algún Tricholoma del grupo de los marrones, todos ellos tienen láminas escotadas, no adnatas.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/leucopaxillus_gentianeus/leucopaxillus_gentianeus1.jpg",
+        "https://www.fungipedia.org/images/galerias/leucopaxillus_gentianeus/leucopaxillus_gentianeus2.jpg",
+        "https://www.fungipedia.org/images/galerias/leucopaxillus_gentianeus/leucopaxillus_gentianeus3.jpg",
+        "https://www.fungipedia.org/images/galerias/leucopaxillus_gentianeus/leucopaxillus_gentianeus4.jpg",
+        "https://www.fungipedia.org/images/galerias/leucopaxillus_gentianeus/leucopaxillus_gentianeus5.jpg",
+        "https://www.fungipedia.org/images/galerias/leucopaxillus_gentianeus/leucopaxillus_gentianeus6.jpg"
+    ]
+}

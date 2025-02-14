@@ -1,0 +1,33 @@
+{
+    "name": "tuber-borchii",
+    "title": null,
+    "author": "Vittad.",
+    "additional_info": {
+        "common_name": "Trufa de marzo, trufa blanca de primavera, trufa de pino, trufa blanchiatto.",
+        "synonym": "Tuber albidum Picco"
+    },
+    "taxonomy": {
+        "División": "Ascomycota",
+        "Subdivisión": "Ascomycotina",
+        "Clase": "Himenoascomycetes",
+        "Subclase": "Pezizomycetidae",
+        "Orden": "Pezizales",
+        "Familia": "Tuberaceae"
+    },
+    "edibility": "buen-comestible",
+    "characteristics": {
+        "cap": "Carpóforo con la habitual forma tuberculada o de pequeña patata que tienen las trufas, a veces uniforme y otras con formas más irregulares, con pequeños abultamientos o protuberancias, aunque lo más frecuente es que tenga forma esférica u ovoidal, sin cavidad basal. Es una trufa de pequeño tamaño, su diámetro suele oscilar entre los 2 y los 4 cm, siendo posible encontrar de forma esporádica algún ejemplar de 6 o 7 cm, los ejemplares jóvenes resultan pubescentes por la presencia de pelos que se van perdiendo con la maduración de los ejemplares, hasta quedar glabros.",
+        "hymenium": "Peridio adherido a la gleba, no separable con facilidad de la misma, liso, no verrucoso, de pubescente a glabro, con un color tremendamente variable, inicialmente suele ser beige, con incluso algún matiz amarillento en ocasiones, tendente a presentar manchas rojizas posteriormente, luego puede ser ocre o hasta marrón rojizo en la madurez.",
+        "stipe": "Gleba cerrada, llena, sin ningún tipo de cavidad, de color igualmente variable, de joven de color claro, beige, oscureciéndose con la maduración hasta volverse de color marrón rojizo o pardo, incluso con algún matiz violáceo. Posee una venas de color blanquecino que no cambian de color, en menor cantidad que otra trufas y no confluyentes, sino que se disponen irregularmente.",
+        "flesh": "Carne compacta y consistente, tiene un olor intenso y agradable a trufa con un claro matiz aliaceo, que en los ejemplares muy maduros puede resultar excesivamente fuerte, su sabor es análogo, la hemos degustado y nos ha parecido un buen comestible, su matiz de sabor a ajo la hace diferente a otras trufas, pero a la vez abre un abanico de posibilidades culinarias, eso si, es importante evitar los ejemplares excesivamente maduros."
+    },
+    "habitat": "Es este un aspecto interesante y a tener en cuenta, muchas de las conocidas trufas, solo fructifican en terrenos con Ph básico, sin embargo esta especie está adaptada a todo tipo de terrenos, tanto básicos como ácidos, y a un gran número de especies arboreas, tanto planifolios como coníferas. Es una especie que se cultiva desde la década de los 90 y que tiene la particularidad de que no hay que esperar tantos años para obtener resultados como pasa por ejemplo con el Tuber melanosporum. Su época predilecta de aparición es desde enero hasta abril o mayo, según el año.",
+    "observations": "Especie de trufa sobre todo primaveral caracterizada por su pequeño tamaño, las venas generalmente no radiales de su gleba, y su olor y sabor con matices a ajo. Pertenece a una serie de trufas muy similares entre sí, como Tuber dryophilum, Tuber maculatum o Tuber puberulum, que también poseen esporas reticuladas (ver características microscópicas), pero sin olor a ajo. Es un buen comestible, a pesar de no ser tan apreciada como otras trufas, y su valor de mercado es por tanto notablemente inferior, dado su sabor a ajo es frecuente utilizarla como condimento o acompañamiento de diferentes platos como carnes.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/tuber_borchii/tuber_borchii1.jpg",
+        "https://www.fungipedia.org/images/galerias/tuber_borchii/tuber_borchii2.jpg",
+        "https://www.fungipedia.org/images/galerias/tuber_borchii/tuber_borchii3.jpg",
+        "https://www.fungipedia.org/images/galerias/tuber_borchii/tuber_borchii4.jpg",
+        "https://www.fungipedia.org/images/galerias/tuber_borchii/tuber_borchii5.jpg"
+    ]
+}

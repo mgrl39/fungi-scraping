@@ -1,0 +1,31 @@
+{
+    "name": "laccaria-laccata",
+    "title": null,
+    "author": "(Scop.) Cooke",
+    "additional_info": {
+        "common_name": "Lacaria lacada, lakaria arrunt, pinpinella rosada, cogomelo lacado.",
+        "synonym": "Laccaria affinis (Singer) Bon"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Tricholomatales",
+        "Familia": "Tricholomataceae"
+    },
+    "edibility": "comestible",
+    "characteristics": {
+        "cap": "Sombrero cuyo diámetro puede llegar a alcanzar como mucho los 5 cm, durante buena parte de su desarrollo con forma convexa, pudiendo llegar a aplanarse e incluso se pueden localizar ejemplares viejos con el sombrero algo deprimido. Su cutícula es finamente escamosa de joven, pero tiende pronto a quedar lisa y glabra con la lluvia, de color pardo rojizo característico, se decolora debido en gran parte a su higrofaneidad, adoptando un tono ocráceo más pálido. El margen es estriado por transparencia y en los especímenes viejos puede llegar a ondularse notablemente.",
+        "hymenium": "Láminas adnatas o ligeramente decurrentes de color rosa muy claro, relativamente separadas entre sí y con laminillas intercaladas, son bastante gruesas y suelen ser pulverulentas por la abundante esporada blanca que se posa sobre ellas.",
+        "stipe": "Pie que por regla general suele ser desproporcionadamente alargado con respecto al diámetro del sombrero, más corto en alguna de sus múltiples variedades. Se presenta longitudinalmente acanalado y bastante fibriloso, de color similar al del sombrero o algo más oscuro, con la unión micelial blanquecina.",
+        "flesh": "Carne escasa, poco espesa, de color similar al de las láminas, rosa claro, algo más fibrosa en el pie. Su olor es fúngico suave, y su sabor es dulce y también suave."
+    },
+    "habitat": "Se trata de una especie bastante cosmopolita, aparece por igual en múltiples hábitats, bosques de coníferas y caducifolios, campas, e incluso en jardines dentro de las ciudades. Es por tanto una seta muy común y abundante que fructifica casi en cualquier época del año si se producen lluvias. Generalmente crece de forma gregaria, a pesar de que es factible también encontrar ejemplares aislados no es lo habitual.",
+    "observations": "Las especies del género Laccaria con colores pardos rojizos u ocres son bastante similares, algunas de ellas pueden separarse macroscópicamente, por ejemplo Laccaria bicolor tiene el micelio violáceo, color que se trasmite a la base del pie. Laccaria proxima es inseparable macroscópicamente, pero sus esporas son sensiblemente más grandes.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/laccaria_laccata/laccaria_laccata1.jpg",
+        "https://www.fungipedia.org/images/galerias/laccaria_laccata/laccaria_laccata2.jpg",
+        "https://www.fungipedia.org/images/galerias/laccaria_laccata/laccaria_laccata3.jpg"
+    ]
+}

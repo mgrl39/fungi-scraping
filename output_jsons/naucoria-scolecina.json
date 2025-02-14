@@ -1,0 +1,33 @@
+{
+    "name": "naucoria-scolecina",
+    "title": null,
+    "author": "(Fr.) Quél.",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Alnicola scolecina (Fr.) Romagn."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Cortinariales",
+        "Familia": "Cortinariaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero de pequeño tamaño, el espécimen más grande observado tenía un diámetro de poco más de 3 cm, habitualmente entre 2 y 2´5 cm, ocasionalmente hasta 4 cm. En su nacimiento tiene forma cónica, volviéndose después convexo y finalmente plano-convexo. Es una especie muy higrófana, cuando se encuentra en estado de mucha humedad su cutícula tiene un color marrón con matiz rojizo, más acentuado en la zona central, pudiendo con la deshidratación adoptar tonos ocres claros. El margen, generalmente más claro, es estriado por transparencia, e igualmente en función de su grado de hidratación, puede presentarse apenas estriado o más largamente estriado.",
+        "hymenium": "Láminas adnatas con un color que va del ocre claro al pardo, con numerosas laminillas de diferentes longitudes y más bien separadas entre sí.",
+        "stipe": "Pie proporcionado al tamaño del sombrero alargado, cilíndrico, recubierto de fibrillas blancas. Tiene un color similar al del sombrero, aunque oscurece a partir de la base a tonos pardos.",
+        "flesh": "Carne insignificante de color ocráceo que absorbe mucho la humedad, resulta prácticamente inodora y su sabor es si acaso ligeramente amargo."
+    },
+    "habitat": "Es una especie ligada de manera exclusiva a los alisos (Alnus sp.). Nuestra recolecta se ha efectuado bajo Alnus glutinosa durante la primavera, pudiendo también salir en verano u otoño. Se la ha encontrado de forma gregaria, en grupo de numerosos individuos en terreno cenagoso y algo arenoso, en las inmediaciones de una presa y en una zona inundable. No es infrecuente en su hábitat exclusivo.",
+    "observations": "Existen unas cuantas especies de pequeño tamaño y características macroscópicas similares, ligadas a especies de alisos o a otros árboles de ribera, todas ellas se hallan actualmente en estudio y su separación se hace de forma exclusiva atendiendo a sus caracteres microscópicos, aún así esta separación está sujeta a una cierta controversia. Naucoria alnetorum se diferencia por sus láminas apretadas y sus esporas verrucosas de gran tamaño. Naucoria striatula puede ser una variante de la especie que les presentamos en esta ficha, se dice que es largamente estriada, pero ese es un carácter muy variable y poco definitorio.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/naucoria_scolecina/naucoria_scolecina1.jpg",
+        "https://www.fungipedia.org/images/galerias/naucoria_scolecina/naucoria_scolecina2.jpg",
+        "https://www.fungipedia.org/images/galerias/naucoria_scolecina/naucoria_scolecina3.jpg",
+        "https://www.fungipedia.org/images/galerias/naucoria_scolecina/naucoria_scolecina4.jpg",
+        "https://www.fungipedia.org/images/galerias/naucoria_scolecina/naucoria_scolecina5.jpg"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "name": "comatricha-nigra",
+    "title": null,
+    "author": "(Pers.) J. Schröt.",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Stemonitis nigra Pers."
+    },
+    "taxonomy": {
+        "División": "Myxomycota",
+        "Subdivisión": "Myxomycotina",
+        "Clase": "Myxomycetes",
+        "Subclase": "Stemonitomycetidae",
+        "Orden": "Stemonitales",
+        "Familia": "Stemonitidaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Plasmodio de color blanco, translúcido e incluso trasparente, que como corresponde a Stemonitomycetidae es del tipo afanoplasmodio. Las características principales que diferencian este tipo de plasmodio son, por un lado, la homogeneidad de las venas que lo forman, no distinguiéndose zonas gelificadas y otras más fluidas entre ellas, y por otro lado, el estar formado por filamentos finos y trasparentes que se unen formando una red un tanto irregular. A partir del plasmodio se forma una sustancia mucosa llamada hipotalo que se concentra en masas esféricas de las cuales brotarán los cuerpos reproductores de la especie de forma individual, acabando de esta manera su fase somática y comenzando a partir de ese momento su fase reproductora.",
+        "hymenium": "Esporocarpos que surgen en forma de fructificaciones múltiples individuales, formadas por un tallo que ocupa los 2/3 del total y una cabeza esférica. El primero de ellos brota y se va elevando desde el hipotalo, está compuesto por fibras de color negro. Cuando se acaba esta fase de crecimiento del tallo se forma la cabeza fértil que albergará el capilicio y las esporas. Esta cabeza es en un primer momento de color blanco, después se desarrolla y se vuelve brillante y rojiza, pasando luego a negra, y por último se abre liberando el capilicio. El capilicio está unido a la columela que abarca casi hasta el ápice del esporocarpo, y está formado por fibras enredadas que pueden hacer forma de bucle. Todo el conjunto apenas tiene una altura de unos milímetros. Las esporas de color ocre lilacino son verrucosas y con poro germinativo, de entre 7 y 10 micras aproximadamente.",
+        "stipe": "Crece sobre madera en descomposición de diversos árboles, rara vez aislada, generalmente brotando un grupo más o menos numeroso del mismo plasmodio. Es una especie muy difícil de localizar dado su tamaño, además no es nada frecuente, la hemos observado durante los meses invernales.",
+        "flesh": "Se trata de un Myxomycete enclavado dentro de los endospóreos, es decir, con las esporas que se desarrollan en el interior de un esporocarpo, que forma junto al género Stemonitis los dos grupos principales de los Stemonitidaceae. Toda la fase reproductora hasta abrirse y descubrir el capilicio es un proceso evolutivo complejo pero que en tiempo se desarrolla en apenas unas horas. Puede confundirse con las Trichias, de capilicio mucho más abundante y que se desprende con facilidad, al margen de otras características microscópicas."
+    },
+    "habitat": null,
+    "observations": null,
+    "images": [
+        "https://www.fungipedia.org/images/galerias/comatricha_nigra/comatricha_nigra1.jpg",
+        "https://www.fungipedia.org/images/galerias/comatricha_nigra/comatricha_nigra2.jpg",
+        "https://www.fungipedia.org/images/galerias/comatricha_nigra/comatricha_nigra3.jpg",
+        "https://www.fungipedia.org/images/galerias/comatricha_nigra/comatricha_nigra4.jpg",
+        "https://www.fungipedia.org/images/galerias/comatricha_nigra/comatricha_nigra5.jpg"
+    ]
+}

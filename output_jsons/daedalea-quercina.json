@@ -1,0 +1,31 @@
+{
+    "name": "daedalea-quercina",
+    "title": null,
+    "author": "(L.) Pers.",
+    "additional_info": {
+        "common_name": "Dedalea del roble, Haritz ardagai.",
+        "synonym": "Trametes quercina (L..) Pil."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Aphyllophoromycetidae",
+        "Orden": "Poriales",
+        "Familia": "Coriolaceae"
+    },
+    "edibility": "no-comestible",
+    "characteristics": {
+        "cap": "Carpóforo sésil que puede llegar a los 20 cm de largo por 5 o más de grosor, abierto en forma de abanico desde el tronco del árbol, perenne. La superficie es en un primer momento de color blanco, pero con el tiempo se va volviendo ocre o pardo grisácea, poco o nada zonada. Suele presentar un vello notable al tacto que es más largo hacia la base, mientras que hacia el borde suele ser menos notorio. El borde es normalmente bastante regular.",
+        "hymenium": "Himenio carente de láminas o tubos, tan solo posee una especie de poros laberínticos de paredes muy gruesas que le confieren un aspecto peculiar. Son de color ocre pálido.",
+        "stipe": "Pie inexistente, está unido directamente a la madera.",
+        "flesh": "Carne dura y coriácea como la propia madera del árbol, grisácea e inodora."
+    },
+    "habitat": "Es una especie muy común que aparece en cualquier época del año, siempre unida a troncos muertos o vivos de árboles de hoja caduca.",
+    "observations": "No es comestible al ser su carne de consistencia similar a la madera. Esta especie, única en su género, se comporta por igual de forma parásita o saprófita sobre árboles heridos o muertos respectivamente. Consideramos que es muy difícil confundirla con otra especie por sus poros laberínticos, otras especies similares tienen los poros pequeños.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/daedalea_quercina/daedalea_quercina1.jpg",
+        "https://www.fungipedia.org/images/galerias/daedalea_quercina/daedalea_quercina2.jpg",
+        "https://www.fungipedia.org/images/galerias/daedalea_quercina/daedalea_quercina3.jpg"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "infundibulicybe-geotropa",
+    "title": null,
+    "author": "(Bull.) Harmaja",
+    "additional_info": {
+        "common_name": "Platera, San Martin ziza.",
+        "synonym": "Clitocybe geotropa (Bull) Quél."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Tricholomatales",
+        "Familia": "Tricholomataceae"
+    },
+    "edibility": "buen-comestible",
+    "characteristics": {
+        "cap": "Sombrero que en ocasiones alcanza los 25 cm, deprimido y claramente mamelonado de color beige uniforme, algo más blanquecino en su nacimiento, carnoso y de borde regular.",
+        "hymenium": "Láminas apretadas que decurren de forma notable sobre el pie, blanquecinas u ocre pálido.",
+        "stipe": "Pie ligeramente claviforme, muy duro y fibroso, central con respecto al sombrero y concoloro con el mismo o ligeramente más pálido.",
+        "flesh": "Carne mas bien blanquecina, tenaz y consistente, excesivamente fibrosa la del pie, lo cual lo hace desechable en la recolección. De olor ciánico y sabor dulce."
+    },
+    "habitat": "Aparece en otoño en pradera de montaña, aunque nosotros la recolectamos cada año bajo pinos, donde aparece de manera masiva en setales cuya sola visión resulta alucinante, en algunos de ellos se pueden llegar a recolectar hasta 30 kilos.",
+    "observations": "Una vez desechado el pie, la \"platera\" resulta un buen comestible, de agradable sabor e ideal para acompañar guisos. Clitocybe maxima, anteriormente separado como especie independiente no es más que una forma adulta y achaparrada de la misma especie. También tiene cierto parecido el Leucopaxillus candidus, aunque es más blanco que la platera y su confusión no es peligrosa dado que se trata de una especie comestible. Clitocybe gibba o Paralepista flaccida también guardan cierto parecido, aunque son especies más pequeñas.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/infundibulicybe_geotropa/infundibulicybe_geotropa1.jpg",
+        "https://www.fungipedia.org/images/galerias/infundibulicybe_geotropa/infundibulicybe_geotropa2.jpg",
+        "https://www.fungipedia.org/images/galerias/infundibulicybe_geotropa/infundibulicybe_geotropa3.jpg"
+    ]
+}

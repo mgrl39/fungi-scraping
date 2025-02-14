@@ -1,0 +1,30 @@
+{
+    "name": "mutinus-caninus",
+    "title": null,
+    "author": "(Huds.) Fr.",
+    "additional_info": {
+        "common_name": "Falo perruno, txakur-zakil, fal-lus caní.",
+        "synonym": "Phallus caninus Hudson"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Gasteromycetidae",
+        "Orden": "Phallales",
+        "Familia": "Phallaceae"
+    },
+    "edibility": "no-comestible",
+    "characteristics": {
+        "cap": "Carpóforo formado inicialmente por un receptáculo en forma de huevo blanco y blando, de apenas un par de centímetros de diámetro. Al abrirse da lugar a un pie terminado en un ápice de color marcadamente rojo, pero envuelto por la gleba que es de color verdoso y de consistencia mucilaginosa. Este ápice rojo posee numerosos agujeritos pequeños visibles con lupa por donde son expulsadas las esporas tras la maduración de las mismas. Todo el conjunto apenas tiene poco más de medio centímetro de ancho y no más de 7 u 8 de largo.",
+        "hymenium": "Pie largo de color blanco, que va adoptando con la edad tonalidades anaranjadas o amarillentas, hueco y muy frágil. Fácilmente separable de los restos del huevo que se adhiere a él como una especie de volva.",
+        "stipe": "Carne poco significativa que emana un olor desagradable sin llegar al hedor de otras setas de su grupo.",
+        "flesh": "Crece durante el verano y el otoño, a veces de forma gregaria, en zonas húmedas de nuestros bosques. Lo localizamos sobre todo en hayedos. No es tan abundante y común como el Phallus impudicus."
+    },
+    "habitat": "Es una especie que se caracteriza por sus pequeñas dimensiones en comparación con Phallus impudicus y Phallus hadriani, que además no tienen el ápice de color rojo. Si se parece mucho la rara especie Mutinus elegans, más esbelta pero difícilmente diferenciable de la aquí descrita.",
+    "observations": null,
+    "images": [
+        "https://www.fungipedia.org/images/galerias/mutinus_caninus/mutinus_caninus1.jpg",
+        "https://www.fungipedia.org/images/galerias/mutinus_caninus/mutinus_caninus2.jpg"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "name": "entoloma-conferendum",
+    "title": null,
+    "author": "(Britzelm.) Noordel.",
+    "additional_info": {
+        "common_name": "Entoloma de esporas cruciformes.",
+        "synonym": "Agaricus conferendus (Britzelm.)"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Pluteales",
+        "Familia": "Entolomataceae"
+    },
+    "edibility": "toxica",
+    "characteristics": {
+        "cap": "Sombrero cuyo tamaño en estado adulto ronda los 5 cm de diámetro, su forma evoluciona de cónica a acampanada, después hemisférica, para acabar siendo plano convexa, siendo habitual que disponga de un mamelón en la zona central. El color es ciertamente variable dado que se trata de una especie marcadamente higrófana, que en función del grado de humedad que posea adopta tonos que van desde el gris a diversos ocres, siendo la zona central por lo general más oscura al mantener la humedad por más tiempo. Cutícula fibrilosa o escuamulosa y margen estriado, en ocasiones hasta la mitad del sombrero.",
+        "hymenium": "Láminas sublibres de color crema en un principio, evolucionando a color rosado pálido, y finalmente rosa fuerte, casi ocráceo. Son bastante anchas y con alguna laminilla, y su arista suele estar algo crenulada.",
+        "stipe": "Pie alargado, fistuloso y después hueco, de color similar al sombrero, pero longitudinalmente estriado y recubierto de fibras de un color plateado. Es habitual que en su base tenga una especie de tomento blanquecino.",
+        "flesh": "Carne poco espesa y poco consistente, algo más tiesa en el sombrero y quebradiza en el pie, tanto su olor como su sabor son de harina, más o menos acentuados según la propia hidratación del espécimen."
+    },
+    "habitat": "No resulta relevante el árbol bajo el que fructifica, ya que es una especie más bien heliófila, que llega también a fructificar en praderas y en pastizales de montaña. Gusta de terrenos húmedos y se puede encontrar ya desde la primavera, cuando resulta ser más frecuente, siendo más rara durante el otoño.",
+    "observations": "Se trata de una especie extendida por todo el planeta, lo que da lugar a la existencia de numerosas variedades y formas ecológicas. Destacamos la var. pusillum, muy pequeña y que fructifica generalmente sobre madera, no en tierra, siendo de tamaño intermedio entre ambas la var. rickenii, que carece del característico olor harinoso de la especie tipo. Esta especie se distingue con facilidad al microscopio por sus esporas cruciformes, aunque puede guardar cierta similitud con el Entoloma rhombisporum, que tiene las esporas romboides y es más amarillento.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/entoloma_conferendum/entoloma_conferendum1.jpg",
+        "https://www.fungipedia.org/images/galerias/entoloma_conferendum/entoloma_conferendum2.jpg",
+        "https://www.fungipedia.org/images/galerias/entoloma_conferendum/entoloma_conferendum3.jpg",
+        "https://www.fungipedia.org/images/galerias/entoloma_conferendum/entoloma_conferendum4.jpg"
+    ]
+}

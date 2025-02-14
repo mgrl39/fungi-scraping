@@ -1,0 +1,30 @@
+{
+    "name": "lactarius-chrysorrheus",
+    "title": null,
+    "author": "Fr.",
+    "additional_info": {
+        "common_name": "Lactario de leche dorada, falso níscalo, esnehorikor arrunt, pinetell bord.",
+        "synonym": "Lactarius theiogalus var. chrysorrheus (Fr.) Quél."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Russulales",
+        "Familia": "Russulaceae"
+    },
+    "edibility": "no-comestible",
+    "characteristics": {
+        "cap": "Sombrero que en estado adulto puede llegar a los 10 cm de diámetro como mucho, lo habitual es que se encuentren ejemplares entre los 3 y los 7 cm. Tiene forma convexa de joven, después se aplana, para acabar por deprimirse de forma poco acusada en su última etapa. Su color es el ocre con matices anaranjados, si bien presenta comúnmente zonas concéntricas de tonos más oscuros. Su cutícula es algo brillante con lluvia, pero por lo general de aspecto seco, lisa y glabra. El margen se presenta involuto en los ejemplares jóvenes, siendo en los adultos liso y apenas ondulado.",
+        "hymenium": "Láminas subdecurrentes de color crema pálido, adquieren tonos rosados con la edad, además como consecuencia del látex, amarillean en las heridas. Son relativamente apretadas y poseen numerosas laminillas intercaladas.",
+        "stipe": "Pie proporcionado al tamaño del sombrero o corto, lleno cuando la seta es joven, después se vuelve hueco. Es de color claro, crema pálido, pero también adquiere tonos cárneos o rosados como las láminas con el tiempo. No es nunca escrobiculado, y además es liso, solo débilmente pruinoso en su primera etapa.",
+        "flesh": "Carne prieta y quebradiza de color blanco, exuda un látex abundante que, a pesar de ser blanco, se vuelve amarillo de forma instantánea al contacto con el aire. El látex es dulce en un primer momento pero se vuelve muy picante, el sabor es igualmente muy picante, y el olor es suave, fúngico."
+    },
+    "habitat": "Se trata de una especie propia de los bosques de planifolios, jamás la hemos visto en otro hábitat. Fructifica durante los meses otoñales en forma solitaria o en pequeños grupos, siendo una seta más bien frecuente, la vemos cada año sin problemas.",
+    "observations": "De forma un tanto incomprensible se confunde muchas veces con los níscalos, que tienen el látex anaranjado y que no comparten hábitat. El Lactarius zonarius, de superficie pileica igualmente zonada se diferencia bien debido a que su látex blanco permanece inmutable al contacto con el aire. Otros Lactarius de látex amarilleante son el Lactarius decipiens o Lactarius theiogalus, pero no presentan el sombrero zonado, por lo que entendemos que está especie que les presentamos se diferencia bien de otras.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/lactarius_chrysorrheus/lactarius_chrysorrheus1.jpg",
+        "https://www.fungipedia.org/images/galerias/lactarius_chrysorrheus/lactarius_chrysorrheus2.jpg"
+    ]
+}

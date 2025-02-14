@@ -1,0 +1,31 @@
+{
+    "name": "amanita-rubescens",
+    "title": null,
+    "author": "Pers.",
+    "additional_info": {
+        "common_name": "Oronja vinosa, Galdacanesa, Amanita rojiza, Galdakao lanperna, ardotsu.",
+        "synonym": "Amanita rubens Quelet"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Agaricales",
+        "Familia": "Amanitaceae"
+    },
+    "edibility": "excelente-comestible-precaucion",
+    "characteristics": {
+        "cap": "Sombrero de hasta 15 cm de diámetro, al principio globoso y de color muy claro, después hemisférico y ocre, más tarde convexo o aplanado y de un tono más rojizo. Cutícula recubierta de restos del velo de color blanco-grisáceo y lisa, no estriada.",
+        "hymenium": "Láminas completamente blancas de joven, adoptan tonos rojizos en la vejez a modo de manchas. Libres o adnatas como mucho. Bastante apretadas.",
+        "stipe": "Pie de color claro o rosado, adopta tonalidades rojo vinosas a partir de la base, donde se agusana con facilidad. Su longitud y forma es muy variable. Más que volva parece tener un bulbo en la base del pie, y contiene además un anillo muy estriado, membranoso y persistente de color blanco a rosa (amarillo en la variedad annulosulphurea).",
+        "flesh": "Carne blanca que se vuelve rojiza en las heridas y zonas larvadas, de olor fúngico suave y sabor dulce aunque ligeramente amarga al de un rato de masticación."
+    },
+    "habitat": "Especie común que aparece tanto en primavera como en verano y otoño, indistintamente en bosque de caducifolios o coníferas.",
+    "observations": "Excelente comestible, es sin embargo tóxica en crudo, pues contiene una hemolisina que puede destruir los glóbulos rojos, principio que se volatiliza con la debida cocción. Se consume habitualmente en la zona de Galdakao (Vizcaya), donde tiene una tradición culinaria ancestral. Se confunde con la Amanita pantherina tóxica, que nunca tiene tonos vinosos, sin embargo la especie que más se le parece es la Amanita franchetii, sospechosa de toxicidad.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/amanita_rubescens/amanita_rubescens1.jpg",
+        "https://www.fungipedia.org/images/galerias/amanita_rubescens/amanita_rubescens2.jpg",
+        "https://www.fungipedia.org/images/galerias/amanita_rubescens/amanita_rubescens3.jpg"
+    ]
+}

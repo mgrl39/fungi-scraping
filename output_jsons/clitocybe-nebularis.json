@@ -1,0 +1,31 @@
+{
+    "name": "clitocybe-nebularis",
+    "title": null,
+    "author": "(Batsch) P. Kumm.",
+    "additional_info": {
+        "common_name": "Pardilla, illarraka.",
+        "synonym": "Lepista nebularis (Batsch) Harmaja"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Tricholomatales",
+        "Familia": "Tricholomataceae"
+    },
+    "edibility": "comestible",
+    "characteristics": {
+        "cap": "Sombrero de hasta 15 cm de diámetro, del color de las nubes cuando están a punto de descargar, de convexo a aplanado, ligeramente embudado en la vejez. Liso y glabro, de cutícula separable y borde regular.",
+        "hymenium": "Láminas decurrentes sobre el pie, de color crema pálido, se separan fácilmente de la carne del sombrero.",
+        "stipe": "Pie lleno cuando es joven, cavernoso de adulto, ligeramente claviforme y de color gris muy pálido, casi blancuzco. Es de porte robusto y de consistencia bastante fibrosa.",
+        "flesh": "Carne blanca, bastante compacta, solida y gruesa en el sombrero, fibrosa en el pie, con un olor fuerte y tan característico, que una vez olida una ya no se olvida, pudiéndose identificar la especie por su propio olor."
+    },
+    "habitat": "Si algo es característico en esta especie, aparte de su olor, es su adaptabilidad a cualquier tipo de hábitat, nosotros la hemos encontrado en los claros de los pinares, en hayedos, entre brezo, bajo cipreses, bajo robles, e incluso en el centro de la ciudad, debajo de unos avellanos.",
+    "observations": "Sobre gustos no hay nada escrito, hay a quien le encanta degustar esta seta y quien no la puede ni ver, lo cierto es que es delicada para algunos estómagos. Existe una Fo. alba, completamente blanca. Esta especie se suele confundir con el Entoloma sinuatum(toxica), que tiene un olor ligeramente harinoso, láminas escotadas y esporas de color salmón.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/clitocybe_nebularis/clitocybe_nebularis1.jpg",
+        "https://www.fungipedia.org/images/galerias/clitocybe_nebularis/clitocybe_nebularis2.jpg",
+        "https://www.fungipedia.org/images/galerias/clitocybe_nebularis/clitocybe_nebularis3.jpg"
+    ]
+}

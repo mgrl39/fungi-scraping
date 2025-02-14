@@ -1,0 +1,31 @@
+{
+    "name": "tricholosporum-goniospermum",
+    "title": null,
+    "author": "(Bres.) Guzmán",
+    "additional_info": {
+        "common_name": "Ziza orrilila.",
+        "synonym": "Tricholoma goniospermum Bresadola"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Tricholomatales",
+        "Familia": "Tricholomataceae"
+    },
+    "edibility": "excelente-comestible",
+    "characteristics": {
+        "cap": "Sombrero que de adulto puede superar sin problemas los 10 cm de diámetro, de forma convexa, solo los ejemplares viejos se aplanan, con el borde enrollado de joven, después ondulado irregularmente. De color grisáceo de joven, pasa pronto a tonos ocres y leonados, con matices amarillentos en los ejemplares secos, pero manteniendo por regla general el centro más oscuro.",
+        "hymenium": "Láminas ligeramente escotadas, de color violeta pálido o lila en los individuos jóvenes, después de color ocre claro manteniendo algunos reflejos violáceos. Suelen tener laminillas intercaladas y su disposición es poco uniforme.",
+        "stipe": "Pie corto en relación con el sombrero, un poco lila en la parte superior, el resto blanquecino u ocre claro, macizo y engrosado en la base.",
+        "flesh": "Carne espesa y firme, de olor harinoso menos acentuado que el Calocybe gambosa (perretxiko) y sabor acídulo. La carne del pie es más fibrosa que la del sombrero."
+    },
+    "habitat": "Aunque suele brotar con menos profusión en el otoño, es en primavera cuando forma setales de numerosos individuos. Es una seta de campa o pastizal de montaña, así como de páramos. Poco frecuente.",
+    "observations": "Esta especie es un excelente comestible, una seta que merece la pena degustar. En nuestra geografía no es muy frecuente, pero cuando se encuentra no suele haber solo una. Cuando aparece en otoño puede confundirse con la Lepista personata o pie violeta, que sin embargo no tiene las láminas lilas ni olor harinoso.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/tricholosporum_goniospermum/tricholosporum_goniospermum1.jpg",
+        "https://www.fungipedia.org/images/galerias/tricholosporum_goniospermum/tricholosporum_goniospermum2.jpg",
+        "https://www.fungipedia.org/images/galerias/tricholosporum_goniospermum/tricholosporum_goniospermum3.jpg"
+    ]
+}

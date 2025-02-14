@@ -1,0 +1,31 @@
+{
+    "name": "cyclocybe-aegerita",
+    "title": null,
+    "author": "(DC.) Vizzini & Angelini",
+    "additional_info": {
+        "common_name": "Seta de chopo, makal ziza, pollancró.",
+        "synonym": "Agrocybe aegerita (V. Brig.) Singer"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Cortinariales",
+        "Familia": "Bolbitiaceae"
+    },
+    "edibility": "comestible",
+    "characteristics": {
+        "cap": "Sombrero de entre 4 y 10 cm de diámetro, ocasionalmente algo más, con forma hemisférica en su nacimiento, pasando a convexa, y tendiendo a aplanarse finalmente aunque no del todo. En un principio suele ser de color marrón chocolate, a veces crema, palideciendo a medida que envejece a tonos netamente cremas. El margen suele estar incurvado bastante tiempo.",
+        "hymenium": "Láminas de color blanco crema en un principio, después ocres, adnatas y algo apretadas.",
+        "stipe": "Pie generalmente curvado, largo y delgado, atenuado en su zona basal, de color claro. Posee en la parte superior un anillo membranoso de color blanco que se vuelve ocre cuando la seta es vieja, pudiendo quedar adpreso, aunque suele ser persistente.",
+        "flesh": "Carne blanquecina, compacta y firme en el sombrero, muy fibrosa la del pie, de sabor y olor agradables ambos."
+    },
+    "habitat": "Es una seta que aparece en cualquier época del año, siempre y cuando la climatología acompañe. Fructifica de forma fasciculada sobre tocones o árboles vivos, tanto chopos como sauces u olmos.",
+    "observations": "Los especímenes fotografiados estaban sobre un sauce enfermo en una zona urbana, estudiando su comportamiento reproductivo podemos constatar que da de 9 a 10 brotes anuales, el año pasado solo dejo de brotar en enero, julio y agosto. Tiene parecido con el Agrocybe praecox, especie primaveral que es gregaria y terrestre. Se trata de una especie comestible.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/cyclocybe_aegerita/cyclocybe_aegerita1.jpg",
+        "https://www.fungipedia.org/images/galerias/cyclocybe_aegerita/cyclocybe_aegerita2.jpg",
+        "https://www.fungipedia.org/images/galerias/cyclocybe_aegerita/cyclocybe_aegerita3.jpg"
+    ]
+}

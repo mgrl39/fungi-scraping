@@ -1,0 +1,34 @@
+{
+    "name": "lachnum-virgineum",
+    "title": null,
+    "author": "(Batsch) P. Karst.",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Dasyscyphus virgineus (Batsch) Gray"
+    },
+    "taxonomy": {
+        "División": "Ascomycota",
+        "Subdivisión": "Ascomycotina",
+        "Clase": "Himenoascomycetes",
+        "Subclase": "Pezizomycetidae",
+        "Orden": "Leotiales",
+        "Familia": "Hyaloscyphaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Carpóforo de ínfimo tamaño, su diámetro en el mejor de los casos apenas alcanza unos pocos milímetros. En su primera etapa tiene forma de cazuela, pero se vuelve acopado con prontitud, es muy raro encontrar ejemplares aplanados. El margen de esa copa tiene una clara tendencia a envolverse hacia dentro y en él son más patentes los pelos que recubren toda la superficie externa o excípulo. Tanto el excípulo en sí como los pelos que lo recubren tienen un color blanco puro, virginal como indica el nombre de la especie, pero los ejemplares viejos si pueden adquirir otros tonos cremas o amarillentos.",
+        "hymenium": "Himenio liso, sin presencia de pelos, constituido en la superficie interna del ascocarpo, también de color blanco como el resto. En la inserción con el pie se aprecia una zona umbilicada.",
+        "stipe": "Pie muy corto, hundido en ocasiones en el sustrato pero patente, manifestándose como una continuidad de la zona excipular, al igual que ella está recubierto de pelos y es de color blanco.",
+        "flesh": "Carne totalmente insignificante de color blanco, sin nada reseñable en cuanto a olor o sabor."
+    },
+    "habitat": "Esta especie de Ascomycete tiene una ecología y distribución bastante amplias, por su tamaño puede pasar inadvertido pero consideramos que se trata de una especie frecuente. Fructifica prácticamente en cualquier época del año sobre restos leñosos en general, nuestra recolecta fue efectuada en marzo sobre piñas enterradas o semienterradas de Pinus sylvestris, hallándose estas colonizadas por numerosos individuos.",
+    "observations": "Para diferenciar estas pequeñas especies es necesaria la ayuda del microscopio (ver ficha micro). La Dasyscyphella nivea es muy similar, pero sus pelos marginales no son granulosos en toda su extensión, son septados y ligeramente granulosos salvo en el ápice que es inflado, y tampoco presenta paráfisis lanceoladas. Hymenoscyphus fructigenus puede tener parecido con la especie descrita, pero carece de pelos y fructifica sobre frutos o cúpulas de diversos árboles, siendo habitual verla sobre hayucos.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/lachnum_virgineum/lachnum_virgineum1.jpg",
+        "https://www.fungipedia.org/images/galerias/lachnum_virgineum/lachnum_virgineum2.jpg",
+        "https://www.fungipedia.org/images/galerias/lachnum_virgineum/lachnum_virgineum3.jpg",
+        "https://www.fungipedia.org/images/galerias/lachnum_virgineum/lachnum_virgineum4.jpg",
+        "https://www.fungipedia.org/images/galerias/lachnum_virgineum/lachnum_virgineum5.jpg",
+        "https://www.fungipedia.org/images/galerias/lachnum_virgineum/lachnum_virgineum6.jpg"
+    ]
+}

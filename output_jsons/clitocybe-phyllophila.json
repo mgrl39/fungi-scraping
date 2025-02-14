@@ -1,0 +1,30 @@
+{
+    "name": "clitocybe-phyllophila",
+    "title": null,
+    "author": "(Pers.) P.Kumm.",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Clitocybe cerussata (Fr.) P. Kumm."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Tricholomatales",
+        "Familia": "Tricholomataceae"
+    },
+    "edibility": "toxica",
+    "characteristics": {
+        "cap": "Sombrero de dimensiones intermedias, suele superar los 5 cm de diámetro sin llegar a alcanzar los 10, de forma convexa en su primera etapa de vida, llega posteriormente a aplanarse, conservando en la zona central un mamelón obtuso. Es de color fundamentalmente blanco, aunque está recubierto de una pruina blanquecina que en determinadas condiciones climatológicas tiende a rosear un poco, o adquiere tonos cremosos. El borde es bastante regular.",
+        "hymenium": "Láminas decurrentes, pero poco, nada que ver con otras especies de su género que decurren mucho más. De color igualmente blanco, algo cremas de viejas.",
+        "stipe": "Pie central y cilíndrico, bastante grueso y proporcionado al tamaño del sombrero. Es de color blanquecino, pero se ensucia de crema a partir de la base.",
+        "flesh": "Carne relativamente espesa y de color blanco, con olor fúngico suave y agradable y buen sabor, dulce y ligeramente harinoso."
+    },
+    "habitat": "En contra de algunas opiniones, consideramos que sale por igual en coníferas y en planifolios, también la hemos observado bajo árboles de ribera como los alisos. Es eminentemente otoñal y bastante frecuente.",
+    "observations": "Esta especie fue considerada ya por Singer como sinónimo de Clitocybe pithyopila, a su vez sinonimizada con Clitocybe cerussata, actualmente ambas especies están unificadas bajo el taxón que aquí les presentamos. Tampoco nos parece tan relevante el hábitat, ni mucho menos el color de la esporada que se ha demostrado que puede variar en condiciones climatológicas extremas. Es una especie muy tóxica y de buen sabor, ojo, no confundir con Clitopilus prunulus o Clitocybe nebularis, especies comestibles, la primera de esporada rosa y láminas muy decurrentes, la segunda de olor muy característico.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/clitocybe_phyllophila/clitocybe_phyllophila1.jpg",
+        "https://www.fungipedia.org/images/galerias/clitocybe_phyllophila/clitocybe_phyllophila2.jpg"
+    ]
+}

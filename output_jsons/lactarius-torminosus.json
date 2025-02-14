@@ -1,0 +1,34 @@
+{
+    "name": "lactarius-torminosus",
+    "title": null,
+    "author": "(Schaeff.) Gray",
+    "additional_info": {
+        "common_name": "Níscalo falso, nícalo lanoso, esnegorri faltsua, rovelló de cabra.",
+        "synonym": "Lactifluus torminosus (Schaeff.) Kuntze"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Russulales",
+        "Familia": "Russulaceae"
+    },
+    "edibility": "toxica",
+    "characteristics": {
+        "cap": "Sombrero que en su máximo apogeo puede llegar a superar los 10 cm de diámetro, con forma netamente convexa durante la mayor parte de su desarrollo, pero con una depresión central que permanece e incluso se acentúa en la madurez, cuando suele aplanarse o embudarse un poco. Su cutícula es de color rojizo predominante, posee franjas concéntricas en las que el rojo se alterna con líneas más cremas, y está recubierta de una fuerte pilosidad que le confiere un aspecto lanoso, con la vejez puede llegar a desaparecer este revestimiento. El margen es incurvado en los especímenes jóvenes y después liso, el revestimiento lanoso es más patente en él que en el resto del sombrero.",
+        "hymenium": "Láminas decurrentes, apretadas entre sí, bastante estrechas, de color crema en la mayoría de los casos, ocráceas de viejas y con reflejos rosados en la juventud.",
+        "stipe": "Pie proporcionado al sombrero, central y cilíndrico, algo atenuado en la base en algunos ejemplares, lleno de joven y posteriormente hueco, de color claro, blanquecino cuando la seta es joven, con el tiempo adopta tonos más rosados o cárneos. Suele presentar escrobículas rosadas, pero no lo hace en todos los ejemplares.",
+        "flesh": "Carne consistente de color blanco, espesa, pudiendo adquirir tonos rosados en ocasiones. Exuda un látex de color blanco inmutable al aire y sobre las láminas, solo llega a amarillear sobre un pañuelo, este látex es picante. Tiene un olor afrutado no desagradable y un sabor marcadamente acrescente."
+    },
+    "habitat": "Especie que forma micorrizas de forma exclusiva con los abedules, sobre todo crece en zonas de montaña. Los especímenes recolectados se hallaban en bosque mixto de abedules, roble y haya, formando corros o hileras de numerosos ejemplares. No es una especie que se vea con frecuencia al tener un hábitat exclusivo, sale sobre todo durante el otoño.",
+    "observations": "Este Lactarius provoca trastornos gastrointestinales serios, se caracteriza por su color rojizo, cutícula lanosa zonada concéntricamente, látex blanco inmutable y su hábitat exclusivo bajo abedules de montaña. El Lactarius pubescens, también de abedules, no es zonado y su cutícula es más clara, de blanquecina a crema, y es igualmente tóxico. En otros hábitats salen Lactarius mairei y Lactarius tesquorum, que también tienen cierta similitud, el primero de planifolios y el segundo exclusivo de jaras. No confundir con los níscalos, de látex anaranjado, nunca blanco.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/lactarius_torminosus/lactarius_torminosus1.jpg",
+        "https://www.fungipedia.org/images/galerias/lactarius_torminosus/lactarius_torminosus2.jpg",
+        "https://www.fungipedia.org/images/galerias/lactarius_torminosus/lactarius_torminosus3.jpg",
+        "https://www.fungipedia.org/images/galerias/lactarius_torminosus/lactarius_torminosus4.jpg",
+        "https://www.fungipedia.org/images/galerias/lactarius_torminosus/lactarius_torminosus5.jpg",
+        "https://www.fungipedia.org/images/galerias/lactarius_torminosus/lactarius_torminosus6.jpg"
+    ]
+}

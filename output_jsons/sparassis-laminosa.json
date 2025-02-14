@@ -1,0 +1,30 @@
+{
+    "name": "sparassis-laminosa",
+    "title": null,
+    "author": "Fr.",
+    "additional_info": {
+        "common_name": "Seta laminada, azalore orritsu.",
+        "synonym": "Masseeola laminosa (Fr.) Kuntze"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Aphyllophoromycetidae",
+        "Orden": "Cantharellales",
+        "Familia": "Sparassidaceae"
+    },
+    "edibility": "comestible",
+    "characteristics": {
+        "cap": "Carpóforo de tamaño notable, con facilidad puede sobrepasar los 10 o 15 cm de altura por 20 a 25 cm de ancho, formado por un tronco grueso y carnoso de color blanco del que parten múltiples ramificaciones individualizadas o poco entrelazadas entre sí, sinuosas y con forma espatulada u ondulada, estas ramificaciones son más apretadas en los ejemplares más jóvenes y distantes en los adultos. La superficie de estas ramificaciones puede ser lisa o de forma más habitual vagamente zonada, con un color que en los especímenes jóvenes suele ser blanco crema, pudiendo adquirir tonos amarillentos e incluso ocráceos en la vejez. La forma general de todo el carpóforo es como una especie de lechuga.",
+        "hymenium": "Himenio completamente liso ubicado en la superficie externa de las ramificaciones, de color similar a la otra cara aunque generalmente recubierto de un polvo blanquecino como consecuencia de la esporulación.",
+        "stipe": "Pie que no existe como tal, más bien se trata de una especie de tronco central del que parten las ramificaciones, de color blanquecino y que en los ejemplares ya plenamente desarrollados no es visible dado que las ramificaciones lo tapan por completo.",
+        "flesh": "Carne más bien escasa y poco consistente, algo elástica, de color blanquecino de joven y con tonos ocres en la vejez. Tiene un olor poco destacado, débilmente clorado, y un sabor que es también poco destacado, suave y para nada desagradable."
+    },
+    "habitat": "Esta especie acostumbra a salir de forma aislada, ocasionalmente podemos encontrar varios ejemplares en unos pocos metros. Aparece de forma preeminente en bosques de planifolios y sobre todo a lo largo del otoño, no siendo descartable su aparición en otras épocas del año. No es una especie de fácil localización, no es muy abundante ni tampoco demasiado frecuente.",
+    "observations": "Las especies de género Sparassis son perfectamente diferenciables de otros géneros por su forma peculiar que nos recuerda a coliflores o lechugas, sin embargo no es sencillo diferenciarlas entre sí. Esta especie en concreto se caracteriza por su hábitat bajo planifolios, sus ramificaciones abiertas espatuladas y su débil olor clorado, puede confundirse con la especie Sparassis crispa, mucho más común y cosmopolita, que sale preferentemente en coníferas, de ramificaciones más cerradas y crispadas, con olor más patente. Sparassis brevipes es muy similar a esta, difícilmente diferenciable salvo por micro y es mucho más rara.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/sparassis_laminosa/sparassis_laminosa1.jpg",
+        "https://www.fungipedia.org/images/galerias/sparassis_laminosa/sparassis_laminosa2.jpg"
+    ]
+}

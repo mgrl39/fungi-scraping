@@ -1,0 +1,31 @@
+{
+    "name": "leucopaxillus-paradoxus",
+    "title": null,
+    "author": "(Costantin & L. M. Dufour) Boursier",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Clitocybe paradoxa Costantin & L. M. Dufour"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Tricholomatales",
+        "Familia": "Tricholomataceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero que en los ejemplares más desarrollados puede superar los 10 cm de diámetro, con forma hemisférica en su nacimiento pero pronto convexo, al final irregularmente aplanado, lobulado o ligeramente deprimido, si bien no acostumbra a embudarse. Su cutícula es inicialmente de color blanquecino, adquiriendo tonos cremas con matices amarillentos, e incluso ocráceos hacia la zona central en ocasiones, no se separa con facilidad de la carne. Superficie seca, por regla general lisa y glabra, con cierta tendencia a agrietarse al faltar humedad. El margen es involuto durante buena parte de su desarrollo, en los ejemplares adultos extendido y ondulado.",
+        "hymenium": "Láminas decurrentes, menos apretadas que en otras especies de su género, desiguales, de color blanco, pueden adquirir tonos cremas de adultas.",
+        "stipe": "Pie macizo, lleno, proporcionado al sombrero o corto, engrosado en la base sobre todo en los ejemplares jóvenes, sino cilíndrico, de color blanquecino pero con la posibilidad de adquirir los mismos tonos que el sombrero, sobre todo a partir de la base.",
+        "flesh": "Carne espesa y gruesa, muy consistente tanto en el sombrero como en el pie, de color blanco. Su olor es agradable, fúngico o algo acídulo, su sabor es amargo, a veces dulce de entrada y tardíamente amargo."
+    },
+    "habitat": "Se trata de una especie que fructifica tanto en bosques de coníferas como de planifolios, en los primeros suele formar grupos apretados de numerosos ejemplares y es más frecuente, siendo más rara bajo planifolios diversos. Sale preferentemente durante la época otoñal.",
+    "observations": "Su carne es amarga, aunque a veces ese amargor sea tardío, creemos que esto la hace poco apropiada para la cocina, a pesar de que algunos autores la califican como comestible entendemos que carece de valor culinario. El Clitocybe candida es una especie parecida, su olor es más fuerte, su cutícula separable, además se embuda de adulto y su sombrero mantiene el color blanco. La especie tóxica Pseudoclitopilus rhodoleucus tiene también cierto parecido, sus láminas son inicialmente rosas y su sombrero es siempre blanco. Resulta igualmente peligrosa su confusión con los Clitocybes blancos como Clitocybe phyllophila o Clitocybe rivulosa entre otros.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/leucopaxillus_paradoxus/leucopaxillus_paradoxus1.jpg",
+        "https://www.fungipedia.org/images/galerias/leucopaxillus_paradoxus/leucopaxillus_paradoxus2.jpg",
+        "https://www.fungipedia.org/images/galerias/leucopaxillus_paradoxus/leucopaxillus_paradoxus3.jpg"
+    ]
+}

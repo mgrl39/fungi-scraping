@@ -1,0 +1,34 @@
+{
+    "name": "russula-puellula",
+    "title": null,
+    "author": "Ebbesen, F. H. Moller & Jul. Schäff.",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Ninguno."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Russulales",
+        "Familia": "Russulaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero de tamaño muy pequeño para lo que es habitual en el género, ninguno de los ejemplares observados en la recolección alcanzaba siquiera los 4 cm de diámetro, siendo lo más habitual encontrar ejemplares ya adultos con un diámetro entre 2 y 3 cm. Superficie mate, si acaso algo viscosa y brillante con lluvia, de un color rojo carmín más bien llamativo con el centro más oscuro, decolorándose hacia tonos rosas con la lluvia. Cutícula separable de la carne del sombrero en 2/3 del total, con el margen liso en los especímenes jóvenes y estriado en los adultos, pudiendo llegar a ser acanalado de viejo.",
+        "hymenium": "Láminas libres con respecto al pie y relativamente separadas entre sí, ventrudas, de color claro, blanquecino o crema pálido, tiñéndose con la esporulación de un color crema mucho más oscuro. En algunos ejemplares se constata una ligera acritud con la masticación.",
+        "stipe": "Pie de tamaño proporcionado al sombrero, blanco, con una cierta tendencia a amarillear en la base y con el tiempo pasar a un tono sucio. Es atenuado o claviforme, muy frágil, en parte debido a que es hueco desde muy joven.",
+        "flesh": "Carne frágil de color blanco, inmutable al corte, su olor es débil, poco significativo, y su sabor es dulce."
+    },
+    "habitat": "Esta especie debe ser considerada como rara y a proteger, de hecho se halla en la lista roja de varios países europeos. Fructifica en bosques de planifolios, tanto bajo robles como bajo hayas, nuestra recolecta ha sido efectuada en bosque de roble americano (Quercus rubra). Salía en grupo de bastantes especímenes en el mes de Junio, entre finales de primavera y principio del verano.",
+    "observations": "Es una rara especie del género Russula que se caracteriza por su pequeño tamaño, su carne dulce y su fragilidad. Russula puellaris es muy parecida, pero su sombrero tiene tonos purpúreos y posee una mayor tendencia al amarilleamiento, adoptando color azafrán en el pie. Russula meltzeri es otra pequeña Russula de aspecto similar a la aquí descrita, pero suele tener la cutícula con aspecto furfuráceo o resquebrajada en los ejemplares adultos.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/russula_puellula/russula_puellula1.jpg",
+        "https://www.fungipedia.org/images/galerias/russula_puellula/russula_puellula2.jpg",
+        "https://www.fungipedia.org/images/galerias/russula_puellula/russula_puellula3.jpg",
+        "https://www.fungipedia.org/images/galerias/russula_puellula/russula_puellula4.jpg",
+        "https://www.fungipedia.org/images/galerias/russula_puellula/russula_puellula5.jpg",
+        "https://www.fungipedia.org/images/galerias/russula_puellula/russula_puellula6.jpg"
+    ]
+}

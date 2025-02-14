@@ -1,0 +1,30 @@
+{
+    "name": "phallus-impudicus",
+    "title": null,
+    "author": "(L.)",
+    "additional_info": {
+        "common_name": "Falo hediondo, Etsai-zakil, Ou del dioble.",
+        "synonym": "Jaczewskia phalloides Matt."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Gasteromycetidae",
+        "Orden": "Phallales",
+        "Familia": "Phallaceae"
+    },
+    "edibility": "no-comestible",
+    "characteristics": {
+        "cap": "Carpóforo en un principio en forma de huevo, muy blando y gelatinoso, con la superficie externa de color blanco. Si efectuásemos un corte transversal al huevo, encontraríamos una primera capa gelatinosa de color marrón translúcida, más hacia el interior una capa verde, que con posterioridad se transformará en la gleba, y en el centro una zona blanca más amplia que será el pie.",
+        "hymenium": "Gleba mucilaginosa instalada en el ápice al desarrollarse el espécimen, de color verdoso, las moscas se posan sobre ella llevándosela poco a poco, al final queda solo el fondo blanquecino con forma de panal.",
+        "stipe": "Pie que pasa con facilidad de los 10 cm de largo, hueco y poroso como las esponjas.",
+        "flesh": "Carne muy frágil, de olor fétido insoportable."
+    },
+    "habitat": "Sale por igual en bosques de coníferas o de planifolios, y salvo en el invierno, te la puedes encontrar en cualquier época del año. Común y muy frecuente.",
+    "observations": "Adentrados en la espesura del bosque, aún sin verlo sabemos que tenemos cerca esta seta, ya que su olor nauseabundo se percibe a varios metros de distancia. Este olor atrae a las moscas que se posan en su gleba, contribuyendo de esta manera a la dispersión de sus esporas. Se parece en estado de huevo a otras especies como al Clathrus archeri, pero un corte transversal nos sacará de dudas. También se parece al Phallus hadriani, que brota de un huevo rosado.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/phallus_impudicus/phallus_impudicus1.jpg",
+        "https://www.fungipedia.org/images/galerias/phallus_impudicus/phallus_impudicus2.jpg"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "trametes-hirsuta",
+    "title": null,
+    "author": "(Wulfen) Lloyd",
+    "additional_info": {
+        "common_name": "Yesquero blanco peludo, larruki ilelatz, bolet de soca blanc.",
+        "synonym": "Coriolus hirsutus (Wulfen) Pat."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Aphyllophoromycetidae",
+        "Orden": "Poriales",
+        "Familia": "Coriolaceae"
+    },
+    "edibility": "no-comestible",
+    "characteristics": {
+        "cap": "Carpóforo anual, no perenne, con un tamaño que puede acercarse a los 10 cm de anchura, por más o menos la mitad de proyección, y un espesor en su zona más ancha de aproximadamente 1 cm. Tiene forma semicircular o de abanico, y es de color blanco en su juventud, adoptando con el tiempo tonos grises de diferente intensidad. Su superficie puede presentar zonas concéntricas de varios tonos, pero no es especialmente zonado, siendo muy evidente el recubrimiento de pelos erizados de color blanco o plata que la recorren en su totalidad. El margen o zona de crecimiento es blanco amarillento de joven, pero acaba por ser de color ocre.",
+        "hymenium": "Himenio porado, con poros de un tamaño de 3 o 4 por mm, cuando son jóvenes de color blancuzco, luego cremas, e incluso con algún matiz grisáceo, y de viejos se vuelven ocráceos.",
+        "stipe": "Pie inexistente, se trata de una especie sésil.",
+        "flesh": "Carne más blanda de lo que aparenta, sobre todo de joven, se va endureciendo por capas hasta volverse de textura suberosa. Es de color blanco al principio, pero se vuelve gris oscuro con el tiempo, su olor es suave y agradable, y su sabor poco significativo."
+    },
+    "habitat": "Es un hongo de comportamiento saprófito, descomponedor de la madera muerta sobre la que fructifica. Se le puede encontrar en cualquier época del año formando podredumbre blanca sobre ramas o tocones de planifolios, con cierta predilección por las hayas. Se trata de una especie bastante frecuente.",
+    "observations": "Se caracteriza por su superficie cubierta de pelos, lo que la distingue de otros congéneres. La Trametes versicolor tiene la carne más delgada, y su superficie es claramente zonada de forma concéntrica, la Trametes pubescens no tiene zonas ni pelos, es solo tomentosa y de color blanco, por lo demás también parecida a esta. Hemos constatado que el aficionado poco experto suele confundirla con el Stereum hirsutum, debido a la presencia de pelos, pero los Stereum tienen el himenio liso y no tienen casi ni carne.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/trametes_hirsuta/trametes_hirsuta1.jpg",
+        "https://www.fungipedia.org/images/galerias/trametes_hirsuta/trametes_hirsuta2.jpg",
+        "https://www.fungipedia.org/images/galerias/trametes_hirsuta/trametes_hirsuta3.jpg"
+    ]
+}

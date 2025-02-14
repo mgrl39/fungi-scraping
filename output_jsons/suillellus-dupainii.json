@@ -1,0 +1,31 @@
+{
+    "name": "suillellus-dupainii",
+    "title": null,
+    "author": "(Boud.) Blanco-Dios",
+    "additional_info": {
+        "common_name": "Boleto de Dupain.",
+        "synonym": "Boletus dupainii (Boudier)"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Boletales",
+        "Familia": "Boletaceae"
+    },
+    "edibility": "comestible",
+    "characteristics": {
+        "cap": "Sombrero que en estado adulto tiene de 10 a 15 cm de diámetro, inicialmente de forma convexa, algo más aplanado al desarrollarse, pero sin perder cierta convexidad. El color es ciertamente llamativo, rojo sangre o rojo escarlata, solo en la vejez adopta tonos amarillentos, además es brillante y lubrificado. Borde bastante regular, solamente un poco ondulado en ocasiones.",
+        "hymenium": "Tubos no demasiado largos, de color amarillo cuando el espécimen es joven, después oliváceos, azulean al corte visiblemente.",
+        "stipe": "Poros de color anaranjado de joven, pero rápidamente rojos aunque manteniendo un cierto tono naranja hacia el borde. Azulean débilmente a la presión.",
+        "flesh": "Pie cilíndrico, central y grueso, algo más engrosado en la base, de color amarillento en la parte de arriba, el resto de color rojo, poco o nada reticulado."
+    },
+    "habitat": "Carne de color amarillo pálido, bastante gruesa, de olor afrutado intenso pero no desagradable y sabor dulzón. Al corte se vuelve de color azul.",
+    "observations": "Fructifica a finales de verano y durante el otoño. La hemos encontrado en encinares y robledales, a veces sale en grupos tras las primeras lluvias, pero es poco frecuente.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/suillellus_dupainii/suillellus_dupainii1.jpg",
+        "https://www.fungipedia.org/images/galerias/suillellus_dupainii/suillellus_dupainii2.jpg",
+        "https://www.fungipedia.org/images/galerias/suillellus_dupainii/suillellus_dupainii3.jpg"
+    ]
+}

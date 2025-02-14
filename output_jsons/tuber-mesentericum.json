@@ -1,0 +1,37 @@
+{
+    "name": "tuber-mesentericum",
+    "title": null,
+    "author": "Vittad.",
+    "additional_info": {
+        "common_name": "Trufa de verano maloliente",
+        "synonym": "Tuber aestivum var. mesentericum (Vittad.) E. Fisch."
+    },
+    "taxonomy": {
+        "División": "Ascomycota",
+        "Subdivisión": "Ascomycotina",
+        "Clase": "Himenoascomycetes",
+        "Subclase": "Pezizomycetidae",
+        "Orden": "Pezizales",
+        "Familia": "Tuberaceae"
+    },
+    "edibility": "comestible",
+    "characteristics": {
+        "cap": "Carpóforo que en los ejemplares más jóvenes es prácticamente esférico, pero que adopta formas un tanto variables al crecer, oblongo e irregular, sin demasiada protuberancias, con la presencia en la base de una cavidad característica. Tiene un tamaño más bien reducido, entre 2 y 4 cm de diámetro, pudiendo ocasionalmente llegar a los 6 o 7 cm. Es de color marrón oscuro o negro, color bastante uniforme. No presenta ningún tipo de dehiscencia, y es verrucoso en su totalidad.",
+        "hymenium": "Peridio de color marrón muy oscuro o prácticamente negro a veces, recubierto en su totalidad por verrugas piramidales que en su base tienen una anchura en nuestra recolecta de entre 3 y 6 mm, muy intrincadas entre si, incluso con algún surco, y que se proyectan hacia arriba de forma menos prominente que otras especies similares, pudiendo llegar a ser achatadas en ocasiones, aunque de forma mayoritaria terminadas en punta.",
+        "stipe": "Gleba compacta, llena, de color marrón bastante oscuro, pero provista de unas venosidades blanquecinas que no suelen cambiar de color con la maduración, es habitual, en los ejemplares jóvenes sobre todo, que las venas tengan una especie de convergencia radial hacia la zona basal.",
+        "flesh": "Carne compacta, consistente, con un olor fuerte y acentuado bastante desagradable, que recuerda en la recolecta al alquitrán, pero que en espacios cerrados adquiere también un matiz alcanforado, su sabor es fuerte y ligeramente amargo, pero ni mucho menos tan desagradable como lo es el olor."
+    },
+    "habitat": "Al igual que todos sus congéneres, estamos ante una especie de crecimiento hipogeo, fructifica bajo tierra, a poca profundidad, formando grietas en el terreno, e incluso de forma esporádica puede asomar a la superficie. Es una especie que micorriza con diversos árboles, como el haya, avellano, roble o encina, formando donde sale una zona desprovista de vegetación que coloquialmente se denomina quemado, nuestras recolectas son de haya (Fagus sylvatica) y avellano (Corylus avellana). Es de crecimiento temprano, no le gusta el frío, fructifica a partir de la primavera y durante los meses estivales, muchas veces compartiendo hábitat con Tuber aestivum.",
+    "observations": "Especie de trufa de verano caracterizada por tener un olor desagradable a alquitrán o alcanfor, un sabor fuerte y tener una gleba de color marrón oscuro con venas blancas. Durante mucho tiempo, debido a las similitudes de su microscopía, esta especie ha estado sinonimizada con Tuber aestivum, de buen olor y sabor, los estudios filogenéticos han demostrado algo que por otra parte resultaba obvio, que son dos especies diferentes. Además de las características organolépticas, la especie descrita posee una cavidad basal típica que no tiene Tuber aestivum. Es un comestible mediocre. Tuber uncinatum, muy similar, es en realidad una forma otoñal de Tuber aestivum.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/tuber_mesentericum/tuber_mesentericum1.jpg",
+        "https://www.fungipedia.org/images/galerias/tuber_mesentericum/tuber_mesentericum2.jpg",
+        "https://www.fungipedia.org/images/galerias/tuber_mesentericum/tuber_mesentericum3.jpg",
+        "https://www.fungipedia.org/images/galerias/tuber_mesentericum/tuber_mesentericum4.jpg",
+        "https://www.fungipedia.org/images/galerias/tuber_mesentericum/tuber_mesentericum5.jpg",
+        "https://www.fungipedia.org/images/galerias/tuber_mesentericum/tuber_mesentericum6.jpg",
+        "https://www.fungipedia.org/images/galerias/tuber_mesentericum/tuber_mesentericum7.jpg",
+        "https://www.fungipedia.org/images/galerias/tuber_mesentericum/tuber_mesentericum8.jpg",
+        "https://www.fungipedia.org/images/galerias/tuber_mesentericum/tuber_mesentericum9.jpg"
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "name": "russula-solaris",
+    "title": null,
+    "author": "Ferd. & Winge",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Ninguno."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Russulales",
+        "Familia": "Russulaceae"
+    },
+    "edibility": "no-comestible",
+    "characteristics": {
+        "cap": "Sombrero de tamaño medio, puede superar en pleno desarrollo los 5 cm de diámetro, sin llegar en ningún caso a los 10, más bien globoso en su nacimiento, posteriormente convexo, y extendido al final, e incluso puede llegar a presentar una depresión central no muy acusada. Su color varía en función de las condiciones climatológicas, siendo de color amarillo huevo en la zona central, pero palideciendo hacia el margen, pudiendo quedar prácticamente blanquecina. Su cutícula puede ser ligeramente viscosa con lluvia, brillante y parcialmente separable, siendo este un carácter también variable. El margen es estriado de forma notable.",
+        "hymenium": "Láminas adnatas de color blanco cuando la seta es joven, tornándose un poco crema ocráceo de viejas. Son relativamente apretadas de jóvenes, a la par que bifurcadas, pudiendo incluso estar interconectadas.",
+        "stipe": "Pie de tamaño proporcionado al del sombrero y color blanco, puede estar manchado de ocre con la edad. Ligeramente pruinoso, irregular en su grosor en sus diversas partes, con ensanchamientos.",
+        "flesh": "Carne poco espesa, frágil, de color blanco, esponjosa en el pie con el tiempo y quebradiza en el sombrero. Su sabor es fuertemente acre y su olor muy desagradable, entre clorado y avinagrado."
+    },
+    "habitat": "Se trata de una especie muy poco frecuente por estos lares, que fructifica en bosques de hayas y robles. Es de aparición temprana, veraniega, aunque también se da durante el otoño. Suele salir solitaria o en grupos de unos poquitos ejemplares, no es muy prolífica.",
+    "observations": "Es una Russula más bien poco conocida que se caracteriza por su sombrero amarillento a blanquecino, sus láminas bifurcadas, y su desagradable olor y sabor. La seta que más se le parece es la Russula raoultii, algo más endeble y con olor a manzanas. La Russula violeipes cuando es amarilla se la parece mucho también, aunque si el pie se tiñe de violeta nos sacará de dudas, además el color de la esporada varía bastante. Existen otras Russulas amarillas pero de esporada más ocrácea o amarillenta.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/russula_solaris/russula_solaris1.jpg",
+        "https://www.fungipedia.org/images/galerias/russula_solaris/russula_solaris2.jpg",
+        "https://www.fungipedia.org/images/galerias/russula_solaris/russula_solaris3.jpg",
+        "https://www.fungipedia.org/images/galerias/russula_solaris/russula_solaris4.jpg",
+        "https://www.fungipedia.org/images/galerias/russula_solaris/russula_solaris5.jpg",
+        "https://www.fungipedia.org/images/galerias/russula_solaris/russula_solaris6.jpg"
+    ]
+}

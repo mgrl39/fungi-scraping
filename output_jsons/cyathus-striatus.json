@@ -1,0 +1,31 @@
+{
+    "name": "cyathus-striatus",
+    "title": null,
+    "author": "(Huds.) Willd.",
+    "additional_info": {
+        "common_name": "Ciato estriado, habia idaskatu, nivets.",
+        "synonym": "Cyatus hirsutus (Schaeff.) Quél."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Gasteromycetidae",
+        "Orden": "Nidulariales",
+        "Familia": "Nidulariaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Carpóforo compuesto por fructificaciones de algo más de 1 cm de alto por otro tanto de ancho, al principio cerradas y globosas, recubiertas de unos pelos característicos incluso erizados en ocasiones. Al abrirse crea una especie de membrana que finalmente acaba por romperse. En este estado adulto, tiene forma de nido de pájaro tronco cónico, diferenciándose tres estratos diferentes en su peridio, por un lado la zona exterior recubierta de pelos de color marrón o pardo rojizo, la membrana blanquecina que desaparece por completo con el tiempo, y la parte interna estriada o acanalada de color gris.",
+        "hymenium": "Gleba constituida por una especie de huevos diminutos de color gris oscuro, técnicamente llamados peridíolos, con forma de lenteja, y un tamaño que apenas supera el milímetro. Suelen ser aproximadamente unos 15 huevos por ejemplar, y están unidos por un solo filamento a la pared o endoperidio.",
+        "stipe": "Pie inexistente, es sésil.",
+        "flesh": "Carne insignificante, sin olor o sabor reseñable."
+    },
+    "habitat": "Es una especie relativamente frecuente que fructifica casi todo el año, a excepción tal vez del invierno. Aparece sobre restos leñosos tanto de coníferas como de planifolios, comportándose de forma saprófita.",
+    "observations": "Existen otras especies con forma que asemeja a los nidos de los pájaros y que poseen una especie de huevos en su interior. El interior acanalado o estriado la diferencia del Cyathus olla, que lo tiene liso, y además el recubrimiento exterior no tiene pelos tan erizados. Cyathus stercoreus, de hábitat esencialmente coprófilo, también tiene el endoperidio liso.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/cyathus_striatus/cyathus_striatus1.jpg",
+        "https://www.fungipedia.org/images/galerias/cyathus_striatus/cyathus_striatus2.jpg",
+        "https://www.fungipedia.org/images/galerias/cyathus_striatus/cyathus_striatus3.jpg"
+    ]
+}

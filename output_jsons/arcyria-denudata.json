@@ -1,0 +1,34 @@
+{
+    "name": "arcyria-denudata",
+    "title": null,
+    "author": "(L.) Wettst.",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Trichia denudata (L.) Vill."
+    },
+    "taxonomy": {
+        "División": "Myxomycota",
+        "Subdivisión": "Myxomycotina",
+        "Clase": "Myxomycetes",
+        "Subclase": "Myxogasteromycetidae",
+        "Orden": "Trichiales",
+        "Familia": "Arcyriaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Esporóforo erecto de crecimiento individual pero gregario, con una altura que apenas llega a los 2 o 3 mm. Su desarrollo parte del mucus de un plasmodio de color blanco que forma el hipotalo, y que se reúne en pequeñas protuberancias que adoptan un color rojizo, su desarrollo myxogasteroide hace que se eleve un pie que puede mantener el color rojizo o volverse marrón y que es macizo. En la cúspide de este tallo se desarrolla la cabezuela fértil al principio globosa, pero que se alarga rápido hasta adoptar una forma ovoide, esta cabezuela alberga en su interior las esporas y el capilicio. Al romperse la cobertura externa o peridio , que es liso, se libera el capilicio, que es siempre muy abundante y puede presentar un color rosado, rojizo, o finalmente marrón con matiz rojizo. Este capilicio está compuesto por fibras con medios anillos resaltados en forma de espiral de 3 o 4 micras de diámetro que no son muy homogéneos y dan paso a otras zonas más verrucosas, el aspecto viéndolo lateralmente es el de ser fibras crestadas. Siempre presenta en la unión entre pie y cabeza fértil una especie de calículo embudado y algo reticulado al que se fija el capilicio.",
+        "hymenium": "Esporas de color marrón rojizo en masa, más o menos redondeadas y con un diámetro de entre 6 y 9 micras. Presentan finas verrugas irregularmente dispuestas o dispersas.",
+        "stipe": "Es un Myxomycete que fructifica de manera exclusiva sobre madera muerta en descomposición, tanto de coníferas como de planifolios, en zonas húmedas. No tiene una especial predilección por una época del año determinada, si las condiciones ambientales son propicias puede hacerlo a lo largo de todo el año. Es sin duda una de las especies más comunes de su género, aunque su pequeño tamaño hace complicada su búsqueda. Nuestra recolecta ha sido efectuada sobre madera muerta de pino.",
+        "flesh": "Las especies del género Arcyria se caracterizan por su crecimiento myxogasteroide a partir de un plasmodio del tipo faneroplasmodio, tener un pie macizo no compuesto de fibras, así como por la presencia siempre de un abundante capilicio. Existen muchas especies de este mismo género con las cuales se puede confundir la especie que les describimos en esta ficha, como Arcyria incarnata, de una rojo más intenso, pero en todo caso el estudio microscópico se antoja indispensable para la determinación de estas especies."
+    },
+    "habitat": null,
+    "observations": null,
+    "images": [
+        "https://www.fungipedia.org/images/galerias/arcyria_denudata/arcyria_denudata1.jpg",
+        "https://www.fungipedia.org/images/galerias/arcyria_denudata/arcyria_denudata2.jpg",
+        "https://www.fungipedia.org/images/galerias/arcyria_denudata/arcyria_denudata3.jpg",
+        "https://www.fungipedia.org/images/galerias/arcyria_denudata/arcyria_denudata4.jpg",
+        "https://www.fungipedia.org/images/galerias/arcyria_denudata/arcyria_denudata5.jpg",
+        "https://www.fungipedia.org/images/galerias/arcyria_denudata/arcyria_denudata6.jpg"
+    ]
+}

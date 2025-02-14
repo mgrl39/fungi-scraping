@@ -1,0 +1,31 @@
+{
+    "name": "leucopaxillus-lepistoides",
+    "title": null,
+    "author": "(Maire) Singer",
+    "additional_info": {
+        "common_name": "Bitigar sendo.",
+        "synonym": "Ninguno."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Tricholomatales",
+        "Familia": "Tricholomataceae"
+    },
+    "edibility": "excelente-comestible",
+    "characteristics": {
+        "cap": "Sombrero que en su máximo esplendor puede superar notablemente los 20 cm de diámetro, macizo y muy carnoso, de forma globosa de joven, después convexo, sin llegar a aplanarse nunca del todo. Es de color blanco y pruinoso de joven, cuarteándose y adquiriendo algún matiz crema, sobre todo en el centro, en la madurez. El margen permanece enrollado largo tiempo de forma además muy notable.",
+        "hymenium": "Láminas adnatas, separables del sombrero, muy apretadas, de joven blanquecinas, luego claramente de color crema.",
+        "stipe": "Pie muy corto y achaparrado, grueso y de color blanquecino. Es tan corto que cuando ves la seta en el suelo solo ves el sombrero pegado al suelo como si fuera una piedra.",
+        "flesh": "Carne netamente blanca, muy espesa y consistente, de sabor y olor muy agradables con matiz acídulo."
+    },
+    "habitat": "Suele brotar tanto en primavera como en el otoño, en páramos y pastizales de montaña, también en praderas no cultivadas, en altitudes superiores a los 800 metros. Es una seta poco frecuente por ser muy localizada.",
+    "observations": "Se trata de un excelente comestible sobre todo en estado joven, su textura es similar a los hongos y su sabor más fino y acídulo. El hecho de mantener el borde enrollado, su pie corto, y sus láminas adnatas, la diferencian con exactitud de otras especies como el Clitocybe candida, o el Leucopaxillus paradoxus, ambos con las láminas muy decurrentes.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/leucopaxillus_lepistoides/leucopaxillus_lepistoides1.jpg",
+        "https://www.fungipedia.org/images/galerias/leucopaxillus_lepistoides/leucopaxillus_lepistoides2.jpg",
+        "https://www.fungipedia.org/images/galerias/leucopaxillus_lepistoides/leucopaxillus_lepistoides3.jpg"
+    ]
+}

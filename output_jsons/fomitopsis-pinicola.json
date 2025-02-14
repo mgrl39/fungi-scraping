@@ -1,0 +1,31 @@
+{
+    "name": "fomitopsis-pinicola",
+    "title": null,
+    "author": "(Sw.) P. Karst.",
+    "additional_info": {
+        "common_name": "Yesquero del pino, yesquero rebordeado.",
+        "synonym": "Polyporus marginatus (Pers.) Fr."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Aphyllophoromycetidae",
+        "Orden": "Poriales",
+        "Familia": "Coriolaceae"
+    },
+    "edibility": "no-comestible",
+    "characteristics": {
+        "cap": "Carpóforo perenne de considerable tamaño, puede alcanzar a lo ancho 50 cm, por 25 de proyección, teniendo un espesor superior a los 10 cm. Por regla general suele tener forma semicircular o de consola, y se encuentra tan pegado al sustrato sobre el que fructifica que resulta complicado desprenderlo de él. Inicialmente es de color marrón rojizo, si bien su superficie suele tener zonas concéntricas de diversos tonos, grisáceos o marcadamente ocres. Los especímenes viejos adoptan color negruzco en su superficie, que está recubierta de una sustancia similar al barniz muy característica. El margen o zona de crecimiento es de color blanco amarillento, obtusamente rebordeado.",
+        "hymenium": "Himenio compuesto por capas anuales de tubos dispuestos en estratos sin capa de separación evidente, de color blanquecino o amarillento. Poros concoloros de pequeño tamaño, 3 a 5 por mm, la superficie himenial se ensucia al roce.",
+        "stipe": "Pie inexistente, se adhiere directamente al sustrato.",
+        "flesh": "Carne dura y correosa, de consistencia suberosa y color crema, más oscura en la vejez. Su olor y sabor, quizás por transferencia del propio sustrato, es resinoso. Es notablemente espesa, sobre todo en la zona de unión con el sustrato."
+    },
+    "habitat": "Es una especie frecuente sobre madera de pino, no así sobre otro tipo de árboles, fructificando prácticamente en cualquier época del año sobre las heridas, o directamente sobre árboles muertos.",
+    "observations": "Por su hábitat y color marrón rojizo, no creemos que sea difícil de identificar, sin embargo hay especies que fructifican sobre madera que también poseen esa capa de resina o barniz en su superficie, tal es el caso del Ganoderma resinaceum, más habitual sobre robles, cuya capa de resina es más densa, siendo además una especie más blanda que la que les describimos aquí. Ganoderma pfeifferi puede tener cierta similitud, si bien su carne es mucho más oscura, parda y no crema.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/fomitopsis_pinicola/fomitopsis_pinicola1.jpg",
+        "https://www.fungipedia.org/images/galerias/fomitopsis_pinicola/fomitopsis_pinicola2.jpg",
+        "https://www.fungipedia.org/images/galerias/fomitopsis_pinicola/fomitopsis_pinicola3.jpg"
+    ]
+}

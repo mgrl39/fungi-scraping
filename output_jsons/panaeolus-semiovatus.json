@@ -1,0 +1,31 @@
+{
+    "name": "panaeolus-semiovatus",
+    "title": null,
+    "author": "(Sowerby) S.Lundell & Nannf.",
+    "additional_info": {
+        "common_name": "Orribeltz arrautzerdi.",
+        "synonym": "Anellaria semiovata (Sowerby) A. Persoon & Dennis"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Agaricales",
+        "Familia": "Coprinaceae"
+    },
+    "edibility": "no-comestible",
+    "characteristics": {
+        "cap": "Sombrero que puede llegar a alcanzar los 5 cm de altura por tres de diámetro en su zona más ancha, en su nacimiento pegado al pie y de color beige, pero pronto se abre quedando con forma de campana o más propiamente de medio huevo. Su color de adulto es el crema grisáceo bastante uniforme, a veces blanquecino. Cutícula un poco rugosa, glabra, brillante incluso con tiempo seco, más bien viscosa con lluvia. El margen puede tener restos de velo y no es estriado.",
+        "hymenium": "Láminas adnatas dispuestas de manera ascendente, ventrudas y bastante densas. Son de color gris de joven, pero muy pronto se vuelven negruzcas.",
+        "stipe": "Pie desproporcionadamente alargado, cilíndrico y con un pequeño bulbo en la base. Estriado longitudinalmente de forma poco visible y algo pruinoso, hueco. Su color es similar al del sombrero y posee un anillo frágil de color blanquecino.",
+        "flesh": "Carne escasa y muy delgada de color blanquecino o crema. Olor y sabor poco significativos."
+    },
+    "habitat": "Fructifica sobre excrementos de ganado, muchas veces de forma gregaria. Su época de aparición es la primavera, saliendo también durante el otoño. Es una seta muy frecuente.",
+    "observations": "Consideramos que es una seta inconfundible, en primer lugar por su tamaño, es la especie más grande de su género que se da de forma habitual. Su forma de medio huevo también es definitoria, así como su color uniforme más claro que otras especies del género. Además tiene anillo, con lo cual es muy difícil confundirla con otras especies con las que comparte hábitat, como el Panaeolus papilonaceus.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/panaeolus_semiovatus/panaeolus_semiovatus1.jpg",
+        "https://www.fungipedia.org/images/galerias/panaeolus_semiovatus/panaeolus_semiovatus2.jpg",
+        "https://www.fungipedia.org/images/galerias/panaeolus_semiovatus/panaeolus_semiovatus3.jpg"
+    ]
+}

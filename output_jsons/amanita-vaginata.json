@@ -1,0 +1,31 @@
+{
+    "name": "amanita-vaginata",
+    "title": null,
+    "author": "(Bull.) Lam.",
+    "additional_info": {
+        "common_name": "Cucumela, kukumela grisea, pentinella, amanita enfundada.",
+        "synonym": "Amanitopsis vaginata (Bull.) Roze"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Agaricales",
+        "Familia": "Amanitaceae"
+    },
+    "edibility": "buen-comestible",
+    "characteristics": {
+        "cap": "Sombrero con un diámetro que puede oscilar en los individuos adultos entre los 5 y los 10 (12) cm, con forma campanulada en la primera fase de crecimiento, se va abriendo paulatinamente hasta quedar prácticamente plano, conservando en el centro un pequeño mamelón agudo. Cutícula separable ampliamente estriada de color variable según variedad, gris ceniza en la especie tipo, gris plomo o incluso blanca, con restos amplios del velo principal en los ejemplares más jóvenes que tienden a desaparecer con facilidad por lo que es más habitual encontrarla sin ellos.",
+        "hymenium": "Láminas libres con respecto al pie, relativamente apretadas, estrechas y con abundantes lamélulas, de disposición un tanto irregular, de color blanco con la arista del mismo color y algo sedosa.",
+        "stipe": "Pie desproporcionádamente alargado con respecto al sombrero y fácilmente separable del mismo, de color blanco, es lleno cuando el espécimen es joven, después fistuloso o hueco, apenas decorado, sin anillo pero con una volva membranosa saciforme en su base igualmente blanca.",
+        "flesh": "Carne blanca, delgada y de consistencia frágil, se rompe a la menor manipulación, apenas tiene olor y su sabor en crudo es dulce, agradable."
+    },
+    "habitat": "Especie cosmopolita de amplia distribución, fructifica por igual prácticamente en cualquier tipo de bosque, tanto de planifolios como de coníferas, encinas, robles, hayas, alcornoques, pinos, siendo además una especie muy común en cualquier punto de la península ibérica. Crece de forma aislada o bien en pequeños grupos, y podemos observarla casi en cualquier época del año si las condiciones climatológicas son adecuadas.",
+    "observations": "Es una especie comestible poco carnosa con la que hay que tomar las debidas precauciones, dado que es tóxica en crudo, contiene hemolisinas que destruyen los glóbulos rojos, sustancias que son termolábiles, desaparecen a partir de 70 grados centígrados aproximadamente, ha de ser por tanto bien cocinada. Antiguamente todas las Amanitopsis o Amanitas sin anillo, eran consideradas como variedades de la especie tipo Amanita vaginata, actualmente muchas de ellas son consideradas taxones propios, y salvo por detalles como color del sombrero (Amanita fulva) o ciertas abolladuras del mismo (Amanita malleata), todas guardan un cierto parecido entre sí. Ojo con confundirla con la mortal Amanita virosa, sobre todo los ejemplares blancos de la vaginata, la presencia de anillo y el olor viroso desagradable sirven para evitar dicha confusión.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/amanita_vaginata/amanita_vaginata1.jpg",
+        "https://www.fungipedia.org/images/galerias/amanita_vaginata/amanita_vaginata2.jpg",
+        "https://www.fungipedia.org/images/galerias/amanita_vaginata/amanita_vaginata3.jpg"
+    ]
+}

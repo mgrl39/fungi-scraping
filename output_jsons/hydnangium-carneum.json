@@ -1,0 +1,33 @@
+{
+    "name": "hydnangium-carneum",
+    "title": null,
+    "author": "Wallr.",
+    "additional_info": {
+        "common_name": "Falsa trufa de color rosado",
+        "synonym": "Octaviania carnea (Wallr.) Corda"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Agaricales",
+        "Familia": "Hydnangiaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Carpóforo con un tamaño ciertamente pequeño, por regla general el diámetro de los ejemplares adultos suele oscilar entre 0´5 y 3 cm, con la forma tuberculada habitual de las especies hipogeas, pero en este caso siendo esta bastante irregular, pudiendo ser globoso, subgloboso, e incluso oblongo, y también tener protuberancias diversas o hendiduras incluso. Tiene un aspecto seco y un color que va del blanquecino rosado a netamente rosado. Cuando los ejemplares son jóvenes, suele aparecer una especie de pedúnculo o pseudopie, que no es otra cosa en realidad que la unión de diversos cordones miceliales, que en los especímenes adultos no suele estar presente.",
+        "hymenium": "Peridio bastante fino, de aspecto general ligeramente afieltrado o fibriloso y seco, con un color blanquecino con matiz rosado en los primeros estados de desarrollo, después netamente rosado cárneo, con alguna mancha más oscura en zonas manipuladas. Es bastante habitual que llegue a desaparecer parcialmente dejando entrever la gleba.",
+        "stipe": "Gleba compacta y carnosa, formada por una serie de pliegues de aspecto un tanto laberíntico aunque irregular, generalmente más apretados en la zona de la base, y más abiertos hacia el ápice. Tiene un color similar al peridio, rosado cárneo, algo más blanco cuando es inmadura, y al igual que este puede presentar alguna mancha por oxidación. Columela que en algunos ejemplares es patente y centrada, mientras que en otros apenas se vislumbra.",
+        "flesh": "Carne inexistente más allá de la propia gleba, el olor es bastante suave, débil, y el sabor es algo dulzón."
+    },
+    "habitat": "Estamos ante una especie a la que podemos calificar de semihipogea, dado que en un principio se desarrolla bajo tierra a poca profundidad, pero al madurar suele asomar algo al exterior. Se trata de una especie exclusiva de los eucaliptales (Eucalyptus ssp), en este hábitat está considerada como una especie frecuente, si bien su reducido tamaño y su carácter semihipogeo hacen que no sea tan sencillo su localización. Suele aparecer durante el invierno y primavera, generalmente en grupos, rara vez aislada. Los ejemplares objeto de este estudio fueron localizados por Javier Fernandez Vicente en el Jardín Botánico de Barakaldo, fructificando bajo Eucalyptus cinerea.",
+    "observations": "Especie caracterizada por su hábitat exclusivo bajo Eucalyptus ssp, su pequeño tamaño, su crecimiento semihipogeo, y el destacado color rosado cárneo de todas sus partes, lo que da origen a su nombre. Microscópicamente se caracteriza por sus esporas globosas adornadas con evidentes acúleos puntiagudos o cónicos, y por tener basidios tanto bispóricos como monospóricos, caracteres que pueden apreciar en nuestro apartado de \"características microscópicas\". Las especies de este género son de origen australiano, y han sido introducidas en Europa a través de la repoblación con Eucaliptos, son especies próximas filogenéticamente al género Laccaria, al punto que cada vez hay un mayor consenso científico en considerar a estas como formas gasteroides de dicho género, y a relacionar esta en concreto con Laccaria fraterna, muy abundante en nuestros eucaliptales.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/hydnangium_carneum/hydnangium_carneum1.jpg",
+        "https://www.fungipedia.org/images/galerias/hydnangium_carneum/hydnangium_carneum2.jpg",
+        "https://www.fungipedia.org/images/galerias/hydnangium_carneum/hydnangium_carneum3.jpg",
+        "https://www.fungipedia.org/images/galerias/hydnangium_carneum/hydnangium_carneum4.jpg",
+        "https://www.fungipedia.org/images/galerias/hydnangium_carneum/hydnangium_carneum5.jpg"
+    ]
+}

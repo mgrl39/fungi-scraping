@@ -1,0 +1,30 @@
+{
+    "name": "ramaria-fennica",
+    "title": null,
+    "author": "(P. Karst.) Ricken",
+    "additional_info": {
+        "common_name": "Ramaria nórdica, coral amargo.",
+        "synonym": "Clavaria fennica P. Karst."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Aphyllophoromycetidae",
+        "Orden": "Gomphales",
+        "Familia": "Ramariaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Carpóforo formado por fructificaciones ramificadas que brotan de una base engrosada de aspecto carnoso. Su altura puede sobrepasar en algunos casos levemente los 10 cm, y sus agrupaciones a lo ancho pueden proyectarse otro tanto. A lo largo de su desarrollo, los individuos de esta especie comienzan siendo de color lila, luego morado oscuro, para acabar decolorándose a tonos ocre lilacinos acuosos o más netamente ocres. Un mismo ejemplar puede presentar varias ramas simples de las que parten otras nuevas ramas, generalmente lisas, y las terminaciones pueden ser simples o algo truncadas en ocasiones.",
+        "hymenium": "Himenio instalado en la superficie externa de las ramificaciones, siendo totalmente liso y del mismo color que todo el conjunto.",
+        "stipe": "Pie formado por un engrosamiento carnoso evidente del que parten las ramas, suele ser del mismo color que el resto del carpóforo o más pálido, a veces incluso blanquecino.",
+        "flesh": "Carne frágil, poco consistente, quebradiza, de color más pálido que la superficie externa, su olor es poco perceptible y su sabor amargo."
+    },
+    "habitat": "Hemos localizado esta especie sobre el suelo, en bosques de frondosas, entre hayas y robles. Fue vista durante el otoño, aunque no descartamos su presencia en otras épocas del año. Debe ser considerada como especie rara y a proteger.",
+    "observations": "Hay cierta confusión con respecto a estas especies de tonos lilas, muchas veces ha sido sinonimizada esta especie con la Ramaria fumigata, de pie blanco y ramificaciones de un lila mucho más vistoso. Existen también algunas Clavarias que por su coloración pueden ser confundidas con esta, Clavaria zollingeri, que crece en praderas, más marcadamente heliófila, Alloclavaria purpurea, especie frágil y translúcida, o Clavulina amethystina, todas ellas carecen del engrosamiento basal carnoso de las Ramarias.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/ramaria_fennica/ramaria_fennica1.jpg",
+        "https://www.fungipedia.org/images/galerias/ramaria_fennica/ramaria_fennica2.jpg"
+    ]
+}

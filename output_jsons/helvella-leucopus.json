@@ -1,0 +1,31 @@
+{
+    "name": "helvella-leucopus",
+    "title": null,
+    "author": "Pers.",
+    "additional_info": {
+        "common_name": "Bonete, orejón, capilote.",
+        "synonym": "Helvella monachella (Scop.) Fr."
+    },
+    "taxonomy": {
+        "División": "Ascomycota",
+        "Subdivisión": "Ascomycotina",
+        "Clase": "Himenoascomycetes",
+        "Subclase": "Pezizomycetidae",
+        "Orden": "Pezizales",
+        "Familia": "Helvellaceae"
+    },
+    "edibility": "comestible-precaucion",
+    "characteristics": {
+        "cap": "Sombrero de entre 2 y 4 cm de alto, un poco más ancho que alto, en forma de bonete o de mitra. Está compuesto por varios lóbulos, 3 o 4 generalmente, de color negro o pardo oscuro casi negro, cuyos bordes son involutos de manera un tanto irregular. La superficie que no es fértil es menos visible y de color más grisáceo. El borde suele estar unido al pie, pero no en su totalidad, dando lugar a algunos huecos o cavidades entre ambos.",
+        "hymenium": "Himenio enclavado en la superficie más visible del sombrero, liso y negruzco.",
+        "stipe": "Pie de 2 a 5 cm de altura, liso, sin costillares, tan solo puede tener algunas líneas poco perceptibles, de color blanquecino y algo engrosado en la base, hueco.",
+        "flesh": "Carne elástica y frágil en el sombrero, correosa la del pie, más bien escasa y blanquecina, sin olor ni sabor dignos de mención."
+    },
+    "habitat": "Es una seta eminentemente primaveral, que aparece en las riberas de los ríos, en zonas arenosas. Es habitual en algunas zonas de la península ibérica, como por ejemplo en La Rioja y Castilla y León, sobre todo en choperas, aunque no de manera exclusiva.",
+    "observations": "A pesar de su carne escasa y algo correosa en el pie, es la Helvella de mayor tradición culinaria, sin embargo no debemos olvidarnos de que es tóxica en crudo como todos sus congéneres, y por tanto hay que cocerla previamente. Se parece a la Helvella lacunosa, que tiene el pie con costillares muy marcados, y sobre todo a la Helvella atra, que tiene el pie de gris a negruzco.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/helvella_leucopus/helvella_leucopus1.jpg",
+        "https://www.fungipedia.org/images/galerias/helvella_leucopus/helvella_leucopus2.jpg",
+        "https://www.fungipedia.org/images/galerias/helvella_leucopus/helvella_leucopus3.jpg"
+    ]
+}

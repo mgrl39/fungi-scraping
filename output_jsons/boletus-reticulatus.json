@@ -1,0 +1,32 @@
+{
+    "name": "boletus-reticulatus",
+    "title": null,
+    "author": "(Schaeffer)",
+    "additional_info": {
+        "common_name": "Boleto reticulado, udako onddo zuri.",
+        "synonym": "Boletus aestivalis (Paulet) Fr."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Boletales",
+        "Familia": "Boletaceae"
+    },
+    "edibility": "excelente-comestible",
+    "characteristics": {
+        "cap": "Sombrero de entre 10 y 15 cm de diámetro, que pasa de ser hemisférico a convexo, para después quedarse plano-convexo. Su color más habitual es el marrón, aunque el tono varía en función de las condiciones del espécimen, pudiendo adoptar tonos grisáceos en época de sequía. Su cutícula es lisa y finamente pubescente, sobre todo de joven, siendo además separable de la carne del sombrero con relativa facilidad.",
+        "hymenium": "Tubos prácticamente libres con respecto al pie, largos y finos, de color blanco en los ejemplares jóvenes, luego amarillo oliva, inmutables.",
+        "stipe": "Poros redondos de color blanco, que evolucionan hacia el amarillo, y al final son verdosos. Inmutables al tacto, si acaso se ensucian un poco en las heridas.",
+        "flesh": "Pie grueso y corto en su primera etapa, después cilíndrico y alargado, de color más claro que el sombrero, en ocasiones incluso blanco. Suele tener una malla visible sobre todo en su parte alta."
+    },
+    "habitat": "Carne gruesa y consistente de joven, con el tiempo se vuelve más blanda, sobre todo en el sombrero. De color blanco en todas las zonas, inmutable al corte. Olor y sabor agradables.",
+    "observations": "Especie que sale de manera exclusiva bajo árboles de hoja caduca, donde aparece ya en finales de la primavera hasta principios del otoño. Es bastante frecuente.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/boletus_reticulatus/boletus_reticulatus1.jpg",
+        "https://www.fungipedia.org/images/galerias/boletus_reticulatus/boletus_reticulatus2.jpg",
+        "https://www.fungipedia.org/images/galerias/boletus_reticulatus/boletus_reticulatus3.jpg",
+        "https://www.fungipedia.org/images/galerias/boletus_reticulatus/boletus_reticulatus4.jpg"
+    ]
+}

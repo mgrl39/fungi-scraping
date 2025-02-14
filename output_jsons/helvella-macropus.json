@@ -1,0 +1,30 @@
+{
+    "name": "helvella-macropus",
+    "title": null,
+    "author": "(Pers.) P. Karst",
+    "additional_info": {
+        "common_name": "Kaliza hankaluze.",
+        "synonym": "Macroscyphus macropus (Pers.) Gray"
+    },
+    "taxonomy": {
+        "División": "Ascomycota",
+        "Subdivisión": "Ascomycotina",
+        "Clase": "Himenoascomycetes",
+        "Subclase": "Pezizomycetidae",
+        "Orden": "Pezizales",
+        "Familia": "Helvellaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero en forma de copa en la mayoría de los casos, aunque a veces, sobre todo en la vejez, tiende a aplanarse. Suele tener 2 o 3 cm de diámetro, y su superficie externa está recubierta de unos pelos muy cortos solo apreciables con lupa, a simple vista aparenta ser furfurácea. Su color es el gris, normalmente muy pálido, casi blancuzco.",
+        "hymenium": "Himenio constituido por la cara interna del sombrero, liso y de color igualmente gris, pero suele ser más oscuro que la superficie externa.",
+        "stipe": "Pie cilíndrico y esbelto, débilmente engrosado en la base, liso o un poco surcado, que puede rondar los 5 cm de altura. Como la parte externa del sombrero tiene pelillos, y es concoloro con el sombrero.",
+        "flesh": "Carne escasa, poco significativa y de consistencia elástica. No tiene olor ni sabor digno de mención."
+    },
+    "habitat": "Es una especie poco abundante pero no rara, que aparece por igual en bosques de coníferas y de caducifolios, desde finales de primavera hasta el otoño.",
+    "observations": "Está caracterizada esta especie por su receptáculo grisáceo en forma de copa y su pie concoloro, que parece una prolongación del mismo. Se parece mucho macroscópicamente a la Helvella dissingii, cuyas esporas no tienen las tres gotitas (gútulas lipídicas) que posee la especie descrita. Esto ha llevado a la creación del subgénero Macroscyphus para esta especie.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/helvella_macropus/helvella_macropus1.jpg",
+        "https://www.fungipedia.org/images/galerias/helvella_macropus/helvella_macropus2.jpg"
+    ]
+}

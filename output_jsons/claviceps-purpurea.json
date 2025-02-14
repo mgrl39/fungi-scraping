@@ -1,0 +1,34 @@
+{
+    "name": "claviceps-purpurea",
+    "title": null,
+    "author": "(Fr.) Tul.",
+    "additional_info": {
+        "common_name": "Cornezuelo del centeno.",
+        "synonym": "Ninguno."
+    },
+    "taxonomy": {
+        "División": "Ascomycota",
+        "Subdivisión": "Ascomycotina",
+        "Clase": "Himenoascomycetes",
+        "Subclase": "Pyrenomycetidae",
+        "Orden": "Clavicipetales",
+        "Familia": "Clavicipetaceae"
+    },
+    "edibility": "toxica",
+    "characteristics": {
+        "cap": "Carpóforo que brota de un esclerocio alargado o cilíndrico, liso o débilmente rayado, de color púrpura, cuyo tamaño varía en función del tamaño de la planta sobre la que parasite. Sobre un mismo esclerocio pueden reproducirse varias fructificaciones.",
+        "hymenium": "Fructificaciones compuestas por un largo pie, que puede superar fácilmente los 10 mm de largo, de color marrón oscuro con tonos rojizos o lilas, en cuyo extremo se sustenta una pequeña cabezuela, a veces poco visible macroscópicamente, de apenas unos milímetros, de color ocre amarillento, aunque marcadas por unos puntos que constituyen los ostiolos.",
+        "stipe": "Carne inapreciable.",
+        "flesh": "Crece de forma totalmente parásita sobre los tallos de diversas gramíneas, no solo del centeno, tanto en primavera como en verano, es muy dañina."
+    },
+    "habitat": "Este hongo tiene en su composición sustancias tóxicas e incluso alucinógenas. Históricamente se cree que está detrás de los sucesos acaecidos en Salem, donde un montón de mujeres fueron ajusticiadas en la hoguera acusadas de brujería tras haber ingerido pan de centeno infectado con Claviceps purpurea y de la famosa epidemia de ergotismo que asolo Europa durante la edad media. En el capítulo de confusiones destacaremos la Sclerotia Claviceps microcephala, que crece sobre semillas de hierbas diversas.",
+    "observations": null,
+    "images": [
+        "https://www.fungipedia.org/images/galerias/claviceps_purpurea/claviceps_purpurea1.jpg",
+        "https://www.fungipedia.org/images/galerias/claviceps_purpurea/claviceps_purpurea2.jpg",
+        "https://www.fungipedia.org/images/galerias/claviceps_purpurea/claviceps_purpurea3.jpg",
+        "https://www.fungipedia.org/images/galerias/claviceps_purpurea/claviceps_purpurea4.jpg",
+        "https://www.fungipedia.org/images/galerias/claviceps_purpurea/claviceps_purpurea5.jpg",
+        "https://www.fungipedia.org/images/galerias/claviceps_purpurea/claviceps_purpurea6.jpg"
+    ]
+}

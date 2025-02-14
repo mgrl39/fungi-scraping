@@ -1,0 +1,30 @@
+{
+    "name": "suillus-granulatus",
+    "title": null,
+    "author": "(L.) Roussel",
+    "additional_info": {
+        "common_name": "Boleto granulado, pinudi-onddo bikordun, molleric granellut.",
+        "synonym": "Boletus granulatus L."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Boletales",
+        "Familia": "Boletaceae"
+    },
+    "edibility": "comestible",
+    "characteristics": {
+        "cap": "Sombrero que rara vez supera los 10 cm de diámetro, inicialmente de forma convexa, después es más o menos aplanado. Se caracteriza por el color uniforme de su superficie, que sin embargo es variable en los tonos, es decir, puede ser marrón a pardo amarillento, o más típicamente ocráceo, pero nunca se decolora por zonas. Esta cutícula se presenta viscosa cuando llueve, y brillante aun sin lluvia, siendo además fácilmente separable de la carne. Tiene una apariencia carnosa.",
+        "hymenium": "Tubos adnatos y bastante cortos, un tanto apretados y de color blanquecino o amarillo pálido en su nacimiento, pronto netamente amarillos.",
+        "stipe": "Poros pequeños de color amarillo. En los ejemplares jóvenes se puede apreciar como exudan unas gotas lechosas que al secarse forman granulaciones sobre el pie.",
+        "flesh": "Pie central y cilíndrico, lleno incluso de viejo, de color amarillo pálido casi blanquecino de joven, luego claramente amarillo. En la parte superior posee unas granulaciones concoloras que con el paso del tiempo pardean."
+    },
+    "habitat": "Carne firme cuando el espécimen es joven, pero se va reblandeciendo con el tiempo, de color amarillo pálido, en ocasiones prácticamente blanca. Su sabor es un poco acídulo pero agradable, y su olor suave, poco definido.",
+    "observations": "Esta seta forma micorriza con los pinos, bajo los cuales fructifica de forma abundante durante los meses otoñales, si bien puede aparecer también en otras épocas del año.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/suillus_granulatus/suillus_granulatus1.jpg",
+        "https://www.fungipedia.org/images/galerias/suillus_granulatus/suillus_granulatus2.jpg"
+    ]
+}

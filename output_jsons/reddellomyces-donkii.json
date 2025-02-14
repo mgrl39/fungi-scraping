@@ -1,0 +1,34 @@
+{
+    "name": "reddellomyces-donkii",
+    "title": null,
+    "author": "(Malençon) Trappe, Castellano & Malajczuk",
+    "additional_info": {
+        "common_name": "Trufa de los eucaliptos.",
+        "synonym": "Labyrinthomyces donkii Malençon"
+    },
+    "taxonomy": {
+        "División": "Ascomycota",
+        "Subdivisión": "Ascomycotina",
+        "Clase": "Himenoascomycetes",
+        "Subclase": "Pezizomycetidae",
+        "Orden": "Tuberales",
+        "Familia": "Tuberaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Carpóforo que tiene un tamaño ciertamente pequeño, en muchos ejemplares poco más que el tamaño de un garbanzo, los más grandes recolectados no superaban en ningún caso los 2 cm de diámetro como mucho. Su aspecto de pequeña patata, como sucede de forma habitual con los hongos hipogeos, puede ser esférico, oblongo, o adquirir formas más irregulares, no es, sin embargo, una especie que se caracterice por tener demasiadas protuberancias. Cuando permanece enterrado o empieza a asomar a la superficie, tiene un color completamente blanco, pero al ir madurando se vuelve primero de color crema, y posteriormente adquiere un tono ocre claro, a veces con algún matiz amarillento ocasional. Tiene un tacto suave, incluso algo sedoso de joven.",
+        "hymenium": "Peridio completamente liso y glabro, a pesar de su tacto suave, totalmente inseparable de la gleba, de color blanco originalmente, deviniendo a crema u ocráceo, es además de esto bastante fino y de aspecto seco, no adquiriendo ninguna viscosidad, ni tan siquiera con la lluvia.",
+        "stipe": "Gleba compacta de aspecto igualmente seco, en los ejemplares más jóvenes se muestra como una masa blanca compacta, sin celdillas ni oquedades, según va madurando el ejemplar, mantiene las venaciones estériles de color blanco, pero el resto va adquiriendo tonos más ocráceos, finalmente la zona fértil se fisura un tanto y se vuelve asalmonada.",
+        "flesh": "Carne inexistente más allá de la propia gleba, compacta, no tiene un olor destacado como otros hipogeos, este es más bien suave, y su sabor es algo dulzón, no desagradable."
+    },
+    "habitat": "Estamos ante una especie alóctona, una de tantas introducida en la península con la plantación masiva de diversas especies del género Eucalyptus, con las que micorriza masivamente. Dentro de este hábitat específico, es una especie bastante común y abundante, aunque muchas veces pase desapercibida por su pequeño tamaño, y por el hecho de nacer de forma hipogea, para posteriomente ir asomando algo a la superficie. En todas las recolectas que hemos efectuado de la especie, siempre la hemos encontrado en gupos bastante numerosos, nunca la vimos de forma aislada. Disponemos de varias localizaciones de la especie dentro de a provincia de Bizkaia, en todos los casos bajo Eucalyptus globulus. Es una espcie de aparición tardía, desde finales del otoño hasta la primavera.",
+    "observations": "Especie caracterizada por su pequeño tamaño, su crecimiento hipogeo o semihipogeo, su color al principio blanco y luego crema u ocre, su aspecto seco, y su crecimiento exclusivo bajo Eucalyptus ssp. Como podrán ver en nuestro apartado microscópico, posee esporas esféricas de paredes gruesas, ascas asimétricas con croziers, y un peridio prosenquimático formado por hifas bastante compactas. En el mismo hábitat suele salir Hysterangium inflatum, con quien en un primer momento podriamos confundirla, pero un simple corte transversal nos sacaría de dudas con facilidad, dado que esta especie posee una gleba característica de color verdoso, algo muy alejado de la especie objeto de esta ficha.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/reddellomyces_donkii/reddellomyces_donkii1.jpg",
+        "https://www.fungipedia.org/images/galerias/reddellomyces_donkii/reddellomyces_donkii2.jpg",
+        "https://www.fungipedia.org/images/galerias/reddellomyces_donkii/reddellomyces_donkii3.jpg",
+        "https://www.fungipedia.org/images/galerias/reddellomyces_donkii/reddellomyces_donkii4.jpg",
+        "https://www.fungipedia.org/images/galerias/reddellomyces_donkii/reddellomyces_donkii5.jpg",
+        "https://www.fungipedia.org/images/galerias/reddellomyces_donkii/reddellomyces_donkii6.jpg"
+    ]
+}

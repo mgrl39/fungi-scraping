@@ -1,0 +1,30 @@
+{
+    "name": "lactarius-indigo",
+    "title": null,
+    "author": "(Schwein.) Fr.",
+    "additional_info": {
+        "common_name": "Hongo azul, añil, zuin, quexque, ririchaca.",
+        "synonym": "Lactarius canadensis Winder"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Russulales",
+        "Familia": "Russulaceae"
+    },
+    "edibility": "buen-comestible",
+    "characteristics": {
+        "cap": "Sombrero de tamaño similar a los níscalos, en su máximo crecimiento puede alcanzar los 15 cm de diámetro, siendo lo más habitual encontrarlos entre 5 y 10 cm. De forma convexa en su nacimiento, pronto plana y umbilicada, para finalmente adoptar una forma de embudo con una fuerte depresión central. Superficie no separable de color azul añil en los ejemplares jóvenes, se va decolorando con la edad hacia tonos azul pálidos con matices grisáceos. Posee zonas concéntricas de un azul más intenso, y su borde es bastante regular e involuto en los ejemplares jóvenes.",
+        "hymenium": "Láminas adnatas o ligeramente decurrentes de color azul añil, algo grisáceas de viejas, frecuentemente manchadas de azul intenso por el látex o de verde cuando este se seca. Son apretadas y con laminillas.",
+        "stipe": "Pie Lleno y macizo de joven, luego cavernoso, corto o de tamaño proporcionado al sombrero, está ensanchado junto al sombrero y algo más atenuado en la base, casi radicante, escrobiculado y concoloro.",
+        "flesh": "Carne Blanquecina o grisáceo pálido, manchada de azul sobre todo hacia el margen. Exuda un látex de color azul que al secarse adopta tonos verdosos. Olor fúngico fuerte y sabor dulce no acre."
+    },
+    "habitat": "Esta seta forma micorriza con pinos y robles, creciendo sobre todo durante el otoño. No tenemos constancia de su existencia en el continente europeo.",
+    "observations": "Curiosa especie comestible que se recolecta en amplias zonas de Centroamérica y este de los Estados Unidos, también localizada en el continente asiático. En México constituye un manjar apreciado en muchas zonas, de allí provienen las fotos, gentileza de Amaya, usuaria de Fungipedia. Por sus especiales características es una especie inconfundible, lo que no está tan claro es su grupo dentro del género, ya que creemos que no se puede encuadrar en la misma sección que el Lactarius uvidus, a pesar de su látex azul, sino en la sección Deliciosei como excepcionalidad de los Dapetes. La especie europea más próxima quizás sea el Lactarius hemicyaneus, sinonimizado por algunos autores con Lactarius quieticolor.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/lactarius_indigo/lactarius_indigo1.jpg",
+        "https://www.fungipedia.org/images/galerias/lactarius_indigo/lactarius_indigo2.jpg"
+    ]
+}

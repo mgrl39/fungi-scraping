@@ -1,0 +1,37 @@
+{
+    "name": "discina-ancilis",
+    "title": null,
+    "author": "(Pers.) Sacc.",
+    "additional_info": {
+        "common_name": "Discina perlada.",
+        "synonym": "Discina perlata (Fr.) Fr."
+    },
+    "taxonomy": {
+        "División": "Ascomycota",
+        "Subdivisión": "Ascomycotina",
+        "Clase": "Himenoascomycetes",
+        "Subclase": "Pezizomycetidae",
+        "Orden": "Pezizales",
+        "Familia": "Discinaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Carpóforo que en los primeros estadios de vida tiene forma acopada, pero que se abre rápidamente hasta quedar extendido y ondulado de forma irregular. Su tamaño es muy variable, a veces no desarrollan mucho y se quedan en 3 o 4 cm de diámetro y sin embargo puedes llegar a encontrar ejemplares de más de 10 cm de diámetro. La superficie externa es de color pálido al principio, blanquecina y pruinosa, después evoluciona hacia tonos ocráceos y es lisa. El margen, regular al principio, se ondula de igual manera que el resto.",
+        "hymenium": "Himenio ubicado en la superficie superior o interna del ascocarpo. Esta superficie himenial es de color pardo rojizo bastante uniforme y presenta protuberancias irregulares o rugosidades.",
+        "stipe": "Pie patente y evidente pero muy corto, de apenas 1 o 2 cm de largo y aspecto arrugado, suele tener el mismo color que la superficie externa, si bien mantiene ese tono blanquecino por más tiempo.",
+        "flesh": "Carne relativamente gruesa de color blanquecino, algo elástica pero a la postre quebradiza, sin olor digno de mención y prácticamente insípida."
+    },
+    "habitat": "Se trata de una especie primaveral que suele aparecer formando grupos más o menos numerosos, aparentemente sobre el suelo en muchas ocasiones, pero en realidad sobre humus o restos leñosos enterrados de madera de coníferas. Nuestros especímenes fueron localizados en concreto bajo Pinus sylvestris. A pesar de su crecimiento gregario no es muy frecuente.",
+    "observations": "Se trata de una especie primaveral de coníferas caracterizada por su himenio pardo rojizo con rugosidades. Discina parma tiene un color más claro y fructifica en las orillas de los ríos, Discina melaleuca, de color variable, sale también bajo planifolios, para diferenciar microscópicamente estas especies debemos tener en cuenta las diferentes formas de los apéndices de las esporas. Otra especie que se presta a confusión es Disciotis venosa, con himenio intervenado y hábitat en bosques de ribera.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/discina_ancilis/discina_ancilis1.jpg",
+        "https://www.fungipedia.org/images/galerias/discina_ancilis/discina_ancilis2.jpg",
+        "https://www.fungipedia.org/images/galerias/discina_ancilis/discina_ancilis3.jpg",
+        "https://www.fungipedia.org/images/galerias/discina_ancilis/discina_ancilis4.jpg",
+        "https://www.fungipedia.org/images/galerias/discina_ancilis/discina_ancilis5.jpg",
+        "https://www.fungipedia.org/images/galerias/discina_ancilis/discina_ancilis6.jpg",
+        "https://www.fungipedia.org/images/galerias/discina_ancilis/discina_ancilis7.jpg",
+        "https://www.fungipedia.org/images/galerias/discina_ancilis/discina_ancilis8.jpg",
+        "https://www.fungipedia.org/images/galerias/discina_ancilis/discina_ancilis9.jpg"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "lactarius-deliciosus",
+    "title": null,
+    "author": "(L.) Gray",
+    "additional_info": {
+        "common_name": "Níscalo, nícalo, esnegorri, rovellon, pinatell.",
+        "synonym": "Ninguno."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Russulales",
+        "Familia": "Russulaceae"
+    },
+    "edibility": "buen-comestible",
+    "characteristics": {
+        "cap": "Sombrero de 5 a 15 cm, de color naranja, con círculos concéntricos de un anaranjado más intenso y perfectamente definidos. Borde enrollado cuando es joven, se va aplanando con el tiempo hasta llegar a levantarse hacia arriba en la vejez.",
+        "hymenium": "Láminas anaranjadas, adnatas o ligeramente decurrentes, adquieren un tono verde cardenillo en las zonas manoseadas.",
+        "stipe": "Pie central, macizo, se va volviendo algo cavernoso con el tiempo, de longitud similar al diámetro del sombrero si la seta es joven, marcadamente escrobiculado.",
+        "flesh": "Carne dura y compacta, de color mucho más pálido que el exterior de la seta, algo más anaranjada hacia el borde. Exuda un látex de color zanahoria, que si bien permanece inmutable al contacto con el aire, al secarse forma manchas de color verde cardenillo sobre la seta. Olor poco reseñable."
+    },
+    "habitat": "Especie típica de coníferas, aparece de forma masiva en otoño.",
+    "observations": "Esta especie es un buen comestible, consumido habitualmente en amplias zonas de la geografía española, sobre todo cuando la seta es joven, ideal para preparar a la plancha o elaborar unas patatas a la riojana. Es especialmente apreciada en Cataluña, aunque la tradición culinaria del Lactarius deliciosus es ancestral en muchas zonas. Lactarius torminosus es una especie tóxica de sombrero zonado pero con látex blanco.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/lactarius_deliciosus/lactarius_deliciosus1.jpg",
+        "https://www.fungipedia.org/images/galerias/lactarius_deliciosus/lactarius_deliciosus2.jpg",
+        "https://www.fungipedia.org/images/galerias/lactarius_deliciosus/lactarius_deliciosus3.jpg"
+    ]
+}

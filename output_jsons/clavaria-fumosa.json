@@ -1,0 +1,30 @@
+{
+    "name": "clavaria-fumosa",
+    "title": null,
+    "author": "Pers.",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Clavaria striata Pers."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Aphyllophoromycetidae",
+        "Orden": "Cantharellales",
+        "Familia": "Clavariaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Carpóforo formado por un individuo con forma de clava cuyo tamaño puede superar los 5 cm de largo por apenas unos milímetros de anchura. Jamás crece solo, ya que siempre se presenta acompañado de numerosos congéneres formando haces unidos a veces por la base, o con crecimiento individual. Puede tener forma de huso o estar acanalado, ser cilíndrico o estar curvado, pero siempre se estrecha hacia el ápice. Su color es variable, pero no llega nunca a ser blanco, puede ser ocre pálido, color cuero, e incluso crema amarillento, si bien la forma típica es de color ocre claro, acuoso.",
+        "hymenium": "Himenio liso y concoloro, aposentado en la superficie externa del carpóforo.",
+        "stipe": "Pie inexistente como tal, la zona próxima a la base puede ser más clara a veces, pero de ningún modo puede ser considerada como pie.",
+        "flesh": "Carne tremendamente frágil, en parte debido a que los carpóforos son huecos, lo que la hace quebrar con facilidad. Por dentro tiene un color más claro que por fuera, casi blanquecino. Apenas tiene olor y su sabor es suave."
+    },
+    "habitat": "Se trata de una especie heliófila, que siempre hemos localizado en praderas de pastos de las zonas bajas, en zonas húmedas y musgosas. Siempre que la hemos visto ha sido en otoño ya avanzado, sobre el mes de Noviembre o Diciembre. Especie muy rara y a proteger.",
+    "observations": "Tenemos la inmensa fortuna de ver, casi cada temporada, esta rara especie bibliográficamente poco referenciada. Su crecimiento en haces nos recuerda mucho a la Clavaria fragilis, aunque su aspecto es diferente, ya que esta última es de color blanco puro, lo cierto es que muchas veces comparten hábitat. Su confusión con otras especies es improbable dado su hábitat y sus características.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/clavaria_fumosa/clavaria_fumosa1.jpg",
+        "https://www.fungipedia.org/images/galerias/clavaria_fumosa/clavaria_fumosa2.jpg"
+    ]
+}

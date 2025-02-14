@@ -1,0 +1,30 @@
+{
+    "name": "mitrophora-semilibera",
+    "title": null,
+    "author": "(Dc.) Lév.",
+    "additional_info": {
+        "common_name": "Crespiño, Sasikarraspina.",
+        "synonym": "Mitrophora hybrida (Sowerby ex Grev.) Boud."
+    },
+    "taxonomy": {
+        "División": "Ascomycota",
+        "Subdivisión": "Ascomycotina",
+        "Clase": "Himenoascomycetes",
+        "Subclase": "Pezizomycetidae",
+        "Orden": "Pezizales",
+        "Familia": "Morchellaceae"
+    },
+    "edibility": "comestible-precaucion",
+    "characteristics": {
+        "cap": "Sombrero cónico y hueco, pequeño en relación al tamaño del pie, de color pardo grisáceo mate en el fondo pero con venas longitudinales y transversales prominentes de color negruzco que forman una especie de alvéolos, siendo estos bastante irregulares. La parte inferior se muestra libre con respecto al pie.",
+        "hymenium": "Himenio formado por una de las caras del sombrero, de color marrón oliva claro, más claro en la parte inferior.",
+        "stipe": "Pie de color blanco y muy largo, pudiendo alcanzar en ocasiones los 20 cm, hueco y unido al sombrero por la parte superior, superficialmente tiene un aspecto como de \"piel de gallina\".",
+        "flesh": "Carne de consistencia frágil, blanquecina y algo tenaz, sin que podamos destacar nada reseñable con respecto a olor y sabor."
+    },
+    "habitat": "Es una especie primaveral que aparece junto a árboles de ribera y que le gusta las zonas húmedas y sombrías, muchas veces aparece ligada a la planta Ficaria radunculoides.",
+    "observations": "Especie comestible aunque de inferior calidad que las Morchellas, guarda cierto parecido con ellas, pero la parte inferior del sombrero no está unida al pie, lo que constituye una característica diferenciadora. Si se desea consumir esta especie debe tomarse la precaución de cocerla previamente.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/mitrophora_semilibera/mitrophora_semilibera1.jpg",
+        "https://www.fungipedia.org/images/galerias/mitrophora_semilibera/mitrophora_semilibera2.jpg"
+    ]
+}

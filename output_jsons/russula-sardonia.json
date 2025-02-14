@@ -1,0 +1,34 @@
+{
+    "name": "russula-sardonia",
+    "title": null,
+    "author": "Fr.",
+    "additional_info": {
+        "common_name": "Rusula acre, pinudi gibelubel, curalbra morada, bolet de foc.",
+        "synonym": "Russula drimeia Cooke"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Russulales",
+        "Familia": "Russulaceae"
+    },
+    "edibility": "no-comestible",
+    "characteristics": {
+        "cap": "Sombrero de tamaño medio para el género, con aspecto un tanto carnoso, y un diámetro que suele oscilar por regla general entre los 6 y los 12 cm en los individuos desarrollados.Tiene una forma notablemente convexa de joven, aplanándose con la edad para posteriormente quedar un tanto deprimido por la zona central, pero sin llegar a embudarse. Cutícula lisa y que no se separa de la carne salvo de forma leve en la zona marginal, con aspecto brillante con lluvia, sino subseca, de color muy variable como sucede con la mayoría de especies del género, en la forma típica predomina el color violeta o púrpura, llegando a tener una forma viridis de color uniforme amarillo verdoso.",
+        "hymenium": "Láminas adnatas o sublibres, de color claro al principio con matiz amarillento, en la madurez de color crema amarillento vistoso, a pesar de que su esporada en masa no es amarillenta sino crema oscuro, son bifurcadas en la proximidad del pie. Arista entera y del mismo color que el resto.",
+        "stipe": "Pie de longitud proporcionada al diámetro del sombrero, cilíndrico generalmente y central, lleno y consistente en los ejemplares jóvenes, solo de viejo se vuelve más permeable, pero nunca es hueco. Superficie levemente pruinosa en el ápice y de aspecto liso, de color blanco pero tiznada de violeta o púrpura.",
+        "flesh": "Carne espesa y consistente pero a la vez quebradiza, de color blanco, al corte de forma aleatoria suele adoptar tonalidades amarillentas. Su olor es débil, poco apreciable, y su sabor por contra es insoportablemente acre."
+    },
+    "habitat": "Se trata de una especie que forma micorrizas con las coníferas, preferentemente con los pinos. Es absolutamente acidófila, no suele aparecer en pinares básicos, en nuestro radio de acción es muy abundante bajo Pinus radiata, donde llega a alfombrar el suelo en otoños lluviosos. Fructifica generalmente en grupos numerosos, también de forma ocasional en otras épocas del año.",
+    "observations": "Esta especie se caracteriza en su forma tipo por los tonos violetas o púrpuras de pie y sombrero, sus láminas vistosamente crema amarillentas, y la intensa acritud de su carne, que hace maldecir a quien la prueba, por esta última característica es incomestible. La Russula sanguinea aparece en la misma época y lugar, igualmente acre, nunca tiene tonos púrpuras sino rojizos, Russula torulosa, más propia de pinares calcáreos, tiene el pie de color violeta oscuro en su totalidad, es también acre y su olor frutal es más intenso. Se separa de cualquier Russula comestible con solo probarla ya que estas son dulces.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/russula_sardonia/russula_sardonia1.jpg",
+        "https://www.fungipedia.org/images/galerias/russula_sardonia/russula_sardonia2.jpg",
+        "https://www.fungipedia.org/images/galerias/russula_sardonia/russula_sardonia3.jpg",
+        "https://www.fungipedia.org/images/galerias/russula_sardonia/russula_sardonia4.jpg",
+        "https://www.fungipedia.org/images/galerias/russula_sardonia/russula_sardonia5.jpg",
+        "https://www.fungipedia.org/images/galerias/russula_sardonia/russula_sardonia6.jpg"
+    ]
+}

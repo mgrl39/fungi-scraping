@@ -1,0 +1,33 @@
+{
+    "name": "gymnopus-confluens",
+    "title": null,
+    "author": "(Pers.) Antonín, Halling & Noordel.",
+    "additional_info": {
+        "common_name": "Collibia agrupada, marasmio mordoskatu.",
+        "synonym": "Collybia confluens (Pers.) P. Kumm."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Tricholomatales",
+        "Familia": "Marasmiaceae"
+    },
+    "edibility": "comestible",
+    "characteristics": {
+        "cap": "Sombrero con un diámetro que oscila entre los 2 y los 5 cm en los especímenes adultos, con forma de campana en sus comienzos, después convexo y finalmente aplanado, habitualmente con un mamelón obtuso. Es una especie un poco higrófana, lo que hace que varíe su color en función de su hidratación, siendo de un color pardo rojizo con agua y derivando a tonos arcilla claros con la desecación, los ejemplares muy jóvenes pueden ser un tanto grisáceos. Margen fino y regular de joven, irregularmente ondulado de viejo, tan solo un poco estriado.",
+        "hymenium": "Láminas adnatas o casi libres, muy apretadas entre sí, de jóvenes de color blanquecino, luego entre color arcilla y rosadas, con la arista aserrada o crenulada.",
+        "stipe": "Pie muy largo en comparación con el diámetro del sombrero, muchas veces lateralmente comprimido o surcado longitudinalmente, otras simplemente cilíndrico. Tiene un color pardo rojizo de fondo, pero está recubierto de una especie de pruina de un color grisáceo.",
+        "flesh": "Carne delgada, escasa, de color blanquecino, más fibrosa en el pie pero en general de consistencia un tanto elástica. Tiene un olor bastante penetrante y un sabor dulce y agradable."
+    },
+    "habitat": "La forma de crecimiento de esta especie es significativa, brota de manera cespitosa, siempre hay varios ejemplares unidos por la base del pie. La solemos localizar bajo planifolios, especialmente bajo hayas, durante los meses otoñales y de manera más inhabitual durante el verano, aunque también puede habitar bajo las coníferas. Debemos considerarla como especie poco frecuente, aunque este dato varía en función del marco geográfico.",
+    "observations": "Los sombreros de los especímenes jóvenes constituyen un comestible nada desdeñable, a pesar de ello, y quizás por desconocimiento y escasez, no es una seta que se recolecte con fines culinarios. Comparte hábitat con otra especie de crecimiento cespitoso, el Gymnopus erythropus, diferenciable por su pie liso y glabro mucho más rojizo en la zona inferior. Puede confundirse con muchos Marasmius, de hecho perteneció al género por su aspecto, pero estos últimos tienen la estructura de la pileipellis himeniforme.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/gymnopus_confluens/gymnopus_confluens1.jpg",
+        "https://www.fungipedia.org/images/galerias/gymnopus_confluens/gymnopus_confluens2.jpg",
+        "https://www.fungipedia.org/images/galerias/gymnopus_confluens/gymnopus_confluens3.jpg",
+        "https://www.fungipedia.org/images/galerias/gymnopus_confluens/gymnopus_confluens4.jpg",
+        "https://www.fungipedia.org/images/galerias/gymnopus_confluens/gymnopus_confluens5.jpg"
+    ]
+}

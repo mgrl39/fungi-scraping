@@ -1,0 +1,34 @@
+{
+    "name": "inocybe-lacera",
+    "title": null,
+    "author": "(Fr.) P. Kumm.",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Agaricus lacerus Fries"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Cortinariales",
+        "Familia": "Inocybaceae"
+    },
+    "edibility": "toxica",
+    "characteristics": {
+        "cap": "Sombrero con un diámetro que oscila entre los 3 y los 5 cm en los ejemplares adultos, con forma campanulada de joven, luego es convexo y tiende a aplanarse, aunque no del todo, manteniendo un umbo obtuso en el centro. Su superficie es de color pardo oscuro, sobre todo en el centro, más palidescente hacia el margen, pudiendo tener algún reflejo amarillento al secarse. Cutícula notablemente fibrilosa a tomentosa, que se escama con el tiempo. Margen regular con restos de velo, sobre todo en los especímenes jóvenes.",
+        "hymenium": "Láminas adnatas de color muy claro al principio, rápidamente se tornan parduzcas, pero manteniendo la arista laminar un color más claro. Son más bien separadas en comparación con otras especies de su género y con laminillas.",
+        "stipe": "Pie cilíndrico de color marrón algo atenuado en la zona basal, longitudinalmente fibriloso y tomentoso, con presencia de velo blanquecino en los especímenes jóvenes que luego tiende a desaparecer.",
+        "flesh": "Carne poco espesa de color blanquecino u ocráceo, más tenaz y fibrosa en el pie. Su sabor es poco significativo, dulce, y su olor es espermático."
+    },
+    "habitat": "Aunque suele tener una cierta predilección por los suelos ácidos, se trata de una seta muy extendida geográficamente. Sale en casi todo tipo de bosques, durante el verano y sobre todo en otoño, en suelos arenosos o en el borde de los caminos. Es bastante frecuente.",
+    "observations": "Especie tóxica que contiene una elevada cantidad de muscarina, en proporción similar a los Clitocybes blancos y otras especies de su mismo género. La variabilidad de la especie ha dado lugar a algunas variedades, así mismo existen muchas otras especie similares, como Inocybe lanuginosa, Inocybe hystrix, o Inocybe cincinnata, por poner algunos ejemplos, siendo necesario un examen microscópico para su correcta determinación.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/inocybe_lacera/inocybe_lacera1.jpg",
+        "https://www.fungipedia.org/images/galerias/inocybe_lacera/inocybe_lacera2.jpg",
+        "https://www.fungipedia.org/images/galerias/inocybe_lacera/inocybe_lacera3.jpg",
+        "https://www.fungipedia.org/images/galerias/inocybe_lacera/inocybe_lacera4.jpg",
+        "https://www.fungipedia.org/images/galerias/inocybe_lacera/inocybe_lacera5.jpg",
+        "https://www.fungipedia.org/images/galerias/inocybe_lacera/inocybe_lacera6.jpg"
+    ]
+}

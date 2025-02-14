@@ -1,0 +1,37 @@
+{
+    "name": "microglossum-griseoviride",
+    "title": null,
+    "author": "V. Kučera, Lizoň & Tomšovský",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Ninguno."
+    },
+    "taxonomy": {
+        "División": "Ascomycota",
+        "Subdivisión": "Ascomycotina",
+        "Clase": "Himenoascomycetes",
+        "Subclase": "Pezizomycetidae",
+        "Orden": "Leotiales",
+        "Familia": "Geoglossaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Carpóforo con una forma bastante estilizada, erecto en las primeras etapas de desarrollo, pero que al crecer desarrolla formas más curvadas y sinuosas con mucha frecuencia, consta de dos partes perfectamente delimitadas, una zona superior o clávula y una zona inferior o pie, la delimitación de ambas no es regular sino muy variable. Todo el conjunto puede alcanzar una altura de unos 5 cm, y en su zona más ancha unos 0´6 cm, rara vez alcanzará 1 cm. Tiene un color predominantemente verde en diferentes tonos, la clávula es de un tono más mate, a veces con algún matiz grisáceo, completamente lisa y glabra, muchas veces hendida longitudinalmente por un surco, siendo este carácter un tanto aleatorio, tiene un ápice redondeado o achatado incluso, y su superficie adquiere brillo con la lluvia, pero no es para nada viscosa.",
+        "hymenium": "Himenio exógeno ubicado en la parte externa de la clávula, que es por tanto la parte fértil del carpóforo, siendo el pie estéril. Desarrolla ascas octospóricas amiloides y esporas alargadas de buen tamaño, (ver características microscópicas).",
+        "stipe": "Pie cilíndrico de longitud similar a la zona de la clávula, de un color verde generalmente más llamativo que esta, más o menos claro o turquesa, marcadamente furfuraceo en toda su longitud, lleno de joven y posteriormente meduloso, muy homogéneo, sin zonas diferenciadas en la base, con respecto a la clávula se diferencia bien pero no se separa.",
+        "flesh": "Carne algo elástica aunque finalmente quebradiza, sin que podamos apreciar ningún olor o sabor que sean dignos de mención."
+    },
+    "habitat": "Especie poco referenciada y de reciente creación, para la que se indica un hábitat preferente bajo caducifolios, sin que parezca que tenga predilección por un tipo de suelo concreto. La primera vez que la vimos fue en Gorramendi (Navarra), en una excursión micológica grupal, bajo hayas (Fagus sylvatica), creciendo en grupos más o menos numerosos, ese mismo año localizamos en el parque natural de Urkiola (Bizkaia), bastantes ejemplares que vemos cada año en el mismo lugar y que parece corresponderse a esta misma especie, en un talud musgoso cerca también de un haya. En ambas ocasiones fue localizada en otoño.",
+    "observations": "Esta especie que les presentamos se diferenció merced al análisis molecular en el año 2014, algunos autores tratan de diferenciarla de la especie prácticamente idéntica Microglossum viride en base a sutiles diferencias microscópicas y de ecología, sin embargo entendemos que solo con el análisis molecular es segura su separación, la presencia de la hepatica Pellia epiphylla solo denota compartir un hábitat concreto, pero si no es micorriza de la misma, este dato por si solo no significa nada relevante a la hora de identificar el hongo. De todas maneras es este un género que esta sujeto a revisión, y que dará en próximas fechas posiblemente la creación de nuevos taxones.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/microglossum_griseoviride/microglossum_griseoviride1.jpg",
+        "https://www.fungipedia.org/images/galerias/microglossum_griseoviride/microglossum_griseoviride2.jpg",
+        "https://www.fungipedia.org/images/galerias/microglossum_griseoviride/microglossum_griseoviride3.jpg",
+        "https://www.fungipedia.org/images/galerias/microglossum_griseoviride/microglossum_griseoviride4.jpg",
+        "https://www.fungipedia.org/images/galerias/microglossum_griseoviride/microglossum_griseoviride5.jpg",
+        "https://www.fungipedia.org/images/galerias/microglossum_griseoviride/microglossum_griseoviride6.jpg",
+        "https://www.fungipedia.org/images/galerias/microglossum_griseoviride/microglossum_griseoviride7.jpg",
+        "https://www.fungipedia.org/images/galerias/microglossum_griseoviride/microglossum_griseoviride8.jpg",
+        "https://www.fungipedia.org/images/galerias/microglossum_griseoviride/microglossum_griseoviride9.jpg"
+    ]
+}

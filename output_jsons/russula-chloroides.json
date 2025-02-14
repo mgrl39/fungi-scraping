@@ -1,0 +1,34 @@
+{
+    "name": "russula-chloroides",
+    "title": null,
+    "author": "(Krombh.) Bres.",
+    "additional_info": {
+        "common_name": "Rusula de láminas verdosas, gibelzuri orribildu, pebrás.",
+        "synonym": "Russula delica var. chloroides (Krombh.) Killerm."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Russulales",
+        "Familia": "Russulaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero de tamaño notable, su diámetro oscila en los ejemplares adultos entre los 5 y los 12 cm, de forma convexa y umbilicado cuando es joven, se va abriendo y embudando de forma evidente con el tiempo. Su superficie es de color blanquecino a crema, adquiriendo en los ejemplares viejos manchas de color ocráceo, lisa y finamente afieltrada, con apariencia de ser extremadamente seca. El margen es involuto durante la mayor parte de su desarrollo, solo al final es fino y regular.",
+        "hymenium": "Láminas generalmente un poco decurrentes, bastante apretadas entre sí, poco anchas, de color blanco pero con reflejos verdosos, apreciables sobre todo al hacer un movimiento giratorio con la seta.",
+        "stipe": "Pie corto y cilíndrico de color blanco, algo más oscuro de viejo. Es grueso y puede estar algo atenuado en la base, lleno de joven y cavernoso de viejo, pruinoso, con la posibilidad de tener en la parte cercana a las láminas reflejos verdiazules.",
+        "flesh": "Carne de consistencia yesosa y color blanco, bastante espesa. Tiene sabor dulce a pesar de que las láminas son acres, y su olor es evidente y difícilmente definible, pero no desagradable."
+    },
+    "habitat": "Este especie es profundamente cosmopolita, suele ser localizada de forma frecuente bajo hayas, siendo menos frecuente bajo otros planifolios, y también la hemos localizado de forma masiva en bosques de coníferas como Picea abies o Pseudotsuga menziesii. Sale en grupos más o menos numerosos y su época predilecta es el otoño, si bien puede aparecer en otras épocas del año.",
+    "observations": "Se trata de una Russula caracterizada por su carne dulce que contrasta con las láminas acres, su color blanquecino, y los reflejos verdosos que desprende, sobre todo en las propias láminas. La Russula delica, más propia de los pinares es similar, pero alcanza mayor tamaño y no tiene reflejos verdosos. También puede ser confundida con el Lactarius vellereus, sobre todo si este último esta seco y apenas emana látex.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/russula_chloroides/russula_chloroides1.jpg",
+        "https://www.fungipedia.org/images/galerias/russula_chloroides/russula_chloroides2.jpg",
+        "https://www.fungipedia.org/images/galerias/russula_chloroides/russula_chloroides3.jpg",
+        "https://www.fungipedia.org/images/galerias/russula_chloroides/russula_chloroides4.jpg",
+        "https://www.fungipedia.org/images/galerias/russula_chloroides/russula_chloroides5.jpg",
+        "https://www.fungipedia.org/images/galerias/russula_chloroides/russula_chloroides6.jpg"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "name": "lepiota-erminea",
+    "title": null,
+    "author": "(Fr.) P. Kumm.",
+    "additional_info": {
+        "common_name": "Lepiota blanca.",
+        "synonym": "Lepiota alba (Bres.) Sacc."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Agaricales",
+        "Familia": "Agaricaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero más bien pequeño, no acostumbra a sobrepasar los 5 cm de diámetro, con forma acampanada en su primera etapa, adquiere después forma convexa, y finalmente plano-convexa, manteniendo en el centro un umbo o prominencia obtusa. Su superficie es de color blanco, a excepción de el umbo y en general la zona central, que se va tiñendo de ocre amarillento a medida que el espécimen evolucionada hacia la madurez. De apariencia deshilachada de joven, y con el borde cubierto de flecos que tienden a desaparecer por efecto de la lluvia.",
+        "hymenium": "Láminas libres con respecto al pie, de color blanquecino, algo cremas en la madurez, regulares.",
+        "stipe": "Pie cilíndrico y de tamaño similar al diámetro del sombrero o algo más alargado, de color blanco y liso en la zona superior hasta llegar al anillo, por debajo es floconoso o lanoso. Anillo filamentoso y evanescente del mismo color que el resto del pie.",
+        "flesh": "Carne escasa, poco espesa, de color blanco. Su olor no es excesivamente agradable y su sabor tiene un trasfondo de amargor."
+    },
+    "habitat": "Es una especie que debe ser considerada como rara por ser muy localizada, sin embargo donde sale lo hace con profusión. Su hábitat son las campas de hierba o bordes de los caminos herbosos. Los especímenes fotografiados fueron encontrados en la localidad burgalesa de Gumiel de Izan en el mes de noviembre, aunque lo habitual es que salgan antes, los ejemplares se contaban por cientos.",
+    "observations": "Es una pequeña lepiota inconfundible por su color blanco y su hábitat heliófilo. El grupo de las lepiotas de pequeño tamaño es muy peligroso, ya que entre ellas se encuentran varias especies mortales, no es el caso de esta que es inocua, pero de sabor desagradable. Está emparentada con Lepiota clypeolaria, mucho más escamosa en el sombrero y propia de planifolios. También puede tener cierto parecido con la Lepiota magnispora, de velo amarillento y más propia de coníferas.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/lepiota_erminea/lepiota_erminea1.jpg",
+        "https://www.fungipedia.org/images/galerias/lepiota_erminea/lepiota_erminea2.jpg"
+    ]
+}

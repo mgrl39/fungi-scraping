@@ -1,0 +1,30 @@
+{
+    "name": "suillellus-queletii",
+    "title": null,
+    "author": "(Schulzer) Vizzini, Simonini & Gelardi",
+    "additional_info": {
+        "common_name": "Boleto de quelet.",
+        "synonym": "Boletus queletii (Schulzer)"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Boletales",
+        "Familia": "Boletaceae"
+    },
+    "edibility": "comestible",
+    "characteristics": {
+        "cap": "Sombrero en estado adulto de entre 10 y 15 cm de diámetro, primero hemisférico, pasando a tener forma convexa y finalmente extenderse sin aplanarse del todo. El color del mismo es variable, ya que puede ser rojo ladrillo, marrón anaranjado, y tener tonos de color diferentes en un mismo ejemplar. No es viscoso sino seco, y su superficie externa es lisa o finamente pubescente, sobre todo de joven.",
+        "hymenium": "Tubos amarillentos y después oliváceos, perfectamente separables de la carne del sombrero, de longitud un tanto variable, por lo que es difícil definir si son largos o cortos.",
+        "stipe": "Poros amarillentos cuando el ejemplar está naciendo, rápido se ponen naranjas, y al final rojizos, aunque suelen ser más amarillentos en la zona cercana al margen del sombrero. Cambian de color con la presión a tonos azul verdosos.",
+        "flesh": "Pie cilíndrico, generalmente ensanchado en la zona central y atenuado en la base, aunque a veces es más uniforme. Su color es el amarillo, ocasionalmente con tonos anaranjados, y es liso, carente de toda retícula y solo punteado de rojo en la var. rubicundus. La característica principal es el color rojo vinoso que adopta en la base."
+    },
+    "habitat": "Carne espesa y compacta, de color amarillo en toda su superficie a excepción de la base del pie donde es rojo oscuro. Azulea al corte hacia tonos azul marino de manera rápida e intensa. Olor suave afrutado y sabor un poco ácido en crudo.",
+    "observations": "Fructifica en verano y sobre todo en otoño, más habitual en bosques de caducifolios, la encontramos tanto en hayedos como en robledales. Es una especie relativamente frecuente.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/suillellus_queletii/suillellus_queletii1.jpg",
+        "https://www.fungipedia.org/images/galerias/suillellus_queletii/suillellus_queletii2.jpg"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "chalciporus-piperatus",
+    "title": null,
+    "author": "(Bull.) Bataille",
+    "additional_info": {
+        "common_name": "Boleto picante, piper-onddo, pebreta.",
+        "synonym": "Boletus piperatus Bull."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Boletales",
+        "Familia": "Boletaceae"
+    },
+    "edibility": "no-comestible",
+    "characteristics": {
+        "cap": "Sombrero que en estado adulto tiene un diámetro que oscila entre los 3 y los 6 cm, muy ocasionalmente puede ser algo más grande. En su etapa inicial puede ser hemisférico, pero pronto se vuelve convexo, estado en el que permanece la mayor parte de su desarrollo, solo al final es plano convexo, siendo muy raro que se aplane del todo. Su cutícula es un poco lubrificada con lluvia, pero generalmente seca, cuando es joven y está en perfecto estado tiene un color ocre con matiz canela característico, en la vejez o en situaciones de exceso de humedad se vuelve más leonado e incluso algo amarillento. Margen ligeramente excedente e irregularmente ondulado.",
+        "hymenium": "Tubos adnatos y bastante largos para lo pequeña que es la seta, de jóvenes tienen color amarillo, volviéndose de color ocre rojizo o canela.",
+        "stipe": "Poros angulosos y relativamente amplios de color ocre rojizo o canela, pueden llegar a adquirir un matiz anaranjado con la edad y en determinadas condiciones ambientales.",
+        "flesh": "Pie proporcionado o un poco alargado de color amarillento con matiz leonado, habitualmente curvado o sinuoso y atenuado en la base, de aspecto macizo para el tamaño de los especímenes. Tiene como característica más relevante el tener la base teñida de color amarillo azafrán muy vistoso."
+    },
+    "habitat": "Carne algo más compacta de joven volviéndose esponjosa con la edad, de color amarillo en todas sus partes, si bien adquiere un matiz más rosado bajo la cutícula y es de un amarillo más vivo en la base del pie. Su olor es apenas perceptible, por contra su sabor es marcadamente picante.",
+    "observations": "Es una especie que no tiene micorriza con un árbol en concreto, hemos de destacar que es rara bajo planifolios, pero en bosques de coníferas es común, la hemos localizado bajo alerce de Japón (Larix kaempferi) y también bajo pino rojo (Pinus silvestris). Su época predilecta de aparición es el otoño, pero también la hemos visto en primaveras lluviosas.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/chalciporus_piperatus/chalciporus_piperatus1.jpg",
+        "https://www.fungipedia.org/images/galerias/chalciporus_piperatus/chalciporus_piperatus2.jpg",
+        "https://www.fungipedia.org/images/galerias/chalciporus_piperatus/chalciporus_piperatus3.jpg"
+    ]
+}

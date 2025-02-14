@@ -1,0 +1,32 @@
+{
+    "name": "psathyrella-candolleana",
+    "title": null,
+    "author": "(Fr.) Maire",
+    "additional_info": {
+        "common_name": "Satirela blanca, drosofila zuriska.",
+        "synonym": "Drosophila candolleana (Fr.) Quél."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Agaricales",
+        "Familia": "Psathyrellaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero que en los ejemplares ya desarrollados puede llegar a alcanzar los 5 cm de diámetro, e incluso superarlos levemente, con forma campanulada de joven, abriéndose paulatinamente hasta volverse casi aplanado, poco o nada mamelonado. Es higrófana, por lo que su color varía desde el ocre al blanco según el grado de hidratación, siendo habitual encontrar especímenes con el centro ocráceo y el resto blanco. Su superficie es lisa, y el margen suele estar provisto de restos del velo, blanquecinos, que con la edad tiende a perder.",
+        "hymenium": "Láminas escotadas, primero de color claro, luego grises con matiz liláceo, y finalmente pardas con reflejos púrpuras. Son bastante apretadas entre sí, y la arista, al ser estéril, se presenta blanquecina.",
+        "stipe": "Pie cilíndrico y alargado, algo engrosado en la base, de color blanco, fibriloso y hueco desde joven.",
+        "flesh": "Carne escasa y de poca consistencia, muy frágil, de color blanco. Su olor es fúngico suave y su sabor dulce e igualmente suave."
+    },
+    "habitat": "Se trata de una especie muy abundante y extendida, que prácticamente aparece en cualquier época del año si las condiciones son favorables. Sale en zonas herbosas y sobre restos leñosos de diferentes tipos de árbol, sin especial predilección por ninguno de ellos, así como en parques públicos o jardines, y lo hace formando grandes grupos casi siempre.",
+    "observations": "Se trata, sin duda alguna, de la especie de su género más conocida y representativa, considerada por algún autor como comestible mediocre, entendemos que carece de todo valor culinario. La Psathyrella marcescibilis es muy parecida macroscópicamente, pero al micro se diferencia bien por ser la única que carece de pleurocistitidios y de la cutícula tipo himeniforme típica del género. Existen otras especies de parecido color pero más pequeñas, como la Psathyrella pygmaea.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/psathyrella_candolleana/psathyrella_candolleana1.jpg",
+        "https://www.fungipedia.org/images/galerias/psathyrella_candolleana/psathyrella_candolleana2.jpg",
+        "https://www.fungipedia.org/images/galerias/psathyrella_candolleana/psathyrella_candolleana3.jpg",
+        "https://www.fungipedia.org/images/galerias/psathyrella_candolleana/psathyrella_candolleana4.jpg"
+    ]
+}

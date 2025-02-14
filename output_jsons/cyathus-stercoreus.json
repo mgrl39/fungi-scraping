@@ -1,0 +1,32 @@
+{
+    "name": "cyathus-stercoreus",
+    "title": null,
+    "author": "(Schw.) De Toni",
+    "additional_info": {
+        "common_name": "Ciato coprófilo.",
+        "synonym": "Nidularia stercorea Schwein."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Gasteromycetidae",
+        "Orden": "Nidulariales",
+        "Familia": "Nidulariaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Carpóforo compuesto por fructificaciones sésiles de algo más de 1 cm de altura y que no suelen alcanzar esta cota en anchura. En su primera etapa tienen forma más o menos globosa o de pera, y están recubiertos por unos pelos, en este caso de tacto suave, no erizados, de color pardo castaño. Cuando se abre y alcanza el estado adulto la seta tiene forma de nido o más habitualmente acopada. Su peridio está dispuesto en tres estratos perfectamente diferenciados, la zona exterior es pilosa y de color pardo castaño, esa especie de tela que tapa la boca, llamada epifragma, es membranosa y blancuzca, desapareciendo con el tiempo. Por último, la zona interior es lisa, no estriada, de color gris oscuro, en ocasiones casi negro, y apariencia brillante.",
+        "hymenium": "Gleba compuesta por peridíolos o huevitos, con forma de lenteja, que en número aproximado de 10 se agolpan en el interior de la seta. Son de color muy oscuro y marcadamente brillantes, y están unidos al fondo de la seta por un funículo ligero y fugaz.",
+        "stipe": "Pie inexistente, se adhiere directamente al sustrato.",
+        "flesh": "Carne poco significativa sin olor ni sabor reseñables."
+    },
+    "habitat": "Es una especie cuya localización es menos frecuente que otras especies de su género. Lo más habitual es encontrarla sobre estiércol, generalmente de caballo, pero no de manera exclusiva, aunque también aparece de forma más ocasional sobre restos leñosos en descomposición. Desde primavera hasta finales del otoño.",
+    "observations": "Es una rara especie del género Cyathus, habitualmente coprófila, que se diferencia del Cyathus striatus por tener la zona interior lisa y brillante, no estriada, y los pelos del exterior menos erizados. Cyathus olla es también parecido, pero no tiene el exterior tan piloso. Microscópicamente esta especie se distingue sin problemas por tener las esporas mucho más grandes que las otras dos especies mencionadas.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/cyathus_stercoreus/cyathus_stercoreus1.jpg",
+        "https://www.fungipedia.org/images/galerias/cyathus_stercoreus/cyathus_stercoreus2.jpg",
+        "https://www.fungipedia.org/images/galerias/cyathus_stercoreus/cyathus_stercoreus3.jpg",
+        "https://www.fungipedia.org/images/galerias/cyathus_stercoreus/cyathus_stercoreus4.jpg"
+    ]
+}

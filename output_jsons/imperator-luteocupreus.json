@@ -1,0 +1,30 @@
+{
+    "name": "imperator-luteocupreus",
+    "title": null,
+    "author": "(Bertéa & Estadès) Assyov, Bellanger, Bertéa, Courtec., G. Koller, Loizides, G. Marques, J.A. Muñoz, N. Oppicelli, D. Puddu, F. Rich. & P.-A. Moreau",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Boletus luteocupreus (Bertéa & Estades)"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Boletales",
+        "Familia": "Boletaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero de apreciables dimensiones, puede alcanzar los 20 cm de diámetro. De forma hemisférica de joven, pasando a forma convexa, sin llegar a aplanarse del todo. El color es muy variable, ya que es de color amarillo claro cuando nace, pero rápidamente deriva a color anaranjado y después rojizo, con matices de diversos colores, sobre todo cobrizos. Su cutícula es lisa y seca, brillante en ocasiones pero no viscosa. Margen notablemente excedente e involuto que forma una ondulación característica en los ejemplares viejos. Azulea mucho al ser manipulado.",
+        "hymenium": "Tubos adnatos o más habitualmente libres, de color amarillo, oliváceos de viejos. Azulean al corte.",
+        "stipe": "Poros normalmente rojos, aunque pueden ser amarillos al nacer, e incluso en los especímenes adultos ser anaranjados o amarillentos junto al borde. Viraje claro a tonos azul verdosos.",
+        "flesh": "Pie robusto y rechoncho de joven, después cilíndrico o claviforme, de color amarillo de fondo pero recubierto de una fina retícula de color anaranjado o rojo. La base suele tornarse rojo vinosa."
+    },
+    "habitat": "Carne de color amarillo que azulea al momento de ser cortada de forma intensa para palidecer al de un rato y adoptar tonos rojizos al de una hora. Rojo vinosa en la base del pie. Es espesa y consistente, de sabor un tanto ácido y olor desagradable, aunque no muy intenso.",
+    "observations": "Es una especie bastante termófila, que suele hacer su aparición coincidiendo con los hongos negros. La hemos localizado siempre en verano y principios del otoño, ligada a los bosques de árboles planifolios, vista bajo robles y hayas en la provincia de Alava, siendo más habitual en el sur penínsular.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/imperator_luteocupreus/imperator_luteocupreus1.jpg",
+        "https://www.fungipedia.org/images/galerias/imperator_luteocupreus/imperator_luteocupreus2.jpg"
+    ]
+}

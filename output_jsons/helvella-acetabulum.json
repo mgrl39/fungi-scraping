@@ -1,0 +1,31 @@
+{
+    "name": "helvella-acetabulum",
+    "title": null,
+    "author": "(L.) Quél.",
+    "additional_info": {
+        "common_name": "Calabacitos, calabacicos, kaliza arrunt, bocabadat bru.",
+        "synonym": "Acetabula vulgaris (Fuckel)"
+    },
+    "taxonomy": {
+        "División": "Ascomycota",
+        "Subdivisión": "Ascomycotina",
+        "Clase": "Himenoascomycetes",
+        "Subclase": "Pezizomycetidae",
+        "Orden": "Pezizales",
+        "Familia": "Helvellaceae"
+    },
+    "edibility": "comestible-precaucion",
+    "characteristics": {
+        "cap": "Carpóforo en forma de cáliz o de copa, ocasionalmente al encontrarse el pie enterrado adopta forma de disco. Su tamaño es notable para su género, pudiendo superar los 5 cm de diámetro. La superficie externa es de color marrón grisáceo o pardo claro, palideciendo hacia el pie, acostumbra a ser además finamente pubescente.",
+        "hymenium": "Himenio que recubre en su totalidad la parte interna del carpóforo y que es totalmente liso, de color pardo.",
+        "stipe": "Pie generalmente corto, blanco a crema, longitudinalmente surcado por costillas profundas que se prolongan hacia el receptáculo, ocupando la parte inferior del mismo, e incluso bifurcándose.",
+        "flesh": "Carne escasa y más bien elástica, con olor terroso y sabor suave."
+    },
+    "habitat": "Es una seta que aparece exclusivamente a lo largo de la primavera, siendo muy frecuente y cosmopolita, la hemos encontrado bajo árboles tan diversos como el pino, el chopo o también bajo tilos.",
+    "observations": "Creemos que su consumo no merece la pena, aunque puede degustarse cocida previamente, ya que es tóxica en crudo. Entendemos que es una seta fácilmente identificable por su pie provisto de costillas que se prolongan hacia el receptáculo, tan solo se puede confundir con la Helvella costifera, algo más aplanada y menos parda, especie otoñal.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/helvella_acetabulum/helvella_acetabulum1.jpg",
+        "https://www.fungipedia.org/images/galerias/helvella_acetabulum/helvella_acetabulum2.jpg",
+        "https://www.fungipedia.org/images/galerias/helvella_acetabulum/helvella_acetabulum3.jpg"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "name": "polyporus-brumalis",
+    "title": null,
+    "author": "(Pers.) Fr.",
+    "additional_info": {
+        "common_name": "Poliporo de invierno, neguko onddo-ardagai, bolet de soca.",
+        "synonym": "Polyporus nanus F. Brig."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Aphyllophoromycetidae",
+        "Orden": "Poriales",
+        "Familia": "Polyporaceae"
+    },
+    "edibility": "no-comestible",
+    "characteristics": {
+        "cap": "Sombrero que en pleno desarrollo puede llegar a sobrepasar los 5 cm de diámetro, sin alcanzar los 10, de forma más o menos convexa o plano-convexa de joven, extendido en la madurez, llegando a deprimirse en la zona central. El borde está envuelto hacia dentro durante bastante tiempo, y es además un tanto ondulado. Es de color variable, desde ocre grisáceo a pardo rojizo, y su superficie pasa de ser ligeramente tomentosa a escamarse de vieja. Cutícula separable.",
+        "hymenium": "Himenio constituido por tubos y poros más o menos redondeados o romboides, de unos 3 mm de alto por 0`5 a 1 de anchura (2 o 3 por mm como mucho), de color blanquecino o crema, tiznándose de color amarillento en la vejez. Habitualmente decurren sobre el pie, y es precisamente en esta zona donde se ensanchan de forma notable.",
+        "stipe": "Pie de disposición central, raramente excéntrico, cilíndrico, de color ocre similar al del sombrero o algo más claro. Es en ocasiones finamente escamoso, pero más típicamente glabro, lleno y duro.",
+        "flesh": "Carne dura y coriácea de color blanco, sin olor destacable y sabor algo amargo."
+    },
+    "habitat": "Se trata de una especie lignícola, que fructifica sobre ramas caídas de árboles planifolios, a veces sobre tocones. Es una especie bastante frecuente que tiene como particularidad su época de aparición, ya que es una seta invernal.",
+    "observations": "Es una seta que no se puede comer debido a la dureza de su carne. La mejor manera de clasificarla es por su época de aparición, ya que no es habitual encontrar setas en invierno. A veces, en Abril todavía queda alguna, pudiéndose confundir con la especie primaveral Polyporus lepideus=Polyporus ciliatus, que tiene los poros más pequeños, al punto que de jóvenes no son apreciables a simple vista. Otra especie de poros anchos y más poligonales es el Polyporus arcularius, que también puede aparecer en primavera y en el mismo hábitat.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/polyporus_brumalis/polyporus_brumalis1.jpg",
+        "https://www.fungipedia.org/images/galerias/polyporus_brumalis/polyporus_brumalis2.jpg",
+        "https://www.fungipedia.org/images/galerias/polyporus_brumalis/polyporus_brumalis3.jpg",
+        "https://www.fungipedia.org/images/galerias/polyporus_brumalis/polyporus_brumalis4.jpg"
+    ]
+}

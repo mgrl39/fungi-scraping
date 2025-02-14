@@ -1,0 +1,30 @@
+{
+    "name": "hygrophorus-gliocyclus",
+    "title": null,
+    "author": "(Fries)",
+    "additional_info": {
+        "common_name": "Llenega blanca, mocosa, llenega groga.",
+        "synonym": "Hygrophorus ligatus Fries"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Tricholomatales",
+        "Familia": "Hygrophoraceae"
+    },
+    "edibility": "comestible",
+    "characteristics": {
+        "cap": "Sombrero que por regla general oscila entre los 3 y los 7 cm de diámetro, de forma globosa en un principio, después convexo con una especie de joroba, y finalmente extendido. Aun en estado desarrollado y extendido mantiene el borde involuto casi siempre, siendo además fino. Es de color amarillento, sobre todo en el centro, siendo más pálido, casi blanquecino, hacia el borde. Su superficie es viscosa en tiempo seco y glutinosa con lluvia, separable de la carne del sombrero.",
+        "hymenium": "Láminas de color crema, separadas entre sí, arqueadas y decurrentes sobre el pie, más bien gruesas.",
+        "stipe": "Pie cilíndrico aunque algo atenuado en la base, del mismo color que el sombrero y también viscoso, aunque mucho menos que este. Puede presentar una especie de pseudoanillo viscoso al quedar adheridos los restos del velo, aunque no es norma general que lo tenga ya que tiende a desaparecer. Es lleno y duro, consistente.",
+        "flesh": "Carne espesa y consistente de color blanco, con olor débil, poco significativo, y sabor dulce y suave."
+    },
+    "habitat": "Especie que fructifica durante el otoño en los pinares. Es una especie frecuente y abundante en algunas zonas.",
+    "observations": "Es una especie comestible apreciada en algunas zonas de la península ibérica, en algunos sitios la denominan llenega blanca, denominación que en otras zonas corresponde al Hygrophorus eburneus, diferenciable de este por ser más blanquecino y aromático, y por su hábitat bajo frondosas. Otra especie que puede parecérsele algo es el Hygrophorus chrysodon, cuyo pie está decorado de granulaciones amarillas evidentes.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/hygrophorus_gliocyclus/hygrophorus_gliocyclus1.jpg",
+        "https://www.fungipedia.org/images/galerias/hygrophorus_gliocyclus/hygrophorus_gliocyclus2.jpg"
+    ]
+}

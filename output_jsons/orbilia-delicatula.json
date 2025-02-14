@@ -1,0 +1,31 @@
+{
+    "name": "orbilia-delicatula",
+    "title": null,
+    "author": "(P. Karst.) P. Karst.",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Orbilia coccinella var. delicatula (P. Karst.) Boud."
+    },
+    "taxonomy": {
+        "División": "Ascomycota",
+        "Subdivisión": "Ascomycotina",
+        "Clase": "Himenoascomycetes",
+        "Subclase": "Pezizomycetidae",
+        "Orden": "Leotiales",
+        "Familia": "Orbiliaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Fructificaciones sésiles de ínfimo tamaño, un ejemplar plenamente desarrollado apenas llega a alcanzar 1`5 mm de diámetro. En un principio tiene una forma discoidal, como de botón, con el margen resaltado, después es un tanto acopada, pero con forma de copa abierta, sin llegar a estrecharse mucho en la zona superior. En esta postrera etapa el margen se abre y ondula de forma bastante irregular, plegándose a veces al arracimarse con otros individuos de su especie o de otras que salen junto a ellas. El color de la superficie externa va del amarillo dorado al anaranjado acuoso.",
+        "hymenium": "Himenio liso de color similar a la superficie externa, produce ascósporas reniformes de tamaño muy pequeño, apenas alcanzan las 3 micras de largo por 1 de ancho.",
+        "stipe": "Pie inexistente, se adhiere directamente al sustrato.",
+        "flesh": "Carne algo translúcida de color anaranjado o amarillento, con consistencia cerea. Sabor y olor prácticamente inapreciables."
+    },
+    "habitat": "Existen referencias para esta especie de recolectas efectuadas en diversos tipos de madera, tanto de planifolios como de coníferas, desde madera de Quercus hasta de Pinus Sylvestris. Nuestra recolecta ha sido realizada sobre madera de aliso (Alnus glutinosa), en el mes de febrero, en una zona muy húmeda. Es evidentemente lignícola y dado su pequeño tamaño de difícil localización, siendo además poco frecuente.",
+    "observations": "El género Orbilia se caracteriza macroscópicamente por sus ascomas de apenas 1 o 2 mm de diámetro, con consistencia cerea y un color que va de blanco grisáceo al amarillo o naranja. Microscópicamente son características sus ascas, muchas de ellas truncadas en el ápice y con la base prolongada en forma de horquilla o de L, así como sus paráfisis infladas por el ápice. En los últimos tiempos han salido a la palestra estudios que afirman que las formas conidiales de las Orbilias son capaces de atrapar nematodos. Orbilia auricolor se parece mucho a esta, pero su tamaño puede superar los 2 mm y sus esporas aproximarse a 5 micras.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/orbilia_delicatula/orbilia_delicatula1.jpg",
+        "https://www.fungipedia.org/images/galerias/orbilia_delicatula/orbilia_delicatula2.jpg",
+        "https://www.fungipedia.org/images/galerias/orbilia_delicatula/orbilia_delicatula3.jpg"
+    ]
+}

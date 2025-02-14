@@ -1,0 +1,37 @@
+{
+    "name": "elaphomyces-cyanosporus",
+    "title": null,
+    "author": "Tul. & C. Tul.",
+    "additional_info": {
+        "common_name": "trufa de ciervo de esporas azules",
+        "synonym": "Ascoscleroderma cyanosporum (Tul. & C. Tul.) Clémencet"
+    },
+    "taxonomy": {
+        "División": "Ascomycota",
+        "Subdivisión": "Ascomycotina",
+        "Clase": "Plectomycetes",
+        "Subclase": "Plectomycetidae",
+        "Orden": "Plectascales",
+        "Familia": "Elaphomycetaceae"
+    },
+    "edibility": "no-comestible",
+    "characteristics": {
+        "cap": "Carpóforo que se presenta con la típica forma de pequeño tubérculo afín a las especies hipogeas, a veces globoso, pero más habitualmente con una forma más oblonga o achatada, bastante regular, sin apenas protuberancias, algo saliente hacia la base, aunque sin formar un verdadero cono, ni tampoco cavidad basal. Su tamaño es pequeño, la mayoría de ejemplares oscilan entre 0´5 y 2 cm de diámetro, ocasionalmente algo más, hasta 3 cm. Tiene un color oscuro, que puede ir del marrón oscuro a prácticamente negro, siendo muy habitual encontrar en la base restos miceliales de color azulado o gris azulado. El aspecto general de los especímenes de esta especie nos habla de una especie dura y tenaz con aspecto verrucoso.",
+        "hymenium": "Peridio grueso, característica bastante común en el género Elaphomyces, pudiendo alcanzar e incluso rebasar ligeramente los 3 mm. El exoperidio es duro y marcadamente verrucoso, de color marrón oscuro o casi negro, recubierto de verrugas que a veces se proyectan hacia arriba en punta y otras son más aplanadas o redondeadas, e incluso en la zona cercana a la base tienden a desaparecer, siendo esta zona algo más lisa. Al corte presenta un endoperidio de color blanquecino, que se manifiesta tanto en la zona próxima a la gleba como en la próxima al exoperidio, apreciándose una zona intermedia de color marrón o marrón grisáceo.",
+        "stipe": "Gleba que constituye la parte fértil del carpóforo, en los primordios de color blanco grisáceo con matiz azulado, después claramente azulada, con la madurez se convierte en una masa pulverulenta de color azul oscuro casi negro, que alberga las ascas globosas y octospóricas, y unas bellas esporas esféricas de color azul, que dan nombre a la especie, y que están adornadas con una fina retícula que a veces es incompleta, características que pueden observar en el apartado de \"características microscópicas\" de esta ficha.",
+        "flesh": "Carne dura y tenaz en la zona externa, suberosa e incomestible, prácticamente inexistente en la gleba que pronto se vuelve polvo, su olor, sin embargo, es bastante agradable, aunque mucho más suave que las trufas."
+    },
+    "habitat": "Estamos ante una especie cuyo crecimiento inicial se hace de forma hipogea, bajo la tierra, pero que suele asomar a la superficie según va madurando, siendo su localización factible de \"visu\", aunque es más fácil hacerlo con los perros. Suele crecer aislada o de forma más habitual en pequeños grupos, bajo el humus o luego sobre él, de bosques de planifolios o mixtos. Entendemos que puede aparecer prácticamente en cualquier época del año si las condiciones ambientales de temperatura y humedad son propicias. Nuestra recolecta es otoñal, los especímenes que sirven de estudio para esta ficha provienen de la provincia de Alava, y han sido localizados bajo Quercus robur.",
+    "observations": "Especie caracterizada macroscópicamente por su peridio verrucoso de color oscuro y su gleba azulada, y al micro, entre otras cosas, por sus bellas esporas de color azul, esféricas y ornamentadas. Existen varias especies del género Elaphomyces que guardan bastantes similitudes con la presente, macroscópicamente se puede parecer a la rara Elaphomyces maculatus, que sin embargo tiene esporas marrones, también a Elaphomyces mutabilis, cuyas esporas tienen tonos verdosos o azulados, pero su ornamentación es espinosa. Sin duda la más parecida es Elaphomyces personii, especie de mayor tamaño, que no presenta al corte la zona intermedia en el peridio, y con esporas adornadas con un retículo más amplio que en el caso de le especie que nos ocupa.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/elaphomyces_cyanosporus/elaphomyces_cyanosporus1.jpg",
+        "https://www.fungipedia.org/images/galerias/elaphomyces_cyanosporus/elaphomyces_cyanosporus2.jpg",
+        "https://www.fungipedia.org/images/galerias/elaphomyces_cyanosporus/elaphomyces_cyanosporus3.jpg",
+        "https://www.fungipedia.org/images/galerias/elaphomyces_cyanosporus/elaphomyces_cyanosporus4.jpg",
+        "https://www.fungipedia.org/images/galerias/elaphomyces_cyanosporus/elaphomyces_cyanosporus5.jpg",
+        "https://www.fungipedia.org/images/galerias/elaphomyces_cyanosporus/elaphomyces_cyanosporus6.jpg",
+        "https://www.fungipedia.org/images/galerias/elaphomyces_cyanosporus/elaphomyces_cyanosporus7.jpg",
+        "https://www.fungipedia.org/images/galerias/elaphomyces_cyanosporus/elaphomyces_cyanosporus8.jpg",
+        "https://www.fungipedia.org/images/galerias/elaphomyces_cyanosporus/elaphomyces_cyanosporus9.jpg"
+    ]
+}

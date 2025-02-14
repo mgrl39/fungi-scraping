@@ -1,0 +1,31 @@
+{
+    "name": "sparassis-crispa",
+    "title": null,
+    "author": "(Wulfen) Fr.",
+    "additional_info": {
+        "common_name": "Seta coliflor, azalore belaki, peu de rata reina, greixa reina.",
+        "synonym": "Clavaria crispa Wulfen"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Aphyllophoromycetidae",
+        "Orden": "Cantharellales",
+        "Familia": "Sparassidaceae"
+    },
+    "edibility": "comestible",
+    "characteristics": {
+        "cap": "Carpóforo que puede alcanzar notables dimensiones, algunos ejemplares pueden llegar a los 40 cm de largo por 20 o 25 de altura. Tiene forma de múltiples ramificaciones agolpadas y entrelazadas entre sí, onduladas o crispadas, que forman una masa compacta con aspecto similar al de una coliflor. La superficie de estas ramificaciones tiene un color crema en los individuos jóvenes, adoptando tonos ocre amarillentos de vieja. Cuando decae las ramas se abren y se desenredan adoptando un aspecto más laminado o espatulado.",
+        "hymenium": "Himenio liso de color blanquecino o crema, oscurece de forma paulatina, sobre todo a raíz de producirse la maduración. Produce esporas lisas y más o menos ovoidales con una gran gota lipídica de 5 a 7 micras por 4 o 5 aproximadamente.",
+        "stipe": "Pie muy corto de color blanquecino con aspecto de tronco de coliflor del que parten las ramificaciones, cuando el carpóforo está plenamente desarrollado no es visible y aparentemente el espécimen es sésil.",
+        "flesh": "Carne delgada y frágil, de color blanco y luego ocre amarillenta, su olor es aromático y muy patente, levemente anisado en la recolección y posteriormente complejo dulzón, su sabor es como de frutos secos. Cuando es joven es blanda, luego se vuelve más correosa."
+    },
+    "habitat": "Es una especie que suele aparecer ligada a la base de troncos y tocones de diversas coníferas, muchas veces sobre la propia tierra de alrededor o sobre las raíces. Aparece preferentemente durante el otoño o finales del verano. En el norte de la península ibérica es frecuente bajo pinos, donde no falta a su cita cada año, sin embargo en otras regiones es escasa.",
+    "observations": "Existen diversidad de opiniones en cuanto a la calidad culinaria de esta especie, que cada cual juzgue por sí mismo, si recomendamos recolectar solo ejemplares jóvenes en perfecto estado ya que se vuelve un tanto indigesta de vieja. De joven es una especie inconfundible, sin embargo cuando está en decadencia si puede confundirse con la Sparassis laminosa, de olor clorado y hábitat bajo planifolios. Sparassis brevipes, también bajo planifolios, es aun más rara.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/sparassis_crispa/sparassis_crispa1.jpg",
+        "https://www.fungipedia.org/images/galerias/sparassis_crispa/sparassis_crispa2.jpg",
+        "https://www.fungipedia.org/images/galerias/sparassis_crispa/sparassis_crispa3.jpg"
+    ]
+}

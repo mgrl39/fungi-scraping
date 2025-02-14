@@ -1,0 +1,32 @@
+{
+    "name": "clavariadelphus-truncatus",
+    "title": null,
+    "author": "Donk",
+    "additional_info": {
+        "common_name": "Mano de mortero truncado, chupetín, bossa truncada, Joiki gozo.",
+        "synonym": "Clavaria truncata Quél."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Aphyllophoromycetidae",
+        "Orden": "Cantharellales",
+        "Familia": "Clavariadelphaceae"
+    },
+    "edibility": "comestible",
+    "characteristics": {
+        "cap": "Carpóforo con una forma característica de mano de mortero o porra, estrecho hacia la base y anchándose paulatinamente hacia el ápice, donde encontramos una zona mucho más engrosada, pero que se muestra como aplastada justo en el propio ápice, truncada de forma muchas veces irregular. Suele presentar un tamaño considerable, de forma habitual entre 5 y 15 cm de altura por unos 5 cm de ancho el la zona superior, si bien algunos de los ejemplares de nuestra recolecta se aproximaban a los 20 cm de alto. Su color es más vivo en los ejemplares jóvenes, ocre anaranjado, siendo más netamente ocre y palidescente en los especímenes adultos. Superficie lisa en la base y más rugulosa cuando nos aproximamos al ápice, siendo a veces netamente arrugada en la zona truncada.",
+        "hymenium": "Himenio situado sobre la superficie externa del carpóforo y abarcando toda la zona superior del mismo, habiendo una zona estéril hacia la base.",
+        "stipe": "Pie realmente inexistente, dado que el carpóforo constituye un todo sin que se produzca una clara diferenciación, si bien es cierto que en los ejemplares maduros se distingue la parte fértil de la que no lo es.",
+        "flesh": "Carne que posee una cierta consistencia en los ejemplares muy jóvenes, pero que rápidamente se vuelve esponjosa, de color blanco, pudiendo adquirir tonos algo ocráceos al corte. Tiene un olor muy suave, poco significativo, y un sabor dulce agradable, incluso azucarado."
+    },
+    "habitat": "Especie para la que se referencia bibliográficamente un hábitat un tanto cosmopolita, ha sido hallada en hayedo, robledal y pinar, en nuestro caso fue hallada en grupos o setales de numerosos individuos bajo Pinus sylvestris en la provincia de Burgos. Nuestro hallazgo en tanto al número de ejemplares observado es inhabitual, dado que no suele ser demasiado prolífica, aunque en estos pinares a unos 1000 m.s.n.m. suele salir frecuentemente. Es una especie eminentemente otoñal, la hemos localizado en todos los meses de esta estación.",
+    "observations": "Se caracteriza por su peculiar forma de mano de mortero, con la zona superior aplastada, el tono ocráceo anaranjado de todo el basidioma, y su sabor dulce, por todo ello es difícil confundirla con cualquier otra especie. Clavariadelphus pistillaris es una especie con notable parecido, pero su ápice no es aplastado, sino redondeado,  y su sabor es marcadamente amargo. Se la considera como especie comestible de baja calidad, su alto contenido de manitol le confiere el dulzor característico, pero la consistencia esponjosa y fofa de su carne no la hace en absoluto apetecible.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/clavariadelphus_truncatus/clavariadelphus_truncatus1.jpg",
+        "https://www.fungipedia.org/images/galerias/clavariadelphus_truncatus/clavariadelphus_truncatus2.jpg",
+        "https://www.fungipedia.org/images/galerias/clavariadelphus_truncatus/clavariadelphus_truncatus3.jpg",
+        "https://www.fungipedia.org/images/galerias/clavariadelphus_truncatus/clavariadelphus_truncatus4.jpg"
+    ]
+}

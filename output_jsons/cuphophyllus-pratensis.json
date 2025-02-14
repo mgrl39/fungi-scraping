@@ -1,0 +1,31 @@
+{
+    "name": "cuphophyllus-pratensis",
+    "title": null,
+    "author": "(Fr.) Bon",
+    "additional_info": {
+        "common_name": "Higróforo de los prados.",
+        "synonym": "Hygrocybe pratensis (Fr.) Murril"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Tricholomatales",
+        "Familia": "Hygrophoraceae"
+    },
+    "edibility": "comestible",
+    "characteristics": {
+        "cap": "Sombrero de 3 a 8 cm, globoso en su nacimiento, plano cuando el espécimen es adulto, de color anaranjado bastante uniforme aunque con tendencia a palidecer, nada viscoso y con el margen muy fino, agudo.",
+        "hymenium": "Láminas muy separadas entre sí, anchas y decurrentes sobre el pie, de color algo más pálido que el sombrero.",
+        "stipe": "Pie cilíndrico y lleno, atenuado hacia la base, fibriloso, de color crema-anaranjado muy pálido.",
+        "flesh": "Carne blanquecina, espesa pero no muy firme, más bien frágil, con olor y sabor poco destacados, suaves."
+    },
+    "habitat": "Como su propio nombre indica es una especie exclusiva de prados o campas, que hace su aparición a mediados del otoño, y se prolonga hasta principio del invierno. En la franja costera cantábrica es una especie frecuente, no así en otras zonas.",
+    "observations": "Es una especie comestible, apetecible por su agradable aspecto, pero no es excesivamente exquisita. Entendemos que por su color y su hábitat no es fácil confundirla con otra especie. Si existen en los bosques especies con un cierto parecido, como el Hygrophorus nemoreus o el Hygrophorus arbustivus, localizables ambos bajo planifolios diversos.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/cuphophyllus_pratensis/cuphophyllus_pratensis1.jpg",
+        "https://www.fungipedia.org/images/galerias/cuphophyllus_pratensis/cuphophyllus_pratensis2.jpg",
+        "https://www.fungipedia.org/images/galerias/cuphophyllus_pratensis/cuphophyllus_pratensis3.jpg"
+    ]
+}

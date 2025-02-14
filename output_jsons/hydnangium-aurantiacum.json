@@ -1,0 +1,34 @@
+{
+    "name": "hydnangium-aurantiacum",
+    "title": null,
+    "author": "R. Heim & Malençon",
+    "additional_info": {
+        "common_name": "Falsa trufa anaranjada",
+        "synonym": "Stephanospora aurantiaca (R. Heim & Malençon) J.M. Vidal"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Agaricales",
+        "Familia": "Hydnangiaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Carpóforo con un tamaño medio o incluso notable para el género que nos ocupa, habitualmente con un diámetro que en los ejemplares adultos oscilaría entre 1 y 3 cm, pero es factible encontrar algún ejemplar de mayor tamaño, sobre 5 cm. Tiene la típica forma de tubérculo habitual de las especies hipogeas, siendo esta bastante irregular y con protuberancias o hendiduras aleatorias, e incluso alguna rugosidad. El aspecto general es el de una especie seca y rugulosa, sin demasiado brillo, y con un color amarillento o anaranjado mate con zonas más oscuras y bastante llamativo. Es habitual la presencia de cordones miceliales en la base, que suele ser hendida, pero sin formar cavidad.",
+        "hymenium": "Peridio notablemente delgado o fino, tanto que suele desvanecerse con cierta facilidad, dejando entrever de manera parcial la gleba. Tiene un color amarillento o anaranjado más o menos vistoso, y un aspecto seco y ligeramente afieltrado, con alguna mancha más oscura en las zonas manipuladas.",
+        "stipe": "Gleba bastante compacta por regla general, formada por celdillas apretadas de aspecto laberíntico, que suelen abrirse algo en la madurez, acompañadas de venas estériles irregulares, tanto las celdillas como las venas tienen un color amarillento, a veces anaranjado, en nuestra recolecta de color amarillo pálido.",
+        "flesh": "Carne inexistente más allá de la propia gleba, de textura bastante esponjosa, con un sabor suave poco significativo, y un olor suave pero característico, no desagradable, que se acentúa un tanto con la madurez de los ejemplares."
+    },
+    "habitat": "Estamos sin duda ante una especie que debemos catalogar como semihipogea, dado que nace bajo tierra, pero al ir madurando tiende a salir a la superficie. La mayoría de las especies del género Hydnangium suelen estar relacionadas con los eucalyptus, no es el caso de la especie que nos ocupa, que es mucho más ubicuista, puede aparecer en hábitats bastante diversos. Los ejemplares objeto de este estudio fueron localizados por Joseba Arnedo en la localidad alavesa de Amurrio, fructificando bajo cipreses, Cupressus sempervirens. Es una especie poco frecuente y bastante localizada, pero donde fructifica suele hacerlo en grupos más o menos numerosos, es raro encontrarla aislada.",
+    "observations": "Estamos ante una especie que no tiene valor desde el punto de vista culinario, caracterizada por su color amarillo o más típicamente anaranjado, con una gleba también amarillenta o anaranjada y con crecimiento semihipogeo y cosmopolita. Por estas características, la especie con la que guarda más similitudes quizás sea la Stephanospora caroticolor, máxime teniendo en cuenta que esta también perteneció al género Hydnangium, y que a su vez al Hydnangium aurantiacum también le llegaron a llamar Hydnangium caroticolor y Stephanospora aurantiaca, con lo que se crea confusión nomenclatural. La diferencias microscópicas entre ambas especies son patentes, basta con mirar las esporas, con la forma de corona en su ornamentación en la Stephanospora y con espinas erectas irregulares en la especie que nos ocupa.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/hydnangium_aurantiacum/hydnangium_aurantiacum1.jpg",
+        "https://www.fungipedia.org/images/galerias/hydnangium_aurantiacum/hydnangium_aurantiacum2.jpg",
+        "https://www.fungipedia.org/images/galerias/hydnangium_aurantiacum/hydnangium_aurantiacum3.jpg",
+        "https://www.fungipedia.org/images/galerias/hydnangium_aurantiacum/hydnangium_aurantiacum4.jpg",
+        "https://www.fungipedia.org/images/galerias/hydnangium_aurantiacum/hydnangium_aurantiacum5.jpg",
+        "https://www.fungipedia.org/images/galerias/hydnangium_aurantiacum/hydnangium_aurantiacum6.jpg"
+    ]
+}

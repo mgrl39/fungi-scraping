@@ -1,0 +1,31 @@
+{
+    "name": "peziza-varia",
+    "title": null,
+    "author": "(Hedw.) Alb. & Schwein.",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Peziza micropus Pers."
+    },
+    "taxonomy": {
+        "División": "Ascomycota",
+        "Subdivisión": "Ascomycotina",
+        "Clase": "Himenoascomycetes",
+        "Subclase": "Pezizomycetidae",
+        "Orden": "Pezizales",
+        "Familia": "Pezizaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Carpóforo muy variable en todos los aspectos, tanto en su asentamiento como en forma y color. En un primer momento tienen una forma globular, pero rápidamente se van abriendo adoptando forma de cáliz primero, luego de copa abierta, y cuando los ejemplares son viejos se extienden totalmente. El diámetro de los especímenes observados en nuestra recolecta oscila entre los 0`5 cm del más pequeño, en primera fase de desarrollo, y los 5`5 cm del ejemplar más viejo y extendido. El color de la superficie externa varía, siendo en los ejemplares jóvenes de color ocre claro con matiz oliváceo, y después de color ocre más oscuro, esta superficie es furfurácea. 2/3 de los individuos observados presentaban el margen crenulado, mientras que el tercio restante lo tenía liso.",
+        "hymenium": "Himenio de joven de color ocre con matiz oliváceo y liso, se oscurece paulatinamente hasta volverse pardo, además en esta etapa suele presentar unas arrugas o pliegues. Son características sus paráfisis septadas que en los ejemplares viejos son moniliformes, habiendo observado en las diferentes muestras microscópicas realizadas por Ricardo Ibarretxe, que este carácter es inconstante, y los ejemplares jóvenes de la misma recolecta no presentan este tipo de paráfisis.",
+        "stipe": "Pie en ocasiones ostensible e inexistente en otras, este es otro de los caracteres variables que posee la especie.",
+        "flesh": "Carne tremendamente frágil y quebradiza, se parte con tan solo rozarla, de color ocráceo y sin olor ni sabor reseñables."
+    },
+    "habitat": "Encontrada en este caso sobre material refractario dentro de una pala de excavadora en desuso, hábitat inusual donde los haya, pero puede salir en jardines y en general en suelos con materia orgánica también. Localizada en el mes de febrero, entendemos que puede aparecer prácticamente en cualquier época del año si las condiciones son óptimas. Es una especie frecuente.",
+    "observations": "Existe actualmente una propuesta de unificación entre los taxones Peziza varia, Peziza micropus, y Peziza cerea, propuesta que aceptamos en el caso de la Peziza micropus al haber observado que las paráfisis moniliformes en nuestra recolecta solo se manifiestan en los ejemplares viejos. Macroscópicamente el género que nos ocupa es sumamente complicado, debiendo realizarse un estudio pormenorizado para la correcta clasificación de las especies. Peziza vesiculosa es similar pero crece sobre estiércol o en suelos abonados.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/peziza_varia/peziza_varia1.jpg",
+        "https://www.fungipedia.org/images/galerias/peziza_varia/peziza_varia2.jpg",
+        "https://www.fungipedia.org/images/galerias/peziza_varia/peziza_varia3.jpg"
+    ]
+}

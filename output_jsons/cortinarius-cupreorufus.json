@@ -1,0 +1,34 @@
+{
+    "name": "cortinarius-cupreorufus",
+    "title": null,
+    "author": "Brandrud",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Cortinarius orichalceus (Batsch) Fr."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Cortinariales",
+        "Familia": "Cortinariaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero de aspecto carnoso y robusto, el diámetro del ejemplar adulto más grande localizado era de 11 cm, el resto oscilaba entre los 5 y los 10 cm, no descartando la posibilidad de que puedan llegar a ser algo más grandes. Tiene forma hemisférica al brotar, pronto se vuelve convexo a plano-convexo, puede llegar a aplanarse bastante aunque suele mantener el centro algo realzado. Su cutícula es separable, viscosa y brillante, especialmente en condiciones ambientales de mucha humedad, con el centro de un llamativo color rojo bermellón que evoluciona hacia tonos más cobrizos, el margen sin embargo es de color gris oliváceo. Este margen no es estriado y el borde es bastante regular.",
+        "hymenium": "Láminas adnatas y más bien apretadas, de color amarillento de jóvenes, después con marcados tonos oliváceos y finalmente teñidas por las esporas con tonos ocre ferruginosos.",
+        "stipe": "Pie al principio corto y robusto, lleno, mucho más esbelto con la edad pero sin dejar por ello su porte robusto, de color amarillento u oliváceo. Está adornado con restos de una cortina de color amarillo pálido que se tiñe del color de las esporas, y es cilíndrico salvo en la base, donde presenta un bulbo marginado bien delimitado, sobre todo en los ejemplares más jóvenes. No es viscoso.",
+        "flesh": "Carne consistente en todas sus partes, de color claro, a veces blancuzca pero generalmente con un color más oliváceo. Es inmutable al corte salvo en la base donde se tiñe de rojo vinoso. Su olor es fúngico y suave y su sabor es dulce aunque no demasiado agradable."
+    },
+    "habitat": "Especie referenciada con un hábitat bajo coníferas diversas en suelo predominantemente calcáreo, la vemos anualmente en zona de pinares con varias especies diferentes de pinos y sotobosque de estepa (Cistus albidus). Acostumbra a salir en grupos, rara vez aislada, sin embargo es una especie que debe ser considerada como rara por ser muy localizada y poco extendida. Ha sido encontrada durante el otoño, no la hemos visto en otra época del año.",
+    "observations": "Se trata de una especie vistosa incluida dentro del subgénero Phlegmacium, grupo de los bulbosos marginados y por el tono oliváceo de sus láminas dentro de la sección Virentophylli, se caracteriza por su sombrero de color rojo llamativo en el centro y la base del pie rojo vinosa al corte. Cortinarius odorifer se le parece mucho, pero su olor netamente anisado le delata, Cortinarius rufoolivaceus es también muy similar, se diferencia por su sabor amargo y por tener la zona superior del pie de color lila.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/cortinarius_cupreorufus/cortinarius_cupreorufus1.jpg",
+        "https://www.fungipedia.org/images/galerias/cortinarius_cupreorufus/cortinarius_cupreorufus2.jpg",
+        "https://www.fungipedia.org/images/galerias/cortinarius_cupreorufus/cortinarius_cupreorufus3.jpg",
+        "https://www.fungipedia.org/images/galerias/cortinarius_cupreorufus/cortinarius_cupreorufus4.jpg",
+        "https://www.fungipedia.org/images/galerias/cortinarius_cupreorufus/cortinarius_cupreorufus5.jpg",
+        "https://www.fungipedia.org/images/galerias/cortinarius_cupreorufus/cortinarius_cupreorufus6.jpg"
+    ]
+}

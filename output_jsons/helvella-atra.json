@@ -1,0 +1,34 @@
+{
+    "name": "helvella-atra",
+    "title": null,
+    "author": "J.König",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Leptopodia atra (J. König) Boud."
+    },
+    "taxonomy": {
+        "División": "Ascomycota",
+        "Subdivisión": "Ascomycotina",
+        "Clase": "Himenoascomycetes",
+        "Subclase": "Pezizomycetidae",
+        "Orden": "Pezizales",
+        "Familia": "Helvellaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero con la típica forma de silla de montar en los ejemplares jóvenes, tiende luego a lobularse irregularmente. Su tamaño aproximado es de 2 a 4 cm de altura por otro tanto de largo, y su margen es fino y ondulado, estando adherido al pie por algún punto de forma habitual. La superficie interna no fértil tiene un color fundamentalmente gris, oscureciendo con el tiempo hasta gris oscuro casi negro, siendo además pruinosa o finamente furfurácea.",
+        "hymenium": "Himenio dispuesto en la parte más expuesta o externa, completamente liso, de color gris oscuro a prácticamente negro.",
+        "stipe": "Pie alargado y cilíndrico de color gris, aunque al igual que el sombrero tiende a oscurecer. No suele tener surcos ni hendiduras, si bien de forma ocasional puede presentar un pequeño surco central. Es pruinoso y de superficie brillante con lluvia, pero no es viscoso. Todos los ejemplares recolectados, con independencia de su estado de desarrollo, presentaban la base de color ocráceo.",
+        "flesh": "Carne escasa y frágil de color gris, con olor fúngico agradable y sabor poco significativo."
+    },
+    "habitat": "No hemos constatado un hábitat especifico para esta especie, los ejemplares fotografiados fueron encontrados en la orilla de un arroyo, siendo los árboles más próximos robles, alisos y avellanos. La hemos localizado en otoño, aunque nos constan recolecciones desde el mes de junio. Es una seta muy poco frecuente.",
+    "observations": "Es una especie rara y a proteger, la clasificamos como sin valor, debido a que además de ser tóxica en crudo apenas tiene carne. Existen algunos congéneres cuya separación del presente taxón resulta controvertida, citaremos la Helvella pezizoides, similar a esta, pero cuyo pie y parte no fértil del sombrero son vellosos en lugar de furfuráceos, teniendo un color más marrón grisáceo a negruzco. Por el color se parece a la Helvella lacunosa, pero el pie está fuertemente surcado, con lo cual se diferencia perfectamente.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/helvella_atra/helvella_atra1.jpg",
+        "https://www.fungipedia.org/images/galerias/helvella_atra/helvella_atra2.jpg",
+        "https://www.fungipedia.org/images/galerias/helvella_atra/helvella_atra3.jpg",
+        "https://www.fungipedia.org/images/galerias/helvella_atra/helvella_atra4.jpg",
+        "https://www.fungipedia.org/images/galerias/helvella_atra/helvella_atra5.jpg",
+        "https://www.fungipedia.org/images/galerias/helvella_atra/helvella_atra6.jpg"
+    ]
+}

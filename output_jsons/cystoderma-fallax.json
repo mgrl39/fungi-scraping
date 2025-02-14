@@ -1,0 +1,30 @@
+{
+    "name": "cystoderma-fallax",
+    "title": null,
+    "author": "A.H. Sm. & Singer",
+    "additional_info": {
+        "common_name": "Engañoso.",
+        "synonym": "Ninguno."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Tricholomatales",
+        "Familia": "Marasmiaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero de pequeño tamaño, casi nunca llega a los 5 cm de diámetro, de forma hemisférica en su primera etapa, adopta luego forma convexa y finalmente se aplana un tanto. De apariencia muy seca y floconosa, tiene un color bastante llamativo que va del amarillo con matiz leonado a tonos más ocres o pardos, manteniendo siempre el centro más rojizo. No suele ser muy mamelonado, y el borde se presenta en la mayoría de ocasiones aserrado y festoneado de forma más o menos vistosa.",
+        "hymenium": "Láminas adnatas y relativamente prietas de color blanco, tiznadas levemente de rosa en ocasiones.",
+        "stipe": "Pie proporcional al tamaño del sombrero, provisto de un anillo membranoso y persistente, por debajo del cual está recubierto de escamas del mismo color del sombrero, siendo la parte superior lisa y más blanquecina.",
+        "flesh": "Carne de poca consistencia y color ocre rosado en el sombrero, siendo la del pie de color pardo amarillento. Su olor y su sabor son suaves, poco significativos."
+    },
+    "habitat": "Es una especie otoñal muy poco frecuente que tiene su hábitat predilecto entre coníferas, sobre todo en zonas herbosas y clareadas.",
+    "observations": "Es una seta sin interés culinario como todos los Cystodermas. Guarda un notable parecido con el Cystoderma amianthinum, sobre todo por el colorido, pero suele tener el pie menos decorado que la especie aquí descrita, un olor desagradable, su anillo no es membranoso, y además sus esporas son elipsoidales.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/cystoderma_fallax/cystoderma_fallax1.jpg",
+        "https://www.fungipedia.org/images/galerias/cystoderma_fallax/cystoderma_fallax2.jpg"
+    ]
+}

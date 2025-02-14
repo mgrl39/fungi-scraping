@@ -1,0 +1,30 @@
+{
+    "name": "cortinarius-violaceus",
+    "title": null,
+    "author": "(L.) Gray",
+    "additional_info": {
+        "common_name": "Cortinario violáceo.",
+        "synonym": "Ninguno."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Cortinariales",
+        "Familia": "Cortinariaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero de hasta 15 cm, convexo y con el borde enrollado, que puede en ocasiones presentar un mamelón no muy pronunciado. De cutícula seca, afieltrada o escuamulosa, al punto de llegar en ocasiones a tener un tacto aterciopelado, y de un llamativo color violeta oscuro.",
+        "hymenium": "Láminas adnatas o algo escotadas, bastante gruesas y espaciadas, de color violeta cuando la seta es joven, después ocre ferruginosas por efecto de las esporas.",
+        "stipe": "Pie central y robusto, macizo y engrosado hacia la base, bastante fibriloso. Su color de joven es violeta, como el resto de la seta, pero de viejo se vuelve negruzco. Posee una cortina bastante fugaz de color también violeta.",
+        "flesh": "Carne de color violeta o lila, mas pálido que el exterior de la seta, tenaz de joven y algo fofa después, con olor y sabor a aceite de cedro."
+    },
+    "habitat": "Aparece en verano y otoño, en bosques de caducifolios. Es una especie común.",
+    "observations": "Es uno de los pocos cortinarios considerado como comestible, aunque su calidad culinaria no es alta. Los autores de algunas publicaciones la presentan como poco común, sin embargo en el norte de la península ibérica es abundante. Se denomina ssp hercynicus (Pers.) Brand. a los especímenes encontrados bajo coníferas.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/cortinarius_violaceus/cortinarius_violaceus1.jpg",
+        "https://www.fungipedia.org/images/galerias/cortinarius_violaceus/cortinarius_violaceus2.jpg"
+    ]
+}

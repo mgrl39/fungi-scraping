@@ -1,0 +1,31 @@
+{
+    "name": "leotia-lubrica",
+    "title": null,
+    "author": "(Scop.) Pers.",
+    "additional_info": {
+        "common_name": "Leotia viscosa.",
+        "synonym": "Leotia gelatinosa Hill"
+    },
+    "taxonomy": {
+        "División": "Ascomycota",
+        "Subdivisión": "Ascomycotina",
+        "Clase": "Himenoascomycetes",
+        "Subclase": "Pezizomycetidae",
+        "Orden": "Leotiales",
+        "Familia": "Geoglossaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero compuesto por una pequeñísima cabeza gelatinosa de entre medio y 1 cm de diámetro, perfectamente diferenciada del pie, muy lubricada y de color amarillo con matices oliváceos, si bien al secarse se obscurece adoptando tonos más verdosos.",
+        "hymenium": "Himenio que se desarrolla en el propio sombrero, en la parte abombada del mismo, y que es liso.",
+        "stipe": "Pie largo en proporción al sombrero, de hasta 5 cm de altura, de consistencia viscosa, incluso glutinoso en tiempo lluvioso. Es liso, generalmente curvado, y de color amarillento.",
+        "flesh": "Carne también de consistencia gelatinosa, amarillenta y sin olor ni sabor reseñables."
+    },
+    "habitat": "Aparece sobre todo durante el otoño, gustándole las zonas herbosas y muy húmedas de los bosques, suele ser gregaria pero nunca fasciculada. Esta seta es bastante frecuente.",
+    "observations": "Pequeña especie gelatinosa sin valor culinario, que tiene una forma similar a la Cudonia confusa, que sin embargo está mucho menos lubrificada y tiene color cárneo. También se define la Coryne atrovirens de tonos verdiazules.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/leotia_lubrica/leotia_lubrica1.jpg",
+        "https://www.fungipedia.org/images/galerias/leotia_lubrica/leotia_lubrica2.jpg",
+        "https://www.fungipedia.org/images/galerias/leotia_lubrica/leotia_lubrica3.jpg"
+    ]
+}

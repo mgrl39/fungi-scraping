@@ -1,0 +1,33 @@
+{
+    "name": "abortiporus-biennis",
+    "title": null,
+    "author": "(Bull.) Singer",
+    "additional_info": {
+        "common_name": "Poliporo bienal, lur-ardagai.",
+        "synonym": "Polyporus biennis (Bull.) Fr."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Aphyllophoromycetidae",
+        "Orden": "Poriales",
+        "Familia": "Polyporaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero que se presenta en su nacimiento un tanto amorfo, pero que va adquiriendo forma de auténtico sombrero, a veces con formaciones de varios sombreros imbricados y otras como entidades individuales. Su tamaño cuando salen solos puede oscilar entre los 3 y los 7 cm en pleno desarrollo, aunque se pueden encontrar sombreros unidos formando masas mucho más extensas. El color puede ser blanco, pero es muy habitual que tenga matices rosados con el margen más claro, de viejos oscurecen bastante. Su superficie puede llegar a ser aterciopelada, sino tomentosa, lisa por lo general, con el margen apenas ondulado.",
+        "hymenium": "Himenio formado por poros laberínticos dentados de color blanco de un tamaño aproximado de 3 por mm. Con el tiempo estos se laceran notablemente, dando al himenio un aspecto diferente al inicial. Son de color claro, casi blanco, pero se manchan al roce con tonos pardo rojizos. Decurrentes sobre el pie cuando este existe.",
+        "stipe": "Pie que puede existir o no, hemos visto rosetas de buen tamaño sin resquicio alguno de pie, sin embargo, cuando salen aparentemente sobre el suelo, en las raíces enterradas, si que suelen tenerlo. En estos casos suele ser lateral o excéntrico, rara vez central, y de color similar al resto.",
+        "flesh": "Carne no demasiado espesa y de textura coriácea, de color blanquecino. Su olor es fúngico y su sabor dulce."
+    },
+    "habitat": "Esta especie sale sobre la madera en descomposición de diversos árboles, así como sobre viejas raíces enterradas. Fructifica de forma agrupada, en forma de rosetas de muchos ejemplares o de manera gregaria. Es bastante común y sale sobre todo a finales del verano y durante la estación otoñal.",
+    "observations": "Se caracteriza esta especie por su forma de crecimiento sobre viejos tocones podridos y en sus alrededores sobre las raíces adyacentes, además de por su peculiar microscopia, provista de clamidosporas y de gleocistidios sinuosos. Por sus poros laberínticos puede ser confundida con la Daedalea quercina, de contexto más grueso, y con las paredes de los poros también más gruesas. Es una especie bastante variable, lo que ha dado lugar a múltiples formas o variedades.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/abortiporus_biennis/abortiporus_biennis1.jpg",
+        "https://www.fungipedia.org/images/galerias/abortiporus_biennis/abortiporus_biennis2.jpg",
+        "https://www.fungipedia.org/images/galerias/abortiporus_biennis/abortiporus_biennis3.jpg",
+        "https://www.fungipedia.org/images/galerias/abortiporus_biennis/abortiporus_biennis4.jpg",
+        "https://www.fungipedia.org/images/galerias/abortiporus_biennis/abortiporus_biennis5.jpg"
+    ]
+}

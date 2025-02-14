@@ -1,0 +1,37 @@
+{
+    "name": "entoloma-opacum",
+    "title": null,
+    "author": "Noordel.",
+    "additional_info": {
+        "common_name": "Entoloma opaco",
+        "synonym": "Clitocybe opaca Velen."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Agaricales",
+        "Familia": "Entolomataceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero con un diámetro que oscila entre los 2 y los 4 (5) cm, su forma va evolucionando desde casi cónica en su nacimiento, pasando a ser convexo y obtusamente umbonado, luego plano e igualmente umbonado y tardíamente extendido y algo deprimido. Cutícula glabrescente fuerte y radialmente fibrilosa, a veces incluso rugulosa, con un fondo marrón apenas perceptible, predominando el tono grisáceo de las fibrillas, en los ejemplares jóvenes muy oscuro, casi negro, y gris ceniciento en los adultos, con manchas irregulares más oscuras. Margen algo involuto de joven, después extendido y algo ondulado, no es estriado dado que la especie no es higrófana.",
+        "hymenium": "Láminas cortamente escotadas o emarginadas, el escotamiento se produce muy cerca del pie pudiendo simular que decurren por un diente a veces, medianamente espaciadas, de color grisáceo evolucionando con la esporulación a tonos rosa oscuros. Arista fértil concolora e irregular, a veces puede llegar a ser algo crenulada incluso.",
+        "stipe": "Pie proporcionado al tamaño del sombrero, de color crema de fondo pero recubierto de fibrillas grisáceas, cilíndrico, recto o algo curvado, finamente estriado longitudinalmente, a veces con aspecto de estar retorcido por la configuración de estas estrías, de lleno a fistuloso.",
+        "flesh": "Carne escasa de color grisáceo u ocre, poco consistente y algo fibrosa, con un olor fúngico muy débil y un sabor no desagradable que recuerda al agua ferrosa y tardíamente harinoso."
+    },
+    "habitat": "Estamos ante una especie con clara tendencia pratícola, se referencia para ella un hábitat en prados y jardines con diferentes presencias arbóreas. Nuestra recolecta ha sido efectuada en zonas herbosas pero con la salvedad de que estaban sobre dunas litorales fijadas en Gorliz, Bizkaia, se encontraron en hilera un número aproximado de 10 ejemplares en las proximidades de un Pinus pinea, hallándose ejemplares sueltos en otras localizaciones sin presencia de este árbol.",
+    "observations": "Entoloma opacum es una especie rara propia del centro de Europa que está extendiéndose hacia el sur en estos últimos años, son varias las recolectas de esta especie en el este de Francia y alguna también en Italia, en la península ibérica ha sido publicada en la Revista Catalana de Micologia, vol. 35: 43-48; 2013, pero entendemos que en base a una recolecta italiana, no nos consta que hasta ahora haya sido recolectada y publicada en la península por tanto. Al primer golpe de vista podría asemejarse a los Tricholomas grises por su aspecto general, pero su esporada es rosa, es muy difícil sin embargo separarla de otros Entolomas, sobre todo los de la sección erophila a la que pertenece, el holotipo de esta sección, Entoloma plebejum=Entoloma erophilum, es muy similar, se diferencia al micro por la presencia de queilocistidios de los que carece la especie aquí descrita y esporas más largas.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/entoloma_opacum/entoloma_opacum1.jpg",
+        "https://www.fungipedia.org/images/galerias/entoloma_opacum/entoloma_opacum2.jpg",
+        "https://www.fungipedia.org/images/galerias/entoloma_opacum/entoloma_opacum3.jpg",
+        "https://www.fungipedia.org/images/galerias/entoloma_opacum/entoloma_opacum4.jpg",
+        "https://www.fungipedia.org/images/galerias/entoloma_opacum/entoloma_opacum5.jpg",
+        "https://www.fungipedia.org/images/galerias/entoloma_opacum/entoloma_opacum6.jpg",
+        "https://www.fungipedia.org/images/galerias/entoloma_opacum/entoloma_opacum7.jpg",
+        "https://www.fungipedia.org/images/galerias/entoloma_opacum/entoloma_opacum8.jpg",
+        "https://www.fungipedia.org/images/galerias/entoloma_opacum/entoloma_opacum9.jpg"
+    ]
+}

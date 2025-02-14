@@ -1,0 +1,32 @@
+{
+    "name": "lycoperdon-echinatum",
+    "title": null,
+    "author": "Pers.",
+    "additional_info": {
+        "common_name": "Pedo de lobo, bejín erizado, trikuputz, pet de llop d´agulletes.",
+        "synonym": "Lycoperdon hoylei Berk. & Broome"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Gasteromycetidae",
+        "Orden": "Lycoperdales",
+        "Familia": "Lycoperdaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Carpóforo piriforme o con forma de bombilla, en ocasiones puede presentarse prácticamente globoso. Su altura puede rebasar por poco los 5 cm, y su anchura es similar o ligeramente menor. La zona superior es fértil, globosa y de color ocre, algo crema de joven y casi parda cuando el espécimen es viejo, mientras que la zona inferior, por lo general más estrecha, aun siendo del mismo color es sin embargo estéril.",
+        "hymenium": "Exoperidio de blanquecino a ocre, recubierto en su totalidad por espinas similares a las de los erizos de color ocráceo. Estas espinas pueden tener una longitud de más de 5 mm, se separan con suma facilidad con tan solo rozarlas, y forman trazado piramidal uniéndose entre ellas. Con el tiempo se desprenden dejando entrever el endoperidio.",
+        "stipe": "Endoperidio blanquecino en el cual quedan impresas unas marcas provocadas por el desprendimiento del exoperidio y sus espinas. La dehiscencia se produce por la zona superior o ápice, por donde se liberan las esporas una vez maduras.",
+        "flesh": "Gleba al principio blanquecina y esponjosa, con la maduración esporal se vuelve parda y pulverulenta. Presenta en la zona inferior una subgleba estéril y esponjosa de colores similares, si bien puede de vieja tener matiz lilacino."
+    },
+    "habitat": "Especie muy rara bajo coníferas, nosotros la hemos localizado siempre bajo planifolios diversos, sobre todo Fagus y Quercus. Aun así, también en este hábitat no se trata de una especie demasiado frecuente ni abundante. Es sobre todo una especie otoñal, aunque puede aparecer de forma esporádica en otras épocas del año.",
+    "observations": "Cuando se encuentra en estado joven, con las espinas en perfecto estado en una especie prácticamente inconfundible, sin embargo, al desprenderse estas con tanta facilidad las confusiones con otras especies del género son factibles. La que más se le parece es Lycoperdon nigrescens= Lycoperdon foetidum, especie de olor desagradable y gleba más amarillenta con agujeros en la subgleba. Lycoperdon umbrinum también guarda cierta similitud, pero sus espinas son mucho más cortas y tiene un color netamente pardo.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/lycoperdon_echinatum/lycoperdon_echinatum1.jpg",
+        "https://www.fungipedia.org/images/galerias/lycoperdon_echinatum/lycoperdon_echinatum2.jpg",
+        "https://www.fungipedia.org/images/galerias/lycoperdon_echinatum/lycoperdon_echinatum3.jpg",
+        "https://www.fungipedia.org/images/galerias/lycoperdon_echinatum/lycoperdon_echinatum4.jpg"
+    ]
+}

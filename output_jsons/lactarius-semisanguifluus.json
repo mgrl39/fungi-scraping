@@ -1,0 +1,32 @@
+{
+    "name": "lactarius-semisanguifluus",
+    "title": null,
+    "author": "R. Heim & Leclair",
+    "additional_info": {
+        "common_name": "Esnegorrikor.",
+        "synonym": "Ninguno."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Russulales",
+        "Familia": "Russulaceae"
+    },
+    "edibility": "buen-comestible",
+    "characteristics": {
+        "cap": "Sombrero de tamaño variable, algunos ejemplares adultos no pasan de 3 o 4 cm de diámetro, siendo lo habitual hallarlos con un diámetro entre 5 y 10 cm, raramente exceden esta medida. Al principio tiene forma convexa, después es aplanado con el centro un poco hundido y finalmente se vuelve embudado. Su superficie es mate, de color naranja pálido con zonas concéntricas no muy marcadas, se vuelve rápidamente verdosa con algún matiz grisáceo y con zonas de color verde más oscuro. El margen es enrollado en los ejemplares jóvenes, siendo con posterioridad fino y bastante regular, poco ondulado.",
+        "hymenium": "Láminas adnatas o un poco decurrentes, de color naranja pálido, con laminillas y muchas veces bifurcadas hacia el pie. Se vuelven de color rojo vinoso en las heridas al secarse el látex que exudan sobre ellas, pudiendo ser en algún caso prácticamente rojizas. De viejas estas láminas también se vuelven verdes.",
+        "stipe": "Pie proporcionado y cilíndrico de color similar al sombrero o algo más pálido si cabe, suele presentarse atenuado hacia la base y poco escrobiculado. De joven es lleno, pero queda hueco con prontitud, al igual que el resto del carpóforo tiene tendencia a volverse verde.",
+        "flesh": "Carne compacta y espesa de color blanquecino en el centro y naranja hacia la periferia, exuda un látex que al corte es de color naranja zanahoria, pero que al secarse al de unos minutos se vuelve rojo vinoso. Su olor es agradable, afrutado, y su sabor en crudo es ligeramente acre, acritud que no desagrada y que desaparece en la cocción."
+    },
+    "habitat": "Se trata de una especie bastante común que vive en los bosques de coníferas, habitualmente la solemos ver con profusión en bosques de Pinus sylvestris. Es eminentemente otoñal y rara vez crece aislada, siendo más común encontrarla en grupos de varios ejemplares.",
+    "observations": "La sección dapetes (látex naranja) dentro de los Lactarius la componen especies muy parecidas entre sí, siendo todas ellas comestibles aunque con diferentes calidades. La especie que les presentamos se caracteriza por su sombrero que se vuelve verde y su látex naranja que al de unos minutos pasa a rojo vinoso tanto al corte como sobre las láminas. Lactarius sanguifluus tiene el látex rojo vinoso al corte, el sombrero de color ocráceo anaranjado, y las láminas rojizas. Lactarius deliciosus tiene sombrero naranja brillante, no mate y su látex color zanahoria no se vuelve rojizo. No confundir con la especie tóxica Lactarius torminosus.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/lactarius_semisanguifluus/lactarius_semisanguifluus1.jpg",
+        "https://www.fungipedia.org/images/galerias/lactarius_semisanguifluus/lactarius_semisanguifluus2.jpg",
+        "https://www.fungipedia.org/images/galerias/lactarius_semisanguifluus/lactarius_semisanguifluus3.jpg",
+        "https://www.fungipedia.org/images/galerias/lactarius_semisanguifluus/lactarius_semisanguifluus4.jpg"
+    ]
+}

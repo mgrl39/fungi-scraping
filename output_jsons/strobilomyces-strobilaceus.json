@@ -1,0 +1,37 @@
+{
+    "name": "strobilomyces-strobilaceus",
+    "title": null,
+    "author": "(Scop.) Berk.",
+    "additional_info": {
+        "common_name": "Boleto escamoso, onddo eskatatsu,  Mataparent d`escames.",
+        "synonym": "Strobilomyces floccopus (Vahl) P. Karst."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Boletales",
+        "Familia": "Boletaceae"
+    },
+    "edibility": "no-comestible",
+    "characteristics": {
+        "cap": "Sombrero con forma globosa en la primera etapa de desarrollo, se va abriendo paulatinamente pasando a ser convexo o plano-convexo, sin llegar a aplanarse del todo. Tiene un tamaño notable, pudiendo sobrepasar los 10 cm de diámetro, su aspecto es de lo más peculiar, recuerda al de las piñas, dado que está recubierto de amplias escamas o mechones de un color que puede variar del gris al negro, dejando entrever un fondo de color blanquecino, estas escamas suelen ser muy resaltadas e irregularmente piramidales. El margen es generalmente excedente, floconoso y, sobre todo en ejemplares jóvenes, suele tener restos amplios del velo.",
+        "hymenium": "Tubos bastante largos, de color blanquecino sucio al principio, pero rápidamente pasando a ser de color gris, relativamente apretados y adherentes con respecto al pie.",
+        "stipe": "Poros amplios y angulosos, de color gris, cubiertos por un fino velo parcial que pronto desaparece, se tiñen a la presión con tonos negruzcos, a veces pasando primero por el rojo.",
+        "flesh": "Pie central y cilíndrico, de aspecto fibroso y consistencia dura, muchas veces engrosado hacia la base, recubierto por flocones de color similar al sombrero en los especimenes jóvenes, que tienden a desaparecer parcialmente con el tiempo, es de color gris y tiende a oscurecer a partir de la base."
+    },
+    "habitat": "Carne espesa y consistente, de consistencia coriacea, leñosa en el pie, tiene un color gris claro y al corte reacciona tiñéndose de color rojizo en un principio, y pasando a ennegrecer con posterioridad. Tiene un olor neutro no destacado, algo terroso, y un sabor totalmente insípido, además la propia consistencia de la carne no invita precisamente a probarla.",
+    "observations": "Estamos ante una especie que no es muy común, y por lo tanto debe ser protegida. Fructifica generalmente en bosque de frondosas, solemos verla en bosque de hayas (Fagus sylvatica), o también bajo Quercus pyrenaica, también está citada bajo Castanea sativa. Suele aparecer solitaria o en pequeños grupos, solo en una ocasión la hemos visto formando setales. Su época predilecta de aparición es el verano o principio del otoño, debido a que es una especie que no aguanta bien el frío.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/strobilomyces_strobilaceus/strobilomyces_strobilaceus1.jpg",
+        "https://www.fungipedia.org/images/galerias/strobilomyces_strobilaceus/strobilomyces_strobilaceus2.jpg",
+        "https://www.fungipedia.org/images/galerias/strobilomyces_strobilaceus/strobilomyces_strobilaceus3.jpg",
+        "https://www.fungipedia.org/images/galerias/strobilomyces_strobilaceus/strobilomyces_strobilaceus4.jpg",
+        "https://www.fungipedia.org/images/galerias/strobilomyces_strobilaceus/strobilomyces_strobilaceus5.jpg",
+        "https://www.fungipedia.org/images/galerias/strobilomyces_strobilaceus/strobilomyces_strobilaceus6.jpg",
+        "https://www.fungipedia.org/images/galerias/strobilomyces_strobilaceus/strobilomyces_strobilaceus7.jpg",
+        "https://www.fungipedia.org/images/galerias/strobilomyces_strobilaceus/strobilomyces_strobilaceus8.jpg",
+        "https://www.fungipedia.org/images/galerias/strobilomyces_strobilaceus/strobilomyces_strobilaceus9.jpg"
+    ]
+}

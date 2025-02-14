@@ -1,0 +1,31 @@
+{
+    "name": "cystoderma-amianthinum",
+    "title": null,
+    "author": "(Scop.) Fayod",
+    "additional_info": {
+        "common_name": "Cistoderma amiantina.",
+        "synonym": "Lepiota amiantina (Scop.) P. Karst."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Tricholomatales",
+        "Familia": "Marasmiaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero que rara vez supera los 5 cm, de color amarillo ocráceo, algo más oscuro en el centro, escamoso o granuloso, y que posee el borde recubierto de restos del velo que tienen aspecto de dientes o flecos. En su primera etapa tiene forma de campana, luego convexo, finalmente mas aplanado, a veces con mamelón obtuso.",
+        "hymenium": "Láminas blancas o un poco crema, apretadas y con laminillas intercaladas, adnatas, con la arista concolora.",
+        "stipe": "Pie central, cilíndrico y alargado, con un anillo de consistencia harinosa debajo del cual se extiende una especie de armilla del mismo color que el sombrero, por encima del anillo el pie es liso y de un color más pálido.",
+        "flesh": "Carne fina y delgada, de color amarillo, curiosamente su sabor es suave y contrasta con el olor que desprende, fuerte y muy desagradable."
+    },
+    "habitat": "Fundamentalmente localizada bajo pinos, aunque también se la puede encontrar en otros bosques de coníferas. Su época de aparición masiva es el otoño, pero se ha visto también en primaveras muy lluviosas, es una especie frecuente y bastante extendida.",
+    "observations": "Esta especie no tiene valor culinario. Puede confundirse con facilidad con varios cistodermas, sobre todo con el Cystoderma jasonis = Cystoderma longisporum, de esporas mas alargadas, color no tan amarillo, anillo membranoso, láminas con matices rosados e inodoro.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/cystoderma_amianthinum/cystoderma_amianthinum1.jpg",
+        "https://www.fungipedia.org/images/galerias/cystoderma_amianthinum/cystoderma_amianthinum2.jpg",
+        "https://www.fungipedia.org/images/galerias/cystoderma_amianthinum/cystoderma_amianthinum3.jpg"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "amanita-regalis",
+    "title": null,
+    "author": "(Fr.) Michael",
+    "additional_info": {
+        "common_name": "Matamoscas.",
+        "synonym": "Amanita muscaria var regalis (Fr.) Sacc."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Agaricales",
+        "Familia": "Amanitaceae"
+    },
+    "edibility": "toxica",
+    "characteristics": {
+        "cap": "Sombrero de gran porte, puede llegar a los 15 cm de diámetro, de forma hemisférica pasa a ser globosa, para acabar aplanándose definitivamente. Es de color rojo oscuro o amarronado, y su superficie está recubierta por verrugas provenientes del velo, de color blanquecino o más típicamente amarillentas. Margen un poco acanalado y cutícula separable.",
+        "hymenium": "Láminas de color blanco, bastante anchas y libres con respecto al pie.",
+        "stipe": "Pie blanco y lleno, quedando hueco en la vejez, grueso o alargado y cilíndrico. Engrosado en la base en un bulbo que se prolonga hacia arriba en forma de burletes concéntricos de consistencia algodonosa, a veces tiznados de amarillo. Posee un anillo colgante persistente de color blanco, moteado de copos harinosos.",
+        "flesh": "Carne espesa de color blanco, bastante firme, sobre todo en el sombrero. Su sabor es dulce y suave, y su olor es rafanoide."
+    },
+    "habitat": "Esta especie la hemos localizado bajo pinos de montaña, a una altitud de 1400 metros sobre el nivel del mar, había numeroso ejemplares, todos ellos de sombrero amarronado o rojo oscuro, por lo que no tuvimos duda desde el primer momento. Fueron encontrados en el mes de noviembre.",
+    "observations": "Es igual de tóxica que la Amanita muscaria. Sus colores mates contrastan sin embargo con el rojo escarlata de la muscaria. Por su color amarronado a veces y sus escamas amarillentas puede ser confundida con la Amanita franchetii, que no es tan bulbosa y cuyo pie tiene tonos amarillentos que esta no tiene.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/amanita_regalis/amanita_regalis1.jpg",
+        "https://www.fungipedia.org/images/galerias/amanita_regalis/amanita_regalis2.jpg",
+        "https://www.fungipedia.org/images/galerias/amanita_regalis/amanita_regalis3.jpg"
+    ]
+}

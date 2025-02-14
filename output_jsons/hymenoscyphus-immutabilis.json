@@ -1,0 +1,31 @@
+{
+    "name": "hymenoscyphus-immutabilis",
+    "title": null,
+    "author": "(Fuckel) Dennis",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Helotium immutabile Fuckel"
+    },
+    "taxonomy": {
+        "División": "Ascomycota",
+        "Subdivisión": "Ascomycotina",
+        "Clase": "Himenoascomycetes",
+        "Subclase": "Pezizomycetidae",
+        "Orden": "Leotiales",
+        "Familia": "Helotiaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Carpóforo estipitado de reducidas dimensiones, su diámetro aproximado es de 2 o 3 mm. Tiene forma más o menos acopada en un principio, pero puede adquirir forma aplanada o discoidal. La superficie es de color amarillo limón, completamente lisa y glabra, de aspecto brillante, sobre todo con lluvia, pero no es viscosa. El margen es completamente regular y redondeado, también liso y carente de pelos.",
+        "hymenium": "Himenio o parte fértil del carpóforo, del mismo color que el resto o algo más pálido, e igualmente liso y carente de pelos.",
+        "stipe": "Pie corto de color más pálido que el resto pero perfectamente definido como tal, que da al conjunto un aspecto como de chincheta amarilla. También es liso y glabro.",
+        "flesh": "Carne insignificante dado el pequeño tamaño de los especímenes, de apariencia cerosa o algo gelatinosa y de color amarillo. Su olor es poco significativo y su sabor suave."
+    },
+    "habitat": "Se trata de una especie que sale sobre madera en descomposición de diversos árboles planifolios. Los especímenes recolectados fueron hallados en el hayedo de Carrales (Burgos), sobre corteza de Fagus sylvatica desprendida. Nosotros la hemos visto en otoño, no descartando su aparición en otras épocas del año. Es una especie muy rara.",
+    "observations": "Resulta absolutamente imposible separar esta especie de otras del mismo género sin la ayuda del microscopio. En ese mismo hábitat salen especies más comunes que esta, como pueden ser el Hymenoscyphus calyculus o el Hymenoscyphus serotinus, cuyas diferencias macroscópicas son prácticamente nulas con respecto a la aquí descrita. También es muy parecida la Bisporella citrina, con carpóforos sésiles o con pie más rudimentario.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/hymenoscyphus_immutabilis/hymenoscyphus_immutabilis1.jpg",
+        "https://www.fungipedia.org/images/galerias/hymenoscyphus_immutabilis/hymenoscyphus_immutabilis2.jpg",
+        "https://www.fungipedia.org/images/galerias/hymenoscyphus_immutabilis/hymenoscyphus_immutabilis3.jpg"
+    ]
+}

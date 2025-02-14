@@ -1,0 +1,31 @@
+{
+    "name": "calocybe-gambosa",
+    "title": null,
+    "author": "(Fr.) Donk",
+    "additional_info": {
+        "common_name": "Seta de San Jorge, perretxiko, seta de Orduña, moixernó.",
+        "synonym": "Tricholoma georgii (L.) Quel."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Tricholomatales",
+        "Familia": "Tricholomataceae"
+    },
+    "edibility": "buen-comestible",
+    "characteristics": {
+        "cap": "Sombrero que puede sobrepasar los 10 cm, de joven tiene el borde enrollado hacia dentro, luego es convexo y al final plano, de color crema blanquecino mate. Es muy carnoso.",
+        "hymenium": "Láminas blancas de joven, algo más cremas cuando la seta es madura, bastante numerosas y apretadas, adnatas o ligeramente escotadas.",
+        "stipe": "Pie blanquecino, corto en ocasiones, central y cilíndrico aunque muchas veces se le encuentra engrosado en la base, macizo y pruinoso.",
+        "flesh": "Carne firme y compacta, blanca y con un olor fuerte y característico a harina. Su sabor también es marcadamente harinoso lo que la hace muy apetecible al paladar."
+    },
+    "habitat": "Esta especie sale exclusivamente en la primavera, la encontramos en praderas de montaña, junto al brezo, endrinos o rosales silvestres, pero también la encontramos en la zona costera, en campas, huertas, jardines, es bastante frecuente sobre todo en el norte de la península ibérica.",
+    "observations": "Es un buen comestible que alcanza precios astronómicos, debido en parte a su época de aparición y a su escasez en muchas zonas, sin embargo creemos que está sobrevalorado. Pudiera confundirse con la Tricholomella constricta, que sale en otoño en terrenos nitrogenados. Así mismo con el Entoloma sinuatum, también otoñal y con olor menos harinoso, especie muy tóxica.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/calocybe_gambosa/calocybe_gambosa1.jpg",
+        "https://www.fungipedia.org/images/galerias/calocybe_gambosa/calocybe_gambosa2.jpg",
+        "https://www.fungipedia.org/images/galerias/calocybe_gambosa/calocybe_gambosa3.jpg"
+    ]
+}

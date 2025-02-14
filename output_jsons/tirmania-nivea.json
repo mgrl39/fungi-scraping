@@ -1,0 +1,36 @@
+{
+    "name": "tirmania-nivea",
+    "title": null,
+    "author": "(Desf.) Trappe",
+    "additional_info": {
+        "common_name": "Trufa del desierto, maná, zubaidi, fagaa, terfez",
+        "synonym": "Terfezia africana (Chatin) Maire"
+    },
+    "taxonomy": {
+        "División": "Ascomycota",
+        "Subdivisión": "Ascomycotina",
+        "Clase": "Himenoascomycetes",
+        "Subclase": "Pezizomycetidae",
+        "Orden": "Pezizales",
+        "Familia": "Pezizaceae"
+    },
+    "edibility": "excelente-comestible",
+    "characteristics": {
+        "cap": "Carpóforo que puede adoptar formas un tanto variables, generalmente globoso o subgloboso, con la forma tuberculada habitual en especies hipogeas, aunque muchas veces adopta forma similar a los higos, con una especie de pseudopie que le une al sustrato. Es de un tamaño bastante respetable, pudiendo llegar a superar los 10 cm de diámetro, su color en la extracción es prácticamente blanco o crema muy claro, pero deviene pronto a tonos más netamente cremas u ocres claros con la oxidación, incluso algo amarillentos, en el ocaso se vuelve parduzco.",
+        "hymenium": "Peridio delgado, liso y glabro, nada tomentoso, que se muestra de forma habitual surcado irregularmente, y muchas veces presenta protuberancias, al rascar podemos acceder con cierta facilidad a la gleba.",
+        "stipe": "Gleba muy carnosa, en las primeras etapas de desarrollo de color muy claro y con las venas totalmente blancas, adopta con el tiempo tonos rosados y finalmente ocres en su etapa final, manteniendo en todo momento el tono más claro de las venosidades.",
+        "flesh": "Carne consistente, de textura agradable al ser mordida, con un olor dulzón suave característico, su sabor es también suave y delicado, muy agradable. Con soluciones iodadas adopta un tono verdoso que pasa a azul en poco tiempo."
+    },
+    "habitat": "Es este un aspecto interesante de esta especie, dado que aparece en lugares un tanto inhóspitos, sometidos a altas temperaturas y con un importante stress hídrico, incluso zonas desérticas. Fructifica formando ectomicorriza con la planta huésped, generalmente determinadas Cistaceae, como pueden ser Helianthemum lippiy o Helianthemum salicifolium, en terrenos con Ph básico, por encima de 7. No suelen salir en grandes grupos o corros, pero si se pueden hallar varios ejemplares brotando junto a una misma planta. Es una especie que aparece en los meses invernales, con las ansiadas lluvias en zonas donde no prolifera este elemento. Los ejemplares estudiados provenían del norte de Argelia, aparece en todo el norte africano y ha sido también hallada en la península ibérica en Almeria.",
+    "observations": "Bajo la denominación o nombre común de \"trufa del desierto\", son varias las especies que podemos encontrar según la zona, siendo esta que les presentamos la más característica. Es una especie que hemos podido degustar y que nos ha parecido un excelente comestible, superior a la mayoría de las especies del género Terfezia. Se caracteriza macroscópicamente por su color blanco en la recolección, su olor y sabor agradables, el estrechamiento que suele presentar hacia la base, y su gleba clara con venas blancas, y microscópicamente por el carácter amiloide de sus ascas. Terfezia claveryi puede compartir hábitat, aunque suele salir en Tuberaria sp., tiene cierto parecido aunque es más oscura e igualmente un excelente comestible.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/tirmania_nivea/tirmania_nivea1.jpg",
+        "https://www.fungipedia.org/images/galerias/tirmania_nivea/tirmania_nivea2.jpg",
+        "https://www.fungipedia.org/images/galerias/tirmania_nivea/tirmania_nivea3.jpg",
+        "https://www.fungipedia.org/images/galerias/tirmania_nivea/tirmania_nivea4.jpg",
+        "https://www.fungipedia.org/images/galerias/tirmania_nivea/tirmania_nivea5.jpg",
+        "https://www.fungipedia.org/images/galerias/tirmania_nivea/tirmania_nivea6.jpg",
+        "https://www.fungipedia.org/images/galerias/tirmania_nivea/tirmania_nivea7.jpg",
+        "https://www.fungipedia.org/images/galerias/tirmania_nivea/tirmania_nivea8.jpg"
+    ]
+}

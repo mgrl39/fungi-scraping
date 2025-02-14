@@ -1,0 +1,30 @@
+{
+    "name": "tricholomopsis-rutilans",
+    "title": null,
+    "author": "(Schaeff.) Singer",
+    "additional_info": {
+        "common_name": "Tricoloma rutilante.",
+        "synonym": "Tricholoma rutilans (Schaeff.) P. Kumm."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Tricholomatales",
+        "Familia": "Tricholomataceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero que puede alcanzar los 15 cm de diámetro, convexo durante buena parte de su desarrollo, después más bien aplanado, de color llamativo aparentemente rojo, debido a que está recubierto en su totalidad por puntos de este color, si bien el fondo es más amarillo. Margen algo enrollado en los especímenes jóvenes y luego liso.",
+        "hymenium": "Láminas de color amarillo muy vivo, adnatas o algo escotadas y por lo general bastante apretadas.",
+        "stipe": "Pie central y cilíndrico, habitualmente curvado en la base, da apariencia de ser algo más amarillo que el sombrero debido a que el punteado rojo no es tan cerrado como en este. Es de consistencia fibrosa y suele presentar una zona totalmente amarilla junto a las láminas.",
+        "flesh": "Carne consistente y amarilla, sin olor destacable y con un sabor en crudo algo amargo."
+    },
+    "habitat": "Crece siempre adherida a los tocones de las coníferas, a veces de forma cespitosa. Se trata de un hongo saprófito que aparece prácticamente en cualquier época del año.",
+    "observations": "No es una especie interesante desde el punto de vista culinario debido al pequeño amargor de su carne, pero es inocua. Existen otras Tricholomopsis con quien pudiera confundirse, la Tricholomopsis decora, con el sombrero totalmente amarillo, la Tricholomopsis ornata, de sombrero escuamuloso veteado por fibrillas pardo-violáceas y la Tricholomopsis flammula, que apenas alcanza los 2 cm.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/tricholomopsis_rutilans/tricholomopsis_rutilans1.jpg",
+        "https://www.fungipedia.org/images/galerias/tricholomopsis_rutilans/tricholomopsis_rutilans2.jpg"
+    ]
+}

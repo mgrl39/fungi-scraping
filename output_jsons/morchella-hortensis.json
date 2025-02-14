@@ -1,0 +1,31 @@
+{
+    "name": "morchella-hortensis",
+    "title": null,
+    "author": "(Boudier)",
+    "additional_info": {
+        "common_name": "Colmenilla, morilla, karraspina, arigany.",
+        "synonym": "Morchella tridentina (Bresadola)"
+    },
+    "taxonomy": {
+        "División": "Ascomycota",
+        "Subdivisión": "Ascomycotina",
+        "Clase": "Himenoascomycetes",
+        "Subclase": "Pezizomycetidae",
+        "Orden": "Pezizales",
+        "Familia": "Morchellaceae"
+    },
+    "edibility": "excelente-comestible-precaucion",
+    "characteristics": {
+        "cap": "Sombrero de forma más o menos cónica, que puede superar los 5 cm de altura por 3 o 4 de ancho en su base. Su color es el marrón grisáceo, a veces púrpura oscuro casi negro. Está recorrido en su totalidad por costillares longitudinales cruzados por otros que forman los llamados alvéolos. Es hueco y su ápice es obtuso. No está unido al pie por la base sino un poco más arriba, haciendo un surco que deja una especie de faldón característico.",
+        "hymenium": "Himenio que al igual que el resto de sus congéneres está situado en el interior de los alvéolos, siendo los costillares exteriores estériles.",
+        "stipe": "Pie de color blanco, hueco y cilíndrico, liso o débilmente furfuráceo.",
+        "flesh": "Carne de consistencia algo elástica en el sombrero, frágil y quebradiza en el pie, de olor y sabor suaves."
+    },
+    "habitat": "Especie primaveral que, como su propio nombre indica, sale en las huertas, aunque también puede encontrarse en otros lugares como escombreras. Los ejemplares fotografiados se localizaron en una huerta de nuestra localidad.",
+    "observations": "Al igual que otras setas de su género es excelente para la cocina pero previa cocción, ya que es tóxica en crudo. Se parece mucho a la Morchella conica, e incluso a la Morchella esculenta, distinguiéndose de ellas macroscópicamente por la intersección del sombrero con el pie, donde forma esa especie de faldón apreciable en nuestras fotografías.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/morchella_hortensis/morchella_hortensis1.jpg",
+        "https://www.fungipedia.org/images/galerias/morchella_hortensis/morchella_hortensis2.jpg",
+        "https://www.fungipedia.org/images/galerias/morchella_hortensis/morchella_hortensis3.jpg"
+    ]
+}

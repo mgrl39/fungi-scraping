@@ -1,0 +1,34 @@
+{
+    "name": "marasmius-oreades",
+    "title": null,
+    "author": "(Bolton) Fr.",
+    "additional_info": {
+        "common_name": "Senderuela, carrerilla, senderilla.",
+        "synonym": "Marasmius caryophylleus (Schaeff.) J. Schröt."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Tricholomatales",
+        "Familia": "Marasmiaceae"
+    },
+    "edibility": "buen-comestible",
+    "characteristics": {
+        "cap": "Sombrero de 2 a 5 (7) cm, al principio acampanado, después convexo y finalmente extendido, conservando en el centro un umbo obtuso. Es higrófano, y según el grado de hidratación el color varía desde el crema oscuro cuando la seta está hidratada hasta un tono blanquecino en estado seco. Margen habitualmente estriado.",
+        "hymenium": "Láminas de color blanquecino o cremas, espaciadas entre sí, libres o algo escotadas, gruesas.",
+        "stipe": "Pie central, cilíndrico y bastante largo, de color blanquecino o concoloro con el sombrero, de consistencia elástica, lo que hace que aplicándole una torsión sea capaz de regresar a su estado primigenio sin haberse roto.",
+        "flesh": "Carne escasa, blanquecina, con un olor agradable característico y sabor suave."
+    },
+    "habitat": "Crece habitualmente en primavera y otoño, en forma de \"corros de brujas\" o bien formando hileras en prados y pastizales.",
+    "observations": "Esta especie es un buen comestible, de sabor fino y delicado, siempre y cuando recolectemos únicamente los sombreros y desechemos el pie. Puede confundirse con el Marasmius collinus, dado que su tamaño y color son similares, crecen en la misma época y en el mismo hábitat, pero este último tiene las láminas mucho mas juntas, olor desagradable, y si aplicásemos una torsión al pie lo romperíamos. La especie tóxica Clitocybe rivulosa comparte hábitat, pero tiene láminas claramente decurrentes y su pie tampoco admite la torsión.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/marasmius_oreades/marasmius_oreades1.jpg",
+        "https://www.fungipedia.org/images/galerias/marasmius_oreades/marasmius_oreades2.jpg",
+        "https://www.fungipedia.org/images/galerias/marasmius_oreades/marasmius_oreades3.jpg",
+        "https://www.fungipedia.org/images/galerias/marasmius_oreades/marasmius_oreades4.jpg",
+        "https://www.fungipedia.org/images/galerias/marasmius_oreades/marasmius_oreades5.jpg",
+        "https://www.fungipedia.org/images/galerias/marasmius_oreades/marasmius_oreades6.jpg"
+    ]
+}

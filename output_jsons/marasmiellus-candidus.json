@@ -1,0 +1,37 @@
+{
+    "name": "marasmiellus-candidus",
+    "title": null,
+    "author": "(Fr.) Singer",
+    "additional_info": {
+        "common_name": "Marasmio candido.",
+        "synonym": "Marasmiellus albuscorticis (Secr.) Sing."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Tricholomatales",
+        "Familia": "Marasmiaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero que puede alcanzar como mucho 1`5 (2) cm de diámetro, lo más habitual es encontrar ejemplares cuyo diámetro se aproxime al centímetro. Su forma varía según su crecimiento, siendo durante la mayor parte del tiempo convexo, se vuelve aplanado con posterioridad, pudiendo tener una pequeña depresión central, pero no suele ser deprimido del todo. Su superficie es de apariencia lisa pero rugulosa a la lupa, de un color blanco cándido en los ejemplares más jóvenes, en los viejos el centro es algo más oscuro y pueden adoptar en esta etapa un tono más crema. Es translúcido por lo que deja entrever las láminas dando un aspecto estriado o acanalado, el margen es bastante regular y un poco ondulado en los individuos viejos.",
+        "hymenium": "Láminas adnatas o subdecurrentes, muy espaciadas, de color blanco y aspecto de cera, muchas veces pliciformes y anastomosadas, interconectadas por nervaduras irregulares. No forman collarium.",
+        "stipe": "Pie generalmente más corto que el diámetro del sombrero en los ejemplares adultos, cilíndrico e incurvado, al principio de color blanco, se va oscureciendo paulatinamente a partir de la base, primero con tonos grises y luego negruzcos, en los ejemplares viejos solo se conserva el color blanco en el ápice.",
+        "flesh": "Carne de color blanco y poco significativa, tiene una consistencia un tanto elástica en el sombrero y algo más fibrosa en el pie. Es prácticamente inodora y tampoco tiene un sabor reseñable."
+    },
+    "habitat": "Es una especie que puede aparecer casi en cualquier época del año si las condiciones son favorables, siendo tan frecuente o más que otras especies de su género, aunque pueda pasar desapercibida por su pequeño tamaño. Crece habitualmente en grupos relativamente numerosos sobre ramas caídas o restos leñosos en general, la hemos localizado sobre zarzas, restos de roble, haya etc...",
+    "observations": "Esta pequeña especie se caracteriza por su color blanco cándido, sus láminas muy separadas y su pie que oscurece a partir de la base. Marasmiellus ramealis es similar, comparte hábitat sobre restos leñosos, pero su sombrero tiene tonos ocres o rosados, sus esporas son más pequeñas y no tiene los queilocistidios lageniformes. Hydropus omphaliiformis tiene el pie alargado y láminas decurrentes, también algunos Marasmius como Marasmius epiphylloides se parecen. Delicatula integrella con sus láminas pliciformes también se parece, pero su pie no oscurece con la edad.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/marasmiellus_candidus/marasmiellus_candidus1.jpg",
+        "https://www.fungipedia.org/images/galerias/marasmiellus_candidus/marasmiellus_candidus2.jpg",
+        "https://www.fungipedia.org/images/galerias/marasmiellus_candidus/marasmiellus_candidus3.jpg",
+        "https://www.fungipedia.org/images/galerias/marasmiellus_candidus/marasmiellus_candidus4.jpg",
+        "https://www.fungipedia.org/images/galerias/marasmiellus_candidus/marasmiellus_candidus5.jpg",
+        "https://www.fungipedia.org/images/galerias/marasmiellus_candidus/marasmiellus_candidus6.jpg",
+        "https://www.fungipedia.org/images/galerias/marasmiellus_candidus/marasmiellus_candidus7.jpg",
+        "https://www.fungipedia.org/images/galerias/marasmiellus_candidus/marasmiellus_candidus8.jpg",
+        "https://www.fungipedia.org/images/galerias/marasmiellus_candidus/marasmiellus_candidus9.jpg"
+    ]
+}

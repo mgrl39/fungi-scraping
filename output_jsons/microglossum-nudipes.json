@@ -1,0 +1,32 @@
+{
+    "name": "microglossum-nudipes",
+    "title": null,
+    "author": "Boud.",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Ninguno."
+    },
+    "taxonomy": {
+        "División": "Ascomycota",
+        "Subdivisión": "Ascomycotina",
+        "Clase": "Himenoascomycetes",
+        "Subclase": "Pezizomycetidae",
+        "Orden": "Leotiales",
+        "Familia": "Geoglossaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Carpóforo con forma estilizada y clavulada, muchas veces recto y otras con desarrollo diferente, adoptando formas más retorcidas e imperfectas, con una altura que puede llegar a superar ligeramente los 5 cm. Se halla perfectamente diferenciado en dos partes, una superior con forma de clávula o espátula estrecha, y una inferior o pie, redondeada y lisa. La zona superior es fértil y tiene un color muy variable, en la forma más habitual verde oscuro, pero también con otras tonalidades o matices marrones o también violetas en ocasiones, se presenta hendida longitudinalmente incluso en ejemplares jóvenes por un solo surco, u ocasionalmente por varios y tiene el ápice irregular, achatado o romo en ocasiones. Superficie seca o brillante con la lluvia, pero en ningún caso viscosa.",
+        "hymenium": "Himenio liso inserto en la zona superior del carpóforo, que puede llegar a ocupar prácticamente la mitad de la longitud del mismo, produce ascas octospóricas amiloides con croziers y esporas subfusiformes y gutuladas, (ver características microscópicas)",
+        "stipe": "Pie cilíndrico y liso, glabro, generalmente lleno a meduloso, en los ejemplares más típicos de color turquesa a verde oscuro, sujeto también a una cierta variabilidad de color, se diferencia bien de la clávula, si bien no presenta un surco regular diferenciador, sino que lo hace de forma irregular.",
+        "flesh": "Carne algo elástica, pero quebradiza, de color más claro que la zona externa, incluso blanquecina en el centro, pero tiñéndose hacia el borde del color exterior. Olor neutro, es totalmente insípida."
+    },
+    "habitat": "Especie localizada en Larrabetzu (Bizkaia), entre la hojarasca y tierra, en bosque mixto con presencia de Laurus nobilis (laurel), Corylus avellana (avellano) y Quercus robur (roble). Suele fructificar de forma habitual en grupos más o menos numerosos, y es una especie a la que le gusta el frío, siendo su época predilecta de aparición el final del otoño y principio del invierno. Bibliográficamente se referencia para ella un hábitat más heliófilo, contradecido en nuestra recolecta. A pesar de su aparición en grupos se trata de una especie no muy común.",
+    "observations": "Estamos ante un género, Microglossum, un tanto controvertido, sujeto a constante revisión, y abierto a nuevos estudios, con especies en algunos casos muy similares macroscópicamente, y que solo pueden diferenciarse con garantias con un concienzudo estudio, tanto microscópico como molecular. Tal es el caso de la especie descrita en esta ficha, que ha sido secuenciada para certificar el estudio macro y microscópico. Microglossum viride y griseoviride son muy similares a esta pero su pie es furfuráceo y no tienen tanta diferenciación entre clávula y pie. Microglossum tenebrosus es también muy similar, otro taxon adscrito al complejo de esta especie. Seguirán surgiendo novedades con respecto al género en el futuro.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/microglossum_nudipes/microglossum_nudipes1.jpg",
+        "https://www.fungipedia.org/images/galerias/microglossum_nudipes/microglossum_nudipes2.jpg",
+        "https://www.fungipedia.org/images/galerias/microglossum_nudipes/microglossum_nudipes3.jpg",
+        "https://www.fungipedia.org/images/galerias/microglossum_nudipes/microglossum_nudipes4.jpg"
+    ]
+}

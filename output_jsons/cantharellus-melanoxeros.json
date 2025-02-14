@@ -1,0 +1,30 @@
+{
+    "name": "cantharellus-melanoxeros",
+    "title": null,
+    "author": "Desm.",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Cantharellus incarnatus Quélet"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Aphyllophoromycetidae",
+        "Orden": "Cantharellales",
+        "Familia": "Cantharellaceae"
+    },
+    "edibility": "comestible",
+    "characteristics": {
+        "cap": "Sombrero de 2 a 5 cm de diámetro, uniformemente redondeado o incluso convexo de joven, después aplanado con el centro ligeramente hundido, pero no umbilicado. De color amarillo mate bastante saturado, a veces con matices pardos e incluso lilas. Su superficie es un poco afieltrada de joven, luego lisa, con el borde ondulado pero más regular que otras setas de su género e involuto.",
+        "hymenium": "Láminas inexistentes, esta seta tiene el himenio formado por unos pliegues como venas anastomosadas, perfectamente perceptibles aunque sin llegar a ser como las nervaduras de otros congéneres. Son de un color que va del rosa carneo al lila pálido, y se muestran decurrentes sobre el pie.",
+        "stipe": "Pie que en este caso es lleno, no hueco, central y curvado, más ancho hacia el sombrero y atenuado en la base, en ocasiones puede llegar a ser cónico. Es de color blanco sucio a rosa lilacino.",
+        "flesh": "Carne delgada, pero no tanto como otros Cantharellus, de color blanquecino, con una marcada tendencia a ennegrecer en el borde del sombrero, pero sobre todo de forma más acusada en el pie. Su olor no es fuerte pero si propio, distinto de otras setas de su género, y su sabor es suave y dulce."
+    },
+    "habitat": "Es una especie rara que aparece de forma ocasional en verano y en otoño, ligada a bosques de árboles planifolios. A veces sale en grupos fasciculados, pero no es una regla fija.",
+    "observations": "Es un comestible un tanto mediocre, de inferior calidad que el Craterellus lutescens, de pie amarillo y hábitat bajo pinos. Algunos autores sinonimizan la especie Cantharellus ianthinoxanthus con esta, sin embargo la carne no ennegrece y sus esporas son algo más grandes.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/cantharellus_melanoxeros/cantharellus_melanoxeros1.jpg",
+        "https://www.fungipedia.org/images/galerias/cantharellus_melanoxeros/cantharellus_melanoxeros2.jpg"
+    ]
+}

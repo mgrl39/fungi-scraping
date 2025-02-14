@@ -1,0 +1,31 @@
+{
+    "name": "tolypocladium-ophioglossoides",
+    "title": null,
+    "author": "(J.F. Gmel.) Quandt, Kepler & Spatafora",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Elaphocordyceps ophioglossoides (J.F. Gmel.) G.H. Sung, J.M. Sung & Spatafora"
+    },
+    "taxonomy": {
+        "División": "Ascomycota",
+        "Subdivisión": "Ascomycotina",
+        "Clase": "Himenoascomycetes",
+        "Subclase": "Pyrenomycetidae",
+        "Orden": "Clavicipetales",
+        "Familia": "Clavicipetaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Carpóforo compuesto por dos partes perfectamente diferenciadas, la parte superior, llamada estroma, tiene forma de cabeza de cerilla, y está finamente punteada por los ostíolos, que son una especie de poros por donde afloran las esporas provenientes de los peritecios que albergan las ascas. Es de color marrón rojizo en su primera etapa, después se torna claramente de color negro. Suele tener una hendidura en la zona central, de manera similar a algunos Geoglossum.",
+        "hymenium": "Pie que constituye la parte inferior del carpóforo, y es diferenciable del estroma. Es alargado, y su color varía del verde oliva cuando es joven al negro. Es delgado y redondeado, y en la parte inferior posee unos rizomorfos, como unas raicillas, de color amarillo vivo, que contrastan con el resto del pie. Estas sirven de unión con el huésped parasitado.",
+        "stipe": "Carne de color amarillo y consistencia elástica, dato apreciable con un corte longitudinal. Sin nada reseñable en cuanto a olor o sabor.",
+        "flesh": "Este es un dato curioso, hay quien la sitúa entre abetos y otros la sitúan bajo robles, nosotros hemos de decir que las hemos encontrado bajo hayas. Creemos que el hábitat no es relevante. La hemos encontrado al final del verano y principios del otoño."
+    },
+    "habitat": "Curiosa especie parásita, al igual que el resto de su género, que parasita al Elaphomyces granulatus, pudiendo generar varios ascostromas del mismo Elaphomyces. Hemos observado el dato, no sabemos si relevante, de que ataca a individuos ya podridos o en fase de pudrición, mientras que el Tolypocladium capitatum lo hace sobre individuos vivos. Hemos localizado ambas especies exactamente en el mismo lugar. Puede confundirse con especies del género Geoglossum, que no tienen peritecios.",
+    "observations": null,
+    "images": [
+        "https://www.fungipedia.org/images/galerias/tolypocladium_ophioglossoides/tolypocladium_ophioglossoides1.jpg",
+        "https://www.fungipedia.org/images/galerias/tolypocladium_ophioglossoides/tolypocladium_ophioglossoides2.jpg",
+        "https://www.fungipedia.org/images/galerias/tolypocladium_ophioglossoides/tolypocladium_ophioglossoides3.jpg"
+    ]
+}

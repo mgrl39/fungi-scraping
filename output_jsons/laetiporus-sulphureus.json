@@ -1,0 +1,34 @@
+{
+    "name": "laetiporus-sulphureus",
+    "title": null,
+    "author": "(Bull.) Murrill",
+    "additional_info": {
+        "common_name": "Poliporo azufrado, bolo de garrofera, ardagai-hori, girgola groga, chicken mushroom.",
+        "synonym": "Polyporus sulphureus (Bull.) Fr."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Aphyllophoromycetidae",
+        "Orden": "Poriales",
+        "Familia": "Coriolaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Carpóforo de aparición anual, con un tamaño considerable, a lo ancho se han encontrado ejemplares que se aproximaban a los 50 cm, pero lo habitual es más o menos la mitad, con una proyección que puede llegar a los 20 cm y un espesor de apenas 1 o 2. Destaca sobre todo el color de esta especie, de un anaranjado intenso y llamativo, aunque a veces puede ser algo más amarillenta. Se presenta normalmente en forma de carpóforos imbricados o superpuestos, proyectados en perpendicular al sustrato, con forma de consola o lengua, a veces con formas más irregulares, si bien cuando nacen son bastante homogéneos y redondeados. Margen o zona de crecimiento, redondeado, y de color mucho más claro, casi blanquecino.",
+        "hymenium": "Himenio porado, formado por unos tubos muy cortos que acaban en unos poros de color azufre intenso. El tamaño de estos poros es de 2 o 3 por mm, y son bastante redondeados.",
+        "stipe": "Pie inexistente, se trata de una especie que se adhiere al sustrato directamente.",
+        "flesh": "Carne no demasiado espesa, de un color blanquecino que destaca sobre el color del exterior del hongo, relativamente blanda cuando el espécimen es joven, después se vuelve dura y coriácea. Tiene un olor ácido bastante perceptible, aunque no resulta desagradable, y su sabor algunos dicen que recuerda al pollo, aunque es también un tanto acídulo."
+    },
+    "habitat": "Se trata de una especie común que fructifica sobre árboles vivos y heridos, a veces sobre árboles muertos de forma excepcional. Generalmente lo hace sobre planifolios, normalmente roble y castaño. Es un hongo parásito que puede aparecer en cualquier época del año a excepción del invierno.",
+    "observations": "Está considerada como comestible en muchos tratados de micología, nosotros hemos decidido declararla sin valor culinario porque para que se pueda comer, deben recolectarse ejemplares sin desarrollar, lo cual no nos parece de recibo. Además la ingesta de ejemplares adultos con alcohol es sumamente peligrosa. Entendemos que, debido a su llamativo color y a sus características, se trata de una especie poco menos que inconfundible.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/laetiporus_sulphureus/laetiporus_sulphureus1.jpg",
+        "https://www.fungipedia.org/images/galerias/laetiporus_sulphureus/laetiporus_sulphureus2.jpg",
+        "https://www.fungipedia.org/images/galerias/laetiporus_sulphureus/laetiporus_sulphureus3.jpg",
+        "https://www.fungipedia.org/images/galerias/laetiporus_sulphureus/laetiporus_sulphureus4.jpg",
+        "https://www.fungipedia.org/images/galerias/laetiporus_sulphureus/laetiporus_sulphureus5.jpg",
+        "https://www.fungipedia.org/images/galerias/laetiporus_sulphureus/laetiporus_sulphureus6.jpg"
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "name": "scleroderma-polyrhizum",
+    "title": null,
+    "author": "(J.F. Gmel.) Pers.",
+    "additional_info": {
+        "common_name": "Escleroderma estrellado, astaputz izarra",
+        "synonym": "Scleroderma geaster Fr."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Gasteromycetidae",
+        "Orden": "Sclerodermatales",
+        "Familia": "Sclerodermataceae"
+    },
+    "edibility": "no-comestible",
+    "characteristics": {
+        "cap": "Carpóforo con una forma más regular de lo que es habitual en este tipo de especies semihipógeas, en muchos casos globosa y otras algo más oblonga, generalmente estrechándose hacia la base, donde suele presentar una prolongación en forma de apéndice que le sirve de unión con el micelio. Cuando madura el carpóforo se abre en forma de estrella, dejando que la gleba libere las esporas, y formando varias lacinias. Es una especie que puede alcanzar notables dimensiones, su diámetro llega a alcanzar en ocasiones los 15 cm, de forma más común entre 6 y 12 cm. De joven tiene un color claro, crema, pero según emerge se va tornando ocráceo, oscureciéndose, al secarse después de finalizar su ciclo reproductivo vuelve a aclararse, permaneciendo desecado largo tiempo en función de las condiciones atmosféricas.",
+        "hymenium": "Peridio rugoso o liso, no escamoso, de consistencia muy dura y tenaz, a veces lacerado, de color claro a ocre oscuro, con el interior más claro que la superficie, muy grueso, de forma habitual por encima de 0,5 cm, o incluso pudiendo alcanzar 1 cm de grosor.",
+        "stipe": "Gleba que en estado primordial presenta un color claro, casi blanquecino, pero que rápidamente adquiere tonos pardo oscuros o negruzcos, con alguna vena blanquecina, al final se vuelve una masa pulverulenta de color pardo oscuro, que al abrirse el carpóforo, y con la ayuda del viento y la lluvia, se esparce vaciando todo su contenido.",
+        "flesh": "Carne inexistente como tal, no es más que la propia gleba, al principio compacta y que termina desapareciendo, tiene un sabor neutro de joven, y su olor al principio suave, se vuelve algo desagradable con la maduración."
+    },
+    "habitat": "Estamos ante una especie de crecimiento semihipógeo, es decir, de joven está prácticamente enterrada, pero asoma rápido a la superficie, para completar su ciclo de reproducción. Es una especie muy común y abundante, además de extendida, que suele fructificar normalmente en grupos, rara vez aislada, colonizando terrenos agrestes y pobres, muchas veces en medio de los caminos, también en los claros de los bosques, tanto de planifolios como de coníferas, incluso bajo un arbol tan poco productivo micológicamente como el eucalypto. Su época predilecta de aparición es el final del verano y durante el otoño, no siendo descartable su aparición en otras épocas según la latitud.",
+    "observations": "El género Scleroderma engloba una serie de especies de crecimiento generalmente semihipógeo con algunas similitudes, pero que no son difíciles de diferenciar entre sí. La especie que nos ocupa se caracteriza por su peridio muy grueso y su consistencia muy dura. Scleroderma meridionale es quizás la que más se le parece por tener igualmente un grueso peridio, pero se diferencia bien por su color más amarillento, y por la presencia de un pseudopie que puede incluso ser largo al estar muy enterrado. Scleroderma verrucosum tiene un peridio menos grueso y también presenta pseudopie. Otra especie con la que se suele confundir es el omnipresente Scleroderma citrinum, de color amarillento y superficie más escamosa o cuarteada, con un olor mucho más desagradable.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/scleroderma_polyrhizum/scleroderma_polyrhizum1.jpg",
+        "https://www.fungipedia.org/images/galerias/scleroderma_polyrhizum/scleroderma_polyrhizum2.jpg",
+        "https://www.fungipedia.org/images/galerias/scleroderma_polyrhizum/scleroderma_polyrhizum3.jpg",
+        "https://www.fungipedia.org/images/galerias/scleroderma_polyrhizum/scleroderma_polyrhizum4.jpg",
+        "https://www.fungipedia.org/images/galerias/scleroderma_polyrhizum/scleroderma_polyrhizum5.jpg",
+        "https://www.fungipedia.org/images/galerias/scleroderma_polyrhizum/scleroderma_polyrhizum6.jpg",
+        "https://www.fungipedia.org/images/galerias/scleroderma_polyrhizum/scleroderma_polyrhizum7.jpg",
+        "https://www.fungipedia.org/images/galerias/scleroderma_polyrhizum/scleroderma_polyrhizum8.jpg",
+        "https://www.fungipedia.org/images/galerias/scleroderma_polyrhizum/scleroderma_polyrhizum9.jpg"
+    ]
+}

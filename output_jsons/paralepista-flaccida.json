@@ -1,0 +1,31 @@
+{
+    "name": "paralepista-flaccida",
+    "title": null,
+    "author": "(Sowerby) Vizzini",
+    "additional_info": {
+        "common_name": "Lepista roja, Klitozibe ezpaingorria, mixarnó.",
+        "synonym": "Lepista flaccida (Sowerby) Pat."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Tricholomatales",
+        "Familia": "Tricholomataceae"
+    },
+    "edibility": "comestible",
+    "characteristics": {
+        "cap": "Sombrero cuyo diámetro en estado adulto oscila entre los 5 y los 10 cm, durante la primera etapa de su desarrollo de forma convexa y con el centro deprimido o umbilicado, luego se aplana junto al borde y el centro se deprime más, para acabar por ser netamente embudado o infundibuliforme. Su cutícula tiene un color uniforme en la totalidad de la superficie, ocre anaranjado u ocre rojizo. No es en modo alguno una seta higrófana, por lo que su margen no está estriado, a la par de ser fino en los ejemplares adultos e involuto en los jóvenes.",
+        "hymenium": "Láminas claramente decurrentes de color crema, oscurecen solo cuando son viejas. Son muy apretadas entre sí, sin apenas laminillas, y tienen la particularidad de ser separables de la carne del sombrero con relativa facilidad.",
+        "stipe": "Pie habitualmente curvado o también más o menos cilíndrico, de tamaño proporcionado al sombrero o algo más corto. Tiene color claro, blanquecino o crema, aunque se puede volver rojizo sucio con el tiempo o al ser manoseado, un poco fibriloso y con la unión micelial blanca.",
+        "flesh": "Carne estrecha pero compacta de color crema de joven, ocre rojiza de vieja. Es un tanto elástica y dura, fibrosa, sobre todo en el pie. Su olor es suave, entre fúngico y herbáceo, y su sabor en crudo es un poco amargo."
+    },
+    "habitat": "Es una seta eminentemente otoñal que fructifica por igual bajo coníferas que bajo planifolios. Es muy común y abundante, y suele salir en corros o hileras de forma habitual.",
+    "observations": "Especie reconocible con cierta facilidad, presenta dos formas o colores bien diferenciados según su hábitat, que antes se consideraba que eran dos especies distintas, Lepista inversa se le llamaba a las rojizas que salen bajo coníferas, y Lepista flaccida a las ocre anaranjadas que salen bajo planifolios, actualmente ambos taxones están unificados bajo el nombre de Paralepista flaccida. La Clitocybe gibba es una especie de cierto parecido, aunque es de color más claro y mamelonada.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/paralepista_flaccida/paralepista_flaccida1.jpg",
+        "https://www.fungipedia.org/images/galerias/paralepista_flaccida/paralepista_flaccida2.jpg",
+        "https://www.fungipedia.org/images/galerias/paralepista_flaccida/paralepista_flaccida3.jpg"
+    ]
+}

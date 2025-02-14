@@ -1,0 +1,31 @@
+{
+    "name": "bulgaria-inquinans",
+    "title": null,
+    "author": "(Pers.) Fr.",
+    "additional_info": {
+        "common_name": "Bulgaria tiznada, Bulgaria negra, mukibotoi beltz.",
+        "synonym": "Ninguno."
+    },
+    "taxonomy": {
+        "División": "Ascomycota",
+        "Subdivisión": "Ascomycotina",
+        "Clase": "Himenoascomycetes",
+        "Subclase": "Pezizomycetidae",
+        "Orden": "Leotiales",
+        "Familia": "Helotiaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Carpóforo de forma un tanto variable, en su primera etapa es más o menos acopado, pudiendo adoptar al crecer hacia arriba forma esférica. En los ejemplares típicos la parte superior es aplanada, adoptando una forma de tapón de bañera, pero muchos ejemplares son bastante amorfos. Está dividido en dos partes diferenciadas por su color, la parte exterior es pulverulenta y de color netamente marrón. El tamaño de los individuos plenamente desarrollados puede alcanzar los 4 cm de diámetro.",
+        "hymenium": "Himenio o parte fértil del carpóforo, insertado en la zona interior del mismo, liso y aplanado al madurar, de color negro.",
+        "stipe": "Pie prácticamente inexistente, normalmente es una especie sésil que se adhiere directamente al sustrato.",
+        "flesh": "Carne gelatinosa de color pardo y consistencia tenaz. Su olor y sabor son apenas perceptibles."
+    },
+    "habitat": "Se trata de una especie bastante frecuente y abundante, que aparece ya en el verano y durante el transcurso del otoño. Fructifica sobre troncos y ramas caídas de árboles planifolios, llegando a formar a veces grandes colonias.",
+    "observations": "Es una seta única en su género, que se caracteriza por los carpóforos negros achaparrados y su hábitat sobre ramas o troncos caídos, así como por la consistencia gelatinosa de su carne, que cuando se seca se vuelve coriácea. Consideramos que es una especie que se identifica con relativa facilidad, si bien cuando son viejas pudiera confundirse con alguna Exidia como la Exidia glandulosa o la Exidia truncata, especies que no pertenecen a este género.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/bulgaria_inquinans/bulgaria_inquinans1.jpg",
+        "https://www.fungipedia.org/images/galerias/bulgaria_inquinans/bulgaria_inquinans2.jpg",
+        "https://www.fungipedia.org/images/galerias/bulgaria_inquinans/bulgaria_inquinans3.jpg"
+    ]
+}

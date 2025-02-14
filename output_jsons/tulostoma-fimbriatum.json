@@ -1,0 +1,37 @@
+{
+    "name": "tulostoma-fimbriatum",
+    "title": null,
+    "author": "Fr.",
+    "additional_info": {
+        "common_name": "Tulostoma fimbriado.",
+        "synonym": "Tulostoma brumale var. fimbriatum (Fr.) Quél."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Gasteromycetidae",
+        "Orden": "Tulostomatales",
+        "Familia": "Tulostomataceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Cabeza irregularmente globosa con la zona inferior algo más hundida, pero sin llegar tampoco a ser plana, es relativamente habitual que forme en esta zona un pseudocollar de fibras entrelazadas. Su diámetro oscila entre 0`5 y 1`5 cm, pudiendo alcanzar a veces los 2 cm, su exoperidio es tan fugaz que rara vez se aprecia, y su endoperidio es de color blanquecino o crema con cierto matiz grisáceo. La dehiscencia se produce por un ostíolo apical mal delimitado apenas resaltado y fimbriado, sin que tenga ningún halo circundante.",
+        "hymenium": "Himenio formado por una gleba interna pulverulenta sin otro revestimiento que el propio endoperidio, forma basidiósporas de color pardo amarillento en masa muy verrucosas.",
+        "stipe": "Pie alargado y más o menos cilíndrico, quizás algo ensanchado en la unión micelial, escamoso y a veces surcado longitudinalmente. Está revestido de fibras de color pardo que le dan aspecto de ser de este color, pero al rascar dejan entrever un fondo blanquecino.",
+        "flesh": "Carne inexistente en la cabeza que tiene una consistencia papirácea y una gleba pulverulenta, muy leñosa en el pie, sin olor resaltable."
+    },
+    "habitat": "Fructifica en terrenos arenosos, incluso puede hacerlo en dunas costeras. Es bastante habitual en las zonas donde sale, incluso común, zonas cálidas con clima mediterráneo o interior peninsular. Suele aparecer en grupos pequeños, rara vez aislada, y lo hace prácticamente en cualquier época del año según la zona.",
+    "observations": "Especie caracterizada por el peristoma no tubular y fimbriado con ostíolo mal delimitado. Es parecida a otras especies de su género, se diferencia bien de Tulostoma brumale por el peristoma tubular y el halo que rodea al mismo del que carece la especie aquí descrita. Otras especies como Tulostoma simulans tienen el peristoma cónico, la más difícil de separar macroscópicamente es Tulostoma giovanellae, cuya ornamentación esporal difiere de manera notable.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/tulostoma_fimbriatum/tulostoma_fimbriatum1.jpg",
+        "https://www.fungipedia.org/images/galerias/tulostoma_fimbriatum/tulostoma_fimbriatum2.jpg",
+        "https://www.fungipedia.org/images/galerias/tulostoma_fimbriatum/tulostoma_fimbriatum3.jpg",
+        "https://www.fungipedia.org/images/galerias/tulostoma_fimbriatum/tulostoma_fimbriatum4.jpg",
+        "https://www.fungipedia.org/images/galerias/tulostoma_fimbriatum/tulostoma_fimbriatum5.jpg",
+        "https://www.fungipedia.org/images/galerias/tulostoma_fimbriatum/tulostoma_fimbriatum6.jpg",
+        "https://www.fungipedia.org/images/galerias/tulostoma_fimbriatum/tulostoma_fimbriatum7.jpg",
+        "https://www.fungipedia.org/images/galerias/tulostoma_fimbriatum/tulostoma_fimbriatum8.jpg",
+        "https://www.fungipedia.org/images/galerias/tulostoma_fimbriatum/tulostoma_fimbriatum9.jpg"
+    ]
+}

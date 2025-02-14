@@ -1,0 +1,34 @@
+{
+    "name": "russula-amoenolens",
+    "title": null,
+    "author": "Romagn.",
+    "additional_info": {
+        "common_name": "Rúsula de olor a amoena, gibelmarroi idaskatua.",
+        "synonym": "Ninguno."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Russulales",
+        "Familia": "Russulaceae"
+    },
+    "edibility": "no-comestible",
+    "characteristics": {
+        "cap": "Sombrero de tamaño medio, con frecuencia sobrepasa los 5 cm de diámetro sin alcanzar los 10, de forma más o menos subglobosa, evolucionando a forma convexa, luego aplanado y finalmente deprimido. Superficie lubrificada en estado húmedo, con cierto brillo, e incluso viscosa, siendo más mate en tiempo seco. Es de color ocre oscuro en el centro, aclarándose notablemente hacia el margen. Este margen es marcadamente estriado e involuto en los ejemplares jóvenes.",
+        "hymenium": "Láminas sublibres de color blanquecino, cremas en la madurez, bastante apretadas y separables con cierta facilidad.",
+        "stipe": "Pie cilíndrico de color blanco, de tamaño proporcionado al sombrero o corto. Cuando la seta es joven es lleno, pero se va quedando hueco con el tiempo. Los especímenes viejos presentan la base teñida con tonos pardos sucios.",
+        "flesh": "Carne espesa y quebradiza, bastante consistente, de color blanco e inmutable. Su sabor acre se acentúa según la masticas hasta que el picor resulta insoportable, y su olor, definido por algunos autores como de crustáceos cocidos, preferimos calificarlo como semejante al de la Russula amoena."
+    },
+    "habitat": "Esta seta la hemos podido ver en todas las épocas del año a excepción del invierno, fructificando generalmente en hileras, rara vez sola. En nuestro radio de acción es una seta muy frecuente y abundante, pero no está muy extendida geográficamente. Siempre la hemos visto en bosques de roble, por lo que entendemos que es exclusiva de planifolios.",
+    "observations": "Es absolutamente incomestible esta seta por su tremenda acritud, además de mal sabor. Por el olor se la puede distinguir con cierta facilidad, ya que otras que huelen parecido, Russula amoena o Russula amoenicolor, son muy diferentes de aspecto y color. Sin embargo, por su forma y colores puede confundirse con algunas otras especies similares, tal es el caso de la Russula sororia, especie de mayor porte que no reacciona al gayac como lo hace esta. La Russula pectinata y la Rusula pectinatoides son también muy similares, aunque de tonos más claros.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/russula_amoenolens/russula_amoenolens1.jpg",
+        "https://www.fungipedia.org/images/galerias/russula_amoenolens/russula_amoenolens2.jpg",
+        "https://www.fungipedia.org/images/galerias/russula_amoenolens/russula_amoenolens3.jpg",
+        "https://www.fungipedia.org/images/galerias/russula_amoenolens/russula_amoenolens4.jpg",
+        "https://www.fungipedia.org/images/galerias/russula_amoenolens/russula_amoenolens5.jpg",
+        "https://www.fungipedia.org/images/galerias/russula_amoenolens/russula_amoenolens6.jpg"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "name": "limacella-illinita",
+    "title": null,
+    "author": "(Fr.) Maire",
+    "additional_info": {
+        "common_name": "Limacella babosa.",
+        "synonym": "Lepiota illinita (Fr.) Quél."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Agaricales",
+        "Familia": "Amanitaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero que en los ejemplares plenamente desarrollados supera los 5 cm de diámetro, inicialmente con forma campanulada, posteriormente convexa o, como mucho, plano-convexa, sin llegar a aplanarse del todo. El centro del sombrero es giboso, pero luego deviene en un mamelón obtuso permanente. Su superficie es de color blanco o algo crema, con el centro un poco más oscuro, y está cubierta en su totalidad por un gluten que muchas veces queda como un colgajo en el margen. Cutícula lisa y glabra, borde involuto y regular.",
+        "hymenium": "Láminas libres con respecto al pie, de color blanco y bastante apretadas, un poco cerosas.",
+        "stipe": "Pie cilíndrico y alargado, del mismo color que el sombrero. El tercio superior no es muy viscoso, más bien pruinoso, a esa altura tiene un engrosamiento que permanece adpreso de consistencia mucilaginosa, asemejando un anillo. Desde el pseudoanillo hasta la base es igual de glutinoso que el sombrero.",
+        "flesh": "Carne de poco espesor y color blanco, con un olor muy débil y poco sabor."
+    },
+    "habitat": "Es una especie que fructifica tanto en caducifolios como en coníferas, eso sí, entre los primeros tiene predilección por los encinares y entre las segundas por los pinares. Sale a una cierta altitud, no se localiza en zonas bajas. Especie otoñal poco frecuente.",
+    "observations": "Aunque en algunos tratados se le atribuye una posible comestibilidad, el recubrimiento de gluten que tiene no invita precisamente a la ingesta. El género Limacella pertenece a la misma familia que las Amanitas, son especies caracterizadas por tener cutícula glutinosa y ausencia de volva. Si la encontráramos tras unos días de sequía podríamos confundirla con la Lepiota erminea o el Leucoagaricus leucothites, pero rehidratando el sombrero saldríamos de dudas.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/limacella_illinita/limacella_illinita1.jpg",
+        "https://www.fungipedia.org/images/galerias/limacella_illinita/limacella_illinita2.jpg"
+    ]
+}

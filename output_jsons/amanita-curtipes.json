@@ -1,0 +1,37 @@
+{
+    "name": "amanita-curtipes",
+    "title": null,
+    "author": "E.-J.Gilbert",
+    "additional_info": {
+        "common_name": "Gurumelo chico.",
+        "synonym": "Amanita valens Kühn et Romagn."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Agaricales",
+        "Familia": "Amanitaceae"
+    },
+    "edibility": "comestible",
+    "characteristics": {
+        "cap": "Sombrero con un diámetro que puede oscilar en los ejemplares desarrollados entre los 3 y los 8 cm como mucho, con una forma hemisférica en su nacimiento, convexa durante buena parte de su crecimiento, extendiéndose con posterioridad e incluso algunos ejemplares puede llegar a deprimirse un tanto. Su superficie es de color blanco o crema rosado, aunque con la edad puede adquirir tonos ocráceos, lisa, presenta de forma frecuente restos del velo en forma de placas irregulares concoloras. Margen generalmente excedente y bastante regular, liso o vagamente estriado.",
+        "hymenium": "Láminas libres con respecto al pie, medianamente apretadas, de color blanco o algo cremas en la madurez, pudiendo tener matices rosados en algunos ejemplares, son anchas y carecen por regla general de laminillas intercaladas.",
+        "stipe": "Pie preferentemente corto aunque su longitud puede variar en función del sustrato sobre el que fructifica. De color blanco en la juventud pero ocráceo en la vejez, cilíndrico y liso o un poco fibriloso. El anillo es muy fugaz y solo en los ejemplares jóvenes se puede llegar a ver adpreso, normalmente no se suele apreciar anillo en la recolección. La volva es membranosa y abierta sin llegar a ser sacciforme, de color blanco aunque parezca que es ocre por la tierra adherida a ella, a veces termina en punta.",
+        "flesh": "Carne espesa y consistente de color blanco, al corte vira a un tono rosado carneo que se torna más oscuro o sucio con el tiempo. Tiene un olor fúngico suave y un sabor agradable."
+    },
+    "habitat": "Ejemplares localizados en los pinares de Aznalcazar (Sevilla) por nuestro amigo y colaborador Rafa Domínguez a quién agradecemos la cesión del material necesario para la realización de esta ficha. Esta especie fructifica tanto en pinares arenosos como bajo encinas o alcornoques con sotobosque de jaras. Es una especie bastante localizada y poco extendida, sin embargo en las zonas donde sale suele ser abundante. Aparece a lo largo del otoño y puede aguantar en algunas zonas hasta la primavera dependiendo de las condiciones climáticas.",
+    "observations": "Especie comestible poco recolectada con tal fin, tiene un notable parecido con el gurumelo o Amanita ponderosa, especie de mayor porte y más apreciada gastronómicamente que tiene un olor terroso más acusado. Más peligrosa es la posible confusión con la especie mortal Amanita verna, de carne blanca inmutable y sin apenas olor, con volva más amplia sacciforme. La Amanita valens es considerada por algunos autores como especie independiente pero bien podría tratarse de una simple variedad de pie más alargado.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/amanita_curtipes/amanita_curtipes1.jpg",
+        "https://www.fungipedia.org/images/galerias/amanita_curtipes/amanita_curtipes2.jpg",
+        "https://www.fungipedia.org/images/galerias/amanita_curtipes/amanita_curtipes3.jpg",
+        "https://www.fungipedia.org/images/galerias/amanita_curtipes/amanita_curtipes4.jpg",
+        "https://www.fungipedia.org/images/galerias/amanita_curtipes/amanita_curtipes5.jpg",
+        "https://www.fungipedia.org/images/galerias/amanita_curtipes/amanita_curtipes6.jpg",
+        "https://www.fungipedia.org/images/galerias/amanita_curtipes/amanita_curtipes7.jpg",
+        "https://www.fungipedia.org/images/galerias/amanita_curtipes/amanita_curtipes8.jpg",
+        "https://www.fungipedia.org/images/galerias/amanita_curtipes/amanita_curtipes9.jpg"
+    ]
+}

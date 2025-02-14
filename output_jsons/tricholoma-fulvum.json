@@ -1,0 +1,31 @@
+{
+    "name": "tricholoma-fulvum",
+    "title": null,
+    "author": "(Fr.) Bigeard & H. Gill.",
+    "additional_info": {
+        "common_name": "Tricoloma pardo amarillo, ziza hori marroi.",
+        "synonym": "Tricholoma flavobrunneum (Fr.) P. Kumm."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Tricholomatales",
+        "Familia": "Tricholomataceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero que en el mejor de los casos puede llegar a alcanzar los 10 cm de diámetro en los ejemplares adultos, con una forma netamente convexa durante buena parte de su desarrollo, posteriormente aplanado o algo giboso, obtusamente mamelonado de forma inconstante. Su superficie es ligeramente viscosa con lluvia o sino subseca, fibrilosa sin excesos, de un color esencial pardo con matices rojizos que suelen predominar en la zona central o amarillentos por desecación y hacia el margen. Este margen es incurvado y acanalado en muchos ejemplares.",
+        "hymenium": "Láminas escotadas por regla general, a veces uncinadas, muy apretadas, de color amarillo cuando son jóvenes, tiznándose con tonos ocres y rojizos de viejas, también se ensucian al tacto.",
+        "stipe": "Pie comúnmente alargado, cilíndrico o más típicamente irregular, con cierta tendencia a ser curvo, se suele engrosar en la parte baja para posteriormente atenuarse en la propia base, en algunos ejemplares puede ser claviforme. Superficie de fondo amarillento cubierta de fibrillas pardas que se van haciendo más patentes con la edad salvo quizás en el ápice.",
+        "flesh": "Carne relativamente espesa de color blanquecino, algo más amarillenta en la zona próxima a la superficie, fibrosa. Tiene un olor harinoso débil y un sabor amargo."
+    },
+    "habitat": "Estamos ante una especie que forma micorriza de forma exclusiva con los abedules (Betula sp.), si bien existe una variedad actualmente sinonimizada que puede aparecer en coníferas. Fructifica de forma aislada o en pequeños grupos preferentemente durante el otoño, pudiendo aparecer de forma ocasional en otras épocas. La exclusividad de su hábitat hace que no se trate de una especie demasiado frecuente.",
+    "observations": "Es una especie que se identifica con relativa facilidad dadas sus características, es relevante el hecho de poseer láminas amarillas sobre todo de jóvenes, es un carácter distintivo, así como el margen acanalado de numerosos ejemplares. Tricholoma nictitans está actualmente sinonimizado con esta especie, sus láminas son apenas amarillentas o a veces cremas y crece bajo coníferas. Hay muchas especies del género Tricholoma con tonos pardos u ocres, pero ninguna de ellas tiene las láminas de este color.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/tricholoma_fulvum/tricholoma_fulvum1.jpg",
+        "https://www.fungipedia.org/images/galerias/tricholoma_fulvum/tricholoma_fulvum2.jpg",
+        "https://www.fungipedia.org/images/galerias/tricholoma_fulvum/tricholoma_fulvum3.jpg"
+    ]
+}

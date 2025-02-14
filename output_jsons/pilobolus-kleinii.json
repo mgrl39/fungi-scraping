@@ -1,0 +1,34 @@
+{
+    "name": "pilobolus-kleinii",
+    "title": null,
+    "author": "Tiegh.",
+    "additional_info": {
+        "common_name": "Cañón.",
+        "synonym": "Pilobolus crystallinus var. kleinii (Tiegh.) R. Y. Zheng & G. Q. Chen"
+    },
+    "taxonomy": {
+        "División": "Zygomycota",
+        "Subdivisión": "Mucoromycotina",
+        "Clase": "Incertae sedis",
+        "Subclase": "Incertae sedis",
+        "Orden": "Mucorales",
+        "Familia": "Pilobolaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Cuerpos fructíferos de tamaño muy pequeño, pero no microscópicos como la mayoría de los hongos de su división. En una primera etapa fructifican como una especie de hilo de apenas un par de milímetros, con la parte inferior amarillenta y la superior cristalina, luego se va estirando hacia arriba, creciendo a la par de ir creando en la zona superior una especie de cabezuela de color amarillo vivo, quedando el pie cristalino. Finalmente se crea un esporangio con forma de lenteja, que es al principio amarillo y posteriormente negro, y que ocupa el ápice, debajo una bolsa inflada cristalina con contenido líquido en su interior, y un pedicelo igualmente cristalino.",
+        "hymenium": "Ciclo reproductivo Una vez que el esporangio está negro el hongo está listo para iniciar su ciclo reproductivo. En el interior de la bolsa se crea una presión osmótica que puede llegar a las 7 atmósferas, al final la bolsa no soporta la presión y estalla, el líquido de su interior se proyecta por un orificio situado bajo el esporangio, lanzando a este como si de un cañonazo se tratase a una distancia de entre 2 y 3 metros. En apenas 0`25 milésimas de segundo el esporangio alcanza una velocidad cercana a los 100 Km/h, constituyendo la mayor aceleración conocida en cualquier ser vivo, haciendo un equivalente ficticio con el hombre sería aproximadamente como si un ser humano fuera capaz de lanzar una pelota de tenis a una distancia de 4 o 5 km. Además es un hongo fotosensible, por lo que orienta siempre los cañonazos hacia la luz, llevando los esporangios a zonas más abiertas, donde se fijan al sustrato herbáceo, allí son ingeridos por el ganado, aguantando todo el paso por el tracto intestinal sin germinar ni destruirse. Al defecar el animal el hongo germina, creando el micelio sobre la boñiga y dando lugar a nuevos cuerpos fructíferos completando el ciclo.",
+        "stipe": "Pie de aspecto cristalino cuya longitud depende de la distancia existente hacia la luz solar, a mayor distancia el pie es más largo.",
+        "flesh": "Fructifica este curioso hongo sobre los excrementos de diverso tipo de ganado, nosotros lo hemos hallado sobre excrementos de caballo. Siempre fructifica sobre boñigas que están en sitios húmedos, muchas veces a la sombra de árboles, pero lanzan sus esporangios hacia la zona más soleada y accesible al ganado. Localizado en el mes de mayo, no nos consta que tenga predilección por una época del año determinada. Especie rara y curiosa."
+    },
+    "habitat": "Los Zygomycetes son hongos por lo general microscópicos salvo excepciones como la que les mostramos, son los comúnmente llamados mohos. Las especies del género Pilobolus fructifican siempre sobre excrementos de diversos animales, desde conejos hasta vacas, la especie que nos ocupa está habitualmente ligada a los excrementos de los caballos. Los esporangios poseen cristales de oxalato de calcio que lo protegen durante el tracto intestinal para no ser dañados y poder fructificar con posterioridad una vez liberados. Es una de esas curiosidades sorprendentes que nos da la naturaleza, como un hongo tan minúsculo puede llegar a convertirse en un auténtico cañón.",
+    "observations": null,
+    "images": [
+        "https://www.fungipedia.org/images/galerias/pilobolus_kleinii/pilobolus_kleinii1.jpg",
+        "https://www.fungipedia.org/images/galerias/pilobolus_kleinii/pilobolus_kleinii2.jpg",
+        "https://www.fungipedia.org/images/galerias/pilobolus_kleinii/pilobolus_kleinii3.jpg",
+        "https://www.fungipedia.org/images/galerias/pilobolus_kleinii/pilobolus_kleinii4.jpg",
+        "https://www.fungipedia.org/images/galerias/pilobolus_kleinii/pilobolus_kleinii5.jpg",
+        "https://www.fungipedia.org/images/galerias/pilobolus_kleinii/pilobolus_kleinii6.jpg"
+    ]
+}

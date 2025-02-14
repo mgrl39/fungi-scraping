@@ -1,0 +1,33 @@
+{
+    "name": "hygrophorus-marzuolus",
+    "title": null,
+    "author": "(Fries) Bresadola",
+    "additional_info": {
+        "common_name": "Seta de Marzo, Martxoko Ezko.",
+        "synonym": "Agaricus marzuolus Fries"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Tricholomatales",
+        "Familia": "Hygrophoraceae"
+    },
+    "edibility": "excelente-comestible",
+    "characteristics": {
+        "cap": "Sombrero que puede superar los 10 cm, de hemisférico a convexo, finalmente abierto y con el borde incurvado y ondulado. Al nacer es casi blanco, pero pasa rápidamente a tonos grises y pardos con matices ciáneos, de cutícula lisa y poco viscosa.",
+        "hymenium": "Láminas al principio algo apretadas pero enseguida muy separadas, muy blancas de joven, grisáceas en la vejez, ligeramente decurrentes.",
+        "stipe": "Pie corto, grueso y cilíndrico, de color blanco, pero que se va volviendo gris con el tiempo a partir de la base.",
+        "flesh": "Carne blanca y tierna, de buen espesor, tanto en el sombrero como en el pie, de olor poco destacable y sabor suave y dulce."
+    },
+    "habitat": "Fructifica preferentemente en bosques mixtos, aunque también se la encuentra en pinares puros, con predilección por suelos silíceos. Su época de aparición es el invierno y principios de la primavera, algo poco usual en micología.",
+    "observations": "Excelente comestible, dada su época de aparición podemos considerarla como la primera seta comestible del año, es por ello muy buscada, pero difícilmente encontrada debido a su escasez. En el otoño aparecen algunas especies que pueden guardar cierta similitud, como el Hygrophorus camarophyllus, de sombrero pardo-grisáceo y pie más largo, y el Hygrophorus atramentosus, algo más plateado, pero de notable parecido. Por su color pudiera confundirse con la Russula nigricans, que enrojece antes de ennegrecer y no tiene el pie grisáceo.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/hygrophorus_marzuolus/hygrophorus_marzuolus1.jpg",
+        "https://www.fungipedia.org/images/galerias/hygrophorus_marzuolus/hygrophorus_marzuolus2.jpg",
+        "https://www.fungipedia.org/images/galerias/hygrophorus_marzuolus/hygrophorus_marzuolus3.jpg",
+        "https://www.fungipedia.org/images/galerias/hygrophorus_marzuolus/hygrophorus_marzuolus4.jpg",
+        "https://www.fungipedia.org/images/galerias/hygrophorus_marzuolus/hygrophorus_marzuolus5.jpg"
+    ]
+}

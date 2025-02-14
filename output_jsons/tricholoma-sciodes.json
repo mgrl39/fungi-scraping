@@ -1,0 +1,31 @@
+{
+    "name": "tricholoma-sciodes",
+    "title": null,
+    "author": "(Pers.) C. Martín",
+    "additional_info": {
+        "common_name": "Falsa negrilla, ziza ubelska-puntaduna.",
+        "synonym": "Tricholoma virgatum var. sciodes (Pers.) Konrad"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Tricholomatales",
+        "Familia": "Tricholomataceae"
+    },
+    "edibility": "no-comestible",
+    "characteristics": {
+        "cap": "Sombrero no demasiado grande ni tampoco de porte carnoso, su tamaño en estado adulto puede oscilar entre los 3 y los 7 cm de diámetro. En sus primeros estadios tiene forma cónica, se va abriendo de forma paulatina hasta adoptar con el desarrollo una forma convexa-aplanada, rara vez totalmente aplanada, manteniendo en su zona central un mamelón puntiagudo evidente. Su superficie tiene un color gris bastante homogéneo al ser satinada, con diferentes tonos según humedad pero siempre gris, está recubierta de fibrillas concoloras y no tiene ni pilosidad ni escamas. El margen es regular y opaco, sin estrías.",
+        "hymenium": "Láminas escotadas, muchas veces uncinadas, de color grisáceo, algo más blanquecinas al principio, más bien apretadas y con la arista punteada de negro incluso en los ejemplares jóvenes.",
+        "stipe": "Pie alargado con respecto al sombrero, cilíndrico y de aspecto esbelto, de color blanquecino, a veces con algún matiz grisáceo, liso y lleno, no es pruinoso ni tiene ningún revestimiento, tampoco se aprecian cambios de color al ser manipulado.",
+        "flesh": "Carne no demasiado espesa pero con cierta consistencia, fibrosa, de color blanco con algún matiz grisáceo sobre todo bajo la cutícula. Tiene un olor desagradable entre rafanoide y terroso, su sabor es así mismo desagradable, amargo y picante a la vez."
+    },
+    "habitat": "Existe cierta controversia en este aspecto al ser confundida con especies afines, según nuestra experiencia esta especie es común en nuestros hayedos donde suele crecer con profusión en algunos años propicios, más común en bosques de planifolios que el Tricholoma virgatum, y menos común que este en bosques de coníferas. Suele crecer en pequeños grupos desde finales del verano y sobre todo durante el otoño.",
+    "observations": "Es una especie de sabor desagradable, algo tóxica según algunos autores, se caracteriza por su sombrero al principio cónico y después con mamelón puntiagudo, y por la arista laminar punteada de negro incluso en ejemplares jóvenes. Es muy afín a Tricholoma virgatum, de cutícula más sedosa y decorada con la arista laminar concolora y sabor muy amargo que se vuelve muy picante al de un buen rato de masticación. Entre las especies comestibles que se prestan a confusión es de destacar el Tricholoma terreum, exclusiva de coníferas y de buen sabor. En nuestros hayedos está proliferando últimamente una especie muy tóxica que puede tener también parecido con la presente, Tricholoma filamentosum, seta de porte robusto y que a pesar de su toxicidad no tiene sabor desagradable.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/tricholoma_sciodes/tricholoma_sciodes1.jpg",
+        "https://www.fungipedia.org/images/galerias/tricholoma_sciodes/tricholoma_sciodes2.jpg",
+        "https://www.fungipedia.org/images/galerias/tricholoma_sciodes/tricholoma_sciodes3.jpg"
+    ]
+}

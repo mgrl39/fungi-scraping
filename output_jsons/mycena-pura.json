@@ -1,0 +1,31 @@
+{
+    "name": "mycena-pura",
+    "title": null,
+    "author": "(Pers.) P. Kumm.",
+    "additional_info": {
+        "common_name": "Micena pura, kampaitso arbiusain.",
+        "synonym": "Mycena ianthina (Fr.) P. Kumm."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Agaricales",
+        "Familia": "Mycenaceae"
+    },
+    "edibility": "toxica",
+    "characteristics": {
+        "cap": "Sombrero pequeño, en el mejor de los casos apenas llega a los 5 cm de diámetro, de forma cónica o campanulada en su primera etapa, posteriormente convexo y al final aplanado, a veces algo mamelonado. Su superficie es lisa y brillante con lluvia, pero no viscosa, de color muy variable al ser una especie marcadamente higrófana, la forma típica es de un bello color violeta algo decolorada hacia el margen, pero existen formas o variedades de colores tan diversos como el leonado, amarillo, lila, rosa o blanquecino. El margen es bastante regular, incurvado en un principio y después liso, estriado por transparencia.",
+        "hymenium": "Láminas adnatas y muy separadas, ventrudas y con laminillas, generalmente blanquecinas aunque pueden tener un matiz liláceo o rosado.",
+        "stipe": "Pie cilíndrico y proporcionado, hueco, de aspecto translúcido muchas veces, tiene un color similar al del sombrero y la zona de unión con el micelio algodonosa.",
+        "flesh": "Carne escasa y poco consistente de color blanquecino, muy frágil, posee un marcado olor rafanoide y su sabor es igualmente de rábano."
+    },
+    "habitat": "Especie de amplia distribución tanto geográfica como en lo que a hábitat se refiere, sale por igual en bosques de coníferas y planifolios, suele hacerlo en pequeños grupos sobre el suelo. Se trata de una especie muy abundante y frecuente en nuestros bosques que suele hacer acto de aparición tanto en verano como en otoño.",
+    "observations": "Es esta una seta que contiene sustancias psicotrópicas, además se ha detectado en alguna de sus variedades la presencia de muscarina, por lo que resulta ciertamente tóxica. Es tal la variabilidad de color que presenta esta especie que se han creado numerosas variedades, alguna de las cuales ha alcanzado taxón propio. De esta forma encontramos la Mycena rosea, de mayor porte y color rosado en todo el carpóforo, la Mycena diosma, pequeña seta de olor floral, no rafanoide, o la Mycena pearsoniana, que se diferencia por alguna sutileza como el carácter amiloide de sus esporas. Otra especie bien diferenciada es Mycena pelianthina, de láminas lilas con la arista oscura y que se diferencia bien en el microscopio por la presencia de queilocistidios.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/mycena_pura/mycena_pura1.jpg",
+        "https://www.fungipedia.org/images/galerias/mycena_pura/mycena_pura2.jpg",
+        "https://www.fungipedia.org/images/galerias/mycena_pura/mycena_pura3.jpg"
+    ]
+}

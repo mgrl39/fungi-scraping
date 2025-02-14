@@ -1,0 +1,34 @@
+{
+    "name": "stemonitis-fusca",
+    "title": null,
+    "author": "Roth.",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Stemonitis fusca var. fusca Roth."
+    },
+    "taxonomy": {
+        "División": "Myxomycota",
+        "Subdivisión": "Myxomycotina",
+        "Clase": "Myxomycetes",
+        "Subclase": "Stemonitomycetidae",
+        "Orden": "Stemonitales",
+        "Familia": "Stemonitidaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Plasmodio del tipo afanoplasmodio, formado por filamentos finos y trasparentes que se unen formando una red. Posee venas compactas en las que no se diferencias partes distintas o regiones, siendo de color blanco puro y translúcido, va creciendo a la par que se desplaza dejando un rastro mucoso llamado hipotalo. Este hipotalo se va reuniendo en masas esféricas, como si fueran pequeñas bolitas blancas reunidas, dando por finalizada su fase somática, a partir de ese momento ya no se desplaza y comienza la creación de los cuerpos reproductores o esporocarpos.",
+        "hymenium": "Esporocarpos que forman grupos de numerosos individuos arracimados con crecimiento paralelo pero individual. En el interior de las masas esféricas se forma un pie a partir del hipotalo que se va izando paulatinamente elevando el protoplasto, este a su vez va alimentando de forma interna la creación de más pie. Durante este proceso se mantiene el color blanco del plasmodio, pero al comenzar la maduración, se crea un peridio y en su interior las fibras del capilicio. Por un proceso llamado meiosis el protoplasto generará las esporas que se depositan entre las fibras del capilicio. Durante este proceso general, el color varía según el grado de maduración, y va del gris al negro, para finalizar siendo marrón oscuro. En el interior una columela recorre todo el largo del esporocarpo, sirviendo de agarre para las fibras del capilicio. Todo el conjunto puede alcanzar una altura aproximada de 2 cm.",
+        "stipe": "Pie que brota blanco y acaba siendo negro, ocupa solo la parte inferior de los cuerpos reproductores, apenas una quinta parte del total de la altura.",
+        "flesh": "Este Myxommycete no tiene predilección por una época del año determinada, puede aparecer prácticamente en cualquier época del año si las condiciones son óptimas. Fructifica sobre madera muerta de diversos árboles cuando hay un alto grado de humedad. Es una de las especies más frecuente dentro de su género."
+    },
+    "habitat": "Dentro de los Myxomycetes los Stemonitis corresponden a los exospóreos, se caracterizan por formar fructificaciones de numerosos individuos arracimados que crecen de forma paralela como un único ser. Hay muchas otras especies de su género similares, como Stemonitis axifera, de capilicio más rojizo, pero para diferenciarlas con certeza es preciso un pormenorizado estudio microscópico.",
+    "observations": null,
+    "images": [
+        "https://www.fungipedia.org/images/galerias/stemonitis_fusca/stemonitis_fusca1.jpg",
+        "https://www.fungipedia.org/images/galerias/stemonitis_fusca/stemonitis_fusca2.jpg",
+        "https://www.fungipedia.org/images/galerias/stemonitis_fusca/stemonitis_fusca3.jpg",
+        "https://www.fungipedia.org/images/galerias/stemonitis_fusca/stemonitis_fusca4.jpg",
+        "https://www.fungipedia.org/images/galerias/stemonitis_fusca/stemonitis_fusca5.jpg",
+        "https://www.fungipedia.org/images/galerias/stemonitis_fusca/stemonitis_fusca6.jpg"
+    ]
+}

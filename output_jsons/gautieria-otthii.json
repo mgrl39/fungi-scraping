@@ -1,0 +1,32 @@
+{
+    "name": "gautieria-otthii",
+    "title": null,
+    "author": "Trog",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Gautieria graveolens var. otthii (Trog) Zeller & C.W. Dodge"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Gasteromycetidae",
+        "Orden": "Gautieriales",
+        "Familia": "Gautieriaceae"
+    },
+    "edibility": "no-comestible",
+    "characteristics": {
+        "cap": "Carpóforo con forma tuberculada o de pequeña patata, forma típica de la mayoria de los hongos hipogeos o semihipogeos, a veces un tanto globoso o subgloboso, pero normalmente de forma bastante irregular, con alguna prominencia o abultamiento, las especies de este género no presentan cavidad basal. Tiene un tamaño que puede oscilar entre 2 y 5 cm de diámetro, de media en el entorno de los 3 cm, y suele presentar cordones miceliales en la base de color blanquecino que sirven de unión con el micelio. Tiene un color fundamentalmente crema, con matices olivaceos, bastante uniforme en su conjunto, aunque suele oscurecerse con la maduración.",
+        "hymenium": "Peridio extremadamente delgado y con escasa persistencia, es muy habitual encontrar ejemplares de esta especie en las que faltan parcialmente trozos del peridio y se deja entrever la gleba, aunque no hemos encontrado ninguna en la que haya desaparecido por completo como sucede en Gautieria morchelliformis, ni en los ejemplares más maduros. Es liso y glabro y de color crema.",
+        "stipe": "Gleba formada por celdillas que le confieren un aspecto laberíntico, más cerradas en los especímenes inmaduros, pero que se van abriendo paulatinamente con la maduración, dejando huecos en su interior, de color crema en un principio, volviéndose ocracea al desarrollarse. La columela solo es visible en la zona basal con claridad, y es de color blanco grisaceo.",
+        "flesh": "Carne que no es más que la propia gleba, consistente y tenaz, con textura cartilaginosa. Tiene un olor no demasiado acentuado en un principio, pero que con la maduración se va volviendo muy intenso, al punto de resultar desagradable, su sabor tampoco es agradable."
+    },
+    "habitat": "Estamos ante una especie de crecimiento hipogeo, fructifica enterrada en suelos tanto ácidos como calizos, normalmente en bosques de pinos. En cuanto a la época de aparición, dependiendo de la latitud, puede aparecer casi en cualquier época, no es una especie otoñal. En el caso concreto de nuestra recolecta, fue efectuada en el mes de mayo, en suelo ácido, y bajo Pinus sylvestris en la provincia de La Rioja. Además de la dificultad que entraña encontrar este tipo de hongos, esta especie en concreto puede considerarse rara en nuestro entorno, por lo que está poco referenciada.",
+    "observations": "El género Gautieria en nuestro radio de acción está compuesto por apenas media docena de especies, las demás afloran en otras latitudes, son especies con muchas similitudes macroscópicas, por lo que se hace indispensable un estudio pormenorizado y microscópico para su correcta clasificación, y suelen tener esporas que recuerdan en su forma al fruto del cacao. Gautieria morchelliformis es muy similar, pero pierde todo el peridio con facilidad a las primeras de cambio, y sus esporas pueden superar las 20 micras,  Gautieria graveolens, antes sinonimizada con otthii, tiene esporas intermedias entre estas dos especies. Gautieria trabutii posee multiples verrugas en las costillas de sus esporas.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/gautieria_otthii/gautieria_otthii1.jpg",
+        "https://www.fungipedia.org/images/galerias/gautieria_otthii/gautieria_otthii2.jpg",
+        "https://www.fungipedia.org/images/galerias/gautieria_otthii/gautieria_otthii3.jpg",
+        "https://www.fungipedia.org/images/galerias/gautieria_otthii/gautieria_otthii4.jpg"
+    ]
+}

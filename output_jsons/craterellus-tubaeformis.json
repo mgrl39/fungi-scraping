@@ -1,0 +1,31 @@
+{
+    "name": "craterellus-tubaeformis",
+    "title": null,
+    "author": "(Fr.) Quél.",
+    "additional_info": {
+        "common_name": "Rebozuelo atrompetado, saltsa-perretxiko horilun.",
+        "synonym": "Cantharellus tubaeformis Fr."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Aphyllophoromycetidae",
+        "Orden": "Cantharellales",
+        "Familia": "Cantharellaceae"
+    },
+    "edibility": "buen-comestible",
+    "characteristics": {
+        "cap": "Sombrero de unos 5 cm de diámetro en estado adulto, profundamente umbilicado, de forma plana, aunque el hundimiento que tiene en el centro con la edad llega dentro del pie. Es de color un tanto variable, generalmente pardo con matices amarillentos u ocráceos. El borde suele ser más amarillento y está ondulado e incurvado irregularmente.",
+        "hymenium": "Láminas inexistentes, el himenio está compuesto por unas nervaduras ahorquilladas bien marcadas, muy separadas entre sí y decurrentes sobre el pie. Son de color grisáceo, pero el fondo liso es más amarillento.",
+        "stipe": "Pie central y cilíndrico, comprimido lateralmente o surcado, totalmente liso, de color amarillo mate, e incluso grisáceo a veces.",
+        "flesh": "Carne escasa, muy fina y flexible, más dura en el pie, de color amarillo pálido. Con olor a humedad o moho, y sabor dulce no desagradable."
+    },
+    "habitat": "Fructifica durante el otoño, y lo hace por igual en bosques de caducifolios o de coníferas, lo hemos encontrado en pinares y en hayedos. Crece sobre todo sobre el musgo o el humus del suelo, de forma gregaria.",
+    "observations": "Es un buen comestible, aunque para nosotros de inferior calidad que el Craterellus lutescens, con quién normalmente se suele confundir. La diferencia más notable está en el himenio, con nervaduras bien claras en la especie aquí descrita que no posee la otra. Otra posible confusión es con el Cantharellus melanoxeros, de sombrero más amarillento y cuya carne ennegrece.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/craterellus_tubaeformis/craterellus_tubaeformis1.jpg",
+        "https://www.fungipedia.org/images/galerias/craterellus_tubaeformis/craterellus_tubaeformis2.jpg",
+        "https://www.fungipedia.org/images/galerias/craterellus_tubaeformis/craterellus_tubaeformis3.jpg"
+    ]
+}

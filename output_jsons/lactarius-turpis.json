@@ -1,0 +1,34 @@
+{
+    "name": "lactarius-turpis",
+    "title": null,
+    "author": "(Weinm.) Fr.",
+    "additional_info": {
+        "common_name": "Lactario plomizo, níscalo negro, esneki zikina.",
+        "synonym": "Lactarius necator (Bull.) Pers."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Russulales",
+        "Familia": "Russulaceae"
+    },
+    "edibility": "no-comestible",
+    "characteristics": {
+        "cap": "Sombrero de considerable tamaño, los ejemplares adultos pueden alcanzar dimensiones que en algunos casos se aproximan a los 20 cm de diámetro, siendo lo más habitual hallarlos entre 10 y 15 cm. Es convexo durante la mayor parte de su desarrollo, de joven posee una depresión central, y de viejo se deprime de forma más clara. Tiene un aspecto un tanto sucio, con un color que va desde el marrón oliváceo al pardo oscuro u oliva negruzco, con el centro generalmente más oscuro y la zona marginal más clara, más netamente olivácea. Su cutícula es viscosa y puede llegar a ser glutinosa con lluvia, aunque contrasta que sea a la vez afieltrada de joven, después se torna algo rugosa. El margen es involuto en los ejemplares jóvenes y luego extendido.",
+        "hymenium": "Láminas que pueden ser adnatas o ligeramente decurrentes, bastante apretadas entre sí, de color pálido al principio, crema grisáceo, pero ensuciándose de forma notable con el tiempo, con manchas que se tornan pardo oscuro.",
+        "stipe": "Pie proporcionado o algo corto de color similar al sombrero o un poco más claro, generalmente con tendencia a atenuarse en la base y a oscurecerse al ser manipulado. Duro y lleno de joven volviéndose cavernoso como muchas otras especies de su género. Poco o nada escrobiculado.",
+        "flesh": "Carne espesa y dura, firme, de color blanquecino al corte oscureciéndose al de unos minutos. Exuda un látex blanco muy acre, sin embargo la acritud de la carne es tardía, al principio resulta dulce pero desagradable y al de unos segundos deviene el sabor acre."
+    },
+    "habitat": "Especie que suele aparecer en abedules de montaña con cierta profusión, siendo más rara y escasa en otros hábitats, la hemos visto en el borde de un pinar y en un bosque de hayas de forma más aislada. En cierta altura se encuentra ya en el verano, siendo lo habitual hallarla durante el otoño. Es una especie que fructifica en pequeños grupos por regla general.",
+    "observations": "Es una especie caracterizada por su sombrero viscoso y de aspecto sucio, con colores pardos y oliváceos, esto la incluye dentro de la sección Atroviridi. Algunos autores destacan que posee una pequeña toxicidad dado que puede acarrear algún leve trastorno gastrointestinal. Por su aspecto es difícil confundirla, tan solo el Lactarius blennius puede tener cierto parecido, igualmente viscoso y oliváceo, nunca es tan oscuro ni tiene ese aspecto sucio, además su pie suele ser más escrobiculado.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/lactarius_turpis/lactarius_turpis1.jpg",
+        "https://www.fungipedia.org/images/galerias/lactarius_turpis/lactarius_turpis2.jpg",
+        "https://www.fungipedia.org/images/galerias/lactarius_turpis/lactarius_turpis3.jpg",
+        "https://www.fungipedia.org/images/galerias/lactarius_turpis/lactarius_turpis4.jpg",
+        "https://www.fungipedia.org/images/galerias/lactarius_turpis/lactarius_turpis5.jpg",
+        "https://www.fungipedia.org/images/galerias/lactarius_turpis/lactarius_turpis6.jpg"
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "name": "hebeloma-radicosum",
+    "title": null,
+    "author": "(Bull.) Ricken",
+    "additional_info": {
+        "common_name": "Hebeloma radicante, arbiki errodun.",
+        "synonym": "Pholiota radicosa (Bull.) P. Kumm."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Cortinariales",
+        "Familia": "Cortinariaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero de aspecto carnoso y un diámetro que puede llegar a ser notable, habitualmente entre 5 y 10 cm, pero puede superar esta medida. Su forma es en un principio hemisférica, después se vuelve convexo y finalmente se aplana bastante. Su cutícula es lubrificada en tiempo lluvioso, manteniendo en otras condiciones un cierto brillo, de color variable que puede ir del crema al ocre, teniendo muchas veces un típico color cuero pálido. Esta superficie puede ser lisa o algo escamosa, y el margen, a veces más claro, presenta restos de velo en los ejemplares jóvenes que luego desaparecen.",
+        "hymenium": "Láminas adnatas o sublibres de color claro, crema, en los especímenes jóvenes, volviéndose rápidamente marrones, a veces con matiz amarillento. Son bastante apretadas y de disposición irregular.",
+        "stipe": "Pie alargado, lleno y fusiforme, de color similar al sombrero. Es atenuado hacia la base, terminando en una larga raíz, de hecho la parte enterrada del pie es en muchas ocasiones tan larga o más que la parte visible. Está provisto en el tercio superior de un anillo membranoso y persistente muy patente, debajo del cual presenta flocones más oscuros.",
+        "flesh": "Carne espesa de color blanquecino, fibrosa en el pie, con sabor dulce, no amarga para nada, y un olor que no es desagradable pero si difícil de definir, como herbal con trasfondo de almendras amargas."
+    },
+    "habitat": "Se trata de una especie que si bien sale sobre la tierra siempre suele hacerlo en la proximidad de viejos tocones muy degradados. Fructifica bajo árboles planifolios, en nuestro caso solemos verla bajo hayas, de todas formas no es una seta abundante aunque aparezca con cierta asiduidad. Su época de aparición predilecta es el otoño.",
+    "observations": "Dentro de un género tan complicado de definir, en el que existen especies muy próximas entre sí, quizás sea esta especie una de las pocas que apenas presenten problemas de identificación. Sus características macroscópicas son relevantes, su aspecto carnoso, su pie provisto de anillo, y la larga raíz en la que termina susodicho pie, el sabor no amargo y su olor peculiar, hacen que esta especie sea fácilmente identificable.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/hebeloma_radicosum/hebeloma_radicosum1.jpg",
+        "https://www.fungipedia.org/images/galerias/hebeloma_radicosum/hebeloma_radicosum2.jpg",
+        "https://www.fungipedia.org/images/galerias/hebeloma_radicosum/hebeloma_radicosum3.jpg",
+        "https://www.fungipedia.org/images/galerias/hebeloma_radicosum/hebeloma_radicosum4.jpg",
+        "https://www.fungipedia.org/images/galerias/hebeloma_radicosum/hebeloma_radicosum5.jpg",
+        "https://www.fungipedia.org/images/galerias/hebeloma_radicosum/hebeloma_radicosum6.jpg"
+    ]
+}

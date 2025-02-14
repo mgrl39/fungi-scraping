@@ -1,0 +1,37 @@
+{
+    "name": "lepista-sordida",
+    "title": null,
+    "author": "(Schumach.) Singer",
+    "additional_info": {
+        "common_name": "Pie azul sordido, ziza ahul ankaurdina.",
+        "synonym": "Tricholoma sordidum (Schumach.) P. Kumm."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Tricholomatales",
+        "Familia": "Tricholomataceae"
+    },
+    "edibility": "comestible",
+    "characteristics": {
+        "cap": "Sombrero de tamaño más bien pequeño para el género, el diámetro de los ejemplares adultos no suele exceder, por regla general, de los 6 a 8 cm, más pequeño aún en su var. lilacea. Tiene forma hemisférica en estado primordial, pronto convexo y finalmente aplanado, no suele embudarse, en muchos especímenes con el centro algo resaltado de forma obtusa, sin que presente mamelón agudo o pezón. Cutícula lisa de aspecto húmedo y separable de color variable dada su gran higrofaneidad, típicamente de color lila vivo, decolorándose a tonos ocres o cremas, pero manteniendo siempre un cierto matiz liláceo. El margen suele ser translúcido, regular de joven y luego ondulado, y puede o no ser estriado en función de la humedad del ejemplar, dejando entrever las láminas por transparencia en ocasiones.",
+        "hymenium": "Láminas adnatas o subdecurrentes, al ser ventrudas a veces aparentan ser escotadas sin serlo, en definitiva variables en la inserción con el pie, bastante apretadas y con abundantes laminillas intercaladas, fácilmente separables de la carne del sombrero, característica habitual en el género Lepista, de color lila más o menos vivo en ejempares jóvenes, más claras después al ser su esporada en masa de color totalmente blanco.",
+        "stipe": "Pie central y cilíndrico, de longitud variable en función del lugar de aparición, proporcionado al sombrero o alargado, a veces algo curvado y ensanchado en la base, fibriloso o algo estriado, con un color lilácino típico que, al igual que el sombrero puede llegar a decolorarse adquiriendo matices ocráceos o grises. Base algodonosa por la presencia de un micelio de color blanco.",
+        "flesh": "Carne escasa y poco consistente dado que absorbe mucha agua, de color blanquecino con matiz lila, sobre todo bajo la cutícula, tiene un sabor suave afrutado o dulzón y un olor fúngico no demasiado acentuado."
+    },
+    "habitat": "Esta especie es muy común y muy abundante, aunque a veces aparece en otras épocas del año, es en otoño donde fructifica con mayor profusión, sobre todo en el otoño tardío, o incluso a principio del invierno, pues le gusta las temperaturas frescas. Suele crecer en grupos más o menos numerosos o setales de varios ejemplares, sobre todo en terrenos altamente nitrogenados, bordes de las pistas de nuestros bosque y zonas abiertas, también en ambientes ruderales o jardines públicos. Aunque los ejemplares de la ficha son de la zona del vivero, monte Ganguren, en Galdakao, lo cierto es que la hemos visto en infinidad de lugares, con la presencia de todo tipo de árboles y tanto en terrenos ácidos como básicos.",
+    "observations": "Especie comestible sin mayor elogio, debido a su poca carne y consistencia dado que es muy higrófana, de inferior categoria que la Lepista nuda, especie  que se presta a confusión para el aficionado poco experto. Se parecen mucho en cuanto a color y forma, pero tienen varias diferencias muy claras, aunque debido a los múltiples errores en las definiciones que de ella hay por Internet, es entendible la confusión. Esta especie hay que recalcar que tiene esporada totalmente blanca, en contraposición con la esporada rosada de Lepista nuda, es una especie más liviana, de menor tamaño y consistencia, y mucho más higrófana, al punto que se transparenta al trasluz. Lepista glaucocana y Lepista irina pueden confundirse, pero son de colores menos vivos y mates, y ambas se identifican bien por tener un olor característico propio e inconfundible.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/lepista_sordida/lepista_sordida1.jpg",
+        "https://www.fungipedia.org/images/galerias/lepista_sordida/lepista_sordida2.jpg",
+        "https://www.fungipedia.org/images/galerias/lepista_sordida/lepista_sordida3.jpg",
+        "https://www.fungipedia.org/images/galerias/lepista_sordida/lepista_sordida4.jpg",
+        "https://www.fungipedia.org/images/galerias/lepista_sordida/lepista_sordida5.jpg",
+        "https://www.fungipedia.org/images/galerias/lepista_sordida/lepista_sordida6.jpg",
+        "https://www.fungipedia.org/images/galerias/lepista_sordida/lepista_sordida7.jpg",
+        "https://www.fungipedia.org/images/galerias/lepista_sordida/lepista_sordida8.jpg",
+        "https://www.fungipedia.org/images/galerias/lepista_sordida/lepista_sordida9.jpg"
+    ]
+}

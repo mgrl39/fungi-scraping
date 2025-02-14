@@ -1,0 +1,34 @@
+{
+    "name": "cantharellus-cinereus",
+    "title": null,
+    "author": "(Pers.) Fr.",
+    "additional_info": {
+        "common_name": "Trompeta negra, trompeta de los muertos cenicienta, saltsa-perretxiko aranusain, trompeta cendrosa.",
+        "synonym": "Merulius cinereus Pers."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Aphyllophoromycetidae",
+        "Orden": "Cantharellales",
+        "Familia": "Cantharellaceae"
+    },
+    "edibility": "buen-comestible",
+    "characteristics": {
+        "cap": "Sombrero que como mucho alcanza en el mejor de los casos los 5 cm de diámetro, de forma embudada a plana umbilicada, con una depresión central que llega habitualmente hasta el pie. Cuando se encuentra convenientemente hidratado es de color gris oscuro, palideciendo bastante al secarse. Es fibriloso e incluso un poco escamoso, y el borde está ondulado e involuto de forma un tanto irregular, siendo también muy fino.",
+        "hymenium": "Láminas inexistentes, su himenio está formado por unos pliegues bien marcados y perfectamente definidos, incluso gruesos, de color ceniza, que se muestran decurrentes sobre el pie.",
+        "stipe": "Pie más corto de lo habitual en su género, lleno de joven, después hueco, de un color parecido al del sombrero, cilíndrico y un poco atenuado en la zona basal.",
+        "flesh": "Carne poco consistente, muy delgada, de color gris pálido, con sabor dulce y olor afrutado más o menos intenso."
+    },
+    "habitat": "La localizamos durante el otoño bajo árboles planifolios, sobre todo bajo Fagus sylvatica, curiosamente en los mismos lugares donde fructifica el Craterellus cornucopioides, al igual que este sale en placas, si bien menos numerosas y copiosas.",
+    "observations": "Es un buen comestible, menos apreciado que el Craterellus cornucopioides, con el cual se confunde a menudo, que tiene un color más negruzco y cuyo himenio es más liso, sin pliegues tan definidos como esta seta. Es también factible su confusión con la Faerberia carbonaria, propia de restos de hogueras o incendios, y de carne muy tenaz.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/cantharellus_cinereus/cantharellus_cinereus1.jpg",
+        "https://www.fungipedia.org/images/galerias/cantharellus_cinereus/cantharellus_cinereus2.jpg",
+        "https://www.fungipedia.org/images/galerias/cantharellus_cinereus/cantharellus_cinereus3.jpg",
+        "https://www.fungipedia.org/images/galerias/cantharellus_cinereus/cantharellus_cinereus4.jpg",
+        "https://www.fungipedia.org/images/galerias/cantharellus_cinereus/cantharellus_cinereus5.jpg",
+        "https://www.fungipedia.org/images/galerias/cantharellus_cinereus/cantharellus_cinereus6.jpg"
+    ]
+}

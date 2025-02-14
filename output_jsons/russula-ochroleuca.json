@@ -1,0 +1,32 @@
+{
+    "name": "russula-ochroleuca",
+    "title": null,
+    "author": "Fr.",
+    "additional_info": {
+        "common_name": "Rusula ocre y blanca.",
+        "synonym": "Russula citrina Gillet"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Russulales",
+        "Familia": "Russulaceae"
+    },
+    "edibility": "no-comestible",
+    "characteristics": {
+        "cap": "Sombrero de hasta 12 cm de diámetro, de color amarillo ocre uniforme, más amarillo cuando crece bajo coníferas, convexo a aplanado, ligeramente deprimido en la vejez, con el margen algo acanalado y ondulado.",
+        "hymenium": "Láminas blancas, adnatas, bastante delgadas.",
+        "stipe": "Pie blanco, proporcional al sombrero, que tiende a volverse grisáceo. Ligeramente engrosado en la base, que también puede mancharse de amarillo.",
+        "flesh": "Carne blanquecina que se vuelve grisácea, firme y bastante espesa, sobre todo en el sombrero, la del pie va perdiendo consistencia con el paso del tiempo. El sabor es un poco acre y su olor es poco significativo."
+    },
+    "habitat": "Esta especie sale tanto en veranos lluviosos como en otoño, y gusta de hacerlo de manera generalizada tanto en planifolios como en coníferas.",
+    "observations": "El sabor acre de su carne la hace incomestible, sin embargo se trata de una especie inocua. A veces forma verdaderas alfombras en nuestros pinares junto con otras Russulas, como la Russula caerulea o la Russula sanguinaria. Se confunde con frecuencia con la Russula aeruginea, más verdosa y con la base del pie atenuada. También puede confundirse con la Russula fellea, de color más leonado en el centro del sombrero y olor a manzanas, así como con otras Russulas de tonos amarillos y ocres.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/russula_ochroleuca/russula_ochroleuca1.jpg",
+        "https://www.fungipedia.org/images/galerias/russula_ochroleuca/russula_ochroleuca2.jpg",
+        "https://www.fungipedia.org/images/galerias/russula_ochroleuca/russula_ochroleuca3.jpg",
+        "https://www.fungipedia.org/images/galerias/russula_ochroleuca/russula_ochroleuca4.jpg"
+    ]
+}

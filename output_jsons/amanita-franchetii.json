@@ -1,0 +1,31 @@
+{
+    "name": "amanita-franchetii",
+    "title": null,
+    "author": "(Boud.) Fayod",
+    "additional_info": {
+        "common_name": "Lanperna ezkatahori.",
+        "synonym": "Amanita aspera var. franchetii (Boudier)"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Agaricales",
+        "Familia": "Amanitaceae"
+    },
+    "edibility": "no-comestible",
+    "characteristics": {
+        "cap": "Sombrero de 5 a 10 cm de diámetro, comienza teniendo una forma hemisférica, para irse abriendo paulatinamente hacia forma convexa, finalmente aplanado. Su color es pardo gris de fondo, tiznado de amarillo notablemente, está recubierto de unas verrugas de color amarillo vivo, que le confieren al mismo una tonalidad más amarillenta si cabe. El margen es liso, no estriado, y algo involuto, sobre todo de joven.",
+        "hymenium": "Láminas que constituyen la única parte del carpóforo no amarillenta, son blancas, bastante apretadas, libres con respecto al pie, un poco sucias en ocasiones.",
+        "stipe": "Pie central y cilíndrico, alargado o grueso, de color blanco grisáceo de fondo, pero recubierto de escamas y tiznado de amarillo de forma muy notable, al punto que este parece ser su color. Tiene una volva poco definida y un anillo de color blanco amarillento.",
+        "flesh": "Carne espesa y compacta de color blanco, que permanece inmutable en las zonas dañadas. Tiene bastante mal sabor a pesar de que su olor es suave y poco significativo."
+    },
+    "habitat": "Solemos verla bajo árboles de hoja caduca, pero sale también en algún tipo de conífera. Es una especie a la que le gusta el calor y aparece ya en el verano, haciéndolo igualmente en principio del otoño. Especie nada fácil de localizar por ser poco frecuente.",
+    "observations": "No se recomienda su recolección dado que es sospechosa de toxicidad. El hecho de ser mucho más amarilla y que su carne es inmutable la distingue de la excelente Amanita rubescens, o galanperna galdacanesa, que se consume desde tiempo inmemorial en la zona de Galdakao (Bizkaia), especie que presenta tonos rojizos evidentes. Existe una fo. lactella de Amanita franchetii, caracterizada por su sombrero enteramente blanco con verrugas amarillas.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/amanita_franchetii/amanita_franchetii1.jpg",
+        "https://www.fungipedia.org/images/galerias/amanita_franchetii/amanita_franchetii2.jpg",
+        "https://www.fungipedia.org/images/galerias/amanita_franchetii/amanita_franchetii3.jpg"
+    ]
+}

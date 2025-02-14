@@ -1,0 +1,31 @@
+{
+    "name": "clavaria-fragilis",
+    "title": null,
+    "author": "Holmsk.",
+    "additional_info": {
+        "common_name": "Clavaria vermiforme, txixardin zuri.",
+        "synonym": "Clavaria vermicularis Sw."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Aphyllophoromycetidae",
+        "Orden": "Cantharellales",
+        "Familia": "Clavariaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Carpóforo de color blanco puro, que brota de la tierra claviforme, como espárragos. La zona apical suele ser más ancha que la base, y está lateralmente comprimido. La mayoría de veces no se presenta recto sino curvado, y generalmente en forma de haces, algunas veces unidos por la base, y otras con ejemplares individuales agrupados. Solo la punta amarillea cuando el ejemplar es ya muy viejo por necrosis. Suele superar los 5 cm de altura.",
+        "hymenium": "Himenio liso o ligeramente arrugado de color blanco, ubicado en la superficie externa del carpóforo.",
+        "stipe": "Carne escasa, en seguida la seta se vuelve hueca por dentro, muy frágil y de color blanco, sin que podamos reseñar nada significativo en cuanto a olor y sabor.",
+        "flesh": "Crece sobre todo durante el otoño, en praderas y pastizales, muchas veces escondida entre la hierba, por lo que suele pasar inadvertida. Esta característica hace que se la considere como una seta rara, poco habitual, sin embargo creemos que no lo es tanto, nosotros la vemos cada año sin problemas."
+    },
+    "habitat": "A pesar de no tener ningún valor culinario, resulta agradable ver en el campo esta seta de color blanco puro que contrasta con el verde de la hierba que la rodea. La Clavaria acuta o la Clavaria falcata se le parecen mucho, pero son algo más pequeñas y no crecen en haces. La Clavaria fumosa si crece en haces, pero su color es entre gris y cuero.",
+    "observations": null,
+    "images": [
+        "https://www.fungipedia.org/images/galerias/clavaria_fragilis/clavaria_fragilis1.jpg",
+        "https://www.fungipedia.org/images/galerias/clavaria_fragilis/clavaria_fragilis2.jpg",
+        "https://www.fungipedia.org/images/galerias/clavaria_fragilis/clavaria_fragilis3.jpg"
+    ]
+}

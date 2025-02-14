@@ -1,0 +1,30 @@
+{
+    "name": "amanita-muscaria",
+    "title": null,
+    "author": "(L) Lam.",
+    "additional_info": {
+        "common_name": "Matamoscas, falsa oronja, kuleto faltsu.",
+        "synonym": "Ninguno."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Agaricales",
+        "Familia": "Amanitaceae"
+    },
+    "edibility": "toxica",
+    "characteristics": {
+        "cap": "Sombrero que en abierto puede superar los 15 cm, en un principio globoso pero abriéndose hasta quedar extendido, con el margen acanalado al llegar a la madurez, algo viscoso en tiempo lluvioso. Su color fundamental es el rojo, aunque a veces se difumina hacia tonos anaranjados, y está recubierto de copos blancos, a veces amarillentos y lábiles (pueden perderse con la lluvia). Cutícula separable.",
+        "hymenium": "Láminas blancas, libres y bastante anchas.",
+        "stipe": "Pie blanco, central y cilíndrico, engrosado en la base en un bulbo que se encuentra adornado por ribetes concéntricos de consistencia algodonosa, a veces tintados de amarillo. Anillo blanco moteado de copos, colgante y persistente.",
+        "flesh": "Carne blanca, solo bajo la cutícula adquiere tintes naranjas superficialmente, con sabor suave y olor ligeramente rafanoide."
+    },
+    "habitat": "Es una especie muy frecuente y cosmopolita, se encuentra sobre todo durante el otoño, aunque no es descartable encontrársela en otras épocas del año si las condiciones son favorables. Aparece por igual en coníferas o caducifolios, sin preferencia especial por ningún tipo de suelo.",
+    "observations": "Es una especie tóxica que contiene gran cantidad de sustancias peligrosas pero curiosamente, y a pesar del nombre, no es la muscarina sino el ácido iboténico su principal veneno. Existen unas cuantas variedades de esta seta; regalis, de sombrero rojo amarronado y escamas amarillas, actualmente con entidad propia; formosa, de sombrero amarillento y escamas del mismo color y aureola, de sombrero naranja y liso y volva más membranosa. Esta última es la variedad que el aficionado con poca experiencia suele confundir con la Amanita caesarea, la cual, sin embargo, tiene el pie y las láminas de color amarillo en vez de blanco.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/amanita_muscaria/amanita_muscaria1.jpg",
+        "https://www.fungipedia.org/images/galerias/amanita_muscaria/amanita_muscaria2.jpg"
+    ]
+}

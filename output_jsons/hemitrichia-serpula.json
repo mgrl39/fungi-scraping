@@ -1,0 +1,31 @@
+{
+    "name": "hemitrichia-serpula",
+    "title": null,
+    "author": "(Scop.) Rostaf.",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Hemiarcyria serpula (Scop.) Rostaf."
+    },
+    "taxonomy": {
+        "División": "Myxomycota",
+        "Subdivisión": "Myxomycotina",
+        "Clase": "Myxomycetes",
+        "Subclase": "Myxogasteromycetidae",
+        "Orden": "Trichiales",
+        "Familia": "Trichiaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Plasmodiocarpo nacido sobre un plasmodio de color anaranjado, en un primer momento difícilmente diferenciable del mismo, ya que aprovecha las ramificaciones del propio plasmodio para expandirse. Carente de pie, adopta colores diferentes a lo largo de su desarrollo, desde el anaranjado inicial, al amarillo mate, acabando por ser un tanto ocráceo en su última fase. Se extiende por el sustrato no más de 3 cm, adoptando siempre esa forma ramificada. Peridio membranoso longitudinalmente dehiscente, formado por una estructura fácilmente rompible. Cuando se produce esa dehiscencia, aparece el capilicio, formado por una serie de fibras espinosas de color amarillo pálido, dispuestas con forma de espiral. Entre estas fibras del capilicio se encuentran las esporas.",
+        "hymenium": "Esporas de color amarillento y forma subglobosa, de 11 a 14 micras, con un retículo exterior bien definido.",
+        "stipe": "Pie inexistente, es una especie sésil.",
+        "flesh": "Es una especie de difícil localización, que fructifica en cualquier época del año si las condiciones son óptimas. Las fotografías expuestas han sido realizada en el mes de Febrero del 2010, sobre un tronco en descomposición de Fagus sylvatica, en la provincia de Álava."
+    },
+    "habitat": "Myxomycete perteneciente a las Trichias, que tiene como características principales la ausencia de pie, su estructura ramificada afín a la del propio plasmodio, y su variabilidad de color a lo largo de su desarrollo. Es importante en estas especies la realización de una microscopía adecuada para su determinación. Es precisamente su estructura lo que la distingue de las especies de su género, que por lo general suelen tener pie.",
+    "observations": null,
+    "images": [
+        "https://www.fungipedia.org/images/galerias/hemitrichia_serpula/hemitrichia_serpula1.jpg",
+        "https://www.fungipedia.org/images/galerias/hemitrichia_serpula/hemitrichia_serpula2.jpg",
+        "https://www.fungipedia.org/images/galerias/hemitrichia_serpula/hemitrichia_serpula3.jpg"
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "name": "hemimycena-lactea",
+    "title": null,
+    "author": "(Pers.) Singer",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Hemimycena delicatella (Peck) Singer"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Agaricales",
+        "Familia": "Mycenaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero cuyo diámetro oscila entre unos pocos milímetros y los 2 cm, en sus primeros estadios con forma de campana, después es convexo, para acabar por aplanarse, pudiendo presentar en la zona central un umbo obtuso no muy prominente. La cutícula es lisa, de color blanco leche y mate en los especímenes jóvenes, luego blanco crema, con posibilidad de que los ejemplares viejos presenten difumaciones amarillentas en la zona central. Margen estriado por transparencia e irregularmente ondulado.",
+        "hymenium": "Láminas adnatas o subdecurrentes de color blanco puro, no demasiado apretadas y con laminillas intercaladas.",
+        "stipe": "Pie cilíndrico y muchas veces curvado de color blanco acuoso, casi translúcido. Es alargado y liso o finamente pruinoso, con rizomorfos blancos en la unión con el micelio. Tiene una consistencia un tanto elástica o flexible.",
+        "flesh": "Carne poco significativa de color blanquecino, con un olor no muy destacado pero más bien desagradable, y un sabor análogo."
+    },
+    "habitat": "Se trata de una especie propia de los pinares, donde crece en grupos sobre las propias acículas de los pinos. Es una seta frecuente que fructifica sobre todo durante el otoño, aunque la hemos localizado también en invierno.",
+    "observations": "El género Hemimycena lo componen especies de pequeño tamaño y color blanco, se diferencia del género Mycena macroscópicamente por el hecho de que las Mycenas tienen el pie frágil, que se troncha con tan solo cogerlas, mientras que las Hemimycenas lo tienen flexible. Microscópicamente las Mycenas tienen esporas amiloides y las Hemimycenas no. La Hemimycena cucullata es muy similar, pero crece sobre restos vegetales u hojas muertas, y tiene una especie de capuchón. Otra especie parecida es Hemimycena candida, con hábitat exclusivo en matas de consuelda marchitas.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/hemimycena_lactea/hemimycena_lactea1.jpg",
+        "https://www.fungipedia.org/images/galerias/hemimycena_lactea/hemimycena_lactea2.jpg",
+        "https://www.fungipedia.org/images/galerias/hemimycena_lactea/hemimycena_lactea3.jpg",
+        "https://www.fungipedia.org/images/galerias/hemimycena_lactea/hemimycena_lactea4.jpg",
+        "https://www.fungipedia.org/images/galerias/hemimycena_lactea/hemimycena_lactea5.jpg",
+        "https://www.fungipedia.org/images/galerias/hemimycena_lactea/hemimycena_lactea6.jpg"
+    ]
+}

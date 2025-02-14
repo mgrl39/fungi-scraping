@@ -1,0 +1,33 @@
+{
+    "name": "hymenogaster-luteus",
+    "title": null,
+    "author": "Vittad.",
+    "additional_info": {
+        "common_name": "Himenogaster amarillo",
+        "synonym": "Oogaster berkeleyanus Corda"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Himenoascomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Agaricales",
+        "Familia": "Hymenogastraceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Carpóforo con forma de trufa, es decir, con la forma tuberculada habitual de la mayoría de especies hipogeas, e igualmente con una amplia variedad, algunos ejemplares se presentan bastante redondeados, otros oblongos o aplastados, con protuberancias no demasiado acusadas, no se muestra lobulado ni tampoco posee cavidades. Su tamaño es pequeño, el diámetro de los especímenes recolectados oscilaba entre 0´5 y 2 cm, pudiendo llegar a los 2´5 cm como mucho. De jóvenes los ejemplares presentan un color blanquecino, adquiriendo con el desarrollo algún tono ocráceo, de forma ocasional con matices amarillentos.",
+        "hymenium": "Peridio algo pruinoso o fibriloso en un principio, quedando liso y glabro, de color blanco en los ejemplares más jóvenes, adquiriendo tonos ocres o amarilentos con la edad, se ensucia al ser manipulado con tono parduzco. Es ciertamente fino y no separable de la gleba.",
+        "stipe": "Gleba compacta, compuesta por celdillas muy pequeñas generalmente, de forma laberíntica, de color blanquecino al principio, luego amarillas, y finalmente ocre amarillentas. Las venas son muy sutiles, no se diferencia en las especies de este género una zona venosa estéril muy clara como sucede en otros géneros de hongos hipogeos.",
+        "flesh": "Carne de textura un tanto blanda o esponjosa, posee de joven un olor dulzón, pero con la madurez se intensifica y se vuelve algo desagradable, complejo, su sabor es poco destacado."
+    },
+    "habitat": "Es esta una especie de crecimiento hipogeo, sale bajo tierra, y normalmente suele fructificar en terrenos calizos, referenciándose para ella diferentes hábitats, tanto bajo planifolios como bajo coníferas diversas. Los ejemplares recolectados que sirven de base para este estudio fueron localizados en la provincia de Bizkaia y en la Rioja, fructificando bajo Quercus ilex. Podemos encontrar esta especie prácticamente en cualquier época del año, salvo quizás la parte más tórrida del verano. La escasez de prospecciones en busca de hongos hipogeos hace que no conozcamos realmente la abundancia o no de determinadas especies, es muy probable que sea una especie frecuente.",
+    "observations": "Estamos ante una especie que se caracteriza por su peridio blanco que se ensucia al ser manipulado, su gleba amarilla, y al micro por la variedad de formas de sus esporas, mayoritariamente fusoides, pero que también adoptan formas extrañas. No es una especie que tenga ningún tipo de interés desde el punto de vista culinario. Hymenogaster luteus var. subfuscus Soehner, se diferencia de la especie tipo por presentar celdillas más amplias en la gleba, que nunca es amarilla, sino que mantiene el color blanco hasta pasar a ser ocracea. Puede confundirse con Hymenogaster bulliardii, de esporas citriformes, menos alargadas que nuestra especie, y con papila evidente.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/hymenogaster_luteus/hymenogaster_luteus1.jpg",
+        "https://www.fungipedia.org/images/galerias/hymenogaster_luteus/hymenogaster_luteus2.jpg",
+        "https://www.fungipedia.org/images/galerias/hymenogaster_luteus/hymenogaster_luteus3.jpg",
+        "https://www.fungipedia.org/images/galerias/hymenogaster_luteus/hymenogaster_luteus4.jpg",
+        "https://www.fungipedia.org/images/galerias/hymenogaster_luteus/hymenogaster_luteus5.jpg"
+    ]
+}

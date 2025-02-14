@@ -1,0 +1,30 @@
+{
+    "name": "xylaria-hypoxylon",
+    "title": null,
+    "author": "(L.) Grev.",
+    "additional_info": {
+        "common_name": "Xilaria de la madera.",
+        "synonym": "Xylosphaera hypoxylon (L.) Dumort."
+    },
+    "taxonomy": {
+        "División": "Ascomycota",
+        "Subdivisión": "Ascomycotina",
+        "Clase": "Himenoascomycetes",
+        "Subclase": "Pyrenomycetidae",
+        "Orden": "Sphaeriales",
+        "Familia": "Sphaeriaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Carpóforo que durante el otoño se suele encontrar generalmente en su forma conidiógena, también llamada anamorfa, formado por una especie de filamento negro de 2 a 5 cm de altura, bifurcado en su parte superior o ápice en una especie de cuernecillos de color blanco grisáceo. En realidad la parte blanquecina son los propios conidios que le dan al carpóforo un tacto pulverulento. Lo que ocurre es que en la primavera encontramos esta especia en su forma principal, teleomorfa o ascógena, en la cual se presenta como un estroma negro engrosado y pustulado.",
+        "hymenium": "Himenio inserto en la superficie externa del ascoma, de color negro en la forma principal, pustulado por los peritecios que albergan las esporas, blanquecino en la forma imperfecta.",
+        "stipe": "Pie inexistente como tal, el ascoma se estrecha hacia la base pero no podemos hablar de que se trate de un pie.",
+        "flesh": "Carne poco destacable, sin olor ni sabor especialmente reseñable."
+    },
+    "habitat": "Aparece exclusivamente en primavera en su forma principal, mientras que la conidiógena lo hace durante todo el año, siempre sobre la madera de diversos árboles planifolios, más rara bajo coníferas.",
+    "observations": "Carece de valor esta especie por lo demás frecuente en nuestros bosques. En su forma principal pudiera confundirse con la Xylaria carpophila, generalmente ligada a los hayucos y más esbelta, o con la Xylaria filiformis, aún más pequeña.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/xylaria_hypoxylon/xylaria_hypoxylon1.jpg",
+        "https://www.fungipedia.org/images/galerias/xylaria_hypoxylon/xylaria_hypoxylon2.jpg"
+    ]
+}

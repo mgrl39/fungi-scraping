@@ -1,0 +1,32 @@
+{
+    "name": "agaricus-sylvaticus",
+    "title": null,
+    "author": "Schaeff.",
+    "additional_info": {
+        "common_name": "Agárico de los bosques, basoetako aspibeltz.",
+        "synonym": "Psalliota sylvatica (Schaeff.) P. Kumm."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Agaricales",
+        "Familia": "Agaricaceae"
+    },
+    "edibility": "buen-comestible",
+    "characteristics": {
+        "cap": "Sombrero de tamaño medio para el género, su diámetro suele oscilar entre los 5 y los 10 cm aproximadamente, con forma más o menos globosa en su primera fase, convexo posteriormente y al final extendido con el centro achatado. Cutícula con un color de fondo pálido, pero recubierta prácticamente en su totalidad por escamas fibrilosas de color mucho más oscuro, ocre oscuro o pardo, color que prevalece sobre todo en el centro, hacia el margen las escamas son menos abundantes. Margen incurvado en los individuos jóvenes y posteriormente agudo con tendencia a resquebrajarse.",
+        "hymenium": "Láminas libres con respecto al pie, muy apretadas y rectas, estrechas y con la arista estéril de color más claro, en los ejemplares jóvenes de color rosado, después marrones y finalmente de color pardo negruzco.",
+        "stipe": "Pie alargado y delgado, de aspecto esbelto, lleno de joven y luego cavernoso, frecuentemente engrosado en la base o incluso bulboso. Tiene un color claro, prácticamente blanco, liso en el ápice y pruinoso bajo el anillo, posee un anillo simple descendente concolor, con frecuencia tiznado del color de las escamas.",
+        "flesh": "Carne no demasiado espesa de color blanco, al corte, o simplemente rascando el pie con la uña, adquiere un color rojizo característico, sobre todo en ejemplares jóvenes y frescos, dado que en los viejos se vuelve de color sucio. Tiene un olor fúngico agradable y un sabor igualmente agradable."
+    },
+    "habitat": "Esta especie forma micorrizas con las coníferas, sobre todo fructifica en pinares. Habitualmente aparece a lo largo del otoño formando setales de numerosos individuos, rara vez aislada. En los bosques de Pinus sylvestris del norte de la península ibérica es una especie frecuente y relativamente abundante, sin embargo es rara en otras zonas.",
+    "observations": "Se trata de un comestible bastante bueno, a pesar del color que adquiere al ser cocinado, que no invita al optimismo, su sabor es excelente. Además es una especie que está en estudio por sus propiedades medicinales, se usa como coadyuvante en pacientes con cáncer por ejemplo, y en algunos lugares se cultiva con tal fin. La confusión más peligrosa es con pequeñas Lepiotas como la mortal Lepiota castanea, que son de menor porte y sus láminas siempre son blancas, el parecido con otras especies de su género y de la sección sanguinolenti a la que pertenece, como Agaricus langei, no tiene peligro dado que son igualmente comestibles.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/agaricus_sylvaticus/agaricus_sylvaticus1.jpg",
+        "https://www.fungipedia.org/images/galerias/agaricus_sylvaticus/agaricus_sylvaticus2.jpg",
+        "https://www.fungipedia.org/images/galerias/agaricus_sylvaticus/agaricus_sylvaticus3.jpg",
+        "https://www.fungipedia.org/images/galerias/agaricus_sylvaticus/agaricus_sylvaticus4.jpg"
+    ]
+}

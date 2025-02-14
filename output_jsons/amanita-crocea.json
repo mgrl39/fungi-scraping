@@ -1,0 +1,30 @@
+{
+    "name": "amanita-crocea",
+    "title": null,
+    "author": "(Quélet) Singer",
+    "additional_info": {
+        "common_name": "Amanita enfundada, kukumelo laranja, pentinella.",
+        "synonym": "Amanitopsis crocea (Quél.) E.-J. Gilbert"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Agaricales",
+        "Familia": "Amanitaceae"
+    },
+    "edibility": "comestible-precaucion",
+    "characteristics": {
+        "cap": "Sombrero que puede superar los 10 cm de diámetro, ovoide en su nacimiento, después convexo y finalmente extendido, conservando un pequeño mamelón en su parte central. Su cutícula es lisa y estriada en el margen, de color naranja pálido, leonado o azafrán, uniforme, sin restos de volva y separable del sombrero.",
+        "hymenium": "Láminas por lo general blancas, aunque a veces con matices cremas o amarillentos, no muy apretadas y con laminillas intercaladas. Son libres con respecto al pie y la arista es floconosa.",
+        "stipe": "Pie central y cilíndrico, muy largo con respecto al sombrero, de color blanco que en la especie tipo está finamente recubierto por escamas en zig-zag, liso en la var. subnudipes. Frecuentemente se encuentra estriado en su parte superior, carece por completo de anillo y su volva envolvente es blanca, pero algo crema en su zona interna.",
+        "flesh": "Carne blanca y frágil, poco espesa, de olor poco apreciable y sabor suave."
+    },
+    "habitat": "Es una seta que se encuentra habitualmente en bosques de árboles de hoja caduca, mucho más rara bajo coníferas. Verano y otoño.",
+    "observations": "Es un comestible de buen sabor, sin embargo debe ser cocinada previamente pues es tóxica en crudo. Se parece mucho a la Amanita fulva, de pie liso y sombrero vistoso más pardo rojizo, ambas pertenecen a la sección Amanitopsis, integrada por especies carentes de anillo.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/amanita_crocea/amanita_crocea1.jpg",
+        "https://www.fungipedia.org/images/galerias/amanita_crocea/amanita_crocea2.jpg"
+    ]
+}

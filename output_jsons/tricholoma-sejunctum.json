@@ -1,0 +1,34 @@
+{
+    "name": "tricholoma-sejunctum",
+    "title": null,
+    "author": "(Sowerby) Quél.",
+    "additional_info": {
+        "common_name": "Tricoloma amarillo, ziza berde-beltz.",
+        "synonym": "Gyrophila sejuncta (Sowerby) Quél."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Tricholomatales",
+        "Familia": "Tricholomataceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero con un diámetro que en los especímenes adultos oscila entre los 5 y los 10 cm, de forma convexa durante buena parte de su desarrollo, después plano-convexo y finalmente aplanado. Su superficie es glabra y seca, brillante con lluvia, con un color un tanto variable, los ejemplares más típicos de la especie tienen un color de fondo predominantemente verde amarillento, más oscuro en el centro y más oliváceo hacia el margen, aunque se pueden encontrar de color amarillo limón con matices oliváceos. Cutícula separable recubierta de fibrillas pardas que al secarse pueden volverse negruzcas. El margen es bastante regular y algo incurvado de joven.",
+        "hymenium": "Láminas escotadas y uncinadas en muchos ejemplares, relativamente separadas, de color blanquecino con matices amarillentos, ventrudas y desiguales. Arista desigual que se presenta incluso aserrada muchas veces.",
+        "stipe": "Pie proporcionado al sombrero de color blanco con alguna traza verde oliva de forma frecuente, lleno y cilíndrico a excepción de la base donde se suele atenuar e incluso algunos ejemplares terminan en punta. Es liso o poco fibriloso.",
+        "flesh": "Carne espesa de color blanco, compacta y fibrosa, tiene un olor harinoso no desagradable en los ejemplares jóvenes que se torna rancio y más desagradable con el tiempo, su sabor es marcadamente amargo."
+    },
+    "habitat": "Es una especie común en nuestro entorno además de cosmopolita, sale tanto sobre las acículas de diversos pinos como bajo diversas especies de planifolios, llegando a veces a ser abundante. Su época predilecta de aparición es el otoño y rara vez sale aislada.",
+    "observations": "Es una especie común y conocida, además de ser amarga y por tanto no comestible, por su color puede tener cierta similitud con la Amanita phalloides que tiene anillo y volva. La especie comestible con la que más parecido puede tener es sin duda el Tricholoma portentosum, especie recolectada habitualmente que no tiene el sombrero verdoso ni amarillento sino mucho más oscuro. Existen otros Tricholoma con tonos amarillentos y láminas blancas como Tricholoma joachimii, ninguno de ellos es comestible.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/tricholoma_sejunctum/tricholoma_sejunctum1.jpg",
+        "https://www.fungipedia.org/images/galerias/tricholoma_sejunctum/tricholoma_sejunctum2.jpg",
+        "https://www.fungipedia.org/images/galerias/tricholoma_sejunctum/tricholoma_sejunctum3.jpg",
+        "https://www.fungipedia.org/images/galerias/tricholoma_sejunctum/tricholoma_sejunctum4.jpg",
+        "https://www.fungipedia.org/images/galerias/tricholoma_sejunctum/tricholoma_sejunctum5.jpg",
+        "https://www.fungipedia.org/images/galerias/tricholoma_sejunctum/tricholoma_sejunctum6.jpg"
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "name": "guepinia-helvelloides",
+    "title": null,
+    "author": "(DC.) Fr.",
+    "additional_info": {
+        "common_name": "Oreja de vaca, mukiziza gorri, cresta de gallo.",
+        "synonym": "Tremiscus helvelloides (DC.) Donk"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Phragmobasidiomycetes",
+        "Subclase": "Tremellomycetidae",
+        "Orden": "Tremellales",
+        "Familia": "Tremellaceae"
+    },
+    "edibility": "comestible",
+    "characteristics": {
+        "cap": "Carpóforo de crecimiento individual no arracimado formado por una especie de receptáculo con forma de oreja en su forma más típica, aunque puede llegar a adoptar otras formas menos definidas, en todo caso siempre abierto lateralmente. Puede llegar a alcanzar unas dimensiones notables que lo llegarían a aproximar a los 10 cm de altura, siendo lo habitual hallarlo sobre los 5 cm, de ancho entre 2 y 5 cm. Tiene un color llamativo, rojizo anaranjado a veces con matiz rosado, siendo de viejos de color pardo rojizo. Superficie brillante, lisa y glabra, pruinosa, sin embargo no es viscosa, y el margen es lobulado e irregularmente ondulado.",
+        "hymenium": "Himenio liso y concolor inserto en la superficie interior del carpóforo, la producción de una esporada blanca hace que la superficie himenial adquiera un aspecto pruinoso.",
+        "stipe": "Pie que no es otra cosa que la simple prolongación del sombrero que se atenúa de forma clara hacia la base, suele tener un color similar salvo precisamente en la base que es blanquecina.",
+        "flesh": "Carne de consistencia gelatinosa, con un cierto espesor y un color más pálido que la superficie externa. Su olores suave y agradable, su sabor dulce pero escaso, tiene poco sabor."
+    },
+    "habitat": "Es una especie poco frecuente que fructifica sobre restos leñosos enterrados, aparentemente sobre el suelo. Fundamentalmente sale en bosques de coníferas, bajo pinos se suele ver en el norte de la península ibérica, solo hemos constatado una cita en el sur realizada por nuestros amigos José Antonio Rodríguez y Manuel Núñez bajo Abies pinsapo en la Sierra de Grazalema. Especie otoñal que suele salir en grupo, invernal en latitudes más al sur.",
+    "observations": "Se trata de una especie comestible que se puede consumir cruda en ensalada, si bien hemos de constatar que tiene muy poco sabor. Se caracteriza por su llamativo color rojizo, su forma hendida lateralmente y la consistencia gelatinosa y translúcida de su carne. Por sus colores vivos y demás caracteres macroscópicos entendemos que es una especie de difícil confusión.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/guepinia_helvelloides/guepinia_helvelloides1.jpg",
+        "https://www.fungipedia.org/images/galerias/guepinia_helvelloides/guepinia_helvelloides2.jpg",
+        "https://www.fungipedia.org/images/galerias/guepinia_helvelloides/guepinia_helvelloides3.jpg",
+        "https://www.fungipedia.org/images/galerias/guepinia_helvelloides/guepinia_helvelloides4.jpg",
+        "https://www.fungipedia.org/images/galerias/guepinia_helvelloides/guepinia_helvelloides5.jpg",
+        "https://www.fungipedia.org/images/galerias/guepinia_helvelloides/guepinia_helvelloides6.jpg"
+    ]
+}

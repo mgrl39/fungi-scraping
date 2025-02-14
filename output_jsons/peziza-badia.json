@@ -1,0 +1,34 @@
+{
+    "name": "peziza-badia",
+    "title": null,
+    "author": "Pers.",
+    "additional_info": {
+        "common_name": "Peciza parda, Katilu marroi-oliva, cassoleta bruna.",
+        "synonym": "Plicaria badia (Pers.) Fuckel"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Pezizomycetidae",
+        "Orden": "Pezizales",
+        "Familia": "Pezizaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Carpóforo sésil que en su nacimiento tiene forma acopada, pero que se va abriendo rápidamente adoptando formas más plegadas e irregulares en la madurez. Su tamaño oscila bastante, los ejemplares jóvenes pueden no tener más de 3 o 4 cm en su zona más ancha, pero a veces puede aproximarse, en los ejemplares adultos, a los 10 cm. La superficie externa mantiene un color uniforme a lo largo de todo su desarrollo, pardo violáceo, siendo además lisa y furfurácea. Margen por lo general ondulado.",
+        "hymenium": "Himenio liso, del mismo color que la superficie externa en los especímenes jóvenes, solo de vieja tiene un tono más netamente pardo oscuro, si bien en ocasiones no es extraño encontrar algún ejemplar con matices oliváceos.",
+        "stipe": "Pie inexistente, es una especie sésil que se adhiere directamente al sustrato.",
+        "flesh": "Carne frágil y quebradiza de color pardo más o menos oscuro, su olor apenas es apreciable, y su sabor es dulce y poco significativo."
+    },
+    "habitat": "Fructifica de forma gregaria en caminos o pistas forestales, borde de los bosques, y en general en todo tipo de terrenos arcillosos. Es una especie sobre todo otoñal, que hemos de considerar como frecuente en nuestros bosques.",
+    "observations": "Se trata de una Peziza habitual en nuestros bosques, caracterizada por su color uniforme pardo con matices púrpuras tanto en el himenio como en el excípulo. Durante la primavera fructifica una especie de características similares a esta, la Peziza phyllogena, que de no ser porque sale en otra época del año, macroscópicamente sería muy complicado separarla de esta, aunque sus esporas son verrugosas y no reticuladas como sucede en la especie descrita en esta ficha.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/peziza_badia/peziza_badia1.jpg",
+        "https://www.fungipedia.org/images/galerias/peziza_badia/peziza_badia2.jpg",
+        "https://www.fungipedia.org/images/galerias/peziza_badia/peziza_badia3.jpg",
+        "https://www.fungipedia.org/images/galerias/peziza_badia/peziza_badia4.jpg",
+        "https://www.fungipedia.org/images/galerias/peziza_badia/peziza_badia5.jpg",
+        "https://www.fungipedia.org/images/galerias/peziza_badia/peziza_badia6.jpg"
+    ]
+}

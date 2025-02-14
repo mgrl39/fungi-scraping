@@ -1,0 +1,30 @@
+{
+    "name": "asterophora-parasitica",
+    "title": null,
+    "author": "(Bull.) Singer",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Nyctalis parasitica (Bull.) Fr."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Tricholomatales",
+        "Familia": "Tricholomataceae"
+    },
+    "edibility": "no-comestible",
+    "characteristics": {
+        "cap": "Sombrero de pequeñísimas dimensiones, en el mejor de los casos alcanza 2 cm de diámetro, aunque lo normal es encontrarlas de 1 cm, de forma globosa en su nacimiento, después pasa de hemisférica a convexa, sin llegar nunca a aplanarse. Es de color blanco y su superficie está recubierta por un polvillo harinoso de color blanco crema. Es estéril como cualquier seta normal.",
+        "hymenium": "Láminas de color blancuzco o crema, bastante separadas entre sí y con laminillas intercaladas. Al contrario de lo que sucede con la Asterophora lycoperdoides estas no son estériles, ya que las clamidósporas se desarrollan en la trama de las láminas, y no sobre el sombrero. Estas clamidósporas son estrelladas, haciendo honor al nombre del género, pero lisas.",
+        "stipe": "Pie en general más largo que el diámetro del sombrero, de color blanco, cilíndrico.",
+        "flesh": "Carne escasa y poco consistente de color blanco, con olor harinoso pero resulta nauseabundo por la pudrición de la propia seta sobre la que parasita."
+    },
+    "habitat": "Es una especie parásita, que fructifica siempre sobre Russulas de la sección compactae, creando su micelio sobre la pudrición de la propia Russula, en este caso los ejemplares fotografiados se encontraban sobre Russula nigricans. Especie que sale en verano y en otoño. Es una especie poco frecuente.",
+    "observations": "Es una pequeña especie parásita de las Russulas nigricantes. La Asterophora lycoperdoides es mucho más común, brota en las mismas condiciones, época y lugar, pero tiene el pie más corto y su sombrero está recubierto de un polvo pardo, además las clamidósporas son piramidales y se desarrollan en la superficie del sombrero, no en la trama de las láminas como sucede con esta especie. Desde el punto de vista de la comestibilidad es obvio que no tienen ningún interés.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/asterophora_parasitica/asterophora_parasitica1.jpg",
+        "https://www.fungipedia.org/images/galerias/asterophora_parasitica/asterophora_parasitica2.jpg"
+    ]
+}

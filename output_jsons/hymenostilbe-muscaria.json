@@ -1,0 +1,35 @@
+{
+    "name": "hymenostilbe-muscaria",
+    "title": null,
+    "author": "Petch",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Ophiocordyceps forquignonii Quél.) G.H. Sung, J.M. Sung"
+    },
+    "taxonomy": {
+        "División": "Ascomycota",
+        "Subdivisión": "Pezizomycotina",
+        "Clase": "Sordariomycetes",
+        "Subclase": "Hypocreomycetidae",
+        "Orden": "Hypocreales",
+        "Familia": "Ophiocordycipitaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Carpóforo de aspecto esbelto y muy estilizado,prácticamente filiforme, sin embargo no se muestra erecto sino muy sinuoso u ondulado, suele alcanzar una altura muy notable para su extrema delgadez, en nuestra recolecta llega a alcanzar los 6'5 cm de longitud por apenas 2 o 3 mm de ancho. Todo el conjunto tiene un color bastante uniforme ocre amarillento, más netamente ocre claro al secarse el carpóforo y su superficie es lisa y glabra, volviéndose pulverulenta al madurar como consecuencia de la esporulación. El ápice de esta especie suele terminar en punta, agudo, sin presencia de ninguna cabezuela.",
+        "hymenium": "Himenio que en este caso está situado en la superficie externa del conidioma, completamente liso, al ser una forma anamorfa de un Ascomycete produce abundantes conidios (ver ficha microscópica).",
+        "stipe": "Pie inexistente como tal, no apreciamos una diferenciación evidente entre diversas partes del conidioma, a pesar de que la zona basal sea estéril.",
+        "flesh": "Carne prácticamente inexistente dada la extrema delgadez de esta especie, sin que se aprecie tampoco olor o sabor dignos de mención."
+    },
+    "habitat": "Estamos ante un hongo parásito de las moscas, una vez parasitada la mosca muere y del interior de la misma brota el cuerpo fructifero del hongo, de el brotan conidios que pueden volver a parasitar otras moscas cerrando el círculo reproductivo. En nuestra recolecta el hongo parasitaba a Calliphora vomitoria o mosca de la carne, también coloquialmente moscón, especie caracterizada por poner sus larvas sobre los cadáveres contribuyendo a la descomposición de la carne de los mismos, muy conocida por los entomólogos forenses porque el estudio de sus larvas consigue dictaminar cuando se produjo el fallecimiento.",
+    "observations": "Conidioma del tipo sinema, anamorfo de Ophiocordyceps forquignonii ss. auct. = Ophiocordyceps ditmarii. Hasta hace poco la mayoría de los autores han admitido que los hongos que parasitaban moscas, en su fase sexual corresponden a Ophiocordyceps forquignonii y los de avispas a Ophiocordyceps ditmarii o sphecocephala. En el año 2011 Christian Lechat secuenció ADN de ambas especie llegando a la conclusión de que se trataba de una sola. La diferencia macroscópica más ostensible con respecto a formas perfectas del hongo como Ophiocordyceps sphecocephala es la presencia en este de una cabezuela en el ápice.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/hymenostilbe_muscaria/hymenostilbe_muscaria1.jpg",
+        "https://www.fungipedia.org/images/galerias/hymenostilbe_muscaria/hymenostilbe_muscaria2.jpg",
+        "https://www.fungipedia.org/images/galerias/hymenostilbe_muscaria/hymenostilbe_muscaria3.jpg",
+        "https://www.fungipedia.org/images/galerias/hymenostilbe_muscaria/hymenostilbe_muscaria4.jpg",
+        "https://www.fungipedia.org/images/galerias/hymenostilbe_muscaria/hymenostilbe_muscaria5.jpg",
+        "https://www.fungipedia.org/images/galerias/hymenostilbe_muscaria/hymenostilbe_muscaria6.jpg",
+        "https://www.fungipedia.org/images/galerias/hymenostilbe_muscaria/hymenostilbe_muscaria7.jpg"
+    ]
+}

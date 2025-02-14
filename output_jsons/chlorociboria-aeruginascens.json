@@ -1,0 +1,31 @@
+{
+    "name": "chlorociboria-aeruginascens",
+    "title": null,
+    "author": "(Nylander) Kanouse ex Ranamurthi, Korf & Batra",
+    "additional_info": {
+        "common_name": "Gardinga.",
+        "synonym": "Chlorosplenium aeruginascens (Nyl.) P. Karst."
+    },
+    "taxonomy": {
+        "División": "Ascomycota",
+        "Subdivisión": "Ascomycotina",
+        "Clase": "Himenoascomycetes",
+        "Subclase": "Pyrenomycetidae",
+        "Orden": "Leotiales",
+        "Familia": "Helotiaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Carpóforo de dimensiones muy reducidas, apenas alcanzan los 5 mm de diámetro por otro tanto de altura en el mejor de los casos, su forma varía a lo largo de su desarrollo, siendo carpóforos acopados de jóvenes, pero con el tiempo se van aplanando. El color es lo más llamativo de la especie, y lo que hace que no pasen inadvertidos, a pesar de su pequeño tamaño, son de color verde azulado muy vistoso. La superficie externa es furfurácea, por lo que el color verde azulado es un poco más mate que en el himenio.",
+        "hymenium": "Himenio liso de color verde azulado intenso.",
+        "stipe": "Pie muy cortito en los ejemplares jóvenes, prácticamente inapreciable cuando el espécimen se aplana. Del mismo color que el resto del carpóforo.",
+        "flesh": "Carne apenas apreciable, poco significativa, al igual que su olor y sabor."
+    },
+    "habitat": "Es una especie bastante común en los meses veraniegos y principios del otoño, crece con numerosos individuos asociados y en ocasiones apretados. Su hábitat son las ramas caídas de diversos planifolios, sobre todo si carecen de corteza o están pudriéndose porque cayeron en el invierno anterior. Es habitual encontrarla en la parte de la rama que toca la tierra y conserva una mayor humedad.",
+    "observations": "Esta pequeña especie llama la atención por su color verde azulado, por lo demás, podemos estar ante una especie inconfundible. Claro que esto es así si no consideramos la posibilidad de la existencia del Chlorosplenium aeruginosum, que según algunos autores se diferencia de este por tener las esporas más alargadas. Sin embargo no tenemos muy claro si es un taxón propio, o atiende a la variabilidad del tamaño de las esporas en determinadas condiciones ambientales.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/chlorociboria_aeruginascens/chlorociboria_aeruginascens1.jpg",
+        "https://www.fungipedia.org/images/galerias/chlorociboria_aeruginascens/chlorociboria_aeruginascens2.jpg",
+        "https://www.fungipedia.org/images/galerias/chlorociboria_aeruginascens/chlorociboria_aeruginascens3.jpg"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "typhula-contorta",
+    "title": null,
+    "author": "(Holmsk.) Olariaga",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Macrotyphula fistulosa var. contorta (Holmsk.) Nannf. & L. Holm"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Agaricales",
+        "Familia": "Typhulaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Carpóforo hueco de forma absolutamente irregular y variable, sin una forma típica concreta, y que muchas veces se presenta como una deformidad, algunos ejemplares con forma de cuernos o cresta de gallo, no adquiriendo nunca formas estilizadas o alargadas. Superficie lisa y glabra de color ocráceo, tan solo pulverulenta por efecto de la esporulación, con la base siempre gruesa y provista de fibrillas miceliales blanquecinas, y el ápice por lo general obtuso y redondeado.",
+        "hymenium": "Himenio liso y del mismo color que el resto, inmerso en la superficie externa del carpóforo, con pruina blanquecina al madurar dado que sus esporas en masa son blancas, ocupa casi toso el carpóforo salvo la base que es estéril.",
+        "stipe": "Pie inexistente como tal, a pesar de ser su zona basal estéril, no se aprecia diferenciación entre diversas zonas del carpóforo.",
+        "flesh": "Carne insignificante al ser el carpóforo totalmente hueco desde el principio, de color ocráceo, de cierta consistencia de joven, después blanda, sin olor o sabor dignos de mención."
+    },
+    "habitat": "Estamos ante una especie eminentemente lignícola, fructifica por regla general sobre la madera, restos leñosos o ramas caídas de diversos árboles planifolios. Es una especie no demasiado frecuente y que fructifica preferentemente durante el otoño. Nuestra recolecta se efectuó en el mes de noviembre sobre rama caída de Alnus glutinosa (aliso). Puede crecer solitaria pero lo más frecuente es encontrar en una misma rama varios individuos de la especie.",
+    "observations": "Se trata de una especie de reciente creación, considerada durante mucho tiempo como una simple variedad de Typhula fistulosa, reconvertida por Olariaga (2012) en base a algunas diferencias, evidente su diferencia macroscópica, pero también con diferencias microscópicas como el tamaño esporal. Dado su desarrollo un tanto amorfo y deforme es una especie difícilmente confundible con otra, la mencionada Typhula fistulosa suele desarrollar carpóforos estilizados y alargados con forma de delgada maza, otras especies del género tienen un tamaño ínfimo, colores claros o hialinos.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/typhula_contorta/typhula_contorta1.jpg",
+        "https://www.fungipedia.org/images/galerias/typhula_contorta/typhula_contorta2.jpg",
+        "https://www.fungipedia.org/images/galerias/typhula_contorta/typhula_contorta3.jpg"
+    ]
+}

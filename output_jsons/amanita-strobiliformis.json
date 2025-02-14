@@ -1,0 +1,30 @@
+{
+    "name": "amanita-strobiliformis",
+    "title": null,
+    "author": "(Paulet ex vittad.) Bertil.",
+    "additional_info": {
+        "common_name": "Piña, lanperna irintsu, farinera d´escames.",
+        "synonym": "Amanita solitaria (Bulliard ex Fries) Quelét"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Agaricales",
+        "Familia": "Amanitaceae"
+    },
+    "edibility": "comestible",
+    "characteristics": {
+        "cap": "Sombrero de notables dimensiones, puede alcanzar los 20 cm de diámetro, en un principio globoso, para pasar después a convexo, tardíamente aplanado. Es de color blanco en su juventud, después manchado de gris, y está recubierto por verrugas poliédricas concoloras que pueden desaparecer por efecto de la lluvia. Margen lanoso con flecos de joven.",
+        "hymenium": "Láminas generalmente blancas, algo cremas de viejas, libres con respecto al pie, apretadas y con la arista algodonosa.",
+        "stipe": "Pie central y cilíndrico, lleno y grueso, adornado en su parte superior por un anillo fugaz blanco de consistencia harinosa. La base tiene forma radicante, siendo su volva muy poco consistente, primando una especie de bulbo con burletes concéntricos hacia arriba.",
+        "flesh": "Carne de color blanco, con sabor agradable y un olor poco destacado."
+    },
+    "habitat": "Es una especie muy rara y bastante termófila, que fructifica en verano y principios del otoño en robledales mixtos, ocasionalmente en pinares.",
+    "observations": "A pesar de ser comestible, hay que tener mucho cuidado con las amanitas blancas, ya que puede confundirse con alguna especie mortal como la Amanita virosa. Mucho más parecida es a la Amanita proxima, tóxica, que sin embargo tiene la volva membranosa y ocre rojiza.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/amanita_strobiliformis/amanita_strobiliformis1.jpg",
+        "https://www.fungipedia.org/images/galerias/amanita_strobiliformis/amanita_strobiliformis2.jpg"
+    ]
+}

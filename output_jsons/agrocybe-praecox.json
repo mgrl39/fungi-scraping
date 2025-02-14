@@ -1,0 +1,31 @@
+{
+    "name": "agrocybe-praecox",
+    "title": null,
+    "author": "(Pers.) Fayod",
+    "additional_info": {
+        "common_name": "Agrocibe precoz, landaburu goiztiar.",
+        "synonym": "Pholiota praecox (Pers.) P. Kumm."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Cortinariales",
+        "Familia": "Bolbitiaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero de 3 a 8 cm de diámetro, hemisférico en su comienzo, pasa a ser convexo, y finalmente aplanado. Su color es el crema de joven, evolucionando hacia tonos ocres de vieja. Es un poco higrófano, pese a lo cual no presenta estrías en el borde. Suele ser liso, resquebrajándose muy poco con la sequía, y el borde presenta restos de velo cuando es joven que luego desaparecen.",
+        "hymenium": "Láminas netamente escotadas, de color crema en su nacimiento, pronto derivan en tonos pardos con tintes violáceos. Son bastante espesas e incluso anchas.",
+        "stipe": "Pie central, cilíndrico, y generalmente curvado, de mayor longitud que el diámetro del sombrero, pudiendo ser algo bulboso en su base. Al principio es de color claro, pero se vuelve ocre con la edad. Posee un anillo en su zona superior que es frágil, quedando adpreso sobre el pie con el tiempo, aunque es un anillo evidente que rara vez desaparece del todo.",
+        "flesh": "Carne tierna y delicada en el sombrero, de color blanco, en el pie es fibrosa y ocre. Huele entre harinoso y a hierba, y su sabor es también harinoso y algo amargo."
+    },
+    "habitat": "Entendemos que es una especie eminentemente primaveral, nosotros siempre la hemos encontrado en esa época. Sale en lugares herbosos, praderas, jardines, o lindes de los bosques. Especie localizada, abundante en algunas áreas, inexistente en otras.",
+    "observations": "Es una especie terrestre, dato que la distingue de la Agrocybe cilindracea. También tiene cierto parecido la Agrocybe dura, especie más blanquecina, que se cuartea con facilidad y no huele a harina. Es una seta que no merece la pena consumir porque tiene mal sabor, a pesar de ser inocua.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/agrocybe_praecox/agrocybe_praecox1.jpg",
+        "https://www.fungipedia.org/images/galerias/agrocybe_praecox/agrocybe_praecox2.jpg",
+        "https://www.fungipedia.org/images/galerias/agrocybe_praecox/agrocybe_praecox3.jpg"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "amanita-battarrae",
+    "title": null,
+    "author": "(Boudier) Bon",
+    "additional_info": {
+        "common_name": "Amanita con cerco de sombra",
+        "synonym": "Amanita umbrinolutea (Secr. ex Gillet) Bataille"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Agaricales",
+        "Familia": "Amanitaceae"
+    },
+    "edibility": "comestible-precaucion",
+    "characteristics": {
+        "cap": "Sombrero que supera los 10 cm de diámetro, de forma de campana cuando la seta es joven, poco a poco se va abriendo, aplanándose finalmente, e incluso puede llegar a deprimirse por el centro un poco. Suele conservar en el centro un mamelón obtuso característico. Su color es el pardo con claros matices oliváceos, siendo más oscuro en la zona central, y palideciendo hacia el margen que es estriado.",
+        "hymenium": "Láminas blancas, libres con respecto al pie, con la arista crenulada, no demasiado apretadas.",
+        "stipe": "Pie bastante largo con respecto al sombrero, cilíndrico y algo engrosado en la base, de color pardo grisáceo jaspeado de color oliva, sobre todo de joven. Anillo ausente y volva con forma de saco de color blanco manchado de ocre.",
+        "flesh": "Carne de color blanco, no demasiado consistente, de sabor suave y olor agradable."
+    },
+    "habitat": "Es una seta otoñal que sale en bosques de coníferas y también bajo planifolios. Es abundante en algunas zonas. Los ejemplares fotografiados son de pinares de montaña, a 1300 metros de altitud.",
+    "observations": "Existe cierta confusión con respecto a los diferentes taxones del subgénero amanitopsis. Esta es la seta que nosotros hemos clasificado toda la vida como Amanita umbrinolutea, que sin embargo no coincide con lo que se encuentra en alguna bibliografía como Amanita battarrae. Es una seta de gran porte y de coníferas de montaña, que según Régis Courticuisse pudiera tratarse de la Amanita umbrinolutea ssp autc., = Amanita fuscoolivacea, separada de Amanita battarrae, a ver si entre todos logramos aclararnos con este subgénero.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/amanita_battarrae/amanita_battarrae1.jpg",
+        "https://www.fungipedia.org/images/galerias/amanita_battarrae/amanita_battarrae2.jpg",
+        "https://www.fungipedia.org/images/galerias/amanita_battarrae/amanita_battarrae3.jpg"
+    ]
+}

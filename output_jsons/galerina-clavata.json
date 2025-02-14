@@ -1,0 +1,31 @@
+{
+    "name": "galerina-clavata",
+    "title": null,
+    "author": "(Velen.) Künher",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Galerina heterocystis (Atk.) A.H. Smith & Singer"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Cortinariales",
+        "Familia": "Crepidotaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero de pequeño tamaño, en su pleno desarrollo apenas alcanza los 3 cm de diámetro, algo cónico en su nacimiento, luego se vuelve hemisférico, para acabar siendo convexo. Su superficie es de color ocre leonado, con un tono más rojizo en el centro y palideciendo hacia el margen, siendo además brillante con lluvia, pero no viscosa. Es una especie higrófana que se presenta estriada ampliamente, al punto que solo una pequeña zona central permanece sin estrías.",
+        "hymenium": "Láminas adnatas o sublibres de color ocre leonado más pálido que el sombrero. Son amplias, separadas entre sí y con laminillas, siendo además anchas y ventrudas. Esporada de color ocre ferruginoso que apenas las tiñe.",
+        "stipe": "Pie prácticamente glabro de color ocráceo o miel, alargado desproporcionadamente con respecto al sombrero, cilíndrico y habitualmente curvado. Es bastante frágil.",
+        "flesh": "Carne escasa, poco significativa, algo fibrosa en el pie, pero no demasiado. Olor poco significativo y sabor de harina rancia."
+    },
+    "habitat": "Especie relacionada con algunos briófitos, los conocidos musgos, por lo que sale en lugares húmedos, herbosos y musgosos. Su época predilecta de aparición es el otoño, pero no es descartable su presencia en otras estaciones. A pesar de no estar bibliográficamente muy referenciada, entendemos que es una especie común.",
+    "observations": "La clasificamos sin valor, dado que no tenemos referencias de estudios toxicológicos sobre ella, pero no es de fiar, dado que especies afines, como la Galerina marginata, son mortales. Si se conoce sin embargo la presencia en ella de polisacáridos anti tumorales, hasta ahora solo probados en ratones de laboratorio, que se muestran eficaces ante diversos sarcomas.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/galerina_clavata/galerina_clavata1.jpg",
+        "https://www.fungipedia.org/images/galerias/galerina_clavata/galerina_clavata2.jpg",
+        "https://www.fungipedia.org/images/galerias/galerina_clavata/galerina_clavata3.jpg"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "russula-virescens",
+    "title": null,
+    "author": "(Schaeff.) Fr.",
+    "additional_info": {
+        "common_name": "Seta de cura, gibelurdin, gorro verde.",
+        "synonym": "Ninguno."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Russulales",
+        "Familia": "Russulaceae"
+    },
+    "edibility": "excelente-comestible",
+    "characteristics": {
+        "cap": "Sombrero de 5 a 10 cm, de consistencia sólida, plano o ligeramente convexo, aunque mantiene siempre una pequeña depresión central. De color casi blanco en su nacimiento, rápidamente verde cardenillo, con la cutícula muy resquebrajada, que deja entrever el blanco del fondo.",
+        "hymenium": "Láminas libres o adnatas, de color blanco-crema, apretadas y en ocasiones con manchas de color herrumbre.",
+        "stipe": "Pie de color blanco, central y robusto, atenuado en la base del pie, donde además puede presentar manchas de color parduzco.",
+        "flesh": "Carne blanca y consistente, de sabor y olor muy agradables, se mantiene más compacta en el sombrero mientras que en el pie se va volviendo más esponjosa."
+    },
+    "habitat": "Especie termófila, que sale habitualmente entre los meses de junio y septiembre. Exclusiva de bosques de planifolios, fundamentalmente se encuentra en robledales y castañares. Especie poco frecuente.",
+    "observations": "Excelente comestible, muy buscada por los seteros, se muestra en ocasiones esquiva. Probablemente se trate de la mejor Russula desde el punto de vista culinario, aunque tiene el hándicap de agusanarse con facilidad. Puede confundirse con la Russula cyanoxantha var peltereaui, con la cutícula no resquebrajada y las láminas grasientas al tacto. Se ha confundido incomprensiblemente con la Amanita phalloides, MORTAL, produciéndose casos de graves intoxicaciones, pero tiene volva y anillo y solo se parece un poco en el color de la cutícula.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/russula_virescens/russula_virescens1.jpg",
+        "https://www.fungipedia.org/images/galerias/russula_virescens/russula_virescens2.jpg",
+        "https://www.fungipedia.org/images/galerias/russula_virescens/russula_virescens3.jpg"
+    ]
+}

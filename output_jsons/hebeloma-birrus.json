@@ -1,0 +1,36 @@
+{
+    "name": "hebeloma-birrus",
+    "title": null,
+    "author": "(Fr.) Sacc.",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Hebeloma pumilum J. E. Lange"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Cortinariales",
+        "Familia": "Cortinariaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero que en los individuos desarrollados puede alcanzar los 5cm de diámetro, entre 2 y 5 cm suele oscilar, con forma hemisférica al principio, después convexo y finalmente aplanado, aunque con el centro algo resaltado, provisto de un umbo obtuso en algunos ejemplares. Cutícula que puede ser brillante con lluvia pero no viscosa, sino más bien seca, de color variable, en los primeros estados de desarrollo de color ocre uniforme, con el tiempo tiende a palidecer a partir del margen, manteniendo el ocre en el centro, con algún matiz rojizo, y con el margen crema, si bien es este un carácter inconstante. Margen bastante regular y algo ondulado.",
+        "hymenium": "Láminas escotadas de color marrón, por regla general relativamente apretadas y con abundantes laminillas, con la arista laminar entera y de color más claro.",
+        "stipe": "Pie alargado, superando de largo con creces el tamaño del sombrero, cilíndrico y radicante hacia la base, que está provista de una pseudorhiza en ocasiones. Puede ser débilmente surcado y es bastante fibriloso, a veces su aspecto nos recuerda a las especies del género Hypholoma. Carece de cortina.",
+        "flesh": "Carne no demasiado espesa de color crema u ocre claro, de consistencia un tanto elástica, su olor es suave, no tiene el olor rafanoide típico del género, y su sabor es amargo."
+    },
+    "habitat": "Se trata de una especie de ecología ciertamente variable que va desde zonas quemadas a diversos tipos de bosques, con cierta predilección por las coníferas. Habitualmente suele salir en grupos, rara vez aislada, sobre todo durante los meses otoñales. Nuestra recolecta fue efectuada en el mes de octubre bajo Pinus radiata.",
+    "observations": "Según un estudio realizado allá por el año 2005 por J. vesterholt, existen varias especie que han resultado ser sinónimas de esta, como Hebeloma calyptrosporum o Hebeloma anthracophilum, esto es debido a la cantidad de formas ecológicas que tiene este Hebeloma y a su gran variabilidad morfológica. Se caracteriza esta especie dentro del género por la ausencia de cortina, la ausencia igualmente del olor rafanoide típico de otros congéneres, y su aspecto que nos recuerda a veces a las especies del género Hypholoma. Ninguna especie del género tiene interés culinario y algunas son tóxicas, en cuanto a las confusiones puede parecerse a otros Hebelomas con sombrero de dos colores como el Hebeloma mesophaeum o el Hebeloma cylindrosporum, pero microscópicamente son diferentes, o también al Hypholoma elongatum.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/hebeloma_birrus/hebeloma_birrus1.jpg",
+        "https://www.fungipedia.org/images/galerias/hebeloma_birrus/hebeloma_birrus2.jpg",
+        "https://www.fungipedia.org/images/galerias/hebeloma_birrus/hebeloma_birrus3.jpg",
+        "https://www.fungipedia.org/images/galerias/hebeloma_birrus/hebeloma_birrus4.jpg",
+        "https://www.fungipedia.org/images/galerias/hebeloma_birrus/hebeloma_birrus5.jpg",
+        "https://www.fungipedia.org/images/galerias/hebeloma_birrus/hebeloma_birrus6.jpg",
+        "https://www.fungipedia.org/images/galerias/hebeloma_birrus/hebeloma_birrus7.jpg",
+        "https://www.fungipedia.org/images/galerias/hebeloma_birrus/hebeloma_birrus8.jpg"
+    ]
+}

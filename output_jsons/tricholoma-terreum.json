@@ -1,0 +1,31 @@
+{
+    "name": "tricholoma-terreum",
+    "title": null,
+    "author": "(Schaeff.) P. Kumm.",
+    "additional_info": {
+        "common_name": "Negrilla, ratón, ziza arre, fredolic.",
+        "synonym": "Tricholoma myomyces (Pers.) J. E. Lange"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Tricholomatales",
+        "Familia": "Tricholomataceae"
+    },
+    "edibility": "buen-comestible",
+    "characteristics": {
+        "cap": "Sombrero que puede llegar a superar los 5 cm de diámetro, de forma convexa, aunque con el tiempo queda finalmente aplanado, con una especie de giba cuando es joven, después tiende a quedar obtusamente mamelonado o simplemente plano. Su superficie es de un característico color gris ratón, con el centro más oscuro y palideciendo hacia el margen. Cutícula radialmente fibrilosa de apariencia muy seca y algo sedosa, separable. Margen regular de joven, un poco ondulado al final.",
+        "hymenium": "Láminas escotadas de color blanquecino cuando son jóvenes, más grisáceas de viejas. Son bastante separadas entre sí, y su arista, que es del mismo color, suele estar denticulada.",
+        "stipe": "Pie cilíndrico y proporcionado al sombrero, de color blanco o un poco grisáceo, de lleno a fistuloso. Posee fibrillas longitudinales poco apreciables si no se mira con detalle, pruinoso en la zona más próxima a las láminas.",
+        "flesh": "Carne escasa y frágil de color blanco, un poco grisácea bajo la cutícula. Olor fúngico suave y sabor dulce ligeramente harinoso."
+    },
+    "habitat": "Es una especie frecuente y abundante, que puede, en ocasiones, llegar a formar auténticas alfombras en nuestros pinares. Tiene marcada tendencia a salir en el borde de los pinares y en los claros, sobre todo a partir de mediados de Octubre, y hasta el principio del invierno. También fructifica bajo otras coníferas.",
+    "observations": "Conocida especie comestible ampliamente recolectada en muchos sectores de la geografía española, es sin embargo excesivamente frágil, lo que hace que se estropee rápido, debiendo ser consumida al poco de ser recolectada. En las mismas zonas sale también el Tricholoma scalpturatum, especie comestible de sombrero más claro y láminas que tienden a amarillear. El Tricholoma virgatum también puede salir en pinares, más cónico puntiagudo y de sabor desagradable. Tricholoma sciodes, de arista laminar negruzca es más propio de planifolios.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/tricholoma_terreum/tricholoma_terreum1.jpg",
+        "https://www.fungipedia.org/images/galerias/tricholoma_terreum/tricholoma_terreum2.jpg",
+        "https://www.fungipedia.org/images/galerias/tricholoma_terreum/tricholoma_terreum3.jpg"
+    ]
+}

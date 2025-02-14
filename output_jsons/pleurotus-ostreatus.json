@@ -1,0 +1,31 @@
+{
+    "name": "pleurotus-ostreatus",
+    "title": null,
+    "author": "(Jacq.) P. Kumm.",
+    "additional_info": {
+        "common_name": "Seta ostra, seta de concha, belarri landu, orellana.",
+        "synonym": "Ninguno."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Tricholomatales",
+        "Familia": "Pleurotaceae"
+    },
+    "edibility": "buen-comestible",
+    "characteristics": {
+        "cap": "Sombrero de tamaño variable, hay individuos desarrollados de 5 cm y otros que superan los 15 cm, de forma típica de ostra. El color de esta seta es muy variable, los ejemplares que solemos encontrar suelen ser grises u ocre grisáceos, aunque existen formas de color gris plateado, verdi-azules e incluso próximas al pardo, esto suele dar lugar a la creación de múltiples variedades. Su cutícula es lisa, separable y brillante, sobre todo con lluvia cuando resulta un tanto lubrificada, el borde se presenta enrollado en los especímenes jóvenes, quedando después fino y algo ondulado.",
+        "hymenium": "Láminas muy decurrentes de color blanquecino, un poco cremas en la vejez, apretadas y no muy homogéneas.",
+        "stipe": "Pie corto y totalmente lateral, hay individuos en los que apenas es perceptible debido a que está incrustado en el sustrato. Es de color similar al de las láminas.",
+        "flesh": "Carne consistente y tenaz de color blanco, de olor fúngico suave, sabor dulce y agradable."
+    },
+    "habitat": "Es una especie frecuente en los hayedos, fructificando de forma gregaria e incluso cespitosa sobre los árboles que llevan tiempo caídos. Existen variedades que fructifican sobre tocones de chopos u olmos y otra que sale sobre coníferas, esta es, sin embargo, poco frecuente.",
+    "observations": "Seta reconocible por el aficionado por ser la que se vende cultivada de forma habitual en bandejas en los supermercados de todo el mundo. Es, sin embargo, habitual encontrarla en la naturaleza, constituyendo un apreciable comestible. La var. columbinus, de color verdoso, que sale sobre coníferas resulta ligeramente purgante, por lo que no se recomienda su consumo. El Pleurotus cornucopiae es confundido de forma habitual con esta seta, de la que se diferencia por su pie estriado y olor harinoso. También existe una posible confusión con el Pleurotus pulmonarius, de color más blanco y sabor acídulo.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/pleurotus_ostreatus/pleurotus_ostreatus1.jpg",
+        "https://www.fungipedia.org/images/galerias/pleurotus_ostreatus/pleurotus_ostreatus2.jpg",
+        "https://www.fungipedia.org/images/galerias/pleurotus_ostreatus/pleurotus_ostreatus3.jpg"
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "name": "lentinula-edodes",
+    "title": null,
+    "author": "(Berk.) Pegler",
+    "additional_info": {
+        "common_name": "Shiitake, seta de la vida, pyogo.",
+        "synonym": "Lentinus edodes (Berk.) Singer"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Tricholomatales",
+        "Familia": "Pleurotaceae"
+    },
+    "edibility": "buen-comestible",
+    "characteristics": {
+        "cap": "Sombrero que en la mayoría de los ejemplares tiene un diámetro que puede oscilar entre los 5 y los 10 cm, de forma convexa durante buena parte de su desarrollo, tendente a aplanarse e incluso deprimirse un tanto en las últimas etapas de su madurez. Su cutícula es de color pardo oscuro, uniforme en algunos ejemplares o decolorada hacia el margen con tonos ocráceos, lisa al principio pero pronto recubierta de escamas más claras que el fondo con poco relieve y planas. El margen es involuto en los ejemplares jóvenes e incurvado en los adultos, al final puede llegar a extenderse, poco o nada estriado y con restos del velo que tienden a desaparecer con el tiempo.",
+        "hymenium": "Láminas adnatas de color blanquecino que tienden a volverse parduzcas o a adquirir tonos amarillentos con el desarrollo, relativamente apretadas y con la arista que presenta irregularidades pero que no llega a ser denticulada de forma clara como en los Lentinus o Lentinellus.",
+        "stipe": "Pie corto o proporcionado, lleno, de color similar al sombrero y bastante fibriloso, frecuentemente incurvado en la base, presenta una zona cortiniforme fugaz en el tercio superior formada por los restos del velo.",
+        "flesh": "Carne espesa y compacta de color blanquecino, tiene un olor fúngico bastante agradable y un sabor especifico, propio, que resulta igualmente agradable."
+    },
+    "habitat": "Se trata de una especie que entre nosotros aparece mayoritariamente cultivada sobre sustrato leñoso, se da la circunstancia de que también ha sido localizada en la naturaleza en zonas próximas a lugares en los que se cultiva tanto en primavera como durante el otoño. Es una especie alóctona que fructifica en grupos.",
+    "observations": "El cultivo de esta especie en países del oriente como China se remonta a hace 1000 años, sin embargo su introducción en la Europa occidental es relativamente reciente, por sus características es una especie inconfundible, en la naturaleza tal vez el Neolentinus adhaerens, rara especie montana, tiene posible confusión, aunque su carne resulta picante y carece de las escamas planas del sombrero. Esta especie es un buen comestible de sabor un tanto peculiar pero agradable a la que además se le atribuyen propiedades medicinales en varios ámbitos, de ella se extrae un polisacárido antitumoral y se estudia su uso como antiviral o para el tratamiento de enfermedades como la artritis.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/lentinula_edodes/lentinula_edodes1.jpg",
+        "https://www.fungipedia.org/images/galerias/lentinula_edodes/lentinula_edodes2.jpg",
+        "https://www.fungipedia.org/images/galerias/lentinula_edodes/lentinula_edodes3.jpg",
+        "https://www.fungipedia.org/images/galerias/lentinula_edodes/lentinula_edodes4.jpg",
+        "https://www.fungipedia.org/images/galerias/lentinula_edodes/lentinula_edodes5.jpg",
+        "https://www.fungipedia.org/images/galerias/lentinula_edodes/lentinula_edodes6.jpg"
+    ]
+}

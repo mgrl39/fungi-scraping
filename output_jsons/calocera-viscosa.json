@@ -1,0 +1,31 @@
+{
+    "name": "calocera-viscosa",
+    "title": null,
+    "author": "(Pers.) Fr.",
+    "additional_info": {
+        "common_name": "Calocera viscosa, mukiadar luze.",
+        "synonym": "Calocera stricta Fries"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Phragmobasidiomycetes",
+        "Subclase": "Incertae sedis",
+        "Orden": "Dacrymycetales",
+        "Familia": "Dacrymycetaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Carpóforo de forma ramificada o coralloide, similar a la que adoptan las Ramarias, con una altura que puede llegar a los 6 o 7 cm, ocasionalmente algo más, y un grosor en cada rama de apenas unos milímetros. Las terminaciones de las ramas son bifurcadas, e incluso presentan a veces tres puntas, generalmente agudas, pero en otras ocasiones más redondeadas. Su superficie es de color amarillo anaranjado intenso, pero al secarse adopta un tono más oscuro, naranja rojizo, siendo además muy viscosa en tiempo lluvioso, brillante incluso en tiempo más seco.",
+        "hymenium": "Himenio liso inmerso en la superficie externa del carpóforo.",
+        "stipe": "Pie inexistente como tal, si tiene sin embargo una prolongación muchas veces subterránea que le une al sustrato, y que es de color blanquecino.",
+        "flesh": "Carne de color amarillo y consistencia gelatinosa, bastante tenaz, se vuelve más dura al secarse. Ni su olor ni su sabor son destacables."
+    },
+    "habitat": "Aunque no es descartable su aparición bajo planifolios, es fundamentalmente una especie ligada a las coníferas, donde fructifica sobre la madera muerta de las mismas. Se trata de una especie frecuente en su entorno, que puede localizarse prácticamente en cualquier época del año.",
+    "observations": "Es una especie que es confundida con cierta frecuencia con las Ramarias amarillas, como por ejemplo la Ramaria flava o la Ramaria aurea. Para su perfecta diferenciación, hay que tener en cuenta la consistencia elástica, tenaz y gelatinosa de la carne de esta especie, que carece de la fragilidad típica de las Ramarias. La Calocera cornea, especie de planifolios, se diferencia por su fructificación individual y su pequeño tamaño.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/calocera_viscosa/calocera_viscosa1.jpg",
+        "https://www.fungipedia.org/images/galerias/calocera_viscosa/calocera_viscosa2.jpg",
+        "https://www.fungipedia.org/images/galerias/calocera_viscosa/calocera_viscosa3.jpg"
+    ]
+}

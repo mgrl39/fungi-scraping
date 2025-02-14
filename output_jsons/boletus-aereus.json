@@ -1,0 +1,34 @@
+{
+    "name": "boletus-aereus",
+    "title": null,
+    "author": "Bull.",
+    "additional_info": {
+        "common_name": "Hongo negro.",
+        "synonym": "Tubiporus ustulatus Paulet"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Boletales",
+        "Familia": "Boletaceae"
+    },
+    "edibility": "excelente-comestible",
+    "characteristics": {
+        "cap": "Sombrero de hasta 20 cm, carnoso, de joven hemisférico, después convexo, con una cutícula lisa y glabra de color pardo oscuro, en ocasiones casi negro, y de tacto aterciopelado que pierde con el tiempo.",
+        "hymenium": "Tubos largos, de color netamente blanco, que después pasan a amarillento y acaban siendo verdosos, libres o adnatos sobre el pie.",
+        "stipe": "Poros concoloros, bastante prietos y redondos.",
+        "flesh": "Pie central, muy robusto, macizo, en su primera etapa se muestra engrosado en la base, incluso ventrudo, adoptando posteriormente una forma cilíndrica. Su color es ocre, mucho más pálido que el sombrero y posee una retícula muy fina que puede llegar a abarcar los dos tercios superiores del pie."
+    },
+    "habitat": "Carne gruesa, compacta, de color blanco, que además posee olor y sabor muy agradables.",
+    "observations": "Es una especie que sale en árboles de hoja caduca, como por ejemplo castaño, roble o haya, además de en encinares y alcornocales. Es bastante termófila, por lo que gusta de salir en los meses estivales o en principio del otoño. Adaptada al clima mediterráneo, es abundante en algunas regiones.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/boletus_aereus/boletus_aereus1.jpg",
+        "https://www.fungipedia.org/images/galerias/boletus_aereus/boletus_aereus2.jpg",
+        "https://www.fungipedia.org/images/galerias/boletus_aereus/boletus_aereus3.jpg",
+        "https://www.fungipedia.org/images/galerias/boletus_aereus/boletus_aereus4.jpg",
+        "https://www.fungipedia.org/images/galerias/boletus_aereus/boletus_aereus5.jpg",
+        "https://www.fungipedia.org/images/galerias/boletus_aereus/boletus_aereus6.jpg"
+    ]
+}

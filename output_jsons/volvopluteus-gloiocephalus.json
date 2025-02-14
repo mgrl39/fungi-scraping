@@ -1,0 +1,31 @@
+{
+    "name": "volvopluteus-gloiocephalus",
+    "title": null,
+    "author": "(DC.) Vizzini, Contu & Justo",
+    "additional_info": {
+        "common_name": "Volvaria vistosa, kosko-ziza lingirdatsu.",
+        "synonym": "Volvariella gloiocephala (DC.) Boekhout & Enderle"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Pluteales",
+        "Familia": "Agaricaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero que en su máximo desarrollo puede llegar a superar los 10 cm de diámetro. Su forma evoluciona a lo largo de su vida, siendo de joven acampanado o con forma de casco de ciclista contrarreloj, aplanándose con posterioridad. El color de su superficie varía según el grado de hidratación, de gris plateado u oliváceo cuando está hidratada, pasa a ser crema con la desecación. Su cutícula en el primer estado mencionado es lisa y brillante, sin embargo se vuelve radialmente fibrilosa cuando no está hidratada. Su margen grueso y obtuso se retrae al secarse formando unas acanaladuras típicas que los especímenes frescos no tienen.",
+        "hymenium": "Láminas libres con respecto al pie, bastante densas y por lo tanto apretadas, al principio de color blanco, tiñéndose de color rosa al depositarse sobre ellas las esporas.",
+        "stipe": "Pie alargado de color blanquecino, a veces con matiz grisáceo, más estrecho junto al sombrero y algo más grueso en la base. Posee una volva membranosa y persistente de color blanco lobulada de forma irregular.",
+        "flesh": "Carne no demasiado gruesa y de consistencia blanda, a pesar de que la seta es aparentemente carnosa. Es de color blanco y de sabor dulce, aunque su olor rafanoide no es nada agradable."
+    },
+    "habitat": "El hábitat de esta especie es un tanto diverso, puede aparecer en los bosques en terrenos nitrogenados, pero es una seta que fructifica por regla general sobre materia orgánica descompuesta, serrín, paja o similar. La localizamos con frecuencia en jardines urbanos y escombreras con residuos vegetales. Es relativamente frecuente, sobre todo durante el otoño, si bien puede salir también en otras épocas del año.",
+    "observations": "El género Volvariella, antes Volvaria, lo componen especies que tienen en común la presencia en el pie de una volva más o menos membranosa y persistente, y la ausencia total de anillo. Se diferencia de las especies del subgénero Amanitopsis por la esporada de color rosa en masa, que tiñe las láminas de ese color, mientras que las Amanitopsis tienen todas la esporada blanca.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/volvopluteus_gloiocephalus/volvopluteus_gloiocephalus1.jpg",
+        "https://www.fungipedia.org/images/galerias/volvopluteus_gloiocephalus/volvopluteus_gloiocephalus2.jpg",
+        "https://www.fungipedia.org/images/galerias/volvopluteus_gloiocephalus/volvopluteus_gloiocephalus3.jpg"
+    ]
+}

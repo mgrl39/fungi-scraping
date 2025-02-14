@@ -1,0 +1,30 @@
+{
+    "name": "pycnoporus-cinnabarinus",
+    "title": null,
+    "author": "(Jacq.) P. Karst.",
+    "additional_info": {
+        "common_name": "Yesquero bermellón, ardagai gorri.",
+        "synonym": "Trametes cinnabarina (Jacq.) Fries"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Aphyllophoromycetidae",
+        "Orden": "Poriales",
+        "Familia": "Coriolaceae"
+    },
+    "edibility": "no-comestible",
+    "characteristics": {
+        "cap": "Carpóforo formado por sombreros generalmente de crecimiento individual, a veces imbricados. Su forma es más o menos plana, semicircular o de consola, y su tamaño oscila mucho, pudiéndose encontrar ejemplares de apenas 3 cm de anchura junto a otros de 10 o más. En la zona de unión con el sustrato es más grueso, pudiendo alcanzar los 3 cm de grosor, sin embargo hacia el margen apenas alcanza el centímetro. Es de color rojo cinabrio o naranja muy vistoso, y la superficie pileica es glabra o ligeramente pubescente, poco o nada zonada. El margen suele ser redondeado y de color similar al resto del carpóforo.",
+        "hymenium": "Himenio porado, con poros de un color similar al de la parte superior del carpóforo, muy vistosos, de un tamaño aproximado de 2 o 3 por mm. Por regla general suelen ser redondeados, aunque cabe la posibilidad de encontrarlos más oblongos o incluso algo angulosos en los especímenes viejos.",
+        "stipe": "Pie inexistente, es una especie sésil, se adhiere directamente al sustrato.",
+        "flesh": "Carne gruesa y tenaz de color anaranjado vivo, de textura suberosa, más bien dura. No se le aprecia un olor o sabor definido. En la unión con el sustrato es más gruesa que en el margen."
+    },
+    "habitat": "Fructifica sobre madera, tanto en tocones como sobre ramas caídas, con preferencia por árboles de hoja caduca como el haya o el roble. Puede aparecer prácticamente en cualquier época del año, siendo una especie poco frecuente.",
+    "observations": "Es una especie poco menos que inconfundible, ya que es única en su género para Europa, fácilmente diferenciable por su vistoso color rojo cinabrio o anaranjado. Existe una especie de procedencia tropical, el Pycnoporus sanguineus, de color más rojizo, diferenciable de esta por el sistema de hifas, dimítico, mientras que en Pycnoporus cinnabarinus es trimítico. Tiene cierto parecido la rara especie Pycnoporellus fulgens, cuya superficie pileica está recubierta de largos pelos.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/pycnoporus_cinnabarinus/pycnoporus_cinnabarinus1.jpg",
+        "https://www.fungipedia.org/images/galerias/pycnoporus_cinnabarinus/pycnoporus_cinnabarinus2.jpg"
+    ]
+}

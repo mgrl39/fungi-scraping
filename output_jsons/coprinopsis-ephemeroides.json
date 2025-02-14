@@ -1,0 +1,33 @@
+{
+    "name": "coprinopsis-ephemeroides",
+    "title": null,
+    "author": "(DC.) G. Moreno",
+    "additional_info": {
+        "common_name": "Coprino efímero.",
+        "synonym": "Coprinus ephemeroides (DC.) Fr."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Agaricales",
+        "Familia": "Coprinaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero muy pequeño, un ejemplar extraordinariamente grande podría alcanzar 1 cm de diámetro, lo habitual es encontrarlos de entre 4 y 8 mm en estado ya desarrollado. Cuando comienzan a salir, tienen forma ovoide, luego campanulada, para acabar por aplanarse e incluso levantarse los bordes hacia arriba. Todo este proceso de formas puede durar apenas un par de horas. Su superficie es blanquecina o algo ocre en el centro, translúcida en el resto, siendo además totalmente estriada por transparencia.",
+        "hymenium": "Láminas translúcidas que asemejan pliegues, se vuelven negras debido a su delicuescencia, separadas.",
+        "stipe": "Pie alargado y muy delgado, normalmente entre 2 y 4 cm de largo por apenas un par de milímetros de grosor, blanquecino o transparente, con un pequeño bulbo en la base. Muchos de los ejemplares de esta especie poseen un anillo deslizante y muy frágil a media altura del pie más o menos, pero a veces desaparece por efecto de la lluvia.",
+        "flesh": "Carne prácticamente inexistente, sin que podamos apreciar en esta seta olor o sabor significativos."
+    },
+    "habitat": "Es una especie exclusivamente fimícola, fructifica sobre excrementos de ganado de diferente índole, la hemos visto sobre excrementos de caballo y de vaca. Su época de aparición es la primavera, pudiendo también salir durante el otoño. Es relativamente frecuente pero al ser tan pequeña y efímera pasa inadvertida.",
+    "observations": "Es una seta complicada de ver, su vida se reduce a unas pocas horas, lo que le da el nombre, es además muy pequeña y frágil. La aparición de un anillo móvil deslizante sobre el pie la hace diferenciable de otras especies de Coprinus fimícolas como el Coprinellus curtus. También existen otras especies no fimícolas que se le parecen, siendo importante un detallado estudio microscópico para su correcta identificación.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/coprinopsis_ephemeroides/coprinopsis_ephemeroides1.jpg",
+        "https://www.fungipedia.org/images/galerias/coprinopsis_ephemeroides/coprinopsis_ephemeroides2.jpg",
+        "https://www.fungipedia.org/images/galerias/coprinopsis_ephemeroides/coprinopsis_ephemeroides3.jpg",
+        "https://www.fungipedia.org/images/galerias/coprinopsis_ephemeroides/coprinopsis_ephemeroides4.jpg",
+        "https://www.fungipedia.org/images/galerias/coprinopsis_ephemeroides/coprinopsis_ephemeroides5.jpg"
+    ]
+}

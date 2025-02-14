@@ -1,0 +1,31 @@
+{
+    "name": "lyophyllum-decastes",
+    "title": null,
+    "author": "(Fr.) Singer",
+    "additional_info": {
+        "common_name": "Liófilo agregado.",
+        "synonym": "Lyophyllum agregatum (Schaeff.) Kühner"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Tricholomatales",
+        "Familia": "Tricholomataceae"
+    },
+    "edibility": "buen-comestible",
+    "characteristics": {
+        "cap": "Sombrero de 5 a 10 cm, liso o finamente veteado, de color pardo-gris más o menos oscuro, más claro cuando el espécimen es viejo. Al principio es bastante giboso pero se va aplanando hasta quedar extendido, con el borde recogido hacia dentro en los ejemplares jóvenes.",
+        "hymenium": "Láminas blancas en los ejemplares jóvenes, algo más grisáceas de viejas, adnatas y con la facultad de separarse con suma facilidad de la carne del sombrero.",
+        "stipe": "Pie blanquecino o crema, frecuentemente veteado de gris, al salir fasciculado muchas veces es curvo o sinuoso, otras veces cilíndrico.",
+        "flesh": "Carne blanquecina y de consistencia elástica, una característica común en el género Lyophyllum, de olor débil y sabor suave."
+    },
+    "habitat": "Suele aparecer en grupos fasciculados durante la primavera, y sobre todo a partir de octubre. En cuanto a su localización, la bibliografía nos la marca como especie de bosques herbosos de frondosas, aunque hemos de decir que nosotros la encontramos siempre en campa y en el borde de los caminos de los pinares de montaña. Especie frecuente.",
+    "observations": "A pesar de la tenacidad de su carne, consideramos que es un buen comestible. El Lyophyllum fumosum se le parece bastante, pero suele tener las láminas grises y un olor mas harinoso, sale también fasciculado y es igualmente comestible.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/lyophyllum_decastes/lyophyllum_decastes1.jpg",
+        "https://www.fungipedia.org/images/galerias/lyophyllum_decastes/lyophyllum_decastes2.jpg",
+        "https://www.fungipedia.org/images/galerias/lyophyllum_decastes/lyophyllum_decastes3.jpg"
+    ]
+}

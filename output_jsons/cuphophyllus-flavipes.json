@@ -1,0 +1,30 @@
+{
+    "name": "cuphophyllus-flavipes",
+    "title": null,
+    "author": "(Britzelm.) Bon",
+    "additional_info": {
+        "common_name": "Hygróforo de pie amarillento.",
+        "synonym": "Hygrocybe flavipes (Britzelm.) Bon"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Tricholomatales",
+        "Familia": "Hygrophoraceae"
+    },
+    "edibility": "comestible",
+    "characteristics": {
+        "cap": "Sombrero de pequeñas dimensiones, entre 2 y 4 cm, de color gris con claros matices violáceos, e incluso ocasionalmente con tonos rosa mate, inicialmente algo acampanado, aunque la forma habitual en que te lo encuentras es convexo o aplanado. Cutícula un poco viscosa en situación de lluvias, sino subseca, lisa, poco o nada estriada.",
+        "hymenium": "Láminas de color gris violáceo bastante uniforme, muy separadas entre sí y con laminillas intercaladas, suelen ser decurrentes sobre el pie y notablemente gruesas para lo pequeña que es la seta.",
+        "stipe": "Pie cilíndrico y más largo que el diámetro del sombrero, de color gris pálido o crema, amarilleando en la base del pie, generalmente curvado.",
+        "flesh": "Carne grisácea, delgada y poco consistente, de olor poco reseñable y sabor en crudo ligeramente acrescente."
+    },
+    "habitat": "Aparece durante el otoño en prados y pastizales de las tierras bajas, en terrenos nitrófilos. Esta seta es muy poco frecuente, apenas citada en muchas zonas y sin embargo habitual en nuestro entorno.",
+    "observations": "Aunque se cataloga como comestible, no tiene especial interés culinario este higróforo. Es una excepción entre sus congéneres el color violeta, por lo que consideramos que se trata de una especie fácil de identificar, y a la vez difícil de encontrar. De color más llamativo y sombrero cónico puntiagudo es el Hygrocybe caliptriformis, que entendemos se distingue perfectamente de la especie aquí descrita.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/cuphophyllus_flavipes/cuphophyllus_flavipes1.jpg",
+        "https://www.fungipedia.org/images/galerias/cuphophyllus_flavipes/cuphophyllus_flavipes2.jpg"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "collybia-tuberosa",
+    "title": null,
+    "author": "(Bull.) P. Kumm.",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Gymnopus tuberosus Gray"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Tricholomatales",
+        "Familia": "Marasmiaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero muy pequeño,de no más de un cm de diámetro, normalmente en torno a medio cm de diámetro, de forma campanulada en sus comienzos, pero rápidamente se vuelve convexa, y finalmente aplanada. Es de color blanco bastante saturado, y su superficie solo es brillante con lluvia, lo habitual es verla seca y sedosa. Un detalle importante es que su borde no es acanalado, carece por lo tanto de estrías, y es además fino y bastante regular. De apariencia delgada y frágil.",
+        "hymenium": "Láminas adherentes al pie, de color blanquecino algo más sucio que el sombrero, incluso tienden a volverse cremas. Tiene bastantes láminas para lo pequeña que es la seta, apretadas.",
+        "stipe": "Pie desproporcionadamente alargado con respecto al sombrero, de color blanquecino en un principio, pero con tendencia a mancharse de un color carneo. Es fibriloso y sedoso, y brota de un esclerocio de color pardo rojizo a negro que es blanco en su interior, el tamaño de este esclerocio suele rondar también el medio centímetro.",
+        "flesh": "Carne delgada, insignificante, sin olor ni sabor destacados."
+    },
+    "habitat": "Esta pequeña seta se desarrolla sobre restos vegetales en descomposición, así como sobre viejas Russulas ya podridas. La época en la que solemos localizarla es el otoño tardío. No es infrecuente, pero en la mayoría de los casos pasa desapercibida.",
+    "observations": "Si tomamos la precaución de arrancarla con cuidado observaremos el esclerocio del que brota, lo cual hará que podamos identificar esta especie con total seguridad. Si la cogemos con el pie todavía blanco y sin esclerocio la confundiremos fácilmente con la Collybia cirrhata, similar a esta pero carente de esclerocio. Otra especie afín es la Collybia cookei, especie que brota de un esclerocio amarillento ocráceo, menos común que la aquí descrita.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/collybia_tuberosa/collybia_tuberosa1.jpg",
+        "https://www.fungipedia.org/images/galerias/collybia_tuberosa/collybia_tuberosa2.jpg",
+        "https://www.fungipedia.org/images/galerias/collybia_tuberosa/collybia_tuberosa3.jpg"
+    ]
+}

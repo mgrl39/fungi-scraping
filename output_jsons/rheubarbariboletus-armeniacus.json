@@ -1,0 +1,30 @@
+{
+    "name": "rheubarbariboletus-armeniacus",
+    "title": null,
+    "author": "(Quél.) Vizzini, Simonini & Gelardi",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Xerocomus armeniacus (Quél) Quél."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Boletales",
+        "Familia": "Boletaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero de dimensiones reducidas para el género, no suele alcanzar los 10 cm de diámetro, normalmente se que entre 5 y 7. De joven tiene forma hemisférica, para posteriormente adoptar forma convexa, y en su última etapa casi plano. Su cutícula es pubescente de joven para quedar después lisa o afieltrada, de color rojizo predominante con algún matiz ocráceo o rosado. Margen ondulado de forma irregular. En época de poca lluvia se cuartea.",
+        "hymenium": "Tubos de color amarillo bastante llamativo, después oliváceos, adnatos.",
+        "stipe": "Poros de color amarillo, bastante amplios, que azulean débilmente a la presión.",
+        "flesh": "Pie de forma cilíndrica o fusiforme, de color amarillo claro o blancuzco y tamaño proporcionado al del sombrero. A veces está débilmente pustulado de rojizo, pero no es lo habitual. Su base suele ser más o menos radicante."
+    },
+    "habitat": "Carne no demasiado espesa ni firme, más bien esponjosa, de color amarillo pálido que se tiñe de azul de forma débil al corte. Bajo la cutícula es rosada y algo ocrácea en la base del pie. Su olor y su sabor son débiles, poco reseñables.",
+    "observations": "Aparece en diferentes tipos de bosque, de forma gregaria o incluso cespitosa ocasionalmente. Crece sobre todo durante el otoño. No es tan frecuente como otras especies afines.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/rheubarbariboletus_armeniacus/rheubarbariboletus_armeniacus1.jpg",
+        "https://www.fungipedia.org/images/galerias/rheubarbariboletus_armeniacus/rheubarbariboletus_armeniacus2.jpg"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "name": "pseudoboletus-parasiticus",
+    "title": null,
+    "author": "(Bull.) Šutara",
+    "additional_info": {
+        "common_name": "Boleto parasitario, astaputz-onddo.",
+        "synonym": "Boletus parasiticus Bull."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Boletales",
+        "Familia": "Boletaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero de pequeño tamaño, rara vez sobrepasa los 5 cm de diámetro, emerge de forma convexa, aplanándose poco a poco, pero no suele ser totalmente plano. Es de color ocre amarillento más o menos claro dependiendo de su grado de hidratación, y su superficie es tomentosa de joven, quedando finalmente lisa y glabra. Borde bastante regular.",
+        "hymenium": "Tubos adnatos o un poco decurrentes de color amarillo que con el tiempo se vuelven oliváceos, más bien cortos.",
+        "stipe": "Poros grandes y angulosos, de color amarillo, de viejos oliváceos con manchas de roña.",
+        "flesh": "Pie largo, esbelto, estrecho y generalmente curvado. A veces se ensancha un poco en la parte inferior para radicar en la unión con el Scleroderma parasitado. Es de color de fondo amarillo, pero está recubierto de fibrillas de color ocre que le confieren una apariencia más oscura."
+    },
+    "habitat": "Carne de color amarillento salvo bajo la cutícula, donde es más blanquecina. Es espesa en relación a lo pequeña que es la seta, y también bastante firme. Permanece inmutable al corte, su olor es suave y agradable y su sabor es igualmente suave.",
+    "observations": "Esta especie se desarrolla en verano y en otoño, aparece siempre parasitando a diversos Sclerodermas, muy especialmente al Scleroderma citrinum, también llamado vulgare. Debe considerarse como especie rara, muy poco frecuente.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/pseudoboletus_parasiticus/pseudoboletus_parasiticus1.jpg",
+        "https://www.fungipedia.org/images/galerias/pseudoboletus_parasiticus/pseudoboletus_parasiticus2.jpg"
+    ]
+}

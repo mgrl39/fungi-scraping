@@ -1,0 +1,32 @@
+{
+    "name": "macrolepiota-procera",
+    "title": null,
+    "author": "(Scop.) Singer",
+    "additional_info": {
+        "common_name": "Galanperna, apagador, matacandelas.",
+        "synonym": "Lepiota procera (Scop.) Gray"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Agaricales",
+        "Familia": "Agaricaceae"
+    },
+    "edibility": "buen-comestible",
+    "characteristics": {
+        "cap": "Sombrero de grandes dimensiones, se han recolectado ejemplares de 40 cm de diámetro, primero globoso y cerrado sobre el pie, como un micrófono o una maza para tocar el bombo, después extendido y provisto de un mamelón obtuso, recubierto de escamas pardas sobre un fondo blanco-crema, con el centro netamente pardo.",
+        "hymenium": "Láminas blanquecinas, anchas y algo ventrudas, libres con respecto al pie o algo escotadas.",
+        "stipe": "Pie largo y cilíndrico, terminado en un bulbo en la base, hueco y de consistencia leñosa, de aspecto atigrado por estar recubierto de fibras pardas sobre el fondo más claro. Provisto de un anillo deslizante de color blanco, un poco pardo en la parte inferior.",
+        "flesh": "Carne tierna y blanca en el sombrero, dura y leñosa en el pie, de olor suave y sabor agradable a frutos secos."
+    },
+    "habitat": "Aparece desde finales del verano en los claros herbosos de los pinares, en hayedos y en campas. Abundante y extendida.",
+    "observations": "Los sombreros de esta especie constituyen un aceptable comestible. Es la Macrolepiota de mayor talla, todas sus \"primas\" son de talla inferior. Existe la var. permixta, actualmente separada como especie bajo el nombre de Macrolepiota fuliginosa, mas escamada y con el pie liso, versicolor. Todas las Lepiotas venenosas son de talla pequeña, a excepción del Chlorophyllum molybdites, especie abundante en América y escasamente referenciada en Europa.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/macrolepiota_procera/macrolepiota_procera1.jpg",
+        "https://www.fungipedia.org/images/galerias/macrolepiota_procera/macrolepiota_procera2.jpg",
+        "https://www.fungipedia.org/images/galerias/macrolepiota_procera/macrolepiota_procera3.jpg",
+        "https://www.fungipedia.org/images/galerias/macrolepiota_procera/macrolepiota_procera4.jpg"
+    ]
+}

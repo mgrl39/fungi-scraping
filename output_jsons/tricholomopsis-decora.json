@@ -1,0 +1,34 @@
+{
+    "name": "tricholomopsis-decora",
+    "title": null,
+    "author": "(Fr.) Singer",
+    "additional_info": {
+        "common_name": "Tricholoma decorado.",
+        "synonym": "Tricholoma decorum (Fr.) Quél."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Tricholomatales",
+        "Familia": "Tricholomataceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero de diámetro variable, algunos especimenes maduros no pasan de los 3 cm, mientras otros sobrepasan los 10 cm, con forma convexa en sus primeros estados de desarrollo, después se va aplanando para acabar por ser extendido, siendo frecuente que los ejemplares maduros presenten una pequeña depresión central. Cutícula separable del contexto, generalmente de aspecto seco, algo brillante con lluvia pero no viscosa, de color amarillo más o menos vivo de fondo, pero recubierta de pequeñas escamosidades de color marrón que son más patentes y cerradas en la zona central y se van difuminanando hacia el borde donde prácticamente suelen ser concoloras con la superficie. Margen involuto en los ejemplares jóvenes, abriéndose hasta quedar recto y bastante fino, incluso puede volverse hacia arriba de viejo.",
+        "hymenium": "Láminas adnatas por regla general, a veces algo escotadas, muy apretadas entre sí y con abundantes laminillas, de un color amarillo bastante vivo, de disposición un tanto irregular, con la arista entera y concolora o con frecuencia de un tono amarillo menos vivo.",
+        "stipe": "Pie que puede ser central o ligeramente excéntrico, lleno cuando es joven y cavernoso de adulto, generalmente más largo que el diámetro del sombrero, más o menos cilíndrico y de forma habitual suele presentarse curvado. Tiene un color amarillo similar al del sombrero, algo fibriloso, pero no con la escamosidad tan marcada de este, la zona de unión con el micelio suele ser algo blanquecina.",
+        "flesh": "Carne de poco espesor y de consistencia fibrosa, al corte inmutable, de color amarillento más notable en el sombrero, de un tono más apagado en el pie, incluso en la base puede ser ocrácea, con un olor fúngico suave y un sabor dulce que al rato de masticación se vuelve ligeramente amargo."
+    },
+    "habitat": "Estamos ante una especie de comportamiento saprobio, se desarrolla sobre madera muerta contribuyendo a la descomposición de la misma. Hace un tiempo esta especie era muy rara en nuestro entorno, pero en los últimos años está apareciendo con más frecuencia, proliferando un tanto, ya la vemos sin problema cada año. Generalmente solemos observarla sobre madera muerta de coníferas, la hemos visto sobre pinos (Pinus ssp), cipres de lawson (Chamaecyparis lawsoniana), Picea abies o alerce de japón (Larix kaempferi), donde fructifica habitualmente de forma gregaria o incluso fasciculada, rara vez aislada, siendo su época predilecta de aparición el otoño.",
+    "observations": "Esta especie no es comestible debido a su escasa carne, fibrosidad, y sabor algo amargo. Guarda muchas similitudes con su pariente próximo, Tricholomopsis rutilans, de quien se separa macroscópicamente por estar esta última recubierta de vistosas escamas rojizas tanto en el sombrero como en el pie, y microscópicamente porque las esporas del rutilans son más pequeñas y globosas, con un Q esporal menor. Tricholomopsis ornata es también muy similar, con pleurocistidios cilíndricos y más estrechos que la presente, existen otras especies del género también similares, generalmente americanas como  Tricholomopsis sulfureoides, de escamas amarillentas, o Tricholomopsis bella, prácticamente sin escamosidad alguna.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/tricholomopsis_decora/tricholomopsis_decora1.jpg",
+        "https://www.fungipedia.org/images/galerias/tricholomopsis_decora/tricholomopsis_decora2.jpg",
+        "https://www.fungipedia.org/images/galerias/tricholomopsis_decora/tricholomopsis_decora3.jpg",
+        "https://www.fungipedia.org/images/galerias/tricholomopsis_decora/tricholomopsis_decora4.jpg",
+        "https://www.fungipedia.org/images/galerias/tricholomopsis_decora/tricholomopsis_decora5.jpg",
+        "https://www.fungipedia.org/images/galerias/tricholomopsis_decora/tricholomopsis_decora6.jpg"
+    ]
+}

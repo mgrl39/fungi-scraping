@@ -1,0 +1,31 @@
+{
+    "name": "craterellus-cornucopioides",
+    "title": null,
+    "author": "(L.) Pers.",
+    "additional_info": {
+        "common_name": "Trompeta de los muertos.",
+        "synonym": "Cantharellus cornucopioides (L.) Fr."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Aphyllophoromycetidae",
+        "Orden": "Cantharellales",
+        "Familia": "Cantharellaceae"
+    },
+    "edibility": "excelente-comestible",
+    "characteristics": {
+        "cap": "Sombrero de hasta 10 cm de diámetro, de color variable según el grado de humedad del espécimen, desde negro a gris mate, con una cutícula lisa o ligeramente veteada de fibrillas y con el borde lobulado de manera irregular. Su forma es de trompeta y posee una cavidad en el centro que se prolonga casi hasta la base del pie.",
+        "hymenium": "Láminas inexistentes, el himenio de esta especie es completamente liso, y de color gris ceniciento, si acaso débilmente arrugado.",
+        "stipe": "Pie que pudiéramos considerar como una mera prolongación del sombrero, como hemos mencionado es hueco, y su color es similar al del himenio o ligeramente más oscuro.",
+        "flesh": "Carne escasa, de consistencia elástica, de gris a negruzca, con olor aromático agradable y buen sabor."
+    },
+    "habitat": "La recolectamos en bosque de robles y hayas, donde aparece sobre todo en los meses otoñales, en placas de numerosos ejemplares. Le gustan los terrenos muy húmedos.",
+    "observations": "Excelente comestible a pesar de su aspecto, ideal para el acompañamiento como guarnición de todo tipo de guisos. Es además una seta que se presta a ser desecada para su posterior rehidratación, o para convertirla en polvo con el que aderezar los guisos. Puede confundirse con el Cantharellus cinereus, que sin embargo tiene el himenio con pliegues bien marcados, especie también comestible.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/craterellus_cornucopioides/craterellus_cornucopioides1.jpg",
+        "https://www.fungipedia.org/images/galerias/craterellus_cornucopioides/craterellus_cornucopioides2.jpg",
+        "https://www.fungipedia.org/images/galerias/craterellus_cornucopioides/craterellus_cornucopioides3.jpg"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "name": "chroogomphus-helveticus",
+    "title": null,
+    "author": "(Singer) Moser",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Gomphidius helveticus Singer"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Boletales",
+        "Familia": "Gomphidiaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero de entre 5 y 8 cm en estado adulto, en su primera etapa es esférico, después convexo, que puede estar obtusamente umbonado, pero carece por completo de mamelón. Al principio está recubierto de una especie de lanosidad que tiende a desaparecer por efecto de la lluvia. Su cutícula solo es viscosa en tiempo lluvioso y es de color anaranjado con matices rosáceos.",
+        "hymenium": "Láminas muy espaciadas y marcadamente decurrentes, de color parecido al del sombrero, pero oscureciendo con el tiempo hasta volverse negruzcas.",
+        "stipe": "Pie del mismo color que el resto del carpóforo, en general bastante seco, atenuado en la base, al punto de resultar en algunos casos casi radicante. Su zona cortiniforme es prácticamente inapreciable. Amarillea al ser manoseado.",
+        "flesh": "Carne de color anaranjado, aunque amarillenta en la base del pie, no muy firme ni espesa, de olor afrutado suave y de sabor dulce no desagradable."
+    },
+    "habitat": "Especie exclusiva de coníferas, hace su aparición en el otoño. No es una especie muy frecuente pero donde sale lo hace en cantidad considerable.",
+    "observations": "Especie sin valor culinario que puede guardar cierta similitud con el Chroogomphus rutilus, del que se diferencia por su menor viscosidad, la ausencia de mamelón, y el color uniforme anaranjado rosáceo de todo el carpóforo. De colores más vivos aun es el Chroogomphus fulmineus, especie termófila de clima mediterráneo.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/chroogomphus_helveticus/chroogomphus_helveticus1.jpg",
+        "https://www.fungipedia.org/images/galerias/chroogomphus_helveticus/chroogomphus_helveticus2.jpg"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "name": "fuligo-cinerea",
+    "title": null,
+    "author": "(Schwein.) Morgan",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Enteridium cinerium Schwein."
+    },
+    "taxonomy": {
+        "División": "Myxomycota",
+        "Subdivisión": "Myxomycotina",
+        "Clase": "Myxomycetes",
+        "Subclase": "Myxogasteromycetidae",
+        "Orden": "Physarales",
+        "Familia": "Physaraceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Plasmodio con protoplasma granuloso y corriente rítmica reversible, formado a través de múltiples divisiones celulares de los zigotos. Según las condiciones de humedad, estas células son ameboides (mixamebas), o células flageladas. Es de color blanco y reptante, dejando en su desplazamiento un rastro mocoso concoloro llamado hipotalo. Se alimenta de pequeños organismos vivos, como por ejemplo bacterias. Este tipo de plasmodio recibe el nombre de faneroplasmodio, y es habitual en el orden Physarales. Cuando las condiciones de temperatura y humedad son las adecuadas se produce la fructificación de los cuerpos reproductores, llamados etalios.",
+        "hymenium": "Etalio formado por una masa mucilaginosa de color blanco sucio o grisáceo, de varios centímetros de longitud y forma almohadillada. Se trata de una masa informe que se adapta a la forma que tiene el sustrato sobre el que fructifica. Su apariencia macroscópica es similar a la del cuajo de la leche, y su consistencia es mocosa, si se le presiona con los dedos en esta fase prácticamente desaparece. Sin embargo, al madurar se oscurece y endurece de forma notable, dando lugar a un peridio negruzco que se abre dando paso a un pseudocapilicio, que libera las esporas albergadas en el interior del peridio a través de una columela.",
+        "stipe": "Pie inexistente, se adhiere directamente al sustrato.",
+        "flesh": "Esporas de color pardo oscuro al microscopio, esporada negra. Tienen un tamaño considerable, pudiendo llegar a las 15 micras, y forma más o menos esférica."
+    },
+    "habitat": "Aparece esta especie sobre todo a finales del verano y durante todo el otoño, siendo relativamente frecuente. Fructifica sobre madera muerta, pequeñas ramitas, o directamente sobre la hierba.",
+    "observations": "Es una especie de los Myxomycetes que se identifica por su consistencia y aspecto similar al cuajo de la leche, y su color blanco grisáceo. Cuando sale sobre la hierba pudiera confundirse con la Sebacina incrustans, que tiene sin embargo aspecto como de huevitos arracimados, además de ser un Phragmobasidiomycete, no un Myxomycete. Otro Myxomycete de similar ecología y color grisáceo es el Mucilago crustacea, de consistencia muy diferente. La Fuligo septica tiene forma parecida, pero es amarilla. Esta especie que nos ocupa, adopta a veces tonos violáceos al ser parasitada por la Nectriopsis violacea.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/fuligo_cinerea/fuligo_cinerea1.jpg",
+        "https://www.fungipedia.org/images/galerias/fuligo_cinerea/fuligo_cinerea2.jpg"
+    ]
+}

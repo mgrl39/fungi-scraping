@@ -1,0 +1,34 @@
+{
+    "name": "geoglossum-glabrum",
+    "title": null,
+    "author": "Pers.",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Geoglossum ophioglossoides (L.) Sacc."
+    },
+    "taxonomy": {
+        "División": "Ascomycota",
+        "Subdivisión": "Ascomycotina",
+        "Clase": "Himenoascomycetes",
+        "Subclase": "Pezizomycetidae",
+        "Orden": "Leotiales",
+        "Familia": "Geoglossaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Carpóforo con una altura que puede llegar a los 5 cm, ocasionalmente algo más, con una estructura en la que se definen dos partes diferenciadas pero unidas. La parte superior con forma de cabezuela constituye la parte fértil del carpóforo, de una longitud que supone un tercio del total aproximadamente o algo menos, de color negro con cierto matiz azulado, ápice redondeado y por regla general lateralmente comprimida y con una especie de surco central más o menos hendido, siendo este un carácter un tanto variable. Superficie seca y brillante, nunca viscosa, pruinosa y glabra.",
+        "hymenium": "Himenio que se manifiesta revistiendo la zona superior o cabezuela fértil, liso y glabro, concoloro, con la maduración da a esta un aspecto pruinoso.",
+        "stipe": "Pie que en realidad no es tal pues no existe una separación clara con la cabezuela sino que es una prolongación de la misma. Toda esta zona es estéril, cilíndrica y alargada, de un color similar a la zona superior, e igualmente lisa y seca aunque algo brillante con lluvia.",
+        "flesh": "Carne del mismo color que la superficie externa, no es tan frágil como puede aparentar, incluso algo tenaz o elástica. Carece de olor y prácticamente también de sabor."
+    },
+    "habitat": "Preferentemente fructifica esta especie en bosques de pinos o en terrenos abiertos, generalmente en zonas próximas a la costa, incluso en pinares con dunas, zonas arenosas y musgosas. Puede crecer aislada o en pequeños grupos, siendo su época predilecta de aparición finales del otoño y sobre todo sale en invierno. Especie poco frecuente con tendencia acidófila.",
+    "observations": "El género Geoglossum presenta especies con grandes similitudes morfológicas y por lo tanto difíciles de separar macroscópicamente. Geoglossum umbratile es una especie muy similar, al igual que esta presenta esporas en su gran mayoría con siete septos, sin embargo sus ascas son notablemente más pequeñas, hasta 200 micras, la que nos ocupa puede llegar a 250 micras. Geoglossum cookeanum es casi idéntica, por lo que su posición taxonómica es controvertida, si acaso las ascas son también algo más pequeñas. Otros Geoglossum presentan esporas con muchos más septos, hasta 17 en algunos casos. También por su forma se puede confundir con la Xylaria polymorpha, pero la carne es de color blanco al corte.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/geoglossum_glabrum/geoglossum_glabrum1.jpg",
+        "https://www.fungipedia.org/images/galerias/geoglossum_glabrum/geoglossum_glabrum2.jpg",
+        "https://www.fungipedia.org/images/galerias/geoglossum_glabrum/geoglossum_glabrum3.jpg",
+        "https://www.fungipedia.org/images/galerias/geoglossum_glabrum/geoglossum_glabrum4.jpg",
+        "https://www.fungipedia.org/images/galerias/geoglossum_glabrum/geoglossum_glabrum5.jpg",
+        "https://www.fungipedia.org/images/galerias/geoglossum_glabrum/geoglossum_glabrum6.jpg"
+    ]
+}

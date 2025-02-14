@@ -1,0 +1,30 @@
+{
+    "name": "astraeus-hygrometricus",
+    "title": null,
+    "author": "(Pers.) Morgan",
+    "additional_info": {
+        "common_name": "Estrella de tierra, izarputz higrometrico, estrelleta.",
+        "synonym": "Geastrum stellatum (Scop.) Wettst."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Gasteromycetidae",
+        "Orden": "Sclerodermatales",
+        "Familia": "Astraeaceae"
+    },
+    "edibility": "no-comestible",
+    "characteristics": {
+        "cap": "Carpóforo de forma globosa y de 2 a 4 cm cuando está cerrado, en abierto puede medir de 6 a 8 cm y tiene forma de estrella. Las tonalidades que adopta la seta van desde el blanco sucio hasta el marrón, según sus diversas partes que definimos a continuación.",
+        "hymenium": "Exoperidio o lo que es lo mismo, la parte externa de la seta. Posee dos capas bien diferenciadas, una exterior de color marrón que se agrieta y reseca con facilidad, y una parte interior mas mate, carnosa y consistente. Cuando las condiciones climatológicas son húmedas se abre en forma de estrella hasta tocar el suelo, en tiempo seco se contrae protegiendo al endoperidio.",
+        "stipe": "Endoperidio o parte interior de la seta, es la que envuelve la gleba que da lugar a las esporas. Tiene forma globosa y mide unos 3 cm de diámetro, su color va del blanco sucio al marrón, y tiene en su ápice un orificio que permite la salida de las esporas.",
+        "flesh": "Gleba que pasa también del blanco sucio a tonos negruzcos a medida que madura su esporada"
+    },
+    "habitat": "Su época más habitual es el otoño, aunque pueda aparecer en otras estaciones. No tiene predilección por un determinado tipo de bosque, la hemos visto bajo árboles muy diversos, pero normalmente en suelos secos o arenosos.",
+    "observations": "Es una especie que se reconoce con cierta facilidad por su condición de contraerse en época seca y abrirse con la humedad. Puede confundirse con algún Geastrum, pero todos ellos tienen columela, sin embargo es cierto también que algunos de ellos tienen ese carácter higroscópico, aunque no de manera tan acusada.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/astraeus_hygrometricus/astraeus_hygrometricus1.jpg",
+        "https://www.fungipedia.org/images/galerias/astraeus_hygrometricus/astraeus_hygrometricus2.jpg"
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "name": "helvella-fusca",
+    "title": null,
+    "author": "Gillet",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Helvella fusca var. fusca Gillet"
+    },
+    "taxonomy": {
+        "División": "Ascomycota",
+        "Subdivisión": "Ascomycotina",
+        "Clase": "Himenoascomycetes",
+        "Subclase": "Pezizomycetidae",
+        "Orden": "Pezizales",
+        "Familia": "Helvellaceae"
+    },
+    "edibility": "comestible-precaucion",
+    "characteristics": {
+        "cap": "Sombrero con forma lobulada irregularmente o plegada, es típico que adopte una forma de silla de montar con dos lóbulos, pero esto no siempre es así y a veces presenta tres lóbulos y una forma más indefinida. Suele tener 2 o 3 cm de alto por 3 o 4 de largo y un color en la superficie externa marrón, siendo esta rugosa. La superficie interna es de color blanquecino o crema, algo más ocrácea en los especímenes viejos, y está provista de unas nervaduras características realzadas que a veces forman una especie de retícula amplia.",
+        "hymenium": "Himenio inmerso en la zona superior del ascocarpo, de color marrón y rugoso, cuando el ejemplar está esporulando, estas esporas blancas en masa son perceptibles por el ojo en forma de polvillo que se desprende al agitar dicho ejemplar.",
+        "stipe": "Pie hueco de entre 3 y 5 cm de largo, de color blanquecino o crema, algo más ocráceo de viejo. Presenta costillares dispuestos longitudinalmente, rara vez alveolados pero si anastomosados. Más o menos cilíndrico o ensanchado en la base.",
+        "flesh": "Carne delgada y quebradiza, concolora, sin olor perceptible y de sabor suave, dulce."
+    },
+    "habitat": "Se trata de una especie ligada fundamentalmente a los árboles de ribera, con preferencia por los chopos y por las zonas arenosas. Suele salir en grupos no muy numerosos sobre todo durante la primavera, aunque no es exclusivamente primaveral y según las zonas puede aparecer también en invierno e incluso en otoño ocasionalmente. Así y todo es una especie poco frecuente y menos abundante que otros congéneres.",
+    "observations": "Como todas las especies de su género es tóxica en crudo, siendo necesario cocerla previamente para su consumo, dado su escasez no es una especie que se recolecte por regla general con tal fin. Por su color puede confundirse con la Paxina queletii, que tiene sin embargo el sombrero acopado y menos costillares, Helvella leucopus tiene el pie liso, y otras Helvellas cuyo pie posee costillares tienen color grisáceo o negro. La característica diferenciadora más clara son las nervaduras de su zona interna.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/helvella_fusca/helvella_fusca1.jpg",
+        "https://www.fungipedia.org/images/galerias/helvella_fusca/helvella_fusca2.jpg",
+        "https://www.fungipedia.org/images/galerias/helvella_fusca/helvella_fusca3.jpg",
+        "https://www.fungipedia.org/images/galerias/helvella_fusca/helvella_fusca4.jpg",
+        "https://www.fungipedia.org/images/galerias/helvella_fusca/helvella_fusca5.jpg",
+        "https://www.fungipedia.org/images/galerias/helvella_fusca/helvella_fusca6.jpg",
+        "https://www.fungipedia.org/images/galerias/helvella_fusca/helvella_fusca7.jpg",
+        "https://www.fungipedia.org/images/galerias/helvella_fusca/helvella_fusca8.jpg",
+        "https://www.fungipedia.org/images/galerias/helvella_fusca/helvella_fusca9.jpg"
+    ]
+}

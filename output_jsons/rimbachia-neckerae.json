@@ -1,0 +1,30 @@
+{
+    "name": "rimbachia-neckerae",
+    "title": null,
+    "author": "(Fr.) Redhead",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Cyphella neckerae (Fr.) Fr."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Tricholomatales",
+        "Familia": "Tricholomataceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Carpóforo sésil de pequeñas dimensiones, los especímenes encontrados tenían entre 2 y 8 mm de diámetro, su forma era irregular, si bien era cóncava en la mayor parte de ellos. El borde por lo general se presenta ondulado y translucido, aunque no es raro encontrar ejemplares con formas más regulares. Es de color blanco puro que destaca sobre el verde intenso del musgo que sirve de sustrato, y al que se adhiere lateralmente. La superficie externa es, además de blanca, finamente furfurácea.",
+        "hymenium": "Himenio por lo general liso y de color blanco puro, aunque a veces presenta alguna traza de pliegue, es también furfuráceo, pero menos que la superficie externa.",
+        "stipe": "Pie inexistente, es una especie sésil.",
+        "flesh": "Carne que dado el pequeño tamaño de la seta resulta insignificante, sin olor ni sabor destacables."
+    },
+    "habitat": "Es una seta parásita de musgos, que aparece generalmente sobre musgos vivos del género Neckera, pero no exclusivamente. Así la encontramos nosotros, sobre el musgo vivo junto a un rio, en una zona muy húmeda, allá por el mes de mayo. El tipo de árbol quizás no sea significativo en este caso, pero era Picea abies.",
+    "observations": "El género Rimbachia, guarda cierta similitud macroscópica con Arrhenia, sin embargo no pertenecen al mismo grupo, no tienen nada que ver. Existen en Europa tres especies del género reconocidas, al margen de la descrita aquí, esta la Rimbachia bryophila, que se diferencia de esta por la presencia de pliegues bien marcados en el himenio, y la Rimbachia arachnoidea, más crema que esta especie, no es de color blanco puro.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/rimbachia_neckerae/rimbachia_neckerae1.jpg",
+        "https://www.fungipedia.org/images/galerias/rimbachia_neckerae/rimbachia_neckerae2.jpg"
+    ]
+}

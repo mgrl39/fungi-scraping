@@ -1,0 +1,31 @@
+{
+    "name": "clitocybe-alexandri",
+    "title": null,
+    "author": "(Gillet) Gillet",
+    "additional_info": {
+        "common_name": "Corona de Álava.",
+        "synonym": "Paxillus griseotomentosus Secretan"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Tricholomatales",
+        "Familia": "Tricholomataceae"
+    },
+    "edibility": "comestible",
+    "characteristics": {
+        "cap": "Sombrero de 5 a 10 cm, de color marrón-grisáceo, oscureciéndose paulatinamente con la edad, habitualmente con máculas concéntricas bien marcadas. El borde se mantiene enrollado largo tiempo.",
+        "hymenium": "Láminas de color más claro cuando la seta es joven, se van oscureciendo hasta volverse ocres, claramente marrones en la vejez, decurrentes sobre el pie.",
+        "stipe": "Pie central y macizo, es también marrón aunque más mate que el sombrero, de longitud similar al diámetro del mismo.",
+        "flesh": "Carne de color ocre, bastante espesa, aunque se corta con el cuchillo con gran facilidad dada su esponjosidad, tiene buen sabor, sin embargo su olor recuerda al de la hierba recién cortada."
+    },
+    "habitat": "Según la bibliografía consultada, aparece en pastizales de montaña y en planifolios mixtos, sin embargo nosotros siempre la hemos encontrado en pinares en otoño.",
+    "observations": "Esta especie constituye un aceptable comestible a pesar de su aspecto poco apetecible. En muchas zonas de nuestra geografía resulta sumamente difícil su localización, si bien nosotros tenemos la suerte de encontrarla con profusión cada temporada en setales de varios cientos de ejemplares, siempre bajo pinos en Castilla y León (España). Puede tener cierto parecido con la Lepista rickenii, especie de similares características culinarias, por lo que la confusión no resulta peligrosa y con el Paxillus involutus, especie mortal de sombrero acanalado, láminas amarillentas de joven, y que se ensucia al ser manipulada en todas las partes del carpóforo.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/clitocybe_alexandri/clitocybe_alexandri1.jpg",
+        "https://www.fungipedia.org/images/galerias/clitocybe_alexandri/clitocybe_alexandri2.jpg",
+        "https://www.fungipedia.org/images/galerias/clitocybe_alexandri/clitocybe_alexandri3.jpg"
+    ]
+}

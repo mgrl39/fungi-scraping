@@ -1,0 +1,34 @@
+{
+    "name": "dacrymyces-stillatus",
+    "title": null,
+    "author": "Nees.",
+    "additional_info": {
+        "common_name": "Dacrimice delicuescente.",
+        "synonym": "Dacrymyces deliquescens (Bull.) Duby."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Phragmobasidiomycetes",
+        "Subclase": "Incertae sedis",
+        "Orden": "Dacrymycetales",
+        "Familia": "Dacrymycetaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Carpóforo resupinado de pequeñísimo tamaño, en el mejor de los casos tiene unos 3 mm de ancho, sobresaliendo del sustrato otro tanto. Existen dos formas de esta especie, la principal y la conidial o anamórfica, en el primer caso, la superficie se presente plegada a cerebriforme, con pliegues un tanto irregulares. La forma principal es de color amarillo, pasando posteriormente a anaranjado, mientras que en la segunda fase es anaranjado rojizo muy vivo, y su forma es más pustulada y menos plegada, como un disco.",
+        "hymenium": "Himenio liso inmerso en la superficie del carpóforo.",
+        "stipe": "Pie generalmente inexistente, es una especie sésil, se adhiere directamente al sustrato, aunque de forma excepcional pudiera tener un pequeñisimo y rudimentario pie.",
+        "flesh": "Carne amarillenta y de consistencia gelatinosa, sin olor apreciable ni sabor."
+    },
+    "habitat": "Crece sobre ramas caídas, o en general madera muerta, formando colonias de numerosos individuos, con preferencia por la madera de las coníferas, pero no de manera exclusiva. Es habitual encontrarla en nuestros bosques dado que es frecuente y muy abundante, pudiéndose localizar prácticamente en cualquier época del año.",
+    "observations": "La forma principal de esta especie ha sido durante mucho tiempo clasificada como Dacrymyces deliquescens, reservando el nombre stillatus para los individuos de color anaranjado rojizo. Se ha demostrado que se trata, en efecto, de dos formas de una misma especie, una principal y otra conidial, en la que los basidios son sustituidos por células asexuadas llamadas conidiósporas. Por lo tanto el taxón Dacrymyces deliquescens ha dejado de existir como tal. Este género se caracteriza por tener esporas septadas y basidios bispóricos bifurcados, con dos enormes esterigmas. La especie que nos ocupa se diferencia de otras similares, como la Dacrymyces capitatus, por las paredes gruesas de las esporas.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/dacrymyces_stillatus/dacrymyces_stillatus1.jpg",
+        "https://www.fungipedia.org/images/galerias/dacrymyces_stillatus/dacrymyces_stillatus2.jpg",
+        "https://www.fungipedia.org/images/galerias/dacrymyces_stillatus/dacrymyces_stillatus3.jpg",
+        "https://www.fungipedia.org/images/galerias/dacrymyces_stillatus/dacrymyces_stillatus4.jpg",
+        "https://www.fungipedia.org/images/galerias/dacrymyces_stillatus/dacrymyces_stillatus5.jpg",
+        "https://www.fungipedia.org/images/galerias/dacrymyces_stillatus/dacrymyces_stillatus6.jpg"
+    ]
+}

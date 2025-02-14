@@ -1,0 +1,34 @@
+{
+    "name": "dasyscyphella-nivea",
+    "title": null,
+    "author": "(R. Hedw.) Raitv.",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Dasyscyphus niveus (R. Hedw.) Sacc."
+    },
+    "taxonomy": {
+        "División": "Ascomycota",
+        "Subdivisión": "Ascomycotina",
+        "Clase": "Himenoascomycetes",
+        "Subclase": "Pezizomycetidae",
+        "Orden": "Leotiales",
+        "Familia": "Hyaloscyphaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Carpóforo formado por fructificaciones de ínfimo tamaño, para hacernos una idea del tamaño un espécimen de 3 mm se consideraría excepcionalmente grande. Cuando son jóvenes tienen forma acopada con el borde envuelto hacia dentro, pero al final se aplanan bastante. El color de la superficie externa es el blanco puro, y está recubierta de pelos que no son fácilmente visibles a simple vista, si bien con una lupa se manifiestan con claridad. Estos pelos son también de color blanco y ocupan así mismo la zona del margen.",
+        "hymenium": "Himenio liso que constituye la parte interna del ascocarpo, de color blanco, pero no tan puro como la parte externa, a veces algo crema.",
+        "stipe": "Pie de tamaño proporcionado al sombrero, concoloro, y al igual que este recubierto de pelos, aunque de forma algo menos densa.",
+        "flesh": "Carne totalmente insignificante de color blanco, sin que podamos reseñar nada interesante en cuanto a olor o sabor."
+    },
+    "habitat": "Este Ascomycete fructifica siempre de forma gregaria sobre la madera desprendida y en estado de descomposición de Fagus sylvatica y diversas especies del género Quercus. No se descubre con facilidad dado su pequeño tamaño, siendo además no demasiado frecuente. A pesar de eso puede salir prácticamente en cualquier época del año.",
+    "observations": "A simple vista se caracteriza por su aspecto de cuerpos fructíferos blancos y pequeños, con pie evidente, su fructificación sobre la madera, y su recubrimiento piloso. El Lachnum virgineum, con ecología más amplia, es más frecuente que este y muy similar, si bien su pie es más corto, apenas visible, y microscópicamente se diferencian por sus distintas paráfisis y por detalles de los pelos marginales. Son también muy parecidas las especies blancas del género Hymenoscyphus, pero son lisas, sin pelos.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/dasyscyphella_nivea/dasyscyphella_nivea1.jpg",
+        "https://www.fungipedia.org/images/galerias/dasyscyphella_nivea/dasyscyphella_nivea2.jpg",
+        "https://www.fungipedia.org/images/galerias/dasyscyphella_nivea/dasyscyphella_nivea3.jpg",
+        "https://www.fungipedia.org/images/galerias/dasyscyphella_nivea/dasyscyphella_nivea4.jpg",
+        "https://www.fungipedia.org/images/galerias/dasyscyphella_nivea/dasyscyphella_nivea5.jpg",
+        "https://www.fungipedia.org/images/galerias/dasyscyphella_nivea/dasyscyphella_nivea6.jpg"
+    ]
+}

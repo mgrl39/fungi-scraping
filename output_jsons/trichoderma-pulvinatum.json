@@ -1,0 +1,31 @@
+{
+    "name": "trichoderma-pulvinatum",
+    "title": null,
+    "author": "(Fuckel) Jaklitsch & Voglmayr",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Hypocrea pulvinata Fuckel"
+    },
+    "taxonomy": {
+        "División": "Ascomycota",
+        "Subdivisión": "Ascomycotina",
+        "Clase": "Himenoascomycetes",
+        "Subclase": "Pyrenomycetidae",
+        "Orden": "Sphaeriales",
+        "Familia": "Hypocreaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Descripción Se trata de un hongo, que como sucede con muchos otros Ascomycetes, se presenta en la naturaleza con dos formas perfectamente diferenciadas. La forma más habitual en que se encuentra es la llamada imperfecta, representada por ascocarpos individuales almohadillados de color amarillo más o menos vivo con el borde blanquecino. Estos ascocarpos son pruinosos y pulvinados, de un tamaño que no suele superar los 2 cm de ancho, aunque tienden a interconectarse formando a veces verdaderas costras. Con el tiempo van adoptando un color ocre amarillento, menos vistoso, a la par que van madurando. La otra forma en que se encuentra se representa por costras sobre el sustrato de color gris ceniciento hacia pardo oscuro.",
+        "hymenium": "Himenio formado por un peritecio que finaliza en los llamados ostiolos, unos pequeños agujeritos por donde expulsan al exterior las esporas ya maduras. Las ascas inmaduras son octospóricas, pero al madurar se produce un proceso llamado gemación, mediante el cual las esporas se dividen en dos, formando ascas maduras con 16 esporas cada una.",
+        "stipe": "Pie inexistente, se adhiere directamente al sustrato.",
+        "flesh": "Es precisamente el hábitat lo que diferencia de forma macroscópica esta especie de otras de su género, ya que fructifica sobre los cuerpos fructíferos del llamado yesquero del abedul, el Fomitopsis betulina, y de el Fomitopsis pinicola, cuando estos ya son viejos. Es por ello que la época ideal para localizarla sea cuando se van pasando ya los yesqueros, cosa que puede suceder a finales del otoño, aunque en otras épocas también es factible su aparición. De forma ocasional también parásita al Laetiporus sulphureus. Es una especie poco habitual."
+    },
+    "habitat": "Se trata de un hongo parásito de Fomitopsis betulina y Fomitopsis pinicola, lo que la diferencia de otras especies de su género. Dentro del género Hypocrea existen especies cuya fructificación es en forma de costras, tal es el caso de la Trichoderma citrinum, formada por costras amarillentas y punteadas, que parásita restos de madera y hojas. La Trichoderma aureoviride tiene la misma forma y color que la especie aquí descrita, pero sale sobre madera de árboles de hoja ancha, y suele presentar puntitos verdes.",
+    "observations": null,
+    "images": [
+        "https://www.fungipedia.org/images/galerias/trichoderma_pulvinatum/trichoderma_pulvinatum1.jpg",
+        "https://www.fungipedia.org/images/galerias/trichoderma_pulvinatum/trichoderma_pulvinatum2.jpg",
+        "https://www.fungipedia.org/images/galerias/trichoderma_pulvinatum/trichoderma_pulvinatum3.jpg"
+    ]
+}

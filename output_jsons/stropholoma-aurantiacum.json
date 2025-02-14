@@ -1,0 +1,37 @@
+{
+    "name": "stropholoma-aurantiacum",
+    "title": null,
+    "author": "(Cooke) Ryman",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Stropharia aurantiaca (Cooke) M. Imai"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Himenoascomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Cortinariales",
+        "Familia": "Strophariaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero cuyo tamaño apenas llega a superar los 5 cm de diámetro, con forma un poco cónica en el nacimiento, pronto convexo y finalmente aplanado, pudiendo tener un mamelón obtuso no muy relevante, aunque entendemos que es un carácter que varía de un ejemplar a otro. Su cutícula es lisa y brillante con lluvia, e incluso lubrificada, pero se queda seca enseguida, de color muy llamativo, rojo intenso. Esta superficie suele poseer restos floconosos blanquecinos provenientes del velo que son lábiles, desaparecen con la lluvia. La zona marginal suele ser algo blanquecina y también posee restos del velo.",
+        "hymenium": "Láminas adnatas y bastante separadas entre sí, de color crema oliváceo en su juventud, derivando después a un color gris púrpura manteniendo un cierto matiz oliva y casi siempre con la arista más clara.",
+        "stipe": "Pie generalmente esbelto y alargado, frecuentemente curvado, fistuloso, en los ejemplares jóvenes blanquecino y muy decorado por fibras floconosas, al madurar se vuelve más ocráceo amarillento y a la par queda prácticamente liso. En la parte superior puede tener una zona anuliforme que tiende a desaparecer con el tiempo, y la base se presenta de forma común teñida de un bello color rojizo.",
+        "flesh": "Carne escasa y poco consistente de color blanco amarillento, apenas tiene olor reseñable y su sabor es también poco significativo."
+    },
+    "habitat": "Se trata de una especie que siendo rara en nuestro radio de acción hemos constatado su proliferación en los últimos años. La hemos localizado en jardines públicos, tanto en una jardinera como bajo magnolios, sobre el sustrato que se usa en jardinería y que está básicamente formado por restos leñosos diversos. Suele ser de aparición tardía, finales del otoño o como en este caso, invierno, y lo habitual es verla formando grupos.",
+    "observations": "Se reconoce bastante bien esta especie por su llamativo colorido, rojo intenso tanto en el sombrero como muchas veces en la base del pie, así como por la fugacidad de su zona anular. Según recientes estudios se ha acuñado también el nombre de Leratiomyces ceres como especie americana, al menos a nuestro entender se trata de la misma especie, y se coteja su posible toxicidad como sucede con otras especies del mismo género, no sería de extrañar que pudiera contener sustancias tóxicas.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/stropholoma_aurantiacum/stropholoma_aurantiacum1.jpg",
+        "https://www.fungipedia.org/images/galerias/stropholoma_aurantiacum/stropholoma_aurantiacum2.jpg",
+        "https://www.fungipedia.org/images/galerias/stropholoma_aurantiacum/stropholoma_aurantiacum3.jpg",
+        "https://www.fungipedia.org/images/galerias/stropholoma_aurantiacum/stropholoma_aurantiacum4.jpg",
+        "https://www.fungipedia.org/images/galerias/stropholoma_aurantiacum/stropholoma_aurantiacum5.jpg",
+        "https://www.fungipedia.org/images/galerias/stropholoma_aurantiacum/stropholoma_aurantiacum6.jpg",
+        "https://www.fungipedia.org/images/galerias/stropholoma_aurantiacum/stropholoma_aurantiacum7.jpg",
+        "https://www.fungipedia.org/images/galerias/stropholoma_aurantiacum/stropholoma_aurantiacum8.jpg",
+        "https://www.fungipedia.org/images/galerias/stropholoma_aurantiacum/stropholoma_aurantiacum9.jpg"
+    ]
+}

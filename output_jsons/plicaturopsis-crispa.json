@@ -1,0 +1,37 @@
+{
+    "name": "plicaturopsis-crispa",
+    "title": null,
+    "author": "(Pers.) D. A. Reid",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Merulius crispus (Pers.) Pers."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Aphyllophoromycetidae",
+        "Orden": "Schizophyllales",
+        "Familia": "Schizophyllaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Carpóforo con una anchura que no sobrepasa los 3 o 4 cm y una proyección de entre 1 y 2`5 cm. Habitualmente tienen una forma de abanico, pudiéndose encontrar ejemplares con otras formas menos típicas, como por ejemplo de concha, o simplemente pueden ser carpóforos dimidiados. En su nacimiento tienen un color blanco que perdura poco, ya que rápidamente se vuelven ocráceos, manteniendo el margen con el color blanquecino primigenio por más tiempo, y adquiriendo matices leonados e incluso a veces amarillentos de viejos. Superficie algo zonada inicialmente afieltrada y luego finamente velutina, con el margen ondulado o incluso lobulado en algunos ejemplares.",
+        "hymenium": "Himenio formado por pliegues que asemejan a las láminas, de disposición irregular aunque radial, anastomosados. El color va del blanquecino inicial al crema, siendo grisáceos posteriormente.",
+        "stipe": "Pie rara vez evidente, por regla general presenta un pseudestipite que le une al sustrato y que presenta un color similar al resto del carpóforo.",
+        "flesh": "Carne muy delgada de color blanquecino, en los ejemplares jóvenes es bastante blanda, pero se vuelve coriácea con el tiempo. No presenta un olor o sabor dignos de mención."
+    },
+    "habitat": "Especie que fructifica sobre la madera de planifolios diversos, en este caso localizada sobre madera de haya (Fagus sylvatica). Crece por lo general en grupo de numerosos individuos, frecuentemente incluso imbricados. Es bastante abundante algunos años y escasa en otros, hemos de considerarla como una especie relativamente común. Es factible su aparición prácticamente en cualquier época del año.",
+    "observations": "Se caracteriza esta especie por su crecimiento en grupos sobre la madera, su himenio con pliegues y su esporada blanca. Este último dato la diferencia de las especies del género Crepidotus que tienen esporada de color marrón. Schizophyllum commune, también de esporada blanca, es mucho más piloso y grisáceo, sin los tonos ocres de esta especie.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/plicaturopsis_crispa/plicaturopsis_crispa1.jpg",
+        "https://www.fungipedia.org/images/galerias/plicaturopsis_crispa/plicaturopsis_crispa2.jpg",
+        "https://www.fungipedia.org/images/galerias/plicaturopsis_crispa/plicaturopsis_crispa3.jpg",
+        "https://www.fungipedia.org/images/galerias/plicaturopsis_crispa/plicaturopsis_crispa4.jpg",
+        "https://www.fungipedia.org/images/galerias/plicaturopsis_crispa/plicaturopsis_crispa5.jpg",
+        "https://www.fungipedia.org/images/galerias/plicaturopsis_crispa/plicaturopsis_crispa6.jpg",
+        "https://www.fungipedia.org/images/galerias/plicaturopsis_crispa/plicaturopsis_crispa7.jpg",
+        "https://www.fungipedia.org/images/galerias/plicaturopsis_crispa/plicaturopsis_crispa8.jpg",
+        "https://www.fungipedia.org/images/galerias/plicaturopsis_crispa/plicaturopsis_crispa9.jpg"
+    ]
+}

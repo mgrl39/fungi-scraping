@@ -1,0 +1,31 @@
+{
+    "name": "russula-parazurea",
+    "title": null,
+    "author": "Jul. Schäff.",
+    "additional_info": {
+        "common_name": "Gibelberde ilun.",
+        "synonym": "Russula palumbina subsp. parazurea (Jul. Schäff.) Konrad & Maubl."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Russulales",
+        "Familia": "Russulaceae"
+    },
+    "edibility": "comestible",
+    "characteristics": {
+        "cap": "Sombrero que suele tener un diámetro que oscila por lo general entre los 3 y los 6 centímetros, ocasionalmente algo más, de joven convexo y con el borde involuto, luego se va aplanando paulatinamente, para acabar por deprimirse por el centro y con los bordes levantados hacia arriba. Es de color gris variable, pudiendo tener tonos verdosos o azulados. Su cutícula es parcialmente separable, y está recubierta por una pruina blanquecina que permanece bastante tiempo, llegando a desaparecer por efecto de la lluvia. Margen estriado en los especímenes viejos.",
+        "hymenium": "Láminas adnatas o casi libres de color blanco, bastante apretadas de jóvenes, pero al deprimirse el sombrero se abren y separan de forma notoria. Saltan y se cascan con facilidad al menor roce, y suelen presentar laminillas intercaladas, llegando a veces a bifurcarse de alguna manera junto al pie.",
+        "stipe": "Pie de color blanco y algo pruinoso, cilíndrico y muchas veces curvado. De joven es lleno, pero con el tiempo se va volviendo esponjoso y cavernoso, suele tener de viejo manchas como de roña en la base.",
+        "flesh": "Carne relativamente espesa y quebradiza de color blanco, bastante frágil. Su olor es suave y agradable, y su sabor es dulce, ligeramente picante en las láminas."
+    },
+    "habitat": "Es esta una especie frecuente en nuestra zona, sin embargo no está geográficamente muy extendida. La localizamos todos los años bajo abedules y tilos, también bajo coníferas diversas e incluso bajo otros planifolios. En años climatológicamente buenos suele fructificar en Julio, dando otro brote durante el otoño.",
+    "observations": "Es una seta comestible que peca de ser excesivamente frágil, pero de buen sabor. Se caracteriza por su sombrero grisáceo y a veces estriado y sobre todo por la pruina que lo recubre. Una especie muy parecida es la Russula grisea, con color uniforme gris azulado y algo más carnosa, con el pie generalmente más corto y menos curvado, además de ser menos pruinosa. Se confunde mucho con la Russula cyanoxantha, propia de planifolios, con láminas lardáceas que no saltan al roce. Russula ionochlora comparte hábitat y se parece, sus láminas son algo lardáceas y su carne ligeramente picante.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/russula_parazurea/russula_parazurea1.jpg",
+        "https://www.fungipedia.org/images/galerias/russula_parazurea/russula_parazurea2.jpg",
+        "https://www.fungipedia.org/images/galerias/russula_parazurea/russula_parazurea3.jpg"
+    ]
+}

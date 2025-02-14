@@ -1,0 +1,30 @@
+{
+    "name": "amanita-ceciliae",
+    "title": null,
+    "author": "(Berk. & Broome) Bas",
+    "additional_info": {
+        "common_name": "Kukumelo ezkatagris.",
+        "synonym": "Amanita inaurata Secretan"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Agaricales",
+        "Familia": "Amanitaceae"
+    },
+    "edibility": "comestible-precaucion",
+    "characteristics": {
+        "cap": "Sombrero de buen tamaño, algunos ejemplares alcanzan los 15 cm de diámetro, hemisférico en su primera etapa, luego convexo, y finalmente aplanado, pero conservando un mamelón obtuso característico en su zona central. Su color es variable, pudiendo ser pardo oliva, gris marrón o incluso tener tonos leonados. Su superficie está adornada con restos del velo de color grisáceo, y el margen es fuertemente estriado.",
+        "hymenium": "Láminas bastante apretadas de color blanco cuando es joven, con el tiempo se vuelven algo cremas. Son libres con respecto al pie.",
+        "stipe": "Pie en general alargado y esbelto, de color blanco grisáceo y adornado con escamas más oscuras e incluso pardas. No tiene anillo, y su volva floconosa deriva hacia arriba del pie en unos ribetes de color gris oscuro. Su base es bulbosa y queda hueco bastante joven, a pesar de estar lleno en su nacimiento.",
+        "flesh": "Carne más bien endeble y escasa a pesar del porte de la seta, de color gris. Su sabor es dulce y suave y su olor poco significativo."
+    },
+    "habitat": "Normalmente fructifica bajo planifolios, siendo más rara su aparición bajo coníferas. Su época es el verano y principios del otoño. No es una seta muy frecuente ni abundante.",
+    "observations": "Al igual que el resto de las Amanitas del grupo Amanitopsis, es comestible previa cocción, ya que en crudo puede resultar tóxica. Creemos que se distingue bien de otras setas de su grupo por los restos grisáceos y amplios del velo en el sombrero, su color más parduzco, y su porte, similar al de la Amanita porphyria, especie que no pertenece a este grupo ya que tiene anillo.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/amanita_ceciliae/amanita_ceciliae1.jpg",
+        "https://www.fungipedia.org/images/galerias/amanita_ceciliae/amanita_ceciliae2.jpg"
+    ]
+}

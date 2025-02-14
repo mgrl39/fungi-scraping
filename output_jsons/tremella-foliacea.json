@@ -1,0 +1,31 @@
+{
+    "name": "tremella-foliacea",
+    "title": null,
+    "author": "Pers.",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Exidia foliacea (Pers.) P. Karst."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Phragmobasidiomycetes",
+        "Subclase": "Tremellomycetidae",
+        "Orden": "Tremellales",
+        "Familia": "Tremellaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Carpóforo de tamaño variable, algunos ejemplares apenas alcanzan los 4 cm, mientras que se han llegado a ver ejemplares de más de 15 cm. Está formado por una serie de lóbulos arracimados que parten de una base común a todos ellos, cuando son jóvenes estos se muestran apretados entre sí, pero con el tiempo y la maduración del espécimen se vuelven cada vez más distantes. El color puede estar sujeto a una cierta variabilidad en función del estado del espécimen, a veces por exceso de agua o por sequía puede tener colores inhabituales, más rosados o cremas, pero lo normal es que sean de color marrón con leve matiz rojizo, volviéndose pardos con el tiempo y negruzcos en su última etapa.",
+        "hymenium": "Himenio inserto en la parte más expuesta de los lóbulos o pliegues, totalmente liso y de consistencia similar a la zona menos expuesta. Tiene un color marrón rojizo a pardo negruzco.",
+        "stipe": "Pie inexistente, fructifica directamente sobre el sustrato leñoso del que se nutre.",
+        "flesh": "Carne elástica y de consistencia gelatinosa, de color similar a la superficie externa, carece de un olor apreciable y es insípida. Suele mostrarse translúcida."
+    },
+    "habitat": "Se trata de una especie relativamente frecuente en bosques de planifolios, mucho más rara sobre coníferas. Fructifica sobre restos leñosos, viejos tocones o ramas caídas, sobre todo en la segunda mitad del otoño y principios del invierno, ocasionalmente también en primavera.",
+    "observations": "Se caracteriza el género Tremella por sus carpóforos de consistencia gelatinosa y forma lobulada que fructifican sobre la madera. Esta especie en concreto se caracteriza por su tamaño importante para el género y su color marrón rojizo a pardo negruzco. La Tremella mesenterica tiene la misma forma y consistencia, pero tiene un color amarillo vivo a naranja que la diferencia perfectamente de la especie aquí descrita. Tremella encephala tiene forma de cerebro, no lobulada y parasita especies del género Stereum. También existe la posibilidad de confundirla con especies del género Exidia.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/tremella_foliacea/tremella_foliacea1.jpg",
+        "https://www.fungipedia.org/images/galerias/tremella_foliacea/tremella_foliacea2.jpg",
+        "https://www.fungipedia.org/images/galerias/tremella_foliacea/tremella_foliacea3.jpg"
+    ]
+}

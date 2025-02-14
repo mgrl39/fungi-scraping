@@ -1,0 +1,31 @@
+{
+    "name": "asterophora-lycoperdoides",
+    "title": null,
+    "author": "(Bull.) Ditmar",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Nyctalis asterophora Fries"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Tricholomatales",
+        "Familia": "Tricholomataceae"
+    },
+    "edibility": "no-comestible",
+    "characteristics": {
+        "cap": "Sombrero de pequeñas dimensiones, en el mejor de los casos puede alcanzar los 2 cm de diámetro, aunque lo normal es encontrarlas en torno a 1 cm, primero de forma hemisférica y posteriormente convexo, nunca se aplana. El fondo es de color blanquecino, pero en apariencia es de color marrón pardusco, debido a que está recubierto por un polvo de ese color, de consistencia harinosa, que no es otra cosa, en realidad, que las esporas, llamadas en este caso clamidósporas. Estas, como el propio nombre de la seta indica son estrelladas, y en este caso piramidales, desarrollándose en la superficie del propio sombrero.",
+        "hymenium": "Láminas separadas entre sí, con laminillas, de color crema claro o blancuzco, son estériles.",
+        "stipe": "Pie cilíndrico y en general corto, bastante proporcionado con respecto al sombrero, de color blanco.",
+        "flesh": "Carne escasa, poco consistente de color blanco, con un olor a podrido que no invita precisamente a probar como sabe."
+    },
+    "habitat": "Es una especie parásita, que tiene su caldo de cultivo en la pudrición de algunas Russulas, sobre las que fructifica. Siempre la hemos visto sobre Russulas de la sección compactae, las conocidas nigricantes, en este caso concreto sobre Russula densifolia. La vemos cada año sin problemas, por lo tanto debemos entender que es frecuente.",
+    "observations": "Es una pequeña especie parásita de las Russulas que tiene como curiosidad la presencia de láminas estériles, y de una superficie del sombrero fértil, donde se forman las clamidósporas estrelladas. Se parece mucho a la Asterophora parasitica, de color blanco, sin el polvo pardusco, y con las clamidósporas lisas, no piramidales.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/asterophora_lycoperdoides/asterophora_lycoperdoides1.jpg",
+        "https://www.fungipedia.org/images/galerias/asterophora_lycoperdoides/asterophora_lycoperdoides2.jpg",
+        "https://www.fungipedia.org/images/galerias/asterophora_lycoperdoides/asterophora_lycoperdoides3.jpg"
+    ]
+}

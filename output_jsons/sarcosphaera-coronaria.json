@@ -1,0 +1,34 @@
+{
+    "name": "sarcosphaera-coronaria",
+    "title": null,
+    "author": "(Jacq.) J. Schröt.",
+    "additional_info": {
+        "common_name": "Peziza estrellada, Cassoleta blava, Koroa ubel.",
+        "synonym": "Sarcosphaera crassa (Santi) Pouzar"
+    },
+    "taxonomy": {
+        "División": "Ascomycota",
+        "Subdivisión": "Ascomycotina",
+        "Clase": "Himenoascomycetes",
+        "Subclase": "Pezizomycetidae",
+        "Orden": "Pezizales",
+        "Familia": "Pezizaceae"
+    },
+    "edibility": "toxica",
+    "characteristics": {
+        "cap": "Carpóforo de un considerable tamaño, puede superar los 10 cm de diámetro. Brota de la tierra en forma de una esfera hueca por dentro, posteriormente esta se va abriendo quedando forma de cazuela, para al final abrirse definitivamente en forma de estrella e incluso aplanarse. No es inhabitual que al encontrar resistencia del terreno adquiera formas irregulares. El color de la superficie externa es blanco sucio.",
+        "hymenium": "Himenio ubicado en la parte interna del carpóforo, completamente liso y de color violeta, solo en la vejez palidece o pardea.",
+        "stipe": "Pie inexistente, los carpóforos de esta especie son sésiles.",
+        "flesh": "Carne bastante espesa en comparación con las pezizas, sin nada reseñable en cuanto a olor o sabor."
+    },
+    "habitat": "Es una especie primaveral bastante habitual en los pinares del norte de la península ibérica, sin embargo no está geográficamente muy extendida. También puede aparecer bajo piceas, no la hemos visto nunca bajo caducifolios.",
+    "observations": "A pesar de que nos consta que muchas personas se la han comido previa cocción, y desechando posteriormente el agua, preferimos calificarla como tóxica, ya que sobre todo en crudo es muy venenosa. No hay ninguna especie similar, como por ejemplo las pezizas, que se abra en forma de estrella, por lo que consideramos que se trata de una especie inconfundible.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/sarcosphaera_coronaria/sarcosphaera_coronaria1.jpg",
+        "https://www.fungipedia.org/images/galerias/sarcosphaera_coronaria/sarcosphaera_coronaria2.jpg",
+        "https://www.fungipedia.org/images/galerias/sarcosphaera_coronaria/sarcosphaera_coronaria3.jpg",
+        "https://www.fungipedia.org/images/galerias/sarcosphaera_coronaria/sarcosphaera_coronaria4.jpg",
+        "https://www.fungipedia.org/images/galerias/sarcosphaera_coronaria/sarcosphaera_coronaria5.jpg",
+        "https://www.fungipedia.org/images/galerias/sarcosphaera_coronaria/sarcosphaera_coronaria6.jpg"
+    ]
+}

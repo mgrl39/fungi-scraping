@@ -1,0 +1,30 @@
+{
+    "name": "russula-torulosa",
+    "title": null,
+    "author": "(Bres.)",
+    "additional_info": {
+        "common_name": "Gibelmore hankamore.",
+        "synonym": "Ninguno."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Russulales",
+        "Familia": "Russulaceae"
+    },
+    "edibility": "no-comestible",
+    "characteristics": {
+        "cap": "Sombrero de 10 cm de diámetro en los ejemplares más grandes, de apariencia carnosa, primero globoso, pasando a ser convexo, finalmente plano-convexo, es una Russula que no llega a aplanarse del todo, pero si suele tener una zona central que pasa de ser gibosa a estar deprimida de vieja. Su superficie es violeta oscuro o negruzca en el centro y rojo púrpura o violeta hacia el margen, que es más claro. Cutícula apenas separable y brillante en época de lluvias.",
+        "hymenium": "Láminas adnatas y apretadas, con laminillas intercaladas, de color blanco, cremas en su madurez.",
+        "stipe": "Pie proporcionado al sombrero o algo más corto, central y cilíndrico, bastante grueso, de color violeta rojizo en su totalidad.",
+        "flesh": "Carne espesa y firme, cuando el ejemplar es joven es muy dura, al punto que cuesta quebrarla. Es de color blanco, aunque adquiere tintes violáceos bajo la cutícula del sombrero. Su sabor es notablemente acre y su olor es frutal."
+    },
+    "habitat": "Es una especie habitual en nuestros pinares, donde crece con relativa abundancia, sobre todo durante el otoño.",
+    "observations": "Su sabor picante y la dureza de su carne la hacen incomestible. Por su hábitat se puede confundir con la Russula sanguinea, de tonos rojos, no púrpuras, y láminas amarillentas de vieja. Por el color del sombrero puede confundirse con la Russula atropurpurea, que sin embargo tiene el pie blanco, aunque la especie que más se le parece es la Russula queletii, especie de montaña cuyas láminas no se ponen cremas.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/russula_torulosa/russula_torulosa1.jpg",
+        "https://www.fungipedia.org/images/galerias/russula_torulosa/russula_torulosa2.jpg"
+    ]
+}

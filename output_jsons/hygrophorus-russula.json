@@ -1,0 +1,35 @@
+{
+    "name": "hygrophorus-russula",
+    "title": null,
+    "author": "(Schaeff. ex Fr.) Kauffman",
+    "additional_info": {
+        "common_name": "Hygróforo escarlata, ezko gibel-gorri, escarlet, carlet, seta cardenal.",
+        "synonym": "Tricholoma russula (Schaeff. ex Fr.) Gillet"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Agaricales",
+        "Familia": "Hygrophoraceae"
+    },
+    "edibility": "comestible",
+    "characteristics": {
+        "cap": "Sombrero con un diámetro que oscila bastante, algunos ejemplares adultos apenas alcanzan 4 cm mientras que otros superan los 10, con forma hemisférica en sus inicios, después convexo a aplanado, e incluso ligeramente deprimido en la vejez. Cutícula brillante con lluvia, apenas viscosa, más bien seca en la mayoría de los casos, de color crema de fondo pero manchada por máculas de color rojo vinoso o rosado, color que prevalece generalmente, fácilmente separable de la carne. Margen enrollado durante buena parte del desarrollo, después ondulado y menos tiznado de rojizo que el resto.",
+        "hymenium": "Láminas adnatas o algo decurrentes, de densidad media, apretadas si comparamos con otras especies del género, de color blanquecino pero con marcada tendencia a mancharse del mismo color que la cutícula del sombrero, en la vejez prácticamente rojo vinosas, bastante anchas, generan esporada en masa de color blanco.",
+        "stipe": "Pie cilíndrico y de tamaño proporcionado al sombrero, en ocasiones se muestra algo atenuado en la base o incluso radicante a veces, lleno y de aspecto robusto, con un color blanquecino pero con tendencia a mancharse de rojo vinoso a partir de la base, además de ello está recubierto por fibrillas de disposición longitudinal de ese mismo color rojo vinoso.",
+        "flesh": "Carne espesa y compacta de color blanco, de consistencia fibrosa, algo tiznada de rosáceo al corte, no tiene un olor digno de mención y su sabor es marcadamente amargo."
+    },
+    "habitat": "Es esta una especie de aparición tardía, a la que le gusta el frío, como a la mayor parte de sus congéneres, suele aparecer en la última parte del otoño e incluso a principio del invierno en algunas zonas. Suele fructificar bajo planifolios diversos, no siendo una especie exclusiva de un tipo de suelo, aunque es cierto que es mucho más abundante en encinares calcáreos que en otro tipo de bosques. Suele aparecer aislada o en pequeños grupos, bastante frecuente.",
+    "observations": "Especie consumida en algunas zonas, sobre todo de Cataluña, aunque su calidad es limitada dado que su carne es algo amarga y su cutícula mucho más. Se caracteriza por los tonos rojos vinosos que invaden todas las partes del carpóforo y el porte robusto, además del sabor ya mencionado. Suele confundirse con las Russulas, de ahí su nombre, pero los Hygrophorus no parten como la tiza, sino que poseen carne fibrosa, además existen otros Hygrophorus, como Hygrophorus arbustivus, con los que pudiera ser confundido, ninguno de ellos tiene los tonos vinosos característicos de esta especie.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/hygrophorus_russula/hygrophorus_russula1.jpg",
+        "https://www.fungipedia.org/images/galerias/hygrophorus_russula/hygrophorus_russula2.jpg",
+        "https://www.fungipedia.org/images/galerias/hygrophorus_russula/hygrophorus_russula3.jpg",
+        "https://www.fungipedia.org/images/galerias/hygrophorus_russula/hygrophorus_russula4.jpg",
+        "https://www.fungipedia.org/images/galerias/hygrophorus_russula/hygrophorus_russula5.jpg",
+        "https://www.fungipedia.org/images/galerias/hygrophorus_russula/hygrophorus_russula6.jpg",
+        "https://www.fungipedia.org/images/galerias/hygrophorus_russula/hygrophorus_russula7.jpg"
+    ]
+}

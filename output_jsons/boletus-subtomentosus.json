@@ -1,0 +1,31 @@
+{
+    "name": "boletus-subtomentosus",
+    "title": null,
+    "author": "L.",
+    "additional_info": {
+        "common_name": "Boleto subtomentoso, onddo bigun.",
+        "synonym": "Xerocomus subtomentosus (L.) Quél."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Boletales",
+        "Familia": "Boletaceae"
+    },
+    "edibility": "comestible",
+    "characteristics": {
+        "cap": "Sombrero de tamaño medio, puede llegar a alcanzar los 10 cm de diámetro, de forma hemisférica en su primera etapa, pasa a ser convexo para después casi aplanarse por completo. Superficie claramente aterciopelada de color ocre, con tonos que a veces se aproximan al pardo, y otras están más cerca del amarillo. En época de sequía puede cuartearse, pero no es en ningún caso separable de la carne. Margen ligeramente excedente y bastante regular.",
+        "hymenium": "Tubos adnatos y bastante largos de color amarillo, generalmente inmutables al corte.",
+        "stipe": "Poros de tamaño medio, poligonales, de color amarillo, pero volviéndose oliváceos con el tiempo. Al roce a veces azulean débilmente, pero normalmente solo se oscurecen.",
+        "flesh": "Pie generalmente grueso y ventrudo, sino cilíndrico, pero en cualquier caso atenuado en la base. Es de color ocre amarillento pustulado de marrón, ruguloso en ocasiones, e incluso puede presentar costillares en parte del mismo de manera irregular."
+    },
+    "habitat": "Carne blanca en el sombrero y amarillo pálido en el pie, esponjosa pero más firme que otros Xerocomus afines. No suele azulear al corte, aunque ocasionalmente lo hace de forma débil. Olor suave afrutado y sabor suave.",
+    "observations": "Sale preferentemente en bosques de árboles de hoja ancha, aunque no es descartable su presencia bajo coníferas. Aparece en verano y durante el otoño. Es una seta frecuente e incluso abundante algunos años.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/boletus_subtomentosus/boletus_subtomentosus1.jpg",
+        "https://www.fungipedia.org/images/galerias/boletus_subtomentosus/boletus_subtomentosus2.jpg",
+        "https://www.fungipedia.org/images/galerias/boletus_subtomentosus/boletus_subtomentosus3.jpg"
+    ]
+}

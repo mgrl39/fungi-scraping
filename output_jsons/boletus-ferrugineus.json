@@ -1,0 +1,30 @@
+{
+    "name": "boletus-ferrugineus",
+    "title": null,
+    "author": "Schaeff.",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Xerocomus ferrugineus (Schaeff.) Alessio"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Boletales",
+        "Familia": "Boletaceae"
+    },
+    "edibility": "comestible",
+    "characteristics": {
+        "cap": "Sombrero que en su máximo desarrollo puede superar ligeramente los 10 cm de diámetro, hemisférico en su primera etapa, luego convexo, para acabar aplanándose casi del todo. Es de color marrón más o menos oscuro con matiz rojizo, aunque en modo alguno es rojo ni tiene tonos olivas. Su superficie es marcadamente tomentosa, sobre todo de joven, y difícilmente separable de la carne del sombrero. Margen excedente y no involuto.",
+        "hymenium": "Tubos bastante finos y alargados de color amarillo, deviniendo de viejos hacia un tono más oliváceo. Son libres del todo con respecto al pie, llegando a formar un circulo a su alrededor.",
+        "stipe": "Poros concoloros con los tubos, amplios e irregulares, que se tiñen al tacto de azul, aunque no de forma acusada.",
+        "flesh": "Pie fino y alargado, frecuentemente curvado, de color ocre con matiz amarillento, suele tener costillares pero poco marcados, la mayoría de las veces solo se aprecian en la parte superior."
+    },
+    "habitat": "Carne no demasiado consistente, más bien blanda en el sombrero y fibrosa en el pie, como la mayor parte de los antiguos Xerocomus. Azulea al corte de forme esporádica, ya que en seguida vuelve a desaparecer el color. Su olor es apenas perceptible y su sabor dulce y suave.",
+    "observations": "Esta especie es encontrada tanto en planifolios como en coníferas, siendo el otoño su época de aparición predilecta. No es una seta que se pueda considerar frecuente, y cada vez menos.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/boletus_ferrugineus/boletus_ferrugineus1.jpg",
+        "https://www.fungipedia.org/images/galerias/boletus_ferrugineus/boletus_ferrugineus2.jpg"
+    ]
+}

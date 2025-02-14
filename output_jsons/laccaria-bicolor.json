@@ -1,0 +1,34 @@
+{
+    "name": "laccaria-bicolor",
+    "title": null,
+    "author": "(Maire) P. D. Orton",
+    "additional_info": {
+        "common_name": "Lacaria de dos colores.",
+        "synonym": "Laccaria farinacea (Huds.) Singer"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Tricholomatales",
+        "Familia": "Tricholomataceae"
+    },
+    "edibility": "comestible",
+    "characteristics": {
+        "cap": "Sombrero que en los ejemplares adultos tiene un tamaño que oscila entre los 2 y los 5 cm de diámetro, generalmente con forma convexa a plano-convexa, pudiendo estar algo deprimido en los ejemplares más maduros. Su superficie es ligeramente escamosa, sobre todo en los individuos jóvenes, tendiendo con el tiempo y los efectos de la lluvia a quedar lisa y glabra, tiene un color que varía en función de su grado de hidratación, ocre parduzco con algún matiz rojizo húmeda, tendiendo a tonos ocráceos más claros con la desecación. El margen es algo estriado por transparencia, de forma más acusada en ejemplares secos, y de viejo se ondula notablemente.",
+        "hymenium": "Láminas adnatas de color lilacino en los ejemplares jóvenes, después rosado carneo, gruesas, relativamente separadas entre sí y con numerosas laminillas.",
+        "stipe": "Pie generalmente alargado y esbelto, de mayor longitud que el diámetro del sombrero, aunque es un carácter un tanto variable. Es fibriloso, detalle que se acentúa en el tercio superior, e incluso ligeramente acanalado, de color similar al del sombrero salvo en la zona de la base, que adquiere un color violeta debido a la trasmisión que hace el micelio de ese color.",
+        "flesh": "Carne escasa, poco espesa, de color ocre rosado salvo en la base del pie donde es amatista. Tiene un olor poco perceptible, fúngico, y un sabor dulce y suave."
+    },
+    "habitat": "Esta especie es bastante menos común que otras especies de su género, fructifica generalmente de forma gregaria en bosques húmedos con suelos ricos en humus. Podemos encontrarla bajo planifolios, aunque nosotros la vemos de forma más habitual bajo coníferas diversas, dando un primer brote en primavera y saliendo con más profusión durante el otoño.",
+    "observations": "Tradicionalmente se ha separado Laccaria farinacea de la especie que les presentamos, pero creemos que son la misma, ya que las láminas se presentan más lilas o rosadas según la maduración de los ejemplares. Laccaria laccata es muy similar pero el micelio es blanco y la base del pie no adquiere por tanto tonos violáceos, existen otras especies en este género con las que se puede confundir, siendo necesario un estudio pormenorizado de las mismas para su correcta identificación. También puede confundirse con la Mycena pura, una especie tóxica de tonos violáceos pero con las láminas blancas.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/laccaria_bicolor/laccaria_bicolor1.jpg",
+        "https://www.fungipedia.org/images/galerias/laccaria_bicolor/laccaria_bicolor2.jpg",
+        "https://www.fungipedia.org/images/galerias/laccaria_bicolor/laccaria_bicolor3.jpg",
+        "https://www.fungipedia.org/images/galerias/laccaria_bicolor/laccaria_bicolor4.jpg",
+        "https://www.fungipedia.org/images/galerias/laccaria_bicolor/laccaria_bicolor5.jpg",
+        "https://www.fungipedia.org/images/galerias/laccaria_bicolor/laccaria_bicolor6.jpg"
+    ]
+}

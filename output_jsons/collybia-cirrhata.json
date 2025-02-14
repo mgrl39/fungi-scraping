@@ -1,0 +1,31 @@
+{
+    "name": "collybia-cirrhata",
+    "title": null,
+    "author": "(Schumach.) Quél.",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Microcollybia cirrhata (Schumach.) Lennox"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Tricholomatales",
+        "Familia": "Marasmiaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero de ínfimo tamaño, su diámetro en los ejemplares más desarrollados apenas alcanza 1 cm, habitualmente entre 0,5 y 1. Tiene forma algo campanulada al nacer, pero pronto se vuelve convexa y luego aplanada, incluso ligeramente deprimida por la zona central de vieja. Su cutícula es sedosa en los ejemplares jóvenes, después se vuelve lisa y glabra, con un color blanco sucio predominante que puede ser crema con la edad, manteniendo la zona central un tono algo más ocráceo en muchos ejemplares. El margen es bastante regular y apenas estriado en los ejemplares jóvenes, con el tiempo ondulado y un poco más estriado.",
+        "hymenium": "Láminas adnatas de color blanquecino, algo más cremas en los especímenes viejos, más bien apretadas y con numerosas laminillas intercaladas a pesar de su pequeño tamaño.",
+        "stipe": "Pie cilíndrico y muy alargado, pudiendo triplicar en longitud el diámetro del sombrero, fistuloso desde joven y delgado, incluso filiforme. Tiene un color similar al sombrero, blanquecino con matices cárneos, con la superficie furfurácea y la presencia de fibras blanquecinas en la unión con el micelio.",
+        "flesh": "Carne escasa, insignificante, de color blanquecino acuoso, sin olor apreciable ni sabor digno de mención."
+    },
+    "habitat": "Es quizás la especie más conocida de esta sección de pequeñas Collybias, crece generalmente en grupos de numerosos ejemplares sobre viejos carpóforos en descomposición de otras especies, también brota sobre sustrato leñoso putrefacto. Su época de aparición predilecta es el otoño, dado su pequeño tamaño muchas veces pasa desapercibida, sin embargo creemos que es una especie relativamente común.",
+    "observations": "Esta especie se caracteriza por su crecimiento en grupos sobre viejas setas podridas y la ausencia de esclerocio. Dentro de su grupo hay dos especies casi idénticas, Collybia tuberosa, que brota de un esclerocio de color negruzco, y Collybia cookei, que brota de un esclerocio de color amarillento ocráceo. Algo diferente es Collybia racemosa, de color gris y de cuyo pie brotan excrecencias terminadas en una especie de sombrerillo abortado. Macroscópicamente también puede tener cierto parecido con el Alboleptonia sericella, de esporada rosa.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/collybia_cirrhata/collybia_cirrhata1.jpg",
+        "https://www.fungipedia.org/images/galerias/collybia_cirrhata/collybia_cirrhata2.jpg",
+        "https://www.fungipedia.org/images/galerias/collybia_cirrhata/collybia_cirrhata3.jpg"
+    ]
+}

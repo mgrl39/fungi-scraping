@@ -1,0 +1,34 @@
+{
+    "name": "scleroderma-areolatum",
+    "title": null,
+    "author": "Ehrenb.",
+    "additional_info": {
+        "common_name": "Escleroderma areolado.",
+        "synonym": "Scleroderma lycoperdoides Schwein."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Gasteromycetidae",
+        "Orden": "Sclerodermatales",
+        "Familia": "Sclerodermataceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Carpóforo de tamaño reducido para lo habitual en su género, tanto en altura como anchura su tamaño oscila entre 1 y 3 cm, 4 cm como mucho. Puede tener una forma más o menos globosa, de pera o irregular al estar lateralmente comprimida en la zona basal. Tiene un color ocráceo con algún matiz amarillento en ocasiones.",
+        "hymenium": "Peridio delgado comparándolo con especies de similares características, siendo esta una de sus peculiaridades. Externamente está resquebrajado finamente en forma de pequeñas escamas de color ocre sobre fondo más claro o amarillento, estas escamas están rebordeadas por una areola típica que da nombre a la especie. A pesar de su consistencia bastante coriácea este peridio se rompe con cierta facilidad, es frágil, de carne blanquecina, y con el tiempo tiende a quedar prácticamente liso. La dehiscencia se produce por la zona apical de manera un tanto irregular. Es digno de destacar la marcada tendencia a rojear de la superficie externa al roce o manipulación.",
+        "stipe": "Pie apreciable en muchos ejemplares y en forma de pseudoestípite en otros, provisto de abundantes hifas miceliales en la base. Tiene un color similar al resto del carpóforo.",
+        "flesh": "Gleba compacta y homogénea de color blanco en los ejemplares jóvenes, oscureciéndose con la edad hasta ser casi negra y convertirse en una masa pulverulenta con la maduración esporal. Su olor es típico de Scleroderma, pero no tan acentuado como otras especies."
+    },
+    "habitat": "Esta especie epigea suele aparecer en grupos numerosos, en contra de lo que sucede con otros congéneres afines, que crecen en suelos pobres, esta especie prefiere suelos ricos en nutrientes. Nuestra recolecta se efectuó bajo roble americano (Quercus rubra), y los ejemplares destacaban por su pequeño tamaño. No es exclusiva de una estación en concreto, nosotros la hemos localizado a principios del verano, pero puede salir también en otoño.",
+    "observations": "Se caracteriza este pequeño Scleroderma por su peridio delgado, su resquebrajamiento en escamas areoladas, y su tendencia a rojear al ser manipulado. Scleroderma verrucosum es ciertamente similar, pero de mayor tamaño y con un pie mucho más definido. Scleroderma citrinum se diferencia bien por sus tonos más amarillentos y su gran tamaño. También se prestan a confusión algunas especies del género Rhizopogon como el Rhizopogon roseolus, que también rojea, pero un corte longitudinal nos sacará de dudas.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/scleroderma_areolatum/scleroderma_areolatum1.jpg",
+        "https://www.fungipedia.org/images/galerias/scleroderma_areolatum/scleroderma_areolatum2.jpg",
+        "https://www.fungipedia.org/images/galerias/scleroderma_areolatum/scleroderma_areolatum3.jpg",
+        "https://www.fungipedia.org/images/galerias/scleroderma_areolatum/scleroderma_areolatum4.jpg",
+        "https://www.fungipedia.org/images/galerias/scleroderma_areolatum/scleroderma_areolatum5.jpg",
+        "https://www.fungipedia.org/images/galerias/scleroderma_areolatum/scleroderma_areolatum6.jpg"
+    ]
+}

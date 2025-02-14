@@ -1,0 +1,34 @@
+{
+    "name": "lepiota-castanea",
+    "title": null,
+    "author": "Quél.",
+    "additional_info": {
+        "common_name": "Lepiota castaña, galanperna gaztainkolore.",
+        "synonym": "Lepiota ignipes Locq."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Agaricales",
+        "Familia": "Agaricaceae"
+    },
+    "edibility": "mortal",
+    "characteristics": {
+        "cap": "Sombrero cuyo diámetro en los ejemplares adultos oscila entre 1,5 y 4 cm como mucho, con forma acampanada en sus primeros estadios, se vuelve convexo para finalmente aplanarse, pero manteniendo en su zona central un mamelón amplio poco acusado. Su cutícula de joven es de un color castaño uniforme, pero rápidamente se va desasociando en escamas irregulares, rara vez concéntricas, de este mismo color, dejando entrever un fondo con matices rosados o encarnados y manteniendo la zona central un tono pardo castaño más oscuro. Margen regular y fino, poco o nada festoneado.",
+        "hymenium": "Láminas libres de color blanco, bastante apretadas entre sí, de forma habitual con alguna mancha de color pardo, se ponen rojizas en las zonas manoseadas pero sin teñirse al roce de forma inmediata.",
+        "stipe": "Pie alargado, cuando menos duplica el diámetro del sombrero, cilíndrico y fistuloso desde joven. El tercio superior es de color blanco y totalmente liso, luego tenemos una zona anular, sin la presencia directa de un anillo membranoso, este es por contra muy fugaz, y los dos tercios inferiores están recubiertos de escamas pardas sobre fondo castaño. Estas escamas son lábiles, al frotarlas se desprenden dejando entrever un fondo más blanquecino con matiz rosado o encarnado.",
+        "flesh": "Carne poco consistente, frágil y delgada, de color blanco salvo en la base del pie donde es de color pardo rosado. Tiene un olor fuerte viroso que nos recuerda a la Lepiota cristata aunque no tan acusado como esta, su sabor también resulta desagradable."
+    },
+    "habitat": "Ha sido encontrada en zona umbría con arbolado mixto y directamente en bosque de Pseudotsuga menziesii (Abeto de Douglas). Es una especie relativamente frecuente en bosques de coníferas según la bibliografía, aunque es rara bajo planifolios. Acostumbra a salir en grupos no demasiado numerosos, generalmente durante el otoño, nuestra recolecta está efectuada en el mes de Noviembre.",
+    "observations": "Especie de las pequeñas Lepiotas, enclavada dentro de la sección Cristatae por sus esporas espolonadas, es probablemente la especie más tóxica de su sección, se ha demostrado la presencia en ella de amatoxinas si bien en menor grado que las especies de la sección Ovisporae, resultando potencialmente mortal en dosis algo más elevadas que estas. Lepiota ignicolor está por dilucidar si es taxón propio o variedad de esta, la diferencian por su tamaño menor y la base del pie rojo fuego, para algunos autores son sinónimos. Existen muchas pequeñas Lepiotas cuyo análisis microscópico se antoja indispensable para su correcta identificación.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/lepiota_castanea/lepiota_castanea1.jpg",
+        "https://www.fungipedia.org/images/galerias/lepiota_castanea/lepiota_castanea2.jpg",
+        "https://www.fungipedia.org/images/galerias/lepiota_castanea/lepiota_castanea3.jpg",
+        "https://www.fungipedia.org/images/galerias/lepiota_castanea/lepiota_castanea4.jpg",
+        "https://www.fungipedia.org/images/galerias/lepiota_castanea/lepiota_castanea5.jpg",
+        "https://www.fungipedia.org/images/galerias/lepiota_castanea/lepiota_castanea6.jpg"
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "name": "sowerbyella-imperialis",
+    "title": null,
+    "author": "(Peck) Korf.",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Sowerbyella unicolor (Gillet) Nannf."
+    },
+    "taxonomy": {
+        "División": "Ascomycota",
+        "Subdivisión": "Ascomycotina",
+        "Clase": "Himenoascomycetes",
+        "Subclase": "Pezizomycetidae",
+        "Orden": "Pezizales",
+        "Familia": "Pezizaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Carpóforo que desde sus comienzos adopta una forma cóncava bastante regular o también puede ser caliciforme, solo de manera ocasional se abre lateralmente. La zona superior es por tanto la más ancha, con un diámetro que oscila entre los 2 y los 4 cm. El excípulo, zona externa del carpóforo, cuando el espécimen es joven y está bien hidratado es de color amarillo azufre bastante vivo, con el tiempo adopta tonos más mates, y al secarse se vuelve blanquecino, es liso y finamente pruinoso. El margen es liso o algo crenulado y no es tan regular como el resto del ascocarpo.",
+        "hymenium": "Himenio liso inmerso en la superficie interna del carpóforo, de color amarillo vivo mucho más permanente que el excípulo, produce ascósporas elipsoidales vagamente verrucosas con hasta dos gotas lipídicas.",
+        "stipe": "Pie evidente y manifiesto en la mayoría de ejemplares, pasa generalmente desapercibido al estar inmerso en el sustrato, puede llegar a tener una longitud similar al diámetro de la zona superior, siendo redondeado y lleno.",
+        "flesh": "Carne poco significativa de color amarillo, quebradiza en la parte superior y más elástica en el pie, no tiene olor perceptible y es insípida."
+    },
+    "habitat": "Se trata de un Ascomycete muy poco referenciado bibliográficamente debido a su rareza, se presentan varios hábitats posibles para ella, nuestra recolecta ha sido efectuada en la proximidad de Ciprés de Lawson, también llamado falso ciprés (Chamaecyparis lawsoniana). Ha sido encontrada en otoño, en el mes de Noviembre, en grupo de numerosos ejemplares, entendiendo por tanto que su crecimiento es gregario.",
+    "observations": "Especie que al ser encontrada tiene aspecto de Peziza, con las cuales está emparentada, diferenciándose de estas por la presencia de un pie evidente en la mayoría de los ejemplares. Se caracteriza, sobre todo en los ejemplares jóvenes bien hidratados, por la uniformidad de su bello color amarillo en excípulo e himenio. Sowerbyella rhenana= Aleuria splendens, es una especie similar a esta, de color más anaranjado que nos recuerda a la Aleuria aurantia. Más controvertida es la separación de Sowerbyella radiculata, especie que se separa por su color más mate ocráceo amarillento, la ausencia de pie diferenciado y la mayor tosquedad de la ornamentación esporal.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/sowerbyella_imperialis/sowerbyella_imperialis1.jpg",
+        "https://www.fungipedia.org/images/galerias/sowerbyella_imperialis/sowerbyella_imperialis2.jpg",
+        "https://www.fungipedia.org/images/galerias/sowerbyella_imperialis/sowerbyella_imperialis3.jpg",
+        "https://www.fungipedia.org/images/galerias/sowerbyella_imperialis/sowerbyella_imperialis4.jpg",
+        "https://www.fungipedia.org/images/galerias/sowerbyella_imperialis/sowerbyella_imperialis5.jpg",
+        "https://www.fungipedia.org/images/galerias/sowerbyella_imperialis/sowerbyella_imperialis6.jpg"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "name": "tarzetta-cupularis",
+    "title": null,
+    "author": "(L.) Svrček",
+    "additional_info": {
+        "common_name": "Peziza pálida.",
+        "synonym": "Pustularia cupularis (L.) Fuckel"
+    },
+    "taxonomy": {
+        "División": "Ascomycota",
+        "Subdivisión": "Ascomycotina",
+        "Clase": "Himenoascomycetes",
+        "Subclase": "Pezizomycetidae",
+        "Orden": "Pezizales",
+        "Familia": "Pezizaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Carpóforo en forma de tazón o de copa sin pie, de reducidas dimensiones, en el mejor de los casos alcanza 2 o 3 cm de diámetro por otro tanto de alto. Su superficie externa es de color ocre amarillento u oliváceo, a veces con matices grisáceos, suele ser además furfurácea. El borde es dentado o aserrado.",
+        "hymenium": "Himenio completamente liso, recubre la parte interna del carpóforo, de color blanco sucio con matices amarillentos.",
+        "stipe": "Pie prácticamente inexistente, a veces presenta un poco de pie pero totalmente enterrado y apenas perceptible.",
+        "flesh": "Carne escasa y frágil, sin nada reseñable en cuanto a olor o sabor."
+    },
+    "habitat": "Es una especie que suele brotar en primavera, aunque también se la puede encontrar en otoño. Fructifica en parques o jardines y bajo diversos árboles, en nuestro caso ha sido encontrada en primavera bajo tilos.",
+    "observations": "Esta seta guarda cierta similitud con la Tarzetta catinus, incluso hay autores que tienden a sinonimizarlas, sin embargo, al margen de sus esporas más anchas, entendemos que también se diferencian macroscópicamente. La especie aquí descrita es más pequeña, presenta tonos amarillentos u oliváceos que la otra no tiene, y además el pie de la otra es más apreciable a simple vista.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/tarzetta_cupularis/tarzetta_cupularis1.jpg",
+        "https://www.fungipedia.org/images/galerias/tarzetta_cupularis/tarzetta_cupularis2.jpg"
+    ]
+}

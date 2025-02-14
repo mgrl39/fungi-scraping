@@ -1,0 +1,34 @@
+{
+    "name": "gyromitra-esculenta",
+    "title": null,
+    "author": "(Pers.) Fr.",
+    "additional_info": {
+        "common_name": "Bonete, mitra muin, bolet de greix.",
+        "synonym": "Helvella esculenta Pers."
+    },
+    "taxonomy": {
+        "División": "Ascomycota",
+        "Subdivisión": "Ascomycotina",
+        "Clase": "Himenoascomycetes",
+        "Subclase": "Pezizomycetidae",
+        "Orden": "Pezizales",
+        "Familia": "Helvellaceae"
+    },
+    "edibility": "toxica",
+    "characteristics": {
+        "cap": "Sombrero que puede alcanzar los 10 cm, con una forma muy peculiar, como si fueran las cavidades de un cerebro, lleno de arrugas o protuberancias irregulares. El color varía del pardo claro al pardo rojizo en función de la humedad del individuo hallado y de su edad, aunque la parte interior suele ser más pálida. Normalmente se halla soldado al pie por varios puntos.",
+        "hymenium": "Himenio que recubre todo el sombrero por su parte externa.",
+        "stipe": "Pie que suele ser corto, de color blanco, fuertemente surcado o arrugado, hueco.",
+        "flesh": "Carne frágil y quebradiza, de olor y sabor poco significativos en crudo."
+    },
+    "habitat": "Es una seta que fructifica en bosques de coníferas diversos, no solo en pinos. Es eminentemente primaveral y no demasiado frecuente.",
+    "observations": "Durante mucho tiempo fue vendida en los mercados de algunos países europeos desecada, actualmente su venta está absolutamente prohibida. Es una seta muy tóxica y peligrosa, sobre todo en crudo, y en ocasiones extremas puede llegar a ser incluso mortal. Se parece mucho a la Gyromitra gigas, especie también primaveral, de color ocre amarillento y pie muy corto. Un poco diferente y otoñal es la Gyromitra infula.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/gyromitra_esculenta/gyromitra_esculenta1.jpg",
+        "https://www.fungipedia.org/images/galerias/gyromitra_esculenta/gyromitra_esculenta2.jpg",
+        "https://www.fungipedia.org/images/galerias/gyromitra_esculenta/gyromitra_esculenta3.jpg",
+        "https://www.fungipedia.org/images/galerias/gyromitra_esculenta/gyromitra_esculenta4.jpg",
+        "https://www.fungipedia.org/images/galerias/gyromitra_esculenta/gyromitra_esculenta5.jpg",
+        "https://www.fungipedia.org/images/galerias/gyromitra_esculenta/gyromitra_esculenta6.jpg"
+    ]
+}

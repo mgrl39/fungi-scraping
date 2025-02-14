@@ -1,0 +1,37 @@
+{
+    "name": "marasmiellus-maas-geesterani",
+    "title": null,
+    "author": "Robich & E. Campo 2000",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Ninguno."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Tricholomatales",
+        "Familia": "Marasmiaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero de pequeño tamaño, pero notable en comparación con otras especies del género, el diámetro de los ejemplares adultos oscila entre los 2 y los 4 cm. Tiene forma hemisférica al nacer, pero pronto se vuelve convexo para posteriormente aplanarse. Cutícula de aspecto seco incluso con lluvia, lisa y glabra, con un color variable en función de la edad o hidratación del ejemplar, desde tonos ocres más o menos claros hasta casi blanquecinos predominando en nuestra recolecta los tonos cremas de intensidad variable. Margen poco o nada estriado e involuto en los especímenes jóvenes, en los viejos pueden aparecer estriaciones, a veces con relieve a modo de costillares.",
+        "hymenium": "Láminas adnatas y más bien separadas, no demasiado gruesas pero si anchas, rectas de jóvenes y luego ventricosas, de color blanquecino o más habitualmente crema. Arista entera y concolora.",
+        "stipe": "Pie proporcionado o algo alargado, pruinoso, de color pálido que se mantiene en el ápice, pero oscureciendo a partir de la base con tonos ocres, pardos o incluso negruzcos en ocasiones. Es cilíndrico pero con tendencia a atenuarse precisamente en la base.",
+        "flesh": "Carne delgada y poco consistente, fibrosa y más bien elástica, sobre todo en el pie, aunque casca con cierta facilidad, de color crema u ocre claro. Olor débil y sabor algo herbáceo."
+    },
+    "habitat": "Especie rara, muy poco referenciada, que fructifica sobre residuos vegetales diversos, tanto herbáceos como de madera. Encontrada por nuestro amigo y colaborador Jon Joseba Arnedo, en pradera calcárea con ganado vacuno a una altura de entre 500 y 600 metros. A pesar de su rareza, donde sale fructifica en grupos más o menos numerosos, fue localizada en el mes de mayo, si bien no tenemos constancia de que se trate de una especie exclusivamente primaveral.",
+    "observations": "Se trata de una especie caracterizada por su color ocre claro o crema común a todo el basidioma, y el oscurecimiento del pie a partir de la base. Taxón de reciente creación, año 2000, no hemos encontrado citas de ella para el País Vasco ni tampoco para la península, podría tratarse de una primera cita. Es muy parecida a la senderuela o Marasmius oreades, hemos de fijarnos en el pie para diferenciarlas, en esta oscurece y a la torsión casca mientras que el pie del Mararasmius oreades aguanta a la torsión sin quebrar. Existe una especie macroscópicamente idéntica e igualmente rara, Marasmiellus carneopallidus, solo separable por pequeños detalles microscópicos.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/marasmiellus_maas_geesterani/marasmiellus_maas_geesterani1.jpg",
+        "https://www.fungipedia.org/images/galerias/marasmiellus_maas_geesterani/marasmiellus_maas_geesterani2.jpg",
+        "https://www.fungipedia.org/images/galerias/marasmiellus_maas_geesterani/marasmiellus_maas_geesterani3.jpg",
+        "https://www.fungipedia.org/images/galerias/marasmiellus_maas_geesterani/marasmiellus_maas_geesterani4.jpg",
+        "https://www.fungipedia.org/images/galerias/marasmiellus_maas_geesterani/marasmiellus_maas_geesterani5.jpg",
+        "https://www.fungipedia.org/images/galerias/marasmiellus_maas_geesterani/marasmiellus_maas_geesterani6.jpg",
+        "https://www.fungipedia.org/images/galerias/marasmiellus_maas_geesterani/marasmiellus_maas_geesterani7.jpg",
+        "https://www.fungipedia.org/images/galerias/marasmiellus_maas_geesterani/marasmiellus_maas_geesterani8.jpg",
+        "https://www.fungipedia.org/images/galerias/marasmiellus_maas_geesterani/marasmiellus_maas_geesterani9.jpg"
+    ]
+}

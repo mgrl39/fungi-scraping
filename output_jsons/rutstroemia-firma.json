@@ -1,0 +1,35 @@
+{
+    "name": "rutstroemia-firma",
+    "title": null,
+    "author": "(Pers.) P. Karst.",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Calycina firma (Pers.) Gray"
+    },
+    "taxonomy": {
+        "División": "Ascomycota",
+        "Subdivisión": "Ascomycotina",
+        "Clase": "Himenoascomycetes",
+        "Subclase": "Pezizomycetidae",
+        "Orden": "Leotiales",
+        "Familia": "Rutstroemiaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Carpóforo con una forma netamente acopada, formado por dos partes perfectamente diferenciadas, una superior a modo de sombrero o disco y un pie. La zona superior cupuliniforme en especímenes jóvenes, tiende a ir abriéndose con el desarrollo hasta poder llegar a aplanarse y volverse como un disco. Es de pequeño tamaño, generalmente con un diámetro que oscila entre 0´5 y 1´5 cm, ocasionalmente hemos encontrado algún ejemplar que llegaba a 2cm. La superficie externa de la copa es lisa y glabra (no tiene pelos), pudiendo ser junto al borde solo levemente furfuracea en ocasiones. Borde igualmente liso y por lo general bastante regular. El color de esta zona externa varia en función de la hidratación del ejemplar, pero siempre dentro de los tonos ocres oscuros o marrones, rara vez con algún matiz oliváceo.",
+        "hymenium": "Himenio que ocupa toda la superficie interna de la copa o disco, liso y glabro al igual que la superficie externa, y sin que en este caso existe una diferenciación clara en cuanto a color y textura entre ambas superficies. Produce esporas fusiformes, blancas en masa, ascas amiloides y paráfisis ramificadas, aspectos que pueden observar en nuestro apartado de \"características microscópicas\".",
+        "stipe": "Pie que puede diferenciarse claramente, de longitud absolutamente variable, incluso entre ejemplares de una misma recolecta, desde pies muy cortos de apenas un par de milímetros hasta poder sobrepasar sobradamente el diámetro de la copa, sobre todo en ramas semienterradas. Es cilíndrico y liso, de color similar al resto del apotecio, a veces algo más oscuro, sobre todo en la base, furfuráceo.",
+        "flesh": "Carne bastante frágil y algo elástica, escasa y poco consistente, sin un olor definido y totalmente insípida."
+    },
+    "habitat": "En nuestro entorno se trata de una especie relativamente frecuente, fructifica siempre directamente sobre la madera, nunca terrestre, fundamentalmente sobre madera de planifolios diversos como el roble, también la hemos visto sobre ramas de aliso u otros árboles de ribera, es bastante cosmopolita. Es una especie bastante gregaria, donde sale suelen aparecer un número notable de ejemplares, siendo muy raro verla aislada. Especie que no le teme al frío, la podemos encontrar en el otoño avanzado e incluso durante el invierno en el norte de la península ibérica, y también en primavera en zonas más al sur.",
+    "observations": "Estamos ante una especie caracterizada por su forma de copa, y su color ocre o marrón y sin pelos tanto en excípulo como himenio. Es muy fácil comfundirla macroscópicamente con otras especies del género Rutstroemia, así como con otros géneros como puede ser Ciboria, siendo necesario un análisis exahustivo para su correcta identificación. Rutstroemia alni, sale también sobre madera de aliso y es muy parecida, sus esporas son más anchas, hasta 9 micras, Rutstroemia echinophila se diferencia por su peculiar hábitat sobre erizos y viejos frutos de castaña. Las especies de Ciboria suelen ser más pequeñas si cabe y no son extrictamente lignícolas como esta especie.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/rutstroemia_firma/rutstroemia_firma1.jpg",
+        "https://www.fungipedia.org/images/galerias/rutstroemia_firma/rutstroemia_firma2.jpg",
+        "https://www.fungipedia.org/images/galerias/rutstroemia_firma/rutstroemia_firma3.jpg",
+        "https://www.fungipedia.org/images/galerias/rutstroemia_firma/rutstroemia_firma4.jpg",
+        "https://www.fungipedia.org/images/galerias/rutstroemia_firma/rutstroemia_firma5.jpg",
+        "https://www.fungipedia.org/images/galerias/rutstroemia_firma/rutstroemia_firma6.jpg",
+        "https://www.fungipedia.org/images/galerias/rutstroemia_firma/rutstroemia_firma7.jpg"
+    ]
+}

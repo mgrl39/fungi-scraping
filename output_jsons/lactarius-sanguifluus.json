@@ -1,0 +1,34 @@
+{
+    "name": "lactarius-sanguifluus",
+    "title": null,
+    "author": "(Paulet) Fr.",
+    "additional_info": {
+        "common_name": "Níscalo, nícalo, rovelló, lactario de sangre, esneardotsu.",
+        "synonym": "Lactifluus sanguifluus (Paulet) Kuntze"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Russulales",
+        "Familia": "Russulaceae"
+    },
+    "edibility": "buen-comestible",
+    "characteristics": {
+        "cap": "Sombrero con un diámetro que puede oscilar en los ejemplares adultos entre los 5 y los 10 cm, ocasionalmente pueden ser algo más grandes. Suele tener una forma convexa durante buena parte de su desarrollo, con el centro umbilicado, después se aplana bastante, pero esta especie no suele llegar a embudarse. Su superficie es seca, afieltrada de joven y posteriormente lisa y glabra, de un color ocráceo pálido con cierto matiz anaranjado, pero nunca netamente naranja, en muchos ejemplares no está zonada en absoluto, siendo vagamente zonada en otros. Margen enrollado en los individuos jóvenes, luego extendido y regular.",
+        "hymenium": "Láminas algo decurrentes, desiguales en su configuración, bastante apretadas y con laminillas, al principio tienen un color pálido, entre ocráceo y anaranjado, adquiriendo pronto tonos rojo vinosos o púrpuras, por las heridas exudan un látex de color rojo vinoso.",
+        "stipe": "Pie generalmente corto, de aspecto robusto, lleno en los ejemplares jóvenes y después hueco, de color claro, a veces casi blanco pero con matiz purpúreo, es habitual la presencia de escrobículos de color rojo vinoso oscuro.",
+        "flesh": "Carne espesa y maciza de color ocráceo pálido, a veces casi blanca, teñida al corte por el látex que exuda, de un color rojo vinoso, púrpura al secarse. Su olor es agradable y su sabor suave aunque ligeramente picante en crudo."
+    },
+    "habitat": "Especie común y frecuente en algunas zonas y prácticamente inexistente en otras, fructifica de forma exclusiva formando micorriza con los pinos, solemos verlo con profusión bajo Pinus sylvestris en altitudes entre 700 y 900 metros, en otras zonas es común en pinares con jaras. Es una seta eminentemente otoñal.",
+    "observations": "Es una seta muy apreciada culinariamente en amplias zonas de la geografía española, es un buen comestible, algunos dicen que el mejor de los níscalos, consideramos que su calidad es similar al Lactarius deliciosus, de sombrero naranja brillante zonado y látex naranja inmutable. Existen otros taxones dentro de los dapetes, algunos claros como Lactarius semisanguifluus, de látex naranja que se torna rojo vinoso al de unos minutos al secarse, y otros más controvertidos, como Lactarius violaceus o Lactarius vinosus, que podrían ser una misma especie o variedades de la presente. Lactarius salmonicolor se diferencia bien por su presencia bajo piceas y su color salmón homogéneo que nunca se tiñe de verde, en ese mismo hábitat sale Lactarius deterrimus, de sabor algo amargo además de picante y que si se tiñe de verde en las heridas. Lactarius quieticolor tiene un sombrero pálido por la presencia de abundante pruina y Lactarius hemicyaneus es una forma de este último cuya carne se vuelve violeta al contacto con el aire. La especie tóxica Lactarius torminosus tiene el látex blanco.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/lactarius_sanguifluus/lactarius_sanguifluus1.jpg",
+        "https://www.fungipedia.org/images/galerias/lactarius_sanguifluus/lactarius_sanguifluus2.jpg",
+        "https://www.fungipedia.org/images/galerias/lactarius_sanguifluus/lactarius_sanguifluus3.jpg",
+        "https://www.fungipedia.org/images/galerias/lactarius_sanguifluus/lactarius_sanguifluus4.jpg",
+        "https://www.fungipedia.org/images/galerias/lactarius_sanguifluus/lactarius_sanguifluus5.jpg",
+        "https://www.fungipedia.org/images/galerias/lactarius_sanguifluus/lactarius_sanguifluus6.jpg"
+    ]
+}

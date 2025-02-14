@@ -1,0 +1,32 @@
+{
+    "name": "clathrus-ruber",
+    "title": null,
+    "author": "Micheli ex Persoon",
+    "additional_info": {
+        "common_name": "Clatro rojo, kaiola gorri, gita de bruixa.",
+        "synonym": "Clathrus cancellatus Tournef. ex Fr."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Gasteromycetidae",
+        "Orden": "Phallales",
+        "Familia": "Clathraceae"
+    },
+    "edibility": "no-comestible",
+    "characteristics": {
+        "cap": "Peridio que se presenta inicialmente en forma de un huevo de consistencia gelatinosa y blanda, de color blanco, a veces manchado de ocre. En la parte inferior tiene un hilo que le une al micelio, y en la superior unos surcos que parten hacia la base con distintas direcciones, sin ser paralelos. Cuando el huevo madura estos surcos se abren dando paso al carpóforo.",
+        "hymenium": "Carpóforo de forma generalmente ovoide, a veces incluso esférica, sésil, carente por lo tanto de pie. Es como una especie de reja con huecos amplios, o como si fuera un balón hueco por dentro, con una altura que suele sobrepasar los 5 cm. Su color es ciertamente llamativo, rojo vivo. Lo que queda del huevo original se une a la parte inferior cual si de una volva se tratara.",
+        "stipe": "Gleba incrustada en la parte interior de la mencionada reja, de color verde oliváceo, con un olor fétido acusado que atrae a los insectos contribuyendo a su reproducción.",
+        "flesh": "Carne prácticamente nula, su olor en forma de huevo es rafanoide, al igual que su sabor, después de abierto es insoportable, fétido."
+    },
+    "habitat": "La hemos visto en jardines, bajo robles, e incluso en una campa junto a un pinar. Tiene predilección por la época otoñal, pero también sale en primavera, e incluso a veces en verano. No es muy frecuente.",
+    "observations": "Es una especie que no tiene demasiadas confusiones posibles, salvo en fase de huevo, cuando puede parecerse al Clathrus archeri o al Phallus impudicus, pero haciéndole un corte lo distinguiremos perfectamente. El Colus hirudinosus es más pequeño y con la gleba más definida.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/clathrus_ruber/clathrus_ruber1.jpg",
+        "https://www.fungipedia.org/images/galerias/clathrus_ruber/clathrus_ruber2.jpg",
+        "https://www.fungipedia.org/images/galerias/clathrus_ruber/clathrus_ruber3.jpg",
+        "https://www.fungipedia.org/images/galerias/clathrus_ruber/clathrus_ruber4.jpg"
+    ]
+}

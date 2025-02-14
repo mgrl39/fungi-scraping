@@ -1,0 +1,31 @@
+{
+    "name": "neoboletus-junquilleus",
+    "title": null,
+    "author": "(Quél.) Gelardi, Simonini & Vizzini",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Boletus junquilleus (Quél.) Boud."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Boletales",
+        "Familia": "Boletaceae"
+    },
+    "edibility": "no-comestible",
+    "characteristics": {
+        "cap": "Sombrero de 5 a 15 cm, de color amarillo cromo que se mancha con facilidad al tacto de azul negruzco, quedando tonos rojizos al cabo de una hora, duro y macizo, convexo durante largo tiempo, tardíamente aplanado.",
+        "hymenium": "Tubos cortos de color amarillo vivo que azulean rápidamente tanto al contacto como al corte.",
+        "stipe": "Poros amarillos que viran al azul negruzco al menor contacto.",
+        "flesh": "Pie duro, algo ventrudo en la parte inferior, atenuándose hacia el sombrero, de color igualmente amarillo, aunque menos vistoso que los poros, también se mancha de azul al tacto."
+    },
+    "habitat": "Carne amarilla que azulea rápidamente al corte de forma intensa, rojiza en la base del pie.",
+    "observations": "Aunque la bibliografía nos la marca como especie de caducifolios, nosotros la encontramos siempre bajo Pinus radiata, en otoño.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/neoboletus_junquilleus/neoboletus_junquilleus1.jpg",
+        "https://www.fungipedia.org/images/galerias/neoboletus_junquilleus/neoboletus_junquilleus2.jpg",
+        "https://www.fungipedia.org/images/galerias/neoboletus_junquilleus/neoboletus_junquilleus3.jpg"
+    ]
+}

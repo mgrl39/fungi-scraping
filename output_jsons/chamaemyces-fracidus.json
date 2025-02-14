@@ -1,0 +1,37 @@
+{
+    "name": "chamaemyces-fracidus",
+    "title": null,
+    "author": "(Fr.) Donk",
+    "additional_info": {
+        "common_name": "Lepiota manchada",
+        "synonym": "Lepiota irrorata Quél."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Agaricales",
+        "Familia": "Agaricaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero que en estado primordial se muestra globoso sobre el pie, pero que según se va desarrollando pasa a ser algo campanulado, después convexo y finalmente plano-convexo, sin llegar a embudarse, algunos ejemplares con el centro resaltado sin formar umbón. Tiene un diámetro que en los especímenes adultos oscila entre los 5 y los 8 cm, y una cutícula lubrificada en tiempo lluvioso, sino se muestra más bien seca y algo sedosa, de un color crema predominante en nuestra recolecta, pero pudiendo adoptar algún tono ocráceo, sobre todo hacia el centro. Esta cutícula puede presentar máculas de forma un tanto aleatoria, o simplemente no presentarlas, margen algo incurvado de joven, pudiendo presentar flocones que luego tienden a desaparecer. Los ejemplares muy jóvenes pueden tener gotas ambarinas en el margen.",
+        "hymenium": "Láminas densas, bastante apretadas, un tanto irregulares, algunas se muestran rectas, mientras que otras suelen ser sinuosas o incluso ventrudas, de color blanco en un principio y más cremosas en la madurez, su esporada en masa es de color blanco crema. Con respecto al pie pueden ser libres o sublibres, a veces se unen por un diente.",
+        "stipe": "Pie generalmente cilíndrico y de longitud proporcionada al diámetro del sombrero, a veces algo atenuado hacia la base, de color blanco en el tercio superior, después presenta una zona anular perfectamente delimitada en la mayoría de ejemplares, y a partir de ahí y hasta la base se muestra punteado de color pardo al secarse sobre el mismo las exudaciones de color ambar que genera la especie, exudaciones que es frecuente que sean visibles sobre el propio pie.",
+        "flesh": "Carne bastante compacta y fibrosa de color blanco, prácticamente inmutable al corte salvo en la base del pie donde puede adquirir tonos carneos, nos ha parecido de sabor bastante insípida y tiene un olor característico no demasiado acentuado, que en contradicción con su etimología no nos parece desagradable."
+    },
+    "habitat": "Estamos ante una especie bastante extendida por el continente europeo, pero paradójicamente muy localizada, por lo que hemos de catalogarla de poco frecuente o poco abundante, en ciertos paises nórdicos aparece como especie en peligro de extinción. Bibliográficamente se citan para ella hábitats muy dispares que van desde dunas costeras con pinos hasta prados o bordes de los caminos. Suele ser el otoño su época predilecta de aparición, y es habitual que crezca en pequeños grupos. Nuestra recolecta ha sido efectuada en el Parque Natural de Gorbeia, Ubide (Bizkaia), varios grupos de ejemplares en zona herbosa al lado de una pista forestal, cerca también de un soto fluvial, en los meses de octubre y noviembre.",
+    "observations": "Especie que guarda muchas afinidades con el género Lepiota, y cuya apariencia macroscópica también nos puede hacer recordar mucho a el género Cystoderma, sobre todo por la decoración de su pie, que sin embargo se produce al secarse las exudaciones, y no porque posea una armilla al modo de las especies del citado género. Es, en todo caso, una especie bastante peculiar y de difícil confusión con otras especies, si que existe una especie aun más poco frecuente, Chamaemyces pseudocastaneus, que era citada camo variedad de Chamaemyces fracidus y que al ser secuenciada quedó constatado que se trata de otra especie, de color castaño en el sombrero y pie menos decorado, así como aspecto general más seco.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/chamaemyces_fracidus/chamaemyces_fracidus1.jpg",
+        "https://www.fungipedia.org/images/galerias/chamaemyces_fracidus/chamaemyces_fracidus2.jpg",
+        "https://www.fungipedia.org/images/galerias/chamaemyces_fracidus/chamaemyces_fracidus3.jpg",
+        "https://www.fungipedia.org/images/galerias/chamaemyces_fracidus/chamaemyces_fracidus4.jpg",
+        "https://www.fungipedia.org/images/galerias/chamaemyces_fracidus/chamaemyces_fracidus5.jpg",
+        "https://www.fungipedia.org/images/galerias/chamaemyces_fracidus/chamaemyces_fracidus6.jpg",
+        "https://www.fungipedia.org/images/galerias/chamaemyces_fracidus/chamaemyces_fracidus7.jpg",
+        "https://www.fungipedia.org/images/galerias/chamaemyces_fracidus/chamaemyces_fracidus8.jpg",
+        "https://www.fungipedia.org/images/galerias/chamaemyces_fracidus/chamaemyces_fracidus9.jpg"
+    ]
+}

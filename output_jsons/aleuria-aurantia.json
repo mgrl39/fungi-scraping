@@ -1,0 +1,31 @@
+{
+    "name": "aleuria-aurantia",
+    "title": null,
+    "author": "(Pers.) Fuckel",
+    "additional_info": {
+        "common_name": "Peziza anaranjada, cassoleta taronja, katilu laranja.",
+        "synonym": "Peziza aurantia Pers."
+    },
+    "taxonomy": {
+        "División": "Ascomycota",
+        "Subdivisión": "Ascomycotina",
+        "Clase": "Himenoascomycetes",
+        "Subclase": "Pezizomycetidae",
+        "Orden": "Pezizales",
+        "Familia": "Humariaceae"
+    },
+    "edibility": "comestible",
+    "characteristics": {
+        "cap": "Carpóforo sésil, con un pie prácticamente nulo, unido al micelio por un punto, en forma de cáliz o cupuliforme, a veces incluso se aplana bastante pudiendo alcanzar en esa situación cerca de los 10 cm, aunque lo normal es encontrarla en torno a los 5 cm. El color de la superficie externa es naranja pálido, siendo también furfurácea, y el borde del sombrero es físil y ondulado de forma irregular.",
+        "hymenium": "Himenio formado por la cara interna del carpóforo, que es de color naranja brillante, muy llamativo, llegando en ocasiones a adquirir tonos cercanos al rojo. Completamente liso, sin pliegues.",
+        "stipe": "Carne delgada de color naranja que se parte con suma facilidad, quebradiza. No podemos apuntar nada destacable en cuanto a olor y sabor.",
+        "flesh": "Fructifica de forma gregaria en zonas arenosas y margosas, incluso en las propias pistas forestales, siempre sobre el suelo. Sale por igual en bosques de coníferas o de caducifolios, su época habitual es el otoño."
+    },
+    "habitat": "Es una seta comestible pero poco carnosa y de poco sabor, se puede comer tanto cocinada como en ensalada, aunque no destaca culinariamente. Puede confundirse con la Sarcoscypha coccinea, especie que aparece con el deshielo y es de un color rojo escarlata en su parte interna, y así mismo con la Melastiza chateri, que tiene pelos en el borde del sombrero.",
+    "observations": null,
+    "images": [
+        "https://www.fungipedia.org/images/galerias/aleuria_aurantia/aleuria_aurantia1.jpg",
+        "https://www.fungipedia.org/images/galerias/aleuria_aurantia/aleuria_aurantia2.jpg",
+        "https://www.fungipedia.org/images/galerias/aleuria_aurantia/aleuria_aurantia3.jpg"
+    ]
+}

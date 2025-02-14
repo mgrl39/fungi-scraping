@@ -1,0 +1,31 @@
+{
+    "name": "coprinus-comatus",
+    "title": null,
+    "author": "(O. F. Mull.) Pers.",
+    "additional_info": {
+        "common_name": "Barbuda, matacandil, urbeltz, bolet de tinta, chipirón de monte.",
+        "synonym": "Coprinus ovatus (Schaeff.) Fr."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Agaricales",
+        "Familia": "Coprinaceae"
+    },
+    "edibility": "buen-comestible",
+    "characteristics": {
+        "cap": "Sombrero de forma netamente ovoide en estado joven, después campanulado, de color blanco. Está recubierto de escamas lanosas del mismo color o algo más pardas, salvo en el ápice, donde presenta una especie de gorro de color ocre que muchas veces parece una hoja pegada. Su tamaño oscila entre los 5 y 15 cm de altura por 3 o 4 de ancho, y el borde está festoneado.",
+        "hymenium": "Láminas muy blancas cuando la seta es joven, después rosas, finalmente negras y delicuescentes, libres con respecto al pie y bastante apretadas.",
+        "stipe": "Pie cilíndrico y largo, blanco y fibroso, terminado en un pequeño bulbo. Chasquea al ser separado del sombrero, cosa que hace con suma facilidad, pronto hueco y provisto de un pequeño anillo fugaz de color blanco.",
+        "flesh": "Carne blanca, bastante delgada y frágil, algo más dura y fibrosa en el pie, según madura la seta se va volviendo rosa y al final negra, exudando una especie de tinta de ese color. Tiene un olor fúngico suave y un sabor agradable."
+    },
+    "habitat": "Fructifica sobre todo durante el otoño, en los bordes de los caminos, escombreras, lugares nitrogenados, y en aquellos lugares donde recientemente se ha removido la tierra. Nos consta por experiencia que los setales de esta seta duran solo unos pocos años.",
+    "observations": "Es un buen comestible, de sabor agradable y textura delicada, siempre y cuando solo se recolecten ejemplares totalmente blancos. Puede confundirse con el Coprinopsis atramentaria, tóxico, de sombrero liso, sin las escamas lanosas que posee la especie aquí descrita. Algunos autores separan el Coprinus ovatus como especie independiente, aunque pudiera ser una variedad.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/coprinus_comatus/coprinus_comatus1.jpg",
+        "https://www.fungipedia.org/images/galerias/coprinus_comatus/coprinus_comatus2.jpg",
+        "https://www.fungipedia.org/images/galerias/coprinus_comatus/coprinus_comatus3.jpg"
+    ]
+}

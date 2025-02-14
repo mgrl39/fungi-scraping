@@ -1,0 +1,31 @@
+{
+    "name": "stereum-hirsutum",
+    "title": null,
+    "author": "(Willd.) Pers.",
+    "additional_info": {
+        "common_name": "Estéreo hirsuto.",
+        "synonym": "Stereum reflexum (Bull.) Sacc."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Aphyllophoromycetidae",
+        "Orden": "Sterales",
+        "Familia": "Steraceae"
+    },
+    "edibility": "no-comestible",
+    "characteristics": {
+        "cap": "Carpóforo a veces totalmente resupinado, es decir, adherido como una costra al tronco o rama donde sale, pero frecuentemente saliente un par de centímetros por 5 de longitud. Generalmente ondulado y parcialmente zonado, recubierto por una serie de pilosidades de unos 2 mm de longitud fácilmente apreciables al tacto. Su color es amarillento con matices ocráceos, suele tener el borde más amarillento. A veces presenta tonos verdosos por la presencia de líquenes.",
+        "hymenium": "Himenio liso, sin la presencia de pilosidades, recubre toda la parte inferior de la seta, es inmutable al rozamiento y su color es amarillo-anaranjado, aunque con el tiempo tiende a volverse parduzco.",
+        "stipe": "Pie inexistente.",
+        "flesh": "Carne amarillenta y elástica, sin nada reseñable en cuanto a olor o sabor."
+    },
+    "habitat": "Es una especie cosmopolita, sale en cualquier época del año, siempre sobre la madera de los árboles, tanto de coníferas como de caducifolios.",
+    "observations": "Evidentemente no es comestible, es la típica seta de madera sin pie. Guarda cierto parecido con otros Stereum, sobre todo con el Stereum ochraceoflavum, que mantiene más las zonas en la parte superior y aparece siempre con numerosos individuos confluyentes. También se parece al Stereum insignitum, mas zonado y sin los pelos típicos de esta especie.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/stereum_hirsutum/stereum_hirsutum1.jpg",
+        "https://www.fungipedia.org/images/galerias/stereum_hirsutum/stereum_hirsutum2.jpg",
+        "https://www.fungipedia.org/images/galerias/stereum_hirsutum/stereum_hirsutum3.jpg"
+    ]
+}

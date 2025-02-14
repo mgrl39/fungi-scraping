@@ -1,0 +1,34 @@
+{
+    "name": "psilocybe-semilanceata",
+    "title": null,
+    "author": "(Fr.) P. Kumm.",
+    "additional_info": {
+        "common_name": "Bongui, sorgin zorrotz.",
+        "synonym": "Geophila semilanceata (Fr.) Quél."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Cortinariales",
+        "Familia": "Strophariaceae"
+    },
+    "edibility": "toxica",
+    "characteristics": {
+        "cap": "Sombrero que en el mejor de los casos puede llegar a alcanzar los 2 cm de diámetro, entre 0´5 y 1´5 de manera más habitual. Tiene forma cónica durante buena parte de su desarrollo, luego campanulada, no llegando a abrirse o aplanarse nunca. Cutícula lisa de aspecto untuoso o viscoso con humedad, sino subseca, de color variable debido a su higrofaneidad, desde tonos grisáceos con matices oliváceos hasta ocráceo amarillentos. Destaca en el centro un mamelón estrecho y acusado, mientras que el margen puede ser más o menos estriado en función del grado de humedad.",
+        "hymenium": "Láminas ascendentes y adnatas, de color variable, cremas al nacer y después pardo oliva o pardo púrpura, con arista estéril de color blanquecino, medianamente apretadas. esporada en masa de color pardo púrpura.",
+        "stipe": "Pie desproporcionadamente alargado con respecto al diámetro del sombrero, pudiendo llegar a sobrepasar con cierta facilidad los 5 cm de largo, liso, muchas veces sinuoso o sino recto, de color amarillento claro o sepia, puede tener tonos olivaceos por oxidación.",
+        "flesh": "Carne escasa e inconsistente de color pálido, con un olor algo rafanoide y sabor ligeramente amargo."
+    },
+    "habitat": "Se trata de una especie que fructifica en terrenos nitrogenados, en pastizales donde frecuenta el ganado o directamente sobre el estiércol, creciendo generalmente de forma gregaria. Es relativamente frecuente en pastizales a partir de una cierta altura, no así en zonas costeras. Aparece desde el verano, siendo en otoño cuando es más factible su localización.",
+    "observations": "Es una especie muy buscada el conocido \"bongui\", a pesar de su toxicidad, que es baja, debido a que contiene principios psicotrópicos como la psilocibina. Esta sustancia en dosis medias o bajas produce efectos que van desde la hilaridad, alucinaciones, cambios en la percepción espacio tiempo etc, pero en dosis excesivas puede tener efectos secundarios, sobre todo si se administra tras una comida copiosa. Hemos constatado que esta especie es confundida muchas veces con otras con las que comparte hábitat, como Protostropharia semiglobata o diversos Panaeolus, que también contienen estas sustancias, pero son mucho más tóxicas que la especie aquí descrita.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/psilocybe_semilanceata/psilocybe_semilanceata1.jpg",
+        "https://www.fungipedia.org/images/galerias/psilocybe_semilanceata/psilocybe_semilanceata2.jpg",
+        "https://www.fungipedia.org/images/galerias/psilocybe_semilanceata/psilocybe_semilanceata3.jpg",
+        "https://www.fungipedia.org/images/galerias/psilocybe_semilanceata/psilocybe_semilanceata4.jpg",
+        "https://www.fungipedia.org/images/galerias/psilocybe_semilanceata/psilocybe_semilanceata5.jpg",
+        "https://www.fungipedia.org/images/galerias/psilocybe_semilanceata/psilocybe_semilanceata6.jpg"
+    ]
+}

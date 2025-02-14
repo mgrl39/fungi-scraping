@@ -1,0 +1,31 @@
+{
+    "name": "russula-cyanoxantha",
+    "title": null,
+    "author": "(Schaeff.) Fr.",
+    "additional_info": {
+        "common_name": "Carbonera, urretxa, llora.",
+        "synonym": "Agaricus cyanoxanthus Schaeffer"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Russulales",
+        "Familia": "Russulaceae"
+    },
+    "edibility": "excelente-comestible",
+    "characteristics": {
+        "cap": "Sombrero de hasta 15 cm, de convexo a aplanado, habitualmente umbilicado y con el borde generalmente incurvado, con una cutícula lisa y poco o nada viscosa además de separable. El color es un dato poco clarificador en este caso para su identificación, ya que es tremendamente variable, te la puedes encontrar con tonos violetas, lilas, verdosos y hasta grises pero nunca rojos.",
+        "hymenium": "Láminas adnatas, blancas y flexibles, lo cual hace difícil su separación de la carne, pero el dato más significativo es que son grasientas al tacto.",
+        "stipe": "Pie central, cilíndrico y proporcional con respecto al sombrero, de color blanco.",
+        "flesh": "Carne firme y quebradiza, dato habitual en Russulas, aunque la del pie se vuelve un poco esponjosa con el tiempo. Su color fundamental es el blanco, algo lila bajo la cutícula, de olor fúngico suave y agradable sabor."
+    },
+    "habitat": "Siempre la hemos localizado bajo planifolios diversos, sobre todo hayas y robles, a pesar de que algunos autores la sitúen también bajo coníferas. Su época de aparición es el verano y se prolonga hasta mediado el otoño.",
+    "observations": "Es un excelente comestible, habitualmente recolectado en el País Vasco (España), donde se le aprecia, sin embargo nos consta por experiencia que mucha gente recolecta otras especies confundiéndola con esta, tales como la Russula heterophylla, parazurea, grisea o vesca, de las que se diferencia con los ojos cerrados con tan solo tocar las láminas. Existe la var. peltereaui, totalmente verde y la var. cutefracta de cutícula cuarteada. La Russula ionochlora es muy similar, también tiene láminas lardáceas aunque menos, pero su carne es un poco picante.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/russula_cyanoxantha/russula_cyanoxantha1.jpg",
+        "https://www.fungipedia.org/images/galerias/russula_cyanoxantha/russula_cyanoxantha2.jpg",
+        "https://www.fungipedia.org/images/galerias/russula_cyanoxantha/russula_cyanoxantha3.jpg"
+    ]
+}

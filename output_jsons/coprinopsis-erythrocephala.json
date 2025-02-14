@@ -1,0 +1,36 @@
+{
+    "name": "coprinopsis-erythrocephala",
+    "title": null,
+    "author": "(Lév.) Redhead, Vilgalys & Moncalvo",
+    "additional_info": {
+        "common_name": "Coprino rojo.",
+        "synonym": "Coprinus erythrocephalus (Lév.) Fr."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Agaricales",
+        "Familia": "Psathyrellaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero que en su máximo apogeo alcanza un diámetro que no excede de los 2 o 3 cm, con forma ovoide y adherido al pie en su nacimiento, se va abriendo paulatinamente alcanzando primero forma campanulada, después aplanada, e incluso con los bordes realzados en los ejemplares viejos. Tiene un color grisáceo de fondo, pero se muestra recubierto en su totalidad por escamas erectas de un llamativo color rojo bermellón que le confiere un aspecto realmente bello. Estas escamas son más patentes en ejemplares jóvenes y tienden a desaparecer con el tiempo y la lluvia, los especímenes viejos son lisos y muy estriados, de color grisáceo con algún matiz ocráceo.",
+        "hymenium": "Láminas libres de color blanquecino con tonos rojizos al principio, con el tiempo oscurecen hasta llegar a ser negras con la delicuescencia. Son ascendentes y su arista suele estar tiznada desde muy joven con tonos negruzcos.",
+        "stipe": "Pie alargado, más largo que el diámetro del sombrero en los ejemplares desarrollados, cilíndrico aunque algo más estrecho en el ápice. Es de color blanco, pero está recubierto de copos rojos, color que prevalece en especímenes jóvenes, estos copos suelen ser más densos en la zona inferior.",
+        "flesh": "Carne insignificante, sin que podamos destacar olor o sabor dignos de mención."
+    },
+    "habitat": "Las referencias existentes para esta especie no nos indican que se trate de una especie eminentemente coprófila, sin embargo nuestra recolecta ha sido efectuada sobre boñigas de ganado vacuno, en un bosque de Picea abies y Pseudotsuga menziesii. Localizada en la primavera del 2014 en Guillerna (Alava), saliendo varios ejemplares de una misma boñiga con crecimiento individual. Es una especie rara y a proteger.",
+    "observations": "Estamos ante una especie tan bella como poco referenciada, esta recolecta fue de hecho la primera cita para el País Vasco de la misma. Se caracteriza por el bello color rojo bermellón o azafrán de todo el basidioma, que es especialmente llamativo en los ejemplares jóvenes, dado que va perdiendo con el tiempo ese revestimiento. Las peculiares características de esta especie y su color, excepcional para su género, hacen que sea prácticamente inconfundible.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/coprinopsis_erythrocephala/coprinopsis_erythrocephala1.jpg",
+        "https://www.fungipedia.org/images/galerias/coprinopsis_erythrocephala/coprinopsis_erythrocephala2.jpg",
+        "https://www.fungipedia.org/images/galerias/coprinopsis_erythrocephala/coprinopsis_erythrocephala3.jpg",
+        "https://www.fungipedia.org/images/galerias/coprinopsis_erythrocephala/coprinopsis_erythrocephala4.jpg",
+        "https://www.fungipedia.org/images/galerias/coprinopsis_erythrocephala/coprinopsis_erythrocephala5.jpg",
+        "https://www.fungipedia.org/images/galerias/coprinopsis_erythrocephala/coprinopsis_erythrocephala6.jpg",
+        "https://www.fungipedia.org/images/galerias/coprinopsis_erythrocephala/coprinopsis_erythrocephala7.jpg",
+        "https://www.fungipedia.org/images/galerias/coprinopsis_erythrocephala/coprinopsis_erythrocephala8.jpg"
+    ]
+}

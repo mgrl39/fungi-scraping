@@ -1,0 +1,32 @@
+{
+    "name": "craterellus-lutescens",
+    "title": null,
+    "author": "(Fr.) Fr.",
+    "additional_info": {
+        "common_name": "Rebozuelo anaranjado, trompeta amarilla, angula de monte, saltsa-perretxiko hori, camagroc.",
+        "synonym": "Cantharellus lutescens (Fries)"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Aphyllophoromycetidae",
+        "Orden": "Cantharellales",
+        "Familia": "Cantharellaceae"
+    },
+    "edibility": "buen-comestible",
+    "characteristics": {
+        "cap": "Sombrero de aproximadamente 5 cm de diámetro en estado adulto, con forma embudada o plana, pero con una especie de ombligo en su zona central. De color marrón grisáceo recubierto por fibras oscuras sobre un fondo algo amarillento. El borde suele ser más oscuro, y está ondulado e involuto de forma un tanto irregular, siendo además muy fino.",
+        "hymenium": "Láminas inexistentes, el himenio de esta seta es liso o arrugado, como con unas ondulaciones a modo de pliegues que decurren notablemente sobre el pie. De color amarillento o carneo pálido.",
+        "stipe": "Pie mucho más largo que el diámetro del sombrero, de color amarillo fuerte o amarillo anaranjado, generalmente liso. A veces con un surco longitudinal. Es hueco.",
+        "flesh": "Carne fina, delgada y frágil, más dura en el pie y más flexible en el sombrero, de color amarillo pálido. Olor bastante fuerte, afrutado, y sabor dulce."
+    },
+    "habitat": "Es una seta que aparece durante el otoño, de forma gregaria, formando a veces verdaderas alfombras, en zonas musgosas dentro de los pinares, con predilección por los terrenos calizos. Localmente frecuente y abundante.",
+    "observations": "Es un buen comestible habitualmente recolectado por los seteros, que incluso puede desecarse para su posterior uso. Se puede confundir con el Craterellus tubaeformis, cuyo himenio tiene auténticas nervaduras, no pliegues o arrugas como esta seta, además su olor a humedad es característico, y sus colores no son tan vivos.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/craterellus_lutescens/craterellus_lutescens1.jpg",
+        "https://www.fungipedia.org/images/galerias/craterellus_lutescens/craterellus_lutescens2.jpg",
+        "https://www.fungipedia.org/images/galerias/craterellus_lutescens/craterellus_lutescens3.jpg",
+        "https://www.fungipedia.org/images/galerias/craterellus_lutescens/craterellus_lutescens4.jpg"
+    ]
+}

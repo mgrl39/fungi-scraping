@@ -1,0 +1,31 @@
+{
+    "name": "verpa-bohemica",
+    "title": null,
+    "author": "(Krombh.) J. Schröt.",
+    "additional_info": {
+        "common_name": "Falso morel.",
+        "synonym": "Ptychoverpa bohemica (Krombh.) Boud."
+    },
+    "taxonomy": {
+        "División": "Ascomycota",
+        "Subdivisión": "Ascomycotina",
+        "Clase": "Himenoascomycetes",
+        "Subclase": "Pezizomycetidae",
+        "Orden": "Pezizales",
+        "Familia": "Morchellaceae"
+    },
+    "edibility": "comestible-precaucion",
+    "characteristics": {
+        "cap": "Sombrero campanulado o en forma de dedal, de 2 a 3 cm de ancho y hasta 4 de alto, colocado en la parte superior del carpóforo como una capucha, solamente unido al pie por el disco superior. Su color es el pardo oscuro por la presencia de unos costillares que se entrecruzan, formando una especie de celdillas de manera similar a como lo hacen las Morchellas.",
+        "hymenium": "Himenio situado en la parte interior de la superficie externa del sombrero, ya que las costillas son estériles. Es de color más claro que las mismas y liso.",
+        "stipe": "Pie muy largo, pudiendo alcanzar los 15 cm, de color blanquecino o crema, a veces adopta tonos amarillentos. Suele ser cilíndrico, aunque algo irregular y furfuráceo.",
+        "flesh": "Carne escasa y delgada, frágil, sin sabor ni olor destacables."
+    },
+    "habitat": "Esta seta es exclusivamente primaveral, aparece bajo planifolios y árboles de ribera, poco habitual, rara.",
+    "observations": "A pesar de ser una especie comestible previa cocción, no recomendamos su consumo por dos circunstancias, en primer lugar no es buen comestible y además es una especie a proteger dada su rareza. Se parece a la Verpa digitaliformis, de sombrero liso o solamente arrugado, sin costillas, así como a la Mitrophora semilibera, cuyo sombrero solo está desunido del pie por la parte inferior.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/verpa_bohemica/verpa_bohemica1.jpg",
+        "https://www.fungipedia.org/images/galerias/verpa_bohemica/verpa_bohemica2.jpg",
+        "https://www.fungipedia.org/images/galerias/verpa_bohemica/verpa_bohemica3.jpg"
+    ]
+}

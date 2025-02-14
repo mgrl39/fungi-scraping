@@ -1,0 +1,37 @@
+{
+    "name": "tuber-panniferum",
+    "title": null,
+    "author": "Tul. & C. Tul.",
+    "additional_info": {
+        "common_name": "Trufa aterciolpelada, trufa lanosa.",
+        "synonym": "Ninguno."
+    },
+    "taxonomy": {
+        "División": "Ascomycota",
+        "Subdivisión": "Ascomycotina",
+        "Clase": "Himenoascomycetes",
+        "Subclase": "Pezizomycetidae",
+        "Orden": "Pezizales",
+        "Familia": "Tuberaceae"
+    },
+    "edibility": "comestible",
+    "characteristics": {
+        "cap": "Carpóforo con la forma habitual de las especies de su género, forma de tubérculo o pequeña patata, muchas veces subglobosa y rara vez regular, en la mayoría de los casos con diversas protuberancias o incluso lobulada. Tamaño más bien pequeño, no suele exceder su diámetro de los 4 cm, en nuestro caso los ejemplares recolectados estaban entre 1 y 3 cm. Tiene un color que va del marrón al pardo más o menos oscuro, color que le confiere el revestimiento lanoso abundante que posee, siendo lo que se encuentra debajo del pelo de un color más oscuro que este. Otra característica relevante es la presencia en la zona de unión micelial de una evidente cavidad basal, que tiende a adentrarse en el interior de la gleba.",
+        "hymenium": "Peridio pseudoparenquímatico formado por células de paredes gruesas y pigmentadas, adherente a la gleba, de color pardo oscuro y recubierto en su totalidad por pelos multiseptados de pared gruesa abundantes de color marrón que le dan un aspecto lanuginoso a todo el ascoma. Suele tener un grosor medio, no excede de las 300 micras en ningún caso(ver características microscópicas).",
+        "stipe": "Gleba compacta de color blanquecino en los ejemplares jóvenes, compuesta como es habitual por dos tipos de venas, unas que permanecen con la maduración con el mismo tono blanquecino, y otras cuyo color va evolucionando con la propia maduración del ejemplar, primero a tonos grises, y finalmente se vuelve de color marrón grisáceo.",
+        "flesh": "Carne bastante consistente y dura, formada por la propia gleba, sin la dureza de Tuber excavatum pero más dura que las trufas comestibles, con un olor trufado relativamente intenso que se vuelve algo desagradable en los ejemplares más maduros, y un sabor poco relevante que recuerda a las pipas sin sal."
+    },
+    "habitat": "Estamos ante una especie de crecimiento hipogeo, fructifica enterrada en suelos predominantemente calizos, y generalmente donde aparece suelen encontrarse varios individuos, rara vez está aislada. Es una especie de tendencia mediterránea, que suele salir de forma más habitual en el sur de la Península Ibérica, generalmente micorrizando con encinas (Quercus ilex), en cambio en el norte no es tan frecuente, comparte hábitat con Tuber aestivum. Su época predilecta de recolección es el final de la primavera y el verano, aunque ejemplares inmaduros se pueden hallar prácticamente en cualquier época del año. Tenemos varias recolectas de la especie para la realización de esta ficha, tanto en Navarra como en la provincia de Alava, en todos los casos micorrizando igualmente con Quercus ilex.",
+    "observations": "Esta especie de trufa, por la dureza de su carne, su escaso sabor, y la presencia de pelo exterior, no se utiliza con fines culinarios, siendo considerada como un comestible más bien mediocre. Las peculiares características de los ascomas de esta especie, sobre todo el revestimiento lanoso que posee y su cavidad basal, hacen que sea una de las especies del género Tuber más fácilmente identificable macroscópicamente, es una especie prácticamente inconfundible. Microscópicamente se caracteriza por sus ascas de hasta 8 esporas, y por estar estas ornamentadas con espinas cónicas. Otras especies, como las enclavadas en el complejo Tuber rufum, tienen el peridio papiloso, pero en ningún caso con revestimiento lanoso.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/tuber_panniferum/tuber_panniferum1.jpg",
+        "https://www.fungipedia.org/images/galerias/tuber_panniferum/tuber_panniferum2.jpg",
+        "https://www.fungipedia.org/images/galerias/tuber_panniferum/tuber_panniferum3.jpg",
+        "https://www.fungipedia.org/images/galerias/tuber_panniferum/tuber_panniferum4.jpg",
+        "https://www.fungipedia.org/images/galerias/tuber_panniferum/tuber_panniferum5.jpg",
+        "https://www.fungipedia.org/images/galerias/tuber_panniferum/tuber_panniferum6.jpg",
+        "https://www.fungipedia.org/images/galerias/tuber_panniferum/tuber_panniferum7.jpg",
+        "https://www.fungipedia.org/images/galerias/tuber_panniferum/tuber_panniferum8.jpg",
+        "https://www.fungipedia.org/images/galerias/tuber_panniferum/tuber_panniferum9.jpg"
+    ]
+}

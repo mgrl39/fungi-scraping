@@ -1,0 +1,32 @@
+{
+    "name": "hebeloma-mesophaeum",
+    "title": null,
+    "author": "(Pers.) Quél.",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Agaricus fastibilis var mesophaeus Pers."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Aphyllophoromycetidae",
+        "Orden": "Cortinariales",
+        "Familia": "Cortinariaceae"
+    },
+    "edibility": "no-comestible",
+    "characteristics": {
+        "cap": "Sombrero de tamaño más bien pequeño para el género, a veces apenas alcanza los 2 o 3 cm de diámetro, llegando como mucho a los 6 cm. Tiene forma de campana en su primera etapa, después es convexo y posteriormente se aplana bastante, manteniendo muchas veces el centro resaltado. Su superficie es viscosa en tiempo lluvioso, brillante incluso sin ella, con dos colores perfectamente diferenciados, el centro de color castaño rojizo intenso, y el margen de color ocre claro. Los restos de velo que tiene en el borde desaparecen muy rápidamente, por lo que lo habitual es encontrarla sin ellos.",
+        "hymenium": "Láminas escotadas de color pálido de jóvenes, ocre claro, volviéndose oscuras con el tiempo, marrones. Son bastante apretadas y sinuosas, con laminillas, y la arista frecuentemente se queda más pálida que el resto.",
+        "stipe": "Pie proporcionado o alargado de color claro, oscureciéndose a partir de la base, también se oscurece superficialmente al ser manipulado. Es fistuloso y presenta restos de cortina manifiestos en muchas ocasiones, pero dispersos, sin llegar a formar zona anuliforme.",
+        "flesh": "Carne más bien delgada de color blanquecino en el sombrero y marrón en el pie. Tiene olor rafanoide y su sabor es desagradable, ligeramente amargo."
+    },
+    "habitat": "Se trata de una especie muy frecuente y abundante de crecimiento gregario, formando hileras o \"corros de bruja\". No tiene predilección por un tipo de árbol, apareciendo por igual bajo coníferas o bajo planifolios diversos. Es una especie eminentemente otoñal que circunstancialmente puede aparecer también en primavera.",
+    "observations": "Se caracteriza esta seta por la manifiesta diferenciación entre los dos colores del sombrero. Existen varias especies afines, entre ellas destacaremos al Hebeloma cylindrosporum, propio de pinares arenosos, de pie pruinoso sin restos de cortina y esporas cilíndricas muy verrucosas. Ninguna especie del género Hebeloma tiene interés culinario, existiendo entre ellas numerosas especies tóxicas que producen trastornos gástricos, siendo este aspecto todavía poco estudiado en muchas de ellas, por lo que todos los Hebelomas son rechazables desde ese punto de vista.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/hebeloma_mesophaeum/hebeloma_mesophaeum1.jpg",
+        "https://www.fungipedia.org/images/galerias/hebeloma_mesophaeum/hebeloma_mesophaeum2.jpg",
+        "https://www.fungipedia.org/images/galerias/hebeloma_mesophaeum/hebeloma_mesophaeum3.jpg",
+        "https://www.fungipedia.org/images/galerias/hebeloma_mesophaeum/hebeloma_mesophaeum4.jpg"
+    ]
+}

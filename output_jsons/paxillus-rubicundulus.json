@@ -1,0 +1,34 @@
+{
+    "name": "paxillus-rubicundulus",
+    "title": null,
+    "author": "P. D. Orton",
+    "additional_info": {
+        "common_name": "Paxilo de los alisos.",
+        "synonym": "Paxillus filamentosus (Scop) Fr."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Boletales",
+        "Familia": "Paxillaceae"
+    },
+    "edibility": "toxica",
+    "characteristics": {
+        "cap": "Sombrero con un diámetro que oscila por lo general entre los 5 y los 10 cm, de forma convexa en los especímenes jóvenes, se va aplanando paulatinamente y en los ejemplares viejos se deprime de forma notable hasta llegar a ser embudado en algunas ocasiones. Cutícula separable de color ocre con algún matiz amarillento en su primera etapa, se mancha de pardo hasta que finalmente el color pardo sucio predomina, al principio es bastante lisa pero se escama con el tiempo de forma acusada. Margen involuto durante buena parte de su desarrollo, luego plano y fino, finalmente ondulado, con frecuencia se presenta estriado o acanalado de viejo, siendo este un carácter sujeto a gran variabilidad.",
+        "hymenium": "Láminas decurrentes de color amarillento de jóvenes, pardas en la madurez, muy apretadas entre sí y de disposición un tanto irregular, con frecuencia bifurcadas. Se manchan de color pardo sucio al menor rozamiento o manipulación y son separables de la carne del sombrero.",
+        "stipe": "Pie corto, central en algunas ocasiones, más frecuentemente excéntrico, ligeramente atenuado en la base, de color ocre amarillento volviéndose pardo con el tiempo, lleno.",
+        "flesh": "Carne compacta y apretada de color amarillo bastante vivo, al corte se vuelve parda progresivamente. Su sabor es agradable y su olor es fúngico y suave."
+    },
+    "habitat": "Se trata de una especie que forma micorriza de manera exclusiva con los alisos (Alnus sp), donde suele aparecer aislada o en pequeños grupos. Es una especie eminentemente otoñal y bastante menos frecuente que otras especies de su género.",
+    "observations": "Como sucedió en su día con el Paxillus involutus, todavía aparece como comestible en algunas guías, sin embargo contiene las mismas toxinas hemolíticas termolábiles que ella, como no está estudiado la cantidad de ellas que tiene la presentamos como tóxica, pero bien pudiera ser potencialmente mortal. Las diferencias entre ambas especies atañen de manera exclusiva a su hábitat y al tamaño y forma de sus esporas. Tapinella atrotomentosa tiene un pie grueso y velloso, así como un comportamiento más lignícola.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/paxillus_rubicundulus/paxillus_rubicundulus1.jpg",
+        "https://www.fungipedia.org/images/galerias/paxillus_rubicundulus/paxillus_rubicundulus2.jpg",
+        "https://www.fungipedia.org/images/galerias/paxillus_rubicundulus/paxillus_rubicundulus3.jpg",
+        "https://www.fungipedia.org/images/galerias/paxillus_rubicundulus/paxillus_rubicundulus4.jpg",
+        "https://www.fungipedia.org/images/galerias/paxillus_rubicundulus/paxillus_rubicundulus5.jpg",
+        "https://www.fungipedia.org/images/galerias/paxillus_rubicundulus/paxillus_rubicundulus6.jpg"
+    ]
+}

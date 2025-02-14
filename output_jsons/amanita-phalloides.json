@@ -1,0 +1,31 @@
+{
+    "name": "amanita-phalloides",
+    "title": null,
+    "author": "(Vaill. ex Fr.) Link",
+    "additional_info": {
+        "common_name": "Oronja verde, oronja mortal, cicuta verde.",
+        "synonym": "Amanita viridis Pers."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Agaricales",
+        "Familia": "Amanitaceae"
+    },
+    "edibility": "mortal",
+    "characteristics": {
+        "cap": "Sombrero de 5 a 15 cm, de convexo a aplanado, de color fundamentalmente verde, a veces muy claro, casi blanquecino, y otras más oscuro, verde oliva, con fibrillas radiales más oscuras. Su cutícula se muestra muchas veces sin restos de volva y es lisa, no estriada.",
+        "hymenium": "Láminas blancas y libres, bastante apretadas y anchas.",
+        "stipe": "Pie central y cilíndrico, bastante largo. Es normalmente blanco, pero suele tener zonas cubiertas de un color amarillo verdoso, confiriéndole al pie un aspecto acebrado. Tiene un anillo importante de color blanco, poco estriado, y una volva con forma de saco, también blanca y membranosa.",
+        "flesh": "Carne blanca, quizás algo verdosa bajo la cutícula, no demasiado firme, de sabor suave y dulzón, y olor agradable cuando es joven, solo de vieja el olor se hace desagradable."
+    },
+    "habitat": "Aunque aparece también de forma localizada bajo coníferas, nosotros siempre la hemos encontrado bajo planifolios diversos, en ocasiones es abundante. Aparece en los meses otoñales, aunque tampoco le gusta mucho el frío.",
+    "observations": "MORTAL, solo un ejemplar puede intoxicar gravemente a una persona, y aunque la medicina ha avanzado mucho, y el porcentaje de mortalidad se ha reducido, la posibilidad de causar la muerte del intoxicado sigue latente. Se puede confundir con la Amanita citrina, inocua, y se ha llegado a confundir con la Russula virescens, que no tiene anillo ni volva.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/amanita_phalloides/amanita_phalloides1.jpg",
+        "https://www.fungipedia.org/images/galerias/amanita_phalloides/amanita_phalloides2.jpg",
+        "https://www.fungipedia.org/images/galerias/amanita_phalloides/amanita_phalloides3.jpg"
+    ]
+}

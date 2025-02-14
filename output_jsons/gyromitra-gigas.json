@@ -1,0 +1,31 @@
+{
+    "name": "gyromitra-gigas",
+    "title": null,
+    "author": "(Krombh.) Cooke",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Discina gigas (Krombh) Eckblad"
+    },
+    "taxonomy": {
+        "División": "Ascomycota",
+        "Subdivisión": "Ascomycotina",
+        "Clase": "Himenoascomycetes",
+        "Subclase": "Pezizomycetidae",
+        "Orden": "Pezizales",
+        "Familia": "Helvellaceae"
+    },
+    "edibility": "toxica",
+    "characteristics": {
+        "cap": "Sombrero que puede alcanzar los 10 cm de ancho por 5 a 8 de alto, de aspecto llamativo, con forma de cerebro, lleno de arrugas y prominencias dispuestas de manera irregular. El color es el marrón claro o avellana, bastante uniforme, algo más pálido en su parte interna. Está unido al pie por varios puntos.",
+        "hymenium": "Himenio que recubre toda la parte externa del carpóforo, liso y concoloro.",
+        "stipe": "Pie más bien corto, apenas llega a los 5 cm de altura en su máximo apogeo, a veces es tan ancho como largo. Es hueco, liso y de color blanquecino.",
+        "flesh": "Carne de consistencia frágil en el sombrero, la del pie es más elástica, sin un olor significativo y de sabor suave."
+    },
+    "habitat": "Es una especie exclusivamente primaveral, rara bajo planifolios, mucho más rara aun en bosques de coníferas.",
+    "observations": "Consideramos que se trata de una especie tóxica, ya que contiene gyromitrina al igual que la Gyromitra esculenta. El parecido entre ambas especies es notable, si bien la aquí descrita suele tener el pie más corto, es de color avellana y algo más robusta. Las dos son primaverales, aunque la esculenta suele aparecer bajo pinos.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/gyromitra_gigas/gyromitra_gigas1.jpg",
+        "https://www.fungipedia.org/images/galerias/gyromitra_gigas/gyromitra_gigas2.jpg",
+        "https://www.fungipedia.org/images/galerias/gyromitra_gigas/gyromitra_gigas3.jpg"
+    ]
+}

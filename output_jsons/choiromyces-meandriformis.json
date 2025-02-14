@@ -1,0 +1,31 @@
+{
+    "name": "choiromyces-meandriformis",
+    "title": null,
+    "author": "Vittad.",
+    "additional_info": {
+        "common_name": "Txerri-grisola.",
+        "synonym": "Choiromyces venosus (Fr.) Fr."
+    },
+    "taxonomy": {
+        "División": "Ascomycota",
+        "Subdivisión": "Ascomycotina",
+        "Clase": "Himenoascomycetes",
+        "Subclase": "Pezizomycetidae",
+        "Orden": "Tuberales",
+        "Familia": "Terfeziaceae"
+    },
+    "edibility": "toxica",
+    "characteristics": {
+        "cap": "Carpóforo de buen tamaño, dentro de los Ascomycetes hipogeos o semihipogeos es una de las especies más grandes, su diámetro puede rebasar en ocasiones los 10 cm, siendo lo habitual encontrarla entre 5 y 8 cm de diámetro. Tiene forma de tubérculo, casi nunca redondo ni uniforme, sino más bien irregular y con prominencias, o también se puede definir como forma de trufa.",
+        "hymenium": "Peridio liso no dehiscente pero a su vez irregular, ya que con la maduración se produce un agrandamiento de la gleba que provoca muchas veces el agrietamiento del peridio. Tiene un color blanquecino cremoso, sobre todo de joven, deviniendo a tonos más grises y posteriormente adopta color ocráceo e incluso pardo rojizo cuando es muy viejo.",
+        "stipe": "Pie inexistente.",
+        "flesh": "Gleba compacta y maciza de color crema, amarillenta de vieja, recorrida en todo su contexto por venas blanquecinas con típica forma de meandros, lo que da nombre a la especie, estas venas son más patentes con la desecación del ejemplar. El sabor de esta especie es poco reseñable, y de joven resulta prácticamente inodora, pero con la maduración adquiere un olor muy fuerte y característico difícil de definir, como de concentrado de tomate, que resulta desagradable."
+    },
+    "habitat": "Aunque puede hallarse totalmente enterrado, es decir hipogeo, lo habitual de la especie es que asome al exterior, considerándola como un hongo semihipogeo. Puede hallarse ya desde la primavera hasta bien entrado el otoño, de igual manera bajo coníferas que bajo planifolios, con predilección por los terrenos básicos. Es una especie frecuente, pero al crecer tan escondida no es fácil encontrarla.",
+    "observations": "Es una especie con la que debemos tomar precauciones, ya que está considerada como tóxica debido a que es muy purgante y produce trastornos gástricos similares a una gastroenteritis, con diarreas importantes. Existe sin embargo una especie de similares características que es comestible y se recolecta habitualmente en algunas provincias del sur peninsular, la Terfezia magnusii=Choiromyces magnusii, especie primaveral algo más pequeña, cuyas nervaduras no tienen forma de meandros, y que habita exclusivamente bajo jaras (Cistus sp).",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/choiromyces_meandriformis/choiromyces_meandriformis1.jpg",
+        "https://www.fungipedia.org/images/galerias/choiromyces_meandriformis/choiromyces_meandriformis2.jpg",
+        "https://www.fungipedia.org/images/galerias/choiromyces_meandriformis/choiromyces_meandriformis3.jpg"
+    ]
+}

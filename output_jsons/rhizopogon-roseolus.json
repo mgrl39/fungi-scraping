@@ -1,0 +1,31 @@
+{
+    "name": "rhizopogon-roseolus",
+    "title": null,
+    "author": "(Corda) Th. Fr.",
+    "additional_info": {
+        "common_name": "Criadilla rosada, sasiboilur arrosa, fetjo rosat.",
+        "synonym": "Rhizopogon vulgaris (Vittad.) M Lange"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Gasteromycetidae",
+        "Orden": "Hymenogastrales",
+        "Familia": "Rhizopogonaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Carpóforo de tamaño más bien pequeño, rara vez supera los 5 cm de diámetro, lo habitual es hallarlos entre 2 y 5 cm. Tiene forma tuberculada, como si se tratase de una pequeña patata o similar, a veces esférico pero normalmente irregular, con alguna protuberancia no muy acusada o hendido de forma confluyente hacia la base. El color es variable, en sus primeros estados casi blanquecino con algún matiz rosado, volviéndose con el tiempo de color pardo rojizo, e incluso los ejemplares insolados pueden adquirir un tono más oliváceo. La base presenta rizomorfos evidentes que tienen la particularidad de adherirse al propio peridio.",
+        "hymenium": "Peridio extremadamente fino, no alcanza más que medio milímetro de grueso aproximadamente, además se halla adherido fuertemente a la gleba siendo inseparable de ella. Externamente con el colorido mencionado, al corte transversal se aprecia como una fina línea rojiza o rosada que bordea la gleba. No tiene dehiscencia apical, los ejemplares viejos pueden tener hasta 3 fisuras que dejen entrever la gleba.",
+        "stipe": "Pie inexistente.",
+        "flesh": "Gleba loculada, es decir, dividida en pequeños espacios o cavidades, con aspecto de esponja. De joven con color blanquecino a amarillento, después se vuelve pardo olivácea, con algunas finas venas sobre todo hacia la base que en los ejemplares viejos se vuelven delicuescentes."
+    },
+    "habitat": "Especie que está considerada como de crecimiento hipogeo o semihipogeo, sin embargo los ejemplares viejos suelen tener la mayor parte del carpóforo de forma epigea. Forma micorrizas con coníferas diversas, con especial predilección por los pinos. Generalmente aparece en grupos y puede hacerlo en primavera, aunque es en otoño cuando sale con más profusión. Bastante frecuente.",
+    "observations": "El género Rhizopogon lo componen especies hipogeas o semihipogeas que forman micorrizas y se asocian de manera similar a algunos Ascomycetes como las trufas. Son especies de peridio delgado y con basidios pentaspóricos por regla general, que comparten algunos caracteres micro con el orden Boletales, por lo que existe una tendencia a incluirlos dentro de este orden, algo que puede resultar confuso. Rhizopogon luteolus es de color amarillento y su peridio no rojea al ser frotado.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/rhizopogon_roseolus/rhizopogon_roseolus1.jpg",
+        "https://www.fungipedia.org/images/galerias/rhizopogon_roseolus/rhizopogon_roseolus2.jpg",
+        "https://www.fungipedia.org/images/galerias/rhizopogon_roseolus/rhizopogon_roseolus3.jpg"
+    ]
+}

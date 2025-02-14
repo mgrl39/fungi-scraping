@@ -1,0 +1,32 @@
+{
+    "name": "kretzschmaria-deusta",
+    "title": null,
+    "author": "(Hoffm.) P.M.D. Martin",
+    "additional_info": {
+        "common_name": "Ustulina quemada, zarakar-kimo.",
+        "synonym": "Ustulina deusta (Hoffm.) Lind"
+    },
+    "taxonomy": {
+        "División": "Ascomycota",
+        "Subdivisión": "Ascomycotina",
+        "Clase": "Himenoascomycetes",
+        "Subclase": "Pyrenomycetidae",
+        "Orden": "Sphaeriales",
+        "Familia": "Sphaeriaceae"
+    },
+    "edibility": "no-comestible",
+    "characteristics": {
+        "cap": "Carpóforo formado por una especie de costra adherida al sustrato que puede sobresalir del mismo en algo menos de 1 cm. En la primera etapa de su desarrollo se muestra como una serie de individuos separados entre sí, de color blancuzco o gris y de pequeño tamaño, con los bordes alzados a más altura que el centro, que sirve de unión al sustrato. Se van oscureciendo a partir del centro, a la vez que se expanden y tienden a juntarse formando costras de hasta 10 cm en algún caso. En este estado es como se las conoce habitualmente, con un color negro que da sensación de estar carbonizados, e incluso desprenden una especie de hollín. Como sucede en algunos Ascomycetes tiene estas dos formas de presentarse, una primera conidial, y la segunda ascógena.",
+        "hymenium": "Himenio inmerso en el interior, donde se aprecia un hueco de pequeño tamaño que alberga las ascas, que se liberan al exterior a través de un pequeño agujero llamado ostíolo.",
+        "stipe": "Carne dura, de consistencia similar al carbón, sin apenas olor.",
+        "flesh": "Es una especie no demasiado frecuente que aparece durante la primavera en su fase conidial, siendo en otoño cuando se encuentran los individuos maduros en fase ascógena. Fructifica sobre madera de árboles planifolios, con especial predilección por las hayas."
+    },
+    "habitat": "Este hongo se caracteriza por formar costras de apariencia quemada sobre madera de haya, sus notables dimensiones la diferencian de los hongos del Género Hypoxylon. La especie más parecida a esta quizás sea el Annulohypoxylon multiforme, que forma también costras sobre la madera con forma irregular, aunque su color no es tan negro carbón, y su hábitat principal son los abedules.",
+    "observations": null,
+    "images": [
+        "https://www.fungipedia.org/images/galerias/kretzschmaria_deusta/kretzschmaria_deusta1.jpg",
+        "https://www.fungipedia.org/images/galerias/kretzschmaria_deusta/kretzschmaria_deusta2.jpg",
+        "https://www.fungipedia.org/images/galerias/kretzschmaria_deusta/kretzschmaria_deusta3.jpg",
+        "https://www.fungipedia.org/images/galerias/kretzschmaria_deusta/kretzschmaria_deusta4.jpg"
+    ]
+}

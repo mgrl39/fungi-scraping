@@ -1,0 +1,31 @@
+{
+    "name": "russula-nigricans",
+    "title": null,
+    "author": "Fr.",
+    "additional_info": {
+        "common_name": "Rusula negruzca, cualbra carbonera, gibelilun orrizabala.",
+        "synonym": "Russula elephantina (Bolton) Fr."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Russulales",
+        "Familia": "Russulaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero que con cierta facilidad supera los 10 cm de diámetro en ejemplares adultos, no siendo infrecuente hallar especímenes de 15 o más centímetros. Su forma es hemisférica al inicio pero pronto convexa-umbilicada, tendiendo de vieja a deprimirse o embudarse. Cutícula adherida de aspecto seco con un color que varía de forma notable, inicialmente blanquecina, oscurece de forma paulatina pasando por tonos ocres a pardo negruzcos y siendo en sus últimos momentos prácticamente negra. El margen permanece incurvado durante la mayor parte de su desarrollo, solo en los ejemplares viejos puede llegar a ser extendido.",
+        "hymenium": "Láminas adnatas y muy separadas, gruesas, de color claro, casi blanco de jóvenes, pero que adquieren tonos rosados u ocres para acabar ennegreciendo como todo el carpóforo, al roce se ensucian primero de rojizo y luego de negro. Arista concolora que con la vejez ennegrece.",
+        "stipe": "Pie corto y macizo, lleno de joven y después cavernoso, cilíndrico o algo atenuado en su base, de color blanquecino, tiñéndose de rojizo al roce y luego de negro.",
+        "flesh": "Carne espesa y quebradiza de color blanco, al corte vira en un principio a un color rojizo que se va oscureciendo de forma paulatina hasta quedar un color negruzco. Su olor es poco destacable, algo afrutado, y su sabor es dulce."
+    },
+    "habitat": "Se trata de una especie muy común y abundante en muchas zonas de la geografía española, forma grupos de numerosos ejemplares tanto en bosques de coníferas como bajo planifolios diversos. Aparece tanto en verano como durante el otoño, algunos ejemplares se secan sin llegar a pudrirse y permanecen con aspecto carbonizado durante meses en el bosque.",
+    "observations": "Esta especie se puede diferenciar de otras dentro de la sección Compactae por sus láminas muy separadas, se caracteriza por el viraje primero al rojo y luego al negro de su carne, así mismo es de destacar que su carne muchas veces no se pudre y las setas permanecen en el bosque como si fueran fósiles de seta negros. A pesar de ser dulce no es destacable en ella el aspecto culinario, si bien algunos autores la califican como comestible. La Russula densifolia tiene las láminas más apretadas, es también común y la carne tiene el mismo viraje que la especie aquí descrita. Se presta igualmente a confusión la Russula acrifolia, que tiene las láminas acres, así como otras especies de Russulas nigricantes.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/russula_nigricans/russula_nigricans1.jpg",
+        "https://www.fungipedia.org/images/galerias/russula_nigricans/russula_nigricans2.jpg",
+        "https://www.fungipedia.org/images/galerias/russula_nigricans/russula_nigricans3.jpg"
+    ]
+}

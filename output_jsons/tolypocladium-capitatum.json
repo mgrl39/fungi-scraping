@@ -1,0 +1,31 @@
+{
+    "name": "tolypocladium-capitatum",
+    "title": null,
+    "author": "(Holmsk.) Quandt, Kepler & Spatafora",
+    "additional_info": {
+        "common_name": "Boilur-mazo.",
+        "synonym": "Elaphocordyceps capitata (Holmsk) G. H. Sung, J. M. Sung & Spatafora"
+    },
+    "taxonomy": {
+        "División": "Ascomycota",
+        "Subdivisión": "Ascomycotina",
+        "Clase": "Himenoascomycetes",
+        "Subclase": "Pyrenomycetidae",
+        "Orden": "Clavicipetales",
+        "Familia": "Clavicipetaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Carpóforo de pequeño tamaño, compuesto de dos partes bien diferenciadas. La parte superior o estroma y el pie. Todo el conjunto tiene forma de cerilla con la cabeza gruesa. El estroma tiene un color parduzco amarillento con tonos olivas en ocasiones, pero con el tiempo deviene hacia tonos más negruzcos. Es la parte fértil del carpóforo, provista de unos pequeños agujeritos llamados ostiolos, que no son otra cosa que el final de los peritecios, en cuyo interior se encuentran las ascas que albergan las esporas. Cuando se produce la maduración las esporas salen al exterior por los ostiolos, impregnando la cabezuela de un polvillo más claro que su color habitual.",
+        "hymenium": "Pie que puede llegar a ser largo (hasta 8 cm), Emerge del individuo parasitado y se prolonga hacia el exterior, permaneciendo parte del mismo dentro del propio Elaphomyces parasitado. Es de color amarillento y puede estar recubierto por una especie de dibujo en zig zag, aunque a veces es liso.",
+        "stipe": "Carne poco significativa con olor y sabor poco relevantes.",
+        "flesh": "Es una especie que vive asociada al huésped que parasita, y por lo tanto el hábitat depende de él, en este caso en concreto documentamos que fue encontrada en un bosque de Fagus silvatica (haya), en el mes de septiembre y parasitando al Elaphomyces granulatus. Especie poco frecuente."
+    },
+    "habitat": "Esta llamativa especie se distingue por su cabeza gruesa del Tolypocladium ophioglossoides, que es además de color más oscuro, y que sin embargo se localiza en el mismo hábitat. Esta seta parásita de ejemplares del género Elaphomyces, tiene una especie muy próxima a ella, y cuya diferenciación es ciertamente problemática, ya que es meramente microscópica, se trata del Elaphocordyceps canadensis, cuyas esporas son más anchas y de paredes más gruesas.",
+    "observations": null,
+    "images": [
+        "https://www.fungipedia.org/images/galerias/tolypocladium_capitatum/tolypocladium_capitatum1.jpg",
+        "https://www.fungipedia.org/images/galerias/tolypocladium_capitatum/tolypocladium_capitatum2.jpg",
+        "https://www.fungipedia.org/images/galerias/tolypocladium_capitatum/tolypocladium_capitatum3.jpg"
+    ]
+}

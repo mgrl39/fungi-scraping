@@ -1,0 +1,30 @@
+{
+    "name": "psilocybe-coprophila",
+    "title": null,
+    "author": "(Bull.) P. Kumm.",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Stropharia coprophila (Bull.) J. E. Lange"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Cortinariales",
+        "Familia": "Strophariaceae"
+    },
+    "edibility": "toxica",
+    "characteristics": {
+        "cap": "Sombrero muy pequeño y de forma muy homogénea, apenas alcanza los 2 o 3 cm de diámetro como mucho, y su forma es hemisférica prácticamente desde su nacimiento hasta su ocaso. Su color varía en función de la hidratación del espécimen, lo habitual es encontrarlos de color pardo rojizo o leonado, pero al secarse adoptan tonos más claros. Superficie marcadamente viscosa, sobre todo con lluvia. Margen ligeramente estriado en los ejemplares hidratados como consecuencia de su higrofaneidad.",
+        "hymenium": "Láminas adnatas y separadas entre sí, su color va de un tono grisáceo al marrón negruzco cuando maduran las esporas, manteniendo por lo general la arista blanquecina.",
+        "stipe": "Pie central y cilíndrico, sin exceder de los 5 cm de largo, en ocasiones curvado en la unión con el sustrato. Es de color ocre, a veces con maticas pardos y otras amarillentos. Ausencia total de anillo.",
+        "flesh": "Carne muy poco significativa de color blanquecino, de olor harinoso y sabor un tanto extraño, entre herbáceo y harinoso."
+    },
+    "habitat": "Ni que decir tiene que es una especie coprófila, su nombre le delata, la hemos localizado sobre excrementos de caballo y de oveja. Fructifica sobre todo a finales del verano y durante el otoño. Es una especie frecuente.",
+    "observations": "Estamos ante una especie que contiene psilocibina, un compuesto de efectos alucinógenos para el ser humano. En las personas adultas no suele tener secuelas graves, pero si por accidente un niño tuviera acceso a esta seta podría causarle la muerte. Guarda mucha similitud con el Psilocybe merdaria, de tonos más oliváceos, así como con el Psilocybe liniformans, con esporas más grandes.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/psilocybe_coprophila/psilocybe_coprophila1.jpg",
+        "https://www.fungipedia.org/images/galerias/psilocybe_coprophila/psilocybe_coprophila2.jpg"
+    ]
+}

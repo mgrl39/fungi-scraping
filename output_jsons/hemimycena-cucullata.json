@@ -1,0 +1,31 @@
+{
+    "name": "hemimycena-cucullata",
+    "title": null,
+    "author": "(Pers.) Singer",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Mycena cucullata (Pers.) Bon & Chevassut"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Agaricales",
+        "Familia": "Mycenaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero de tamaño muy pequeño, el diámetro de los ejemplares encontrados por nosotros oscila entre 0`5 y 2`5 cm, de forma cónica cuando el ejemplar es inmaduro, después tiene forma de campana, y al abrirse la hace a partir del borde, manteniendo la zona central cónica con lo que se forma una prominencia que le da un aspecto curioso, casi de pamela, finalmente acaba abriéndose si llegar a aplanarse en ningún momento. Es de color blanco puro desde su nacimiento y durante casi todo su desarrollo, pero con el tiempo la zona central adquiere un tono amarillento. Cutícula lisa y brillante, lubrificada, sobre todo con lluvia.",
+        "hymenium": "Láminas ascendentes de color blanco y arista regular, medianamente apretadas.",
+        "stipe": "Pie largo y esbelto, totalmente desproporcionado al tamaño del sombrero, de apariencia frágil, pero sin embargo duro, no se troncha al cogerlo como sucede con las Mycenas. Es de color blanco puro, y la base posee unas pilosidades bancas perfectamente visibles.",
+        "flesh": "Carne algo elástica y poco significativa dada la pequeñez de la seta. Su olor y sabor son igualmente poco significativos."
+    },
+    "habitat": "Es una pequeña especie poco común, rara, que fructifica durante el otoño sobre restos herbáceos o de hojas, e incluso algún ejemplar se hallaba entre el musgo de manera excepcional.",
+    "observations": "Los ejemplares fotografiados se encontraron en el borde de un camino en la localidad vizcaína de Galdakao, hallándose cientos de ellos. Esta seta resalta por su color blanco y la forma peculiar que adopta el sombrero en los ejemplares intermedios, así como por la dureza del pie y los pelos en la base. Todo esto la distingue de las Mycenas, existen, sin embargo, otras Hemimycenas similares, como la Hemimycena lactea, precisando un análisis microscópico para su determinación.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/hemimycena_cucullata/hemimycena_cucullata1.jpg",
+        "https://www.fungipedia.org/images/galerias/hemimycena_cucullata/hemimycena_cucullata2.jpg",
+        "https://www.fungipedia.org/images/galerias/hemimycena_cucullata/hemimycena_cucullata3.jpg"
+    ]
+}

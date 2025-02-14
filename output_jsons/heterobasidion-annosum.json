@@ -1,0 +1,31 @@
+{
+    "name": "heterobasidion-annosum",
+    "title": null,
+    "author": "(Fr.) Bref.",
+    "additional_info": {
+        "common_name": "Yesquero añoso.",
+        "synonym": "Polyporus annosus (Fries)"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Aphyllophoromycetidae",
+        "Orden": "Poriales",
+        "Familia": "Coriolaceae"
+    },
+    "edibility": "no-comestible",
+    "characteristics": {
+        "cap": "Carpóforo sésil y perenne que brota de la madera en forma de abanico, como una especie de costra adherida a la propia madera. Suele medir más de 10 cm de ancho, y no es muy grueso, más bien plano. A veces forma un todo y otras, una unión de varios sombreros. En la zona más próxima al nacimiento es de color pardo oscuro, hacia el borde se torna pardo rojiza, presentando generalmente en el mismo borde una zona de crecimiento blanca.",
+        "hymenium": "Tubos agrupados en varias capas, de unos 5 mm por capa aproximadamente, de color blanco crema.",
+        "stipe": "Poros del mismo color que los tubos, pequeños, de 2 a 5 poros por mm, redondos y angulosos.",
+        "flesh": "Carne muy dura, tenaz y de consistencia coriácea, de color blanco crema, olor bastante fuerte, dulzón."
+    },
+    "habitat": "Es una especie exclusiva de coníferas que podemos encontrar prácticamente en cualquier época del año. Suele aparecer principalmente en la base de tocones y árboles dañados, muchas veces a ras de la propia tierra, y en su crecimiento envuelve las hierbas y ramitas de su entorno.",
+    "observations": "Esta especie actúa de manera parásita sobre la zona radical de los pinos, es decir donde la corteza del pino se une con el suelo, además de sobre las propias raíces. Penetra mucho en el árbol formando una pudrición blanca, y acabando con su vida, para después comportarse de forma saprófita. La costra negruzca que tiene y su borde blanco la diferencian de otras especies similares como la Antrodia serialis.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/heterobasidion_annosum/heterobasidion_annosum1.jpg",
+        "https://www.fungipedia.org/images/galerias/heterobasidion_annosum/heterobasidion_annosum2.jpg",
+        "https://www.fungipedia.org/images/galerias/heterobasidion_annosum/heterobasidion_annosum3.jpg"
+    ]
+}

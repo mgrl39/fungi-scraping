@@ -1,0 +1,34 @@
+{
+    "name": "hymenoscyphus-monticola",
+    "title": null,
+    "author": "(Berk.) Baral",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Phaeohelotium monticola (Berk.) Dennis"
+    },
+    "taxonomy": {
+        "División": "Ascomycota",
+        "Subdivisión": "Ascomycotina",
+        "Clase": "Himenoascomycetes",
+        "Subclase": "Pezizomycetidae",
+        "Orden": "Leotiales",
+        "Familia": "Helotiaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Carpóforo muy pequeño, el diámetro de los ejemplares de esta especie oscila entre los 2 y los 5 mm, al principio con forma de turbina, es decir, similar a la forma típica que adopta un tornado, pero se va aplanando con el tiempo hasta adoptar forma de disco, en apariencia unido directamente al sustrato. Cara externa con superficie lisa y brillante, totalmente glabra, de color amarillo pálido, difuminándose en ocasiones con la humedad excesiva adoptando aspecto translúcido.",
+        "hymenium": "Himenio completamente liso y brillante de color amarillo, más o menos intenso según el estado de desarrollo en que se encuentre. Las ascósporas tienen la particularidad de ser septadas.",
+        "stipe": "Pie De color algo más pálido que el resto del ascocarpo. En el grupo de los Ascomycetes con forma de disco, Discomycetes, a la parte exterior del himenio se le llama excípulo, si en toda su longitud su estructura no varía no se considera un pie. Entendemos que es éste el motivo por el cual algunos autores no lo referencian, sin embargo para una descripción macroscópica nos referiremos a él como pie.",
+        "flesh": "Carne insignificante de consistencia un poco gelatinosa o cerosa, color amarillo pálido o blanquecino, sabor y olor poco destacables."
+    },
+    "habitat": "Especie referenciada sobre ramas de Quercus, no es descartable su aparición en otro tipo de árbol. Sobre todo precisa de un alto grado de humedad, por lo que habitualmente se la halla en zonas encharcadas o próximas a fuentes y arroyos. Estos ejemplares fueron encontrados junto a una fuente y sobre rama de roble, en el mes de Septiembre, a pesar de ser más propia del otoño tardío. Es bastante rara, infrecuente.",
+    "observations": "Sería del todo imposible identificar las especies del género Hymenoscyphus sin la inestimable ayuda del microscopio. Esta especie en concreto se caracteriza por su hábitat en zonas muy húmedas sobre ramas de Quercus, además de por sus esporas ocráceas y septadas con hasta tres tabiques. Otras especies similares, pero con hábitat sobre restos de Fagus sylvatica, son el Hymenoscyphus inmutabilis o el Hymenoscyphus serotinus, pero ninguno de los dos tiene esporas septadas.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/hymenoscyphus_monticola/hymenoscyphus_monticola1.jpg",
+        "https://www.fungipedia.org/images/galerias/hymenoscyphus_monticola/hymenoscyphus_monticola2.jpg",
+        "https://www.fungipedia.org/images/galerias/hymenoscyphus_monticola/hymenoscyphus_monticola3.jpg",
+        "https://www.fungipedia.org/images/galerias/hymenoscyphus_monticola/hymenoscyphus_monticola4.jpg",
+        "https://www.fungipedia.org/images/galerias/hymenoscyphus_monticola/hymenoscyphus_monticola5.jpg",
+        "https://www.fungipedia.org/images/galerias/hymenoscyphus_monticola/hymenoscyphus_monticola6.jpg"
+    ]
+}

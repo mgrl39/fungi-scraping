@@ -1,0 +1,31 @@
+{
+    "name": "panaeolus-fimicola",
+    "title": null,
+    "author": "(Pers.) Gillet",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Agaricus fimicola Pers."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Agaricales",
+        "Familia": "Coprinaceae"
+    },
+    "edibility": "toxica",
+    "characteristics": {
+        "cap": "Sombrero de pequeñas dimensiones, en el mejor de los casos apenas alcanza los 3 cm de diámetro, en la primera etapa de su desarrollo con forma de campana, pero pronto adopta forma convexa, sin llegar a aplanarse. Cutícula lisa e higrófana de color marrón, casi negruzca en los ejemplares viejos, gris ocre por desecación, brillante con lluvia, sino seca. Puede llegar a tener un pequeño mamelón pero muchas veces carece de él, y el margen es regular y fino, con total ausencia de restos de velo.",
+        "hymenium": "Láminas adnatas de color grisáceo en su juventud, negruzcas con la maduración de las esporas, relativamente apretadas y con la arista blanquecina.",
+        "stipe": "Pie cilíndrico y alargado de color ocre, algo más claro que el sombrero, de joven con algún matiz rojizo. En la zona próxima al sombrero se muestra pruinoso, estriado y fibriloso hacia la base, es fistuloso.",
+        "flesh": "Carne poco espesa y nada consistente de color ocre grisáceo, elástica en el pie. Prácticamente carece de olor y su sabor es suave."
+    },
+    "habitat": "Es una especie que hace acto de aparición ya en la primavera, pudiéndose encontrar también en el transcurso del otoño. Sale normalmente de forma gregaria en terrrenos ricos en detritus o abono orgánico, muchas veces sobre el propio estiercol. Es menos frecuente que otras especies afines.",
+    "observations": "Es una especie tóxica, ya que posee sustancias nocivas para el organismo, algunas de ellas conocidas como la psilocibina, componente alucinógeno. Existe una especie muy parecida a esta, al punto que ha sido considerada durante un tiempo como sinónima, el Panaeolus ater, sin grandes diferencias macroscópicas, e incluso con parecidas medidas esporales, pero se diferencia al micro por la presencia en esta última de crisocistidios.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/panaeolus_fimicola/panaeolus_fimicola1.jpg",
+        "https://www.fungipedia.org/images/galerias/panaeolus_fimicola/panaeolus_fimicola2.jpg",
+        "https://www.fungipedia.org/images/galerias/panaeolus_fimicola/panaeolus_fimicola3.jpg"
+    ]
+}

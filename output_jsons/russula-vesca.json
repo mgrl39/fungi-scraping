@@ -1,0 +1,34 @@
+{
+    "name": "russula-vesca",
+    "title": null,
+    "author": "(Fries)",
+    "additional_info": {
+        "common_name": "Rusula comestible, gibelarrosa goiztiar.",
+        "synonym": "Russula mitis Rea"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Russulales",
+        "Familia": "Russulaceae"
+    },
+    "edibility": "excelente-comestible",
+    "characteristics": {
+        "cap": "Sombrero que puede alcanzar como mucho los 10 cm de diámetro, de forma casi globosa en su origen, al final es aplanado y con el centro algo deprimido. El color, como sucede en muchas Russulas, es bastante variable, rosado carneo, pero con esfumaciones de diversos tonos, desde pardos a oliváceos, muchas veces blanquecina por decoloración. Su cutícula es separable unos dos tercios del sombrero, y además se retrae de vieja dejando entrever las láminas en el borde.",
+        "hymenium": "Láminas adnatas o ligeramente decurrentes, bastante apretadas, de color blanco, pero que se pueden manchar de ocre de viejas.",
+        "stipe": "Pie central, cilíndrico y de tamaño proporcionado al sombrero. Es de color blanco y se muestra habitualmente atenuado en su base, lleno y duro de joven, más esponjoso de viejo.",
+        "flesh": "Carne espesa y quebradiza, de color blanco salvo bajo la cutícula, donde está pigmentada de rosa carneo. Olor suave muy agradable y sabor de frutos secos, también agradable."
+    },
+    "habitat": "Puede encontrarse desde finales de la primavera hasta principios del otoño, habitualmente bajo árboles planifolios. No es muy abundante pero si frecuente.",
+    "observations": "Es una seta a nuestro modesto entender excelente para ser degustada, de sabor suave y textura similar a la Russula cyanoxantha. La Russula aurora sale en los mismos lugares y en la misma época, el profano podría confundirla con suma facilidad, pero su confusión no es peligrosa ya que es también comestible, aunque de inferior calidad. La Russula nobilis y todo el grupo de la emética en general pueden confundirse con esta, pero su carne es muy picante.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/russula_vesca/russula_vesca1.jpg",
+        "https://www.fungipedia.org/images/galerias/russula_vesca/russula_vesca2.jpg",
+        "https://www.fungipedia.org/images/galerias/russula_vesca/russula_vesca3.jpg",
+        "https://www.fungipedia.org/images/galerias/russula_vesca/russula_vesca4.jpg",
+        "https://www.fungipedia.org/images/galerias/russula_vesca/russula_vesca5.jpg",
+        "https://www.fungipedia.org/images/galerias/russula_vesca/russula_vesca6.jpg"
+    ]
+}

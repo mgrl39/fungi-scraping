@@ -1,0 +1,31 @@
+{
+    "name": "gymnopus-fusipes",
+    "title": null,
+    "author": "(Bull.) Gray",
+    "additional_info": {
+        "common_name": "Collibia de pie fusiforme.",
+        "synonym": "Collybia fusipes (Bull.) Quél."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Tricholomatales",
+        "Familia": "Marasmiaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero de 5 a 10 cm, convexo cuando el espécimen es joven, se va aplanando con la edad de manera un tanto irregular, incluso a veces resulta un poco ondulado. Su cutícula es glabra y su color va desde el ocre claro en su nacimiento hasta el pardo rojizo de su madurez, siendo además higrófana.",
+        "hymenium": "Láminas bastante separadas entre sí, anchas y adherentes sobre el pie, de color pálido cuando la seta es joven, se van manchando con la edad de pardo, a veces con matices rojizos.",
+        "stipe": "Pie central y fusiforme, radicante hacia la base, fuertemente surcado longitudinalmente, tenaz, de color pardo rojizo en la zona basal, mucho más claro hacia el sombrero.",
+        "flesh": "Carne muy tenaz e incluso coriácea, sobre todo en el pie, elástica, de olor fúngico suave y sabor dulce."
+    },
+    "habitat": "Crece de manera fasciculada, siempre adherida a los tocones o los troncos de árboles planifolios, en ocasiones de forma saprófita y otras veces de manera parásita. Puede encontrarse desde la primavera hasta avanzado el otoño.",
+    "observations": "La tenacidad de su carne la hace incomestible, es sin embargo una especie inocua. Su crecimiento fasciculado, su color pardo rojizo y su pie surcado creemos que la hacen inconfundible, aunque de presentarse un ejemplar solo, quizás pudiese tener cierto parecido con la Rhodocollybia prolixa var.distorta, o Collybia de pie torcido.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/gymnopus_fusipes/gymnopus_fusipes1.jpg",
+        "https://www.fungipedia.org/images/galerias/gymnopus_fusipes/gymnopus_fusipes2.jpg",
+        "https://www.fungipedia.org/images/galerias/gymnopus_fusipes/gymnopus_fusipes3.jpg"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "entoloma-aprile",
+    "title": null,
+    "author": "(Britz.) Saccardo",
+    "additional_info": {
+        "common_name": "Entoloma de abril.",
+        "synonym": "Ninguno."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Pluteales",
+        "Familia": "Entolomataceae"
+    },
+    "edibility": "buen-comestible",
+    "characteristics": {
+        "cap": "Sombrero de tamaño medio, entre 5 y 10 cm, en su primera etapa hemisférico campanulado, después convexo y finalmente aplanado, pero conservando en el centro un mamelón un tanto obtuso. El color es el marrón grisáceo, siendo su cutícula lisa o ligeramente veteada, brillante y un poco viscídula en tiempo de lluvias. El borde suele estar estriado por transparencia dada su higrofaneidad.",
+        "hymenium": "Láminas poco apretadas, de color gris de joven, después rosas por efecto de las esporas, escotadas alrededor del pie de manera uniforme. A veces aserradas.",
+        "stipe": "Pie cilíndrico y central, veteado por fibrillas grises sobre un fondo blanquecino, lo que le da un aspecto fibriloso, a veces puede ser curvado.",
+        "flesh": "Carne blanca o ligeramente grisácea, más bien fina, no muy espesa, de olor harinoso suave y sabor dulce."
+    },
+    "habitat": "Es una especie eminentemente primaveral, que suele fructificar a partir de Abril entre la hierba. Sale mucho bajo olmos, aunque no exclusivamente.",
+    "observations": "Constituye un buen comestible esta seta primaveral a pesar de no ser demasiado carnosa. Su recolección está reservada a los expertos, ya que presenta no pocas dificultades de clasificación, y su parecido con especies tóxicas es notable. Sin embargo la especie más parecida es el excelente comestible Entoloma clypeatum, cuyas láminas tienen una protuberancia especial antes de llegar al pie.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/entoloma_aprile/entoloma_aprile1.jpg",
+        "https://www.fungipedia.org/images/galerias/entoloma_aprile/entoloma_aprile2.jpg",
+        "https://www.fungipedia.org/images/galerias/entoloma_aprile/entoloma_aprile3.jpg"
+    ]
+}

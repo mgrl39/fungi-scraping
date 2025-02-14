@@ -1,0 +1,30 @@
+{
+    "name": "strobilurus-stephanocystis",
+    "title": null,
+    "author": "(Kühner & Romagn. ex Hora) Singer",
+    "additional_info": {
+        "common_name": "Bolet de pinya.",
+        "synonym": "Collybia stephanocystis Kühner & Romagn."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Tricholomatales",
+        "Familia": "Marasmiaceae"
+    },
+    "edibility": "comestible",
+    "characteristics": {
+        "cap": "Sombrero pequeño, de apenas 2 o 3 cm de diámetro, de color pardo rojizo, con forma acampanada en un principio, después plano-convexo. Habitualmente suele presentar en el centro un pequeño mamelón, siendo su margen incurvado y no estriado, y su cutícula lisa y no separable.",
+        "hymenium": "Láminas blancas o algo cremas, poco apretadas y un poco sinuosas, con respecto al pie son adnatas o incluso libres en alguna ocasión.",
+        "stipe": "Pie largo en relación con el diámetro del sombrero, pardo rojizo en su zona inferior, más claro en las cercanías de las láminas. Es cilíndrico y normalmente central, aunque puede ser algo incurvado.",
+        "flesh": "Carne blanquecina de consistencia un tanto elástica, poco espesa, de olor fúngico suave, poco perceptible, y sabor dulce."
+    },
+    "habitat": "Esta seta es exclusivamente primaveral, aparece de forma gregaria aparentemente sobre el suelo, pero en realidad sobre piñas enterradas, bastante frecuente.",
+    "observations": "Puede degustarse al ser dulce pero no es demasiado atractiva para la cocina, sin embargo es una especie primaveral comestible poco conocida. Todos los Strobilurus deben su nombre al hecho de crecer sobre estróbilos de pinos y piceas de manera saprófita. Su sabor dulce y sus tonos rojizos la distingue del Strobilurus tenacellus, algo amargo.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/strobilurus_stephanocystis/strobilurus_stephanocystis1.jpg",
+        "https://www.fungipedia.org/images/galerias/strobilurus_stephanocystis/strobilurus_stephanocystis2.jpg"
+    ]
+}

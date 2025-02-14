@@ -1,0 +1,31 @@
+{
+    "name": "trichoglossum-hirsutum",
+    "title": null,
+    "author": "(Pers.) Boud.",
+    "additional_info": {
+        "common_name": "Lengua de tierra hirsuta.",
+        "synonym": "Geoglossum hirsutum Pers."
+    },
+    "taxonomy": {
+        "División": "Ascomycota",
+        "Subdivisión": "Ascomycotina",
+        "Clase": "Himenoascomycetes",
+        "Subclase": "Pezizomycetidae",
+        "Orden": "Leotiales",
+        "Familia": "Geoglossaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Carpóforo alargado, esbelto y estipitado, cuyo tamaño no excede de los 5 cm de altura. Tiene dos partes perfectamente diferenciadas, en la parte superior posee un ensanchamiento a modo de cabeza, con forma de lengua o de espátula, de anchura variable, que es de color totalmente negro. Esta cabeza es la parte fértil del carpóforo, y está provista de unos pelillos visibles con lupa, erizados, que emergen de la superficie donde se encuentra el himenio de esta especie, y en consecuencia sus ascas. Habitualmente esta cabeza se halla surcada, siendo además seca o brillante con lluvia, pero no viscosa.",
+        "hymenium": "Pie largo y perfectamente diferenciado de la cabeza, de color igualmente negro, y como esta, recubierto de pelillos en toda su superficie, es estéril y lleno.",
+        "stipe": "Carne insignificante, como su olor o sabor.",
+        "flesh": "Es quizás la especie más frecuente en nuestro entorno de las llamadas lenguas de tierra, suele crecer en grupos. Crece entre la hierba de los prados, y solemos localizarla en los meses de diciembre y enero."
+    },
+    "habitat": "Es una especie que se identifica con la lupa, con la que se pueden observar los pelos que la recubren en su totalidad. Existe, sin embargo, una forma con ascas tetraspóricas, separada como taxón individual con el nombre de Trichoglossum tetrasporum. También se parece al Geoglossum fallax, que no posee pelos en su superficie.",
+    "observations": null,
+    "images": [
+        "https://www.fungipedia.org/images/galerias/trichoglossum_hirsutum/trichoglossum_hirsutum1.jpg",
+        "https://www.fungipedia.org/images/galerias/trichoglossum_hirsutum/trichoglossum_hirsutum2.jpg",
+        "https://www.fungipedia.org/images/galerias/trichoglossum_hirsutum/trichoglossum_hirsutum3.jpg"
+    ]
+}

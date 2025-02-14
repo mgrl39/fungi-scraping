@@ -1,0 +1,31 @@
+{
+    "name": "lepista-panaeolus",
+    "title": null,
+    "author": "(Fr.) P. Karst.",
+    "additional_info": {
+        "common_name": "Seta de brezo, tricoloma de prado, larramendi ziza, moixernó de tardor.",
+        "synonym": "Rhodopaxillus panaeolus (Fr.) Maire"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Tricholomatales",
+        "Familia": "Tricholomataceae"
+    },
+    "edibility": "buen-comestible",
+    "characteristics": {
+        "cap": "Sombrero que puede llegar a superar los 10 cm de diámetro, aunque lo habitual es encontrarla entre 5 y 10, de forma convexa durante buena parte de su desarrollo, finalmente aplanado. Es de color gris claro, a veces blanquecino hacia el borde, y es frecuente que disponga de máculas más o menos concéntricas de color más oscuro que el resto de la superficie pileica. El margen suele ser marcadamente sinuoso, y de joven esta enrollado hacia dentro. Superficie seca o brillante con lluvia, nunca viscosa, lisa.",
+        "hymenium": "Láminas adnatas o ligeramente escotadas, de color blanquecino en los especímenes jóvenes, luego de color gris claro, pudiendo tener algún matiz rosado o amarillento de viejas. Son más bien apretadas, sinuosas o arqueadas, y tienen como característica importante que se separan de la carne del sombrero con mucha facilidad.",
+        "stipe": "Pie de disposición central y cilíndrico, de color blanquecino o gris más claro que el sombrero. Superficie ligeramente fibrilosa y muy seca, siendo además lleno y carnoso.",
+        "flesh": "Carne relativamente espesa y tierna, de color blanquecino o gris pálido, de consistencia un tanto quebradiza, sobre todo en el sombrero, algo más fibrosa en el pie. Su olor es propio, destacado y agradable, y su sabor en crudo es ligeramente picante pero no es desagradable."
+    },
+    "habitat": "Suele aparecer dispuesta en hileras o en corros, en pastizales de montaña, prados y campas en general, también sale en las zonas bajas, no solo en montaña. Es una seta otoñal frecuente y extendida en su localización.",
+    "observations": "Esta seta constituye un buen comestible, su sabor picante, sobre todo en crudo, no supone mayor problema a la hora de consumirla, con no echar la guindillita al guiso es suficiente, además su sabor y textura es apetecible. Existe una especie que algunos autores tienden a sinonimizar con esta, la Lepista rickenii, de sombrero más marrón, olor harinoso, y láminas adnatas o ligeramente decurrentes. La Lepista caespitosa es más pequeña, y como su propio nombre indica, de crecimiento cespitoso. La Lepista irina puede tener cierto parecido, pero su fuerte olor perfumado la delata. Como especie tóxica el Clitocybe phyllophila puede tener cierto parecido por sus máculas, es más blanquecino y sus láminas no se desprenden con facilidad.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/lepista_panaeolus/lepista_panaeolus1.jpg",
+        "https://www.fungipedia.org/images/galerias/lepista_panaeolus/lepista_panaeolus2.jpg",
+        "https://www.fungipedia.org/images/galerias/lepista_panaeolus/lepista_panaeolus3.jpg"
+    ]
+}

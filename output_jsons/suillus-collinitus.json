@@ -1,0 +1,30 @@
+{
+    "name": "suillus-collinitus",
+    "title": null,
+    "author": "(Fr.) Kuntze",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Boletus collinitus Fries"
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Boletales",
+        "Familia": "Boletaceae"
+    },
+    "edibility": "comestible",
+    "characteristics": {
+        "cap": "Sombrero de tamaño medio, entre 5 y 10 cm de diámetro, de forma subglobosa pasa a ser convexo, acabando por aplanarse, e incluso en los ejemplares viejos algo hundido por el centro, con el borde del mismo más levantado. Su superficie es relativamente viscosa, sobre todo en época de lluvias, y es fibrilosa. Sobre un fondo marrón castaño, las fibrillas le dan un aspecto más oscuro, incluso pardo. La cutícula se separa con facilidad de la carne del sombrero.",
+        "hymenium": "Tubos alargados de color amarillo, adnatos, inmutables, característica común en los Suillus.",
+        "stipe": "Poros regulares de color amarillo, amplios, se vuelven más oscuros de viejos.",
+        "flesh": "Pie que puede considerarse robusto para Suillus, cilíndrico por lo general, aunque a veces se atenúa en la base. Es de color amarillo pálido, y posee granulaciones del mismo color que con el tiempo se vuelven pardas. La unión micelial transfiere a la base un tono rosado, característica que no siempre está presente."
+    },
+    "habitat": "Carne de color amarillo pálido, bastante espesa pero esponjosa, sobre todo de vieja. Es inmutable al corte y su olor es débil, siendo su sabor dulce y suave.",
+    "observations": "Aparece sobre todo durante el otoño, aunque no es descartable su aparición en otras épocas. Aunque no es tan abundante como otros Suillus, si es habitual encontrarlo en pinares de clima mediterráneo.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/suillus_collinitus/suillus_collinitus1.jpg",
+        "https://www.fungipedia.org/images/galerias/suillus_collinitus/suillus_collinitus2.jpg"
+    ]
+}

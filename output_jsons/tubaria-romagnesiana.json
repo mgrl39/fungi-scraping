@@ -1,0 +1,37 @@
+{
+    "name": "tubaria-romagnesiana",
+    "title": null,
+    "author": "Arnolds",
+    "additional_info": {
+        "common_name": "Ninguno.",
+        "synonym": "Tubaria pellucida (Bull.) Sacc."
+    },
+    "taxonomy": {
+        "División": "Basidiomycota",
+        "Subdivisión": "Basidiomycotina",
+        "Clase": "Homobasidiomycetes",
+        "Subclase": "Agaricomycetidae",
+        "Orden": "Cortinariales",
+        "Familia": "Tubariaceae"
+    },
+    "edibility": "sin-valor",
+    "characteristics": {
+        "cap": "Sombrero de pequeño tamaño, los ejemplares recolectados tenían un diámetro que oscilaba entre 1 y 2,5 cm, siendo factible localizar ejemplares ligeramente más grandes. Tiene una forma convexa que con posterioridad se aplana bastante, manteniendo el centro un tanto resaltado o con umbón obtuso en algunos ejemplares. La superficie tiene un color ocráceo predominante, si bien contiene mucha pruina que le da en los individuos jóvenes un aspecto más crema, pudiendo también contener restos blanquecinos del velo y aspecto más floconoso. El margen se presenta crenulado acanalado en los ejemplares más jóvenes y netamente fisurado en los más maduros.",
+        "hymenium": "Láminas adnatas o subdecurrentes no muy apretadas y con laminillas, de color ocráceo claro de jóvenes y netamente ocres de adultas con cierto matiz ferruginoso o canela más acusado que en otras especies de su género.",
+        "stipe": "Pie esbelto y alargado, su longitud puede alcanzar los 5 cm. Es cilíndrico y bastante regular, de color ocre uniforme a veces con la base blanquecina, puede presentar, sobre todo de joven, restos en forma de fibrillas blanquecinas repartidas irregularmente. Es fistuloso desde joven, detalle habitual por otra parte en su género.",
+        "flesh": "Carne escasa y frágil de color ocráceo, sin que podamos reseñar nada en cuanto a olor o sabor."
+    },
+    "habitat": "Especie de crecimiento gregario, fueron localizados gran cantidad de ejemplares en una zona más bien pequeña. Crecían a la orilla de un pinar de Pinus radiata junto a un reguero con presencia de helechos y musgo y fueron localizadas durante el otoño. Es una especie bastante rara y no demasiado conocida, poco referenciada bibliográficamente.",
+    "observations": "Especie de Tubaria de pequeño tamaño y aspecto más bien endeble, fácilmente confundible con otras especies de su género. Tubaria dispersa es también pequeña, de pie blanquecino y láminas de color llamativo, crece bajo especies arbustivas y es primaveral, Tubaria conspersa se puede parecer por su sombrero floconoso, pero no tiene margen crenulado ni acanalado. Todas estas especies precisan de un estudio microscópico para su correcta identificación dado su notable parecido macroscópico.",
+    "images": [
+        "https://www.fungipedia.org/images/galerias/tubaria_romagnesiana/tubaria_romagnesiana1.jpg",
+        "https://www.fungipedia.org/images/galerias/tubaria_romagnesiana/tubaria_romagnesiana2.jpg",
+        "https://www.fungipedia.org/images/galerias/tubaria_romagnesiana/tubaria_romagnesiana3.jpg",
+        "https://www.fungipedia.org/images/galerias/tubaria_romagnesiana/tubaria_romagnesiana4.jpg",
+        "https://www.fungipedia.org/images/galerias/tubaria_romagnesiana/tubaria_romagnesiana5.jpg",
+        "https://www.fungipedia.org/images/galerias/tubaria_romagnesiana/tubaria_romagnesiana6.jpg",
+        "https://www.fungipedia.org/images/galerias/tubaria_romagnesiana/tubaria_romagnesiana7.jpg",
+        "https://www.fungipedia.org/images/galerias/tubaria_romagnesiana/tubaria_romagnesiana8.jpg",
+        "https://www.fungipedia.org/images/galerias/tubaria_romagnesiana/tubaria_romagnesiana9.jpg"
+    ]
+}
