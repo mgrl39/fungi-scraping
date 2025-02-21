@@ -6,8 +6,8 @@ from mysql.connector import Error
 # Configuración de la base de datos
 db_config = {
     'host': 'localhost',
-    'user': 'fungiadmin',
-    'password': 'Fungi123*',
+    'user': 'root',
+    'password': 'Root@1234',
     'database': 'fungidb'
 }
 
